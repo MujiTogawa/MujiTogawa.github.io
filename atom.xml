@@ -3,11 +3,11 @@
   <title>天井棧敷</title>
   
   <subtitle>深く重く熱く鈍く ああ溶岩の流れることく</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://mujitogawa.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://mujitogawa.github.io/"/>
   <updated>2022-10-01T04:08:08.481Z</updated>
-  <id>http://example.com/</id>
+  <id>https://mujitogawa.github.io/</id>
   
   <author>
     <name>Muji Togawa</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/10/01/hello-world/"/>
-    <id>http://example.com/2022/10/01/hello-world/</id>
+    <link href="https://mujitogawa.github.io/2022/10/01/hello-world/"/>
+    <id>https://mujitogawa.github.io/2022/10/01/hello-world/</id>
     <published>2022-10-01T04:06:20.000Z</published>
     <updated>2022-10-01T04:08:08.481Z</updated>
     
@@ -30,7 +30,7 @@
     
     
     
-    <category term="Hello World" scheme="http://example.com/categories/Hello-World/"/>
+    <category term="Hello World" scheme="https://mujitogawa.github.io/categories/Hello-World/"/>
     
     
   </entry>
