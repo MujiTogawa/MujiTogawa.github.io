@@ -6,7 +6,7 @@
   <link href="https://mujitogawa.github.io/atom.xml" rel="self"/>
   
   <link href="https://mujitogawa.github.io/"/>
-  <updated>2022-12-30T08:26:45.402Z</updated>
+  <updated>2022-12-31T10:59:58.147Z</updated>
   <id>https://mujitogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bloglog 22 12 31</title>
+    <link href="https://mujitogawa.github.io/posts/10fa2a74/"/>
+    <id>https://mujitogawa.github.io/posts/10fa2a74/</id>
+    <published>2022-12-31T10:49:11.000Z</published>
+    <updated>2022-12-31T10:59:58.147Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>友链</strong>页面初步施工完毕  </p><span id="more"></span><h2 id="如题"><a href="#如题" class="headerlink" title="如题"></a>如题</h2><p>在22年的最后一天，给小blog在主页面也添加了<em>友链</em>板块。<br>现在不止侧边栏有友链啦~  </p><h2 id="其它改动"><a href="#其它改动" class="headerlink" title="其它改动"></a>其它改动</h2><p>·修改了侧边栏faicons显示错误问题<br>·增加了聊天Chat功能<br>·修改了顶部阅读进度条粗细</p><h3 id="待完成"><a href="#待完成" class="headerlink" title="待完成"></a>待完成</h3><p>解决小blog访问统计问题。（不蒜子莫名抽风）</p><h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2><p><em><strong>新年快乐~</strong></em>  </p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;友链&lt;/strong&gt;页面初步施工完毕  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Blog-Log" scheme="https://mujitogawa.github.io/categories/Blog-Log/"/>
+    
+    
+    <category term="Changelog" scheme="https://mujitogawa.github.io/tags/Changelog/"/>
+    
+    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
+    
+    <category term="Hexo-NexT" scheme="https://mujitogawa.github.io/tags/Hexo-NexT/"/>
+    
+  </entry>
   
   <entry>
     <title>Othervise My New Year Greetings</title>
