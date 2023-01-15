@@ -6,7 +6,7 @@
   <link href="https://mujitogawa.github.io/atom.xml" rel="self"/>
   
   <link href="https://mujitogawa.github.io/"/>
-  <updated>2023-01-01T09:59:47.488Z</updated>
+  <updated>2023-01-15T05:13:22.856Z</updated>
   <id>https://mujitogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bloglog 23 01 14</title>
+    <link href="https://mujitogawa.github.io/posts/db043193/"/>
+    <id>https://mujitogawa.github.io/posts/db043193/</id>
+    <published>2023-01-14T11:53:11.000Z</published>
+    <updated>2023-01-15T05:13:22.856Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;大概是最后一篇Bloglog了(x，进来看看吧~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://mujitogawa.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="Changelog" scheme="https://mujitogawa.github.io/tags/Changelog/"/>
+    
+    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
+    
+    <category term="Hexo-NexT" scheme="https://mujitogawa.github.io/tags/Hexo-NexT/"/>
+    
+  </entry>
   
   <entry>
     <title>2022总结&amp;My Resolutions</title>
@@ -40,29 +63,6 @@
   </entry>
   
   <entry>
-    <title>Bloglog 22 12 31</title>
-    <link href="https://mujitogawa.github.io/posts/10fa2a74/"/>
-    <id>https://mujitogawa.github.io/posts/10fa2a74/</id>
-    <published>2022-12-31T10:49:11.000Z</published>
-    <updated>2023-01-01T01:48:21.826Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://mujitogawa.github.io/friends/&quot;&gt;&lt;strong&gt;友链&lt;/strong&gt;&lt;/a&gt;页面初步施工完毕  &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Blog-Log" scheme="https://mujitogawa.github.io/categories/Blog-Log/"/>
-    
-    
-    <category term="Changelog" scheme="https://mujitogawa.github.io/tags/Changelog/"/>
-    
-    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
-    
-    <category term="Hexo-NexT" scheme="https://mujitogawa.github.io/tags/Hexo-NexT/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Otherwise My New Year Greetings</title>
     <link href="https://mujitogawa.github.io/posts/4ac7f78/"/>
     <id>https://mujitogawa.github.io/posts/4ac7f78/</id>
@@ -84,52 +84,6 @@
     <category term="庆祝" scheme="https://mujitogawa.github.io/tags/%E5%BA%86%E7%A5%9D/"/>
     
     <category term="节日" scheme="https://mujitogawa.github.io/tags/%E8%8A%82%E6%97%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Bloglog 22 12 16</title>
-    <link href="https://mujitogawa.github.io/posts/bca8dd55/"/>
-    <id>https://mujitogawa.github.io/posts/bca8dd55/</id>
-    <published>2022-12-16T01:19:11.000Z</published>
-    <updated>2022-12-16T01:44:39.032Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;添加评论区&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Blog-Log" scheme="https://mujitogawa.github.io/categories/Blog-Log/"/>
-    
-    
-    <category term="Changelog" scheme="https://mujitogawa.github.io/tags/Changelog/"/>
-    
-    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
-    
-    <category term="Hexo-NexT" scheme="https://mujitogawa.github.io/tags/Hexo-NexT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Bloglog 22.12.10</title>
-    <link href="https://mujitogawa.github.io/posts/655f341a/"/>
-    <id>https://mujitogawa.github.io/posts/655f341a/</id>
-    <published>2022-12-10T04:18:57.000Z</published>
-    <updated>2022-12-15T14:24:08.645Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;🎉 Some simple changes 🎉&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Blog-Log" scheme="https://mujitogawa.github.io/categories/Blog-Log/"/>
-    
-    
-    <category term="Changelog" scheme="https://mujitogawa.github.io/tags/Changelog/"/>
-    
-    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
-    
-    <category term="Hexo-NexT" scheme="https://mujitogawa.github.io/tags/Hexo-NexT/"/>
     
   </entry>
   
