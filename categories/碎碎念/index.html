@@ -57,7 +57,7 @@
 
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
 <link rel="alternate" href="/atom.xml" title="木屐落在水洼了" type="application/atom+xml">
-</head>
+<style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}button.darkmode-toggle{z-index:9999}.darkmode-ignore,img{display:flex!important}.beian img{display:inline-block!important}</style></head>
 
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
   <div class="headband"></div>
@@ -187,10 +187,10 @@
         <a href="mailto:MujiTogawa@163.com" title="E-Mail → mailto:MujiTogawa@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
       </span>
       <span class="links-of-author-item">
-        <a href="https://www.douban.com/people/MujiTogawa/" title="Douban → https:&#x2F;&#x2F;www.douban.com&#x2F;people&#x2F;MujiTogawa&#x2F;" rel="noopener" target="_blank"><i class="iconfont icon-snssharedoubanon fa-fw"></i>Douban</a>
+        <a href="https://www.douban.com/people/MujiTogawa/" title="Douban → https:&#x2F;&#x2F;www.douban.com&#x2F;people&#x2F;MujiTogawa&#x2F;" rel="noopener" target="_blank"><i class="fa fa-film fa-fw"></i>Douban</a>
       </span>
       <span class="links-of-author-item">
-        <a href="https://music.163.com/#/user/home?id=3235224301" title="网易云音乐 → https:&#x2F;&#x2F;music.163.com&#x2F;#&#x2F;user&#x2F;home?id&#x3D;3235224301" rel="noopener" target="_blank"><i class="iconfont icon-netease-cloud-music-line fa-fw"></i>网易云音乐</a>
+        <a href="https://music.163.com/#/user/home?id=3235224301" title="网易云音乐 → https:&#x2F;&#x2F;music.163.com&#x2F;#&#x2F;user&#x2F;home?id&#x3D;3235224301" rel="noopener" target="_blank"><i class="fa fa-music fa-fw"></i>网易云音乐</a>
       </span>
   </div>
 
@@ -435,6 +435,26 @@
 
 
 
+<script src="https://unpkg.com/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
+<script>
+var options = {
+  bottom: '64px',
+  right: '32px',
+  left: 'unset',
+  time: '0.5s',
+  mixColor: 'transparent',
+  backgroundColor: 'transparent',
+  buttonColorDark: '#100f2c',
+  buttonColorLight: '#fff',
+  saveInCookies: true,
+  label: '🌓',
+  autoMatchOsTheme: true
+}
+const darkmode = new Darkmode(options);
+window.darkmode = darkmode;
+darkmode.showWidget();
+</script>
 <script class="next-config" data-name="utterances" type="application/json">{"enable":true,"repo":"MujiTogawa/MujiTogawa.github.io","issue_term":"pathname","theme":"preferred-color-scheme","cdn":"https://utteranc.es/client.js"}</script>
 <script src="/js/third-party/comments/utterances.js"></script>
 
