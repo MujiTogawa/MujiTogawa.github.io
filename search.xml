@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+<span id="more"></span>
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+<hr>
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<hr>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2022总结&amp;My Resolutions</title>
     <url>/posts/b7a38911/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote> 
@@ -230,6 +252,101 @@
       </tags>
   </entry>
   <entry>
+    <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
+    <url>/posts/936f4e60/</url>
+    <content><![CDATA[<p>无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；<strong>简单、优雅、快速</strong>！人人可用~</p>
+<span id="more"></span>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="430" height="86" src="//music.163.com/outchain/player?type=2&amp;id=28546412&amp;auto=1&amp;height=66"></iframe>
+
+<h2 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h2><p>众所周知，在<strong>Chinese Government</strong>的政策下，<strong>Wikipedia</strong>维基百科因为包含一些“ <em><strong>敏感</strong></em> ”内容，被隔离在了长城之外。<br>由此一来，每当需要在<strong>Wikipedia</strong>查阅资料时（因为一些信息，在闭塞的国内网络环境下难以查找；我的<a href="https://mujitogawa.github.io/posts/1f99454c/">上一篇博文</a>中的许多信息都是在 <em>维基</em> 英文站上才找到的），就必须需要 <em>科学上网</em> 或者使用 <em>维基</em> 镜像站。无奈这两种方案都不是十分稳定，且有些麻烦。而造成麻烦的根源所在，即为：它们都需要使用网络作为“媒介”。<br>那么解决方式就十分明了：我不通过网络访问不就可以了（乐</p>
+<hr>
+<h2 id="离线的Wikipedia"><a href="#离线的Wikipedia" class="headerlink" title="离线的Wikipedia"></a>离线的Wikipedia</h2><blockquote>
+<p><strong>Kiwix</strong>成立于10多年前，它是许多网站（包括<a href="https://www.wikipedia.org/">维基百科</a>，<a href="https://www.gutenberg.org/">古腾堡项目</a>或<a href="https://stackexchange.com/">Stack Exchange</a>等大型网站）在线内容的离线阅读器。<br><strong>Kiwix</strong>可以将任意网站高度压缩成独特的内容包（.zim文件），以便它们易于共享。<br><strong>Kiwix</strong>阅读器几乎可以在任何设备（手机，计算机等）上运行。<strong>Kiwix</strong>就好像是一个普通的浏览器。因为除了没有接入互联网，它的体验几乎与浏览源网站相同。<br>该软件以及内容可供任何人免费使用。</p>
+</blockquote>
+<p>以上内容截取自<a href="https://www.kiwix.org/en/"><strong>Kiwix</strong>的官网(点我直达)</a>。实现离线阅读，只需在相关网站下载一个.zim格式的文件。<br><strong>Wikipedia</strong>的内容都被压缩存储在这个.zim格式的文件中。<br>然后，我们就可以使用<strong>Kiwix</strong>，打开.zim文件，实现离线阅读。</p>
+<h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><p><img src="https://ttfou.com/images/2023/01/20/4ed9b9a4dbbd44cfe3296233bf0c211e.png" alt="Kiwix"><br>$ <em>Kiwix</em> 应用界面</p>
+<hr>
+<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>$ 以下步骤都无需 <em>科学上网</em>，请放心食用</p>
+<h3 id="安装Kiwix应用-点我直达"><a href="#安装Kiwix应用-点我直达" class="headerlink" title="安装Kiwix应用(点我直达)"></a>安装<a href="https://www.kiwix.org/en/download/">Kiwix应用(点我直达)</a></h3><p><strong>Kiwix</strong>应用是跨平台的，这意味这你几乎可以在任意设备上使用它。</p>
+<h4 id="Kiwix-支持的平台"><a href="#Kiwix-支持的平台" class="headerlink" title="Kiwix 支持的平台"></a>Kiwix 支持的平台</h4><ul>
+<li><strong>Android</strong><ul>
+<li>Android v5.0 or higher</li>
+</ul>
+</li>
+<li><strong>Windows</strong><ul>
+<li>Windows XP/Vista or higher</li>
+</ul>
+</li>
+<li><strong>iOS/macOS</strong><ul>
+<li>Compatible with all Apple devices</li>
+</ul>
+</li>
+<li><strong>GNU/Linux</strong><ul>
+<li>Compatible with all(?)</li>
+</ul>
+</li>
+<li><strong>Browser Extensions</strong> ( <em>浏览器插件</em> )<ul>
+<li>Chrome, Firefox &amp; Edge</li>
+</ul>
+</li>
+<li><strong>Raspberry Pi</strong><ul>
+<li>You can install Kiwix on a Raspberry Pi and use it as a hotspot</li>
+</ul>
+</li>
+</ul>
+<h3 id="下载-zim文件"><a href="#下载-zim文件" class="headerlink" title="下载.zim文件"></a>下载.zim文件</h3><h4 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h4><ol>
+<li><a href="https://download.kiwix.org/zim/wikipedia/">Kiwix(推荐，点我直达)</a></li>
+<li><a href="https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/">Wikimedia Downloads（点我直达）</a></li>
+</ol>
+<p><img src="https://ttfou.com/images/2023/01/20/a752078838896dcc90cb7d3bcf4b7303.png" alt="DL" title="DL"></p>
+<p>如图，<strong>Kiwix</strong>提供了多种下载文件。那么如何选择适合自己的呢？<br>文件的命名格式是：<br><code>Project_Language_Number of Articles_Flavour</code><br>（ <code>项目_语言_词条数目_种类</code> ）</p>
+<p><code>Project</code>，不必多说，就该链接而言，肯定是<strong>Wikipedia</strong>维基啦~</p>
+<p><code>Language</code>，一般就直接会选择英文<strong>en</strong>或中文<strong>zh</strong>喽。就我而言，我还是会更加推荐英文<strong>en</strong>。原因显而易见，因为英文百科的收入更加全面。可供下载的选择也更加多。即便是遇到看不懂的页面也是翻译可以解决的。</p>
+<p><code>Number of Articles</code>，这在上图中看到的都是“all”，表示.zim中包括了该语言下<strong>Wikipedia</strong>维基的所有词条内容。除此之外也还会出现像 <em>medicine</em> 或 <em>football</em> 之类的，表示该.zim文件只收录了与医药或足球相关的词条内容。按个人需求下载吧。理所应当的，这些只收录了单一板块的，.zim文件的大小会相对的小。</p>
+<p><code>Flavour</code>，.zim文件的版本主要分为3种：</p>
+<ul>
+<li><p><strong>mini</strong></p>
+<ul>
+<li>表示有的词条只包含一小部分，详细内容可能会看到不到。</li>
+<li>（$ 但我查个维基的资料就是为了看到详细的信息阿，所以不推荐这种。</li>
+</ul>
+</li>
+<li><p><strong>maxi</strong></p>
+<ul>
+<li>maxi版本包含所有内容，除了视频和音频内容。这种.zim文件内容最完整，文件也最大。</li>
+<li>（ $ 只要你的设备的储存空间够大，就请下这个版本吧~</li>
+</ul>
+</li>
+<li><p><strong>nopic</strong></p>
+<ul>
+<li>和maxi版本相比，被删去了词条中几乎所有的图片和视频。但是词条内容还是完整的。</li>
+<li>（ $ 一般查阅资料也不需要看什么图片视频吧，而且还能省下将近一半的储存空间。<strong>个人推荐</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="！！！注意"><a href="#！！！注意" class="headerlink" title="！！！注意"></a>！！！注意</h4><p><strong>Wikimedia</strong>将每个 IP 的连接数限制为了 2<del>(镜像站点好像没有这个限制)</del>，所以请尽量不要使用诸如<strong>IDM</strong>的多线程下载器进行文件的下载。<br>文件的普通下载速度还是相对给力的。像我300M的宽带，使用Edge浏览器内置下载，速度可以稳定在10MB/s~13MB/s。</p>
+<h3 id="导入-zim文件"><a href="#导入-zim文件" class="headerlink" title="导入.zim文件"></a>导入.zim文件</h3><p>$ 我使用的是 <em>Windows</em> 操作系统，所以以下内容针对 <em>Windows</em> 而言。但理论上各平台的操作方式都是类似的。</p>
+<ol>
+<li><strong>Kiwix</strong>软件和.zim文件下载完成后，建议将.zim文件放在<strong>Kiwix</strong>软件的根目录。</li>
+<li>随后打开<strong>Kiwix</strong>软件，点击右上方“文件夹”图标或者<code>Ctrl+o</code>，选中刚刚放在根目录的.zim文件并打开。然后就可以正常使用了。</li>
+</ol>
+<br>
+
+<hr>
+<h2 id="欢迎评论交流加友链✨"><a href="#欢迎评论交流加友链✨" class="headerlink" title="欢迎评论交流加友链✨"></a>欢迎评论交流加友链✨</h2><p>都看到这儿了，不留条评论再走吗 <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Wikipedia</tag>
+        <tag>Kiwix</tag>
+        <tag>全平台</tag>
+        <tag>Firewall</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Otherwise My New Year Greetings</title>
     <url>/posts/4ac7f78/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
@@ -338,59 +455,6 @@
       <categories>
         <category>Hello World</category>
       </categories>
-  </entry>
-  <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
-<span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
-<hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
-<hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>Blog-Log</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
-<span id="more"></span>
-
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
-
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
-
-<hr>
-<br>
-
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>Changelog</tag>
-        <tag>Hexo</tag>
-        <tag>Hexo-NexT</tag>
-      </tags>
   </entry>
   <entry>
     <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
@@ -998,6 +1062,37 @@
         <tag>Music</tag>
         <tag>Trip-Hop</tag>
         <tag>J-Rock</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Bloglog 23 01 14</title>
+    <url>/posts/db043193/</url>
+    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
+<span id="more"></span>
+
+<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
+
+<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
+<ul>
+<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
+<li>之前的单独为篇的Bloglog悉已删除</li>
+<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
+</ul>
+</details>
+
+<hr>
+<br>
+
+<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
+<hr>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>Changelog</tag>
+        <tag>Hexo</tag>
+        <tag>Hexo-NexT</tag>
       </tags>
   </entry>
 </search>

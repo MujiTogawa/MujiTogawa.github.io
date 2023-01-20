@@ -6,7 +6,7 @@
   <link href="https://mujitogawa.github.io/atom.xml" rel="self"/>
   
   <link href="https://mujitogawa.github.io/"/>
-  <updated>2023-01-19T17:32:02.671Z</updated>
+  <updated>2023-01-20T07:15:37.646Z</updated>
   <id>https://mujitogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
+    <link href="https://mujitogawa.github.io/posts/936f4e60/"/>
+    <id>https://mujitogawa.github.io/posts/936f4e60/</id>
+    <published>2023-01-20T01:33:09.000Z</published>
+    <updated>2023-01-20T07:15:37.646Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；&lt;strong&gt;简单、优雅、快速&lt;/strong&gt;！人人可用~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程向" scheme="https://mujitogawa.github.io/categories/%E6%95%99%E7%A8%8B%E5%90%91/"/>
+    
+    
+    <category term="Wikipedia" scheme="https://mujitogawa.github.io/tags/Wikipedia/"/>
+    
+    <category term="Kiwix" scheme="https://mujitogawa.github.io/tags/Kiwix/"/>
+    
+    <category term="全平台" scheme="https://mujitogawa.github.io/tags/%E5%85%A8%E5%B9%B3%E5%8F%B0/"/>
+    
+    <category term="Firewall" scheme="https://mujitogawa.github.io/tags/Firewall/"/>
+    
+  </entry>
   
   <entry>
     <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
