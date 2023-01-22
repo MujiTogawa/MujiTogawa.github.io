@@ -6,7 +6,7 @@
   <link href="https://mujitogawa.github.io/atom.xml" rel="self"/>
   
   <link href="https://mujitogawa.github.io/"/>
-  <updated>2023-01-22T03:45:14.721Z</updated>
+  <updated>2023-01-22T10:20:37.041Z</updated>
   <id>https://mujitogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <link href="https://mujitogawa.github.io/posts/a676ca7a/"/>
+    <id>https://mujitogawa.github.io/posts/a676ca7a/</id>
+    <published>2023-01-22T07:20:02.000Z</published>
+    <updated>2023-01-22T10:20:37.041Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;简洁、高效、快速&lt;/strong&gt;！&lt;strong&gt;无需插件，无需编辑主题代码&lt;/strong&gt;！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程向" scheme="https://mujitogawa.github.io/categories/%E6%95%99%E7%A8%8B%E5%90%91/"/>
+    
+    
+    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
+    
+    <category term="NexT" scheme="https://mujitogawa.github.io/tags/NexT/"/>
+    
+    <category term="友链" scheme="https://mujitogawa.github.io/tags/%E5%8F%8B%E9%93%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>🐇2023兔年快乐~</title>
