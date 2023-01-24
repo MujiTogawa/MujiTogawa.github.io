@@ -2673,7 +2673,7 @@ mark.search-keyword {
   }
 }
 body {
-  background-image: url("/images/Background.png");
+  background-image: url("/images/Background.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 100% 100%;
