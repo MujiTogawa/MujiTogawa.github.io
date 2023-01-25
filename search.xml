@@ -1,6 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+<span id="more"></span>
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+<hr>
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<hr>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+<span id="more"></span>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
+<hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img data-src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
+<br>
+
+<hr>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2022总结&amp;My Resolutions</title>
     <url>/posts/b7a38911/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote> 
@@ -51,7 +173,7 @@
 <h3 id="书"><a href="#书" class="headerlink" title="书"></a>书</h3><br>
 
 <p>先上数据罢~  </p>
-<p><img src="https://ttfou.com/images/2023/01/01/bfe452429b24184c5bbd6316511267da.jpg" alt="Books" title="Books">  </p>
+<p><img data-src="https://ttfou.com/images/2023/01/01/bfe452429b24184c5bbd6316511267da.jpg" alt="Books" title="Books">  </p>
 <ul>
 <li><code>红拂夜奔  王小波  十月文艺出版社</code> 纸质书</li>
 <li><code>长日将尽  石黑一雄  上海译文出版社</code> 纸质书</li>
@@ -82,7 +204,7 @@
 <h3 id="影"><a href="#影" class="headerlink" title="影"></a>影</h3><br>
 
 <p>上图！  </p>
-<p><img src="https://ttfou.com/images/2023/01/01/5bbcb99c7eb0d9c3961ead1633b5fa09.jpg" alt="Movies" title="Movies">  </p>
+<p><img data-src="https://ttfou.com/images/2023/01/01/5bbcb99c7eb0d9c3961ead1633b5fa09.jpg" alt="Movies" title="Movies">  </p>
 <br>
 
 <p>破案！<br>看书少的原因是看番看太多辣，，，上图中的“剧集：68”中基本上都是动漫啦，还不包括剧场版，，，  </p>
@@ -112,7 +234,7 @@
 <hr>
 <h3 id="音"><a href="#音" class="headerlink" title="音"></a>音</h3><br>
 
-<p><img src="https://ttfou.com/images/2023/01/01/1b46e30c2e84c8c392d9877f3cb5ae64.jpg" alt="Music" title="Music"><br><img src="https://ttfou.com/images/2023/01/01/dc14486c4e2826434df10251b5ee459f.jpg" alt="NeteaseReport" title="NeteaseReport"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/01/1b46e30c2e84c8c392d9877f3cb5ae64.jpg" alt="Music" title="Music"><br><img data-src="https://ttfou.com/images/2023/01/01/dc14486c4e2826434df10251b5ee459f.jpg" alt="NeteaseReport" title="NeteaseReport"></p>
 <br>
 
 <p>年度专辑推荐在之前的新年祝福里写过啦~ <a href="https://mujitogawa.github.io/posts/4ac7f78/#%F0%9F%8E%8A-%E5%B2%81%E6%9C%AB%E6%94%BE%E9%80%81%EF%BC%88-Xavier%EF%BC%89">点我直达！！</a></p>
@@ -166,9 +288,9 @@
 <p>然后我就自己瞎琢磨，也没去请教别人，也没看视频教学。瞎练了2个星期，结果连女生的沙坑都进不了…小腿胫骨还死疼死疼的  </p>
 <p>但在运动会前最后一个星期，我终于进坑了。女坑。。而与我一起参加的那位同班怨种同学就没那么幸运了，他不仅没进坑，还把jio崴了…  </p>
 <p>然后，我就拿了银牌，第一是体育生。<strong>NBFLS</strong>你真的就这吗？！</p>
-<p><img src="https://ttfou.com/images/2023/01/01/80d6af036878888aca81eca0b9c98972.jpg" alt="银牌" title="银牌"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/01/80d6af036878888aca81eca0b9c98972.jpg" alt="银牌" title="银牌"></p>
 <p>另外，出乎意料地，400m也冲进了决赛，最终夺铜。<br><strong>NBFLS</strong>的体育就是<strong>答辩</strong>(x</p>
-<p><img src="https://ttfou.com/images/2023/01/01/19f1a05b9632f638eede3ea642eb6328.jpg" alt="铜牌" title="铜牌"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/01/19f1a05b9632f638eede3ea642eb6328.jpg" alt="铜牌" title="铜牌"></p>
 <hr>
 <h4 id="市运动会"><a href="#市运动会" class="headerlink" title="市运动会"></a>市运动会</h4><p>参加市运动会也存粹是个意外。<br>刚开学时候，一天在寝室，隔壁寝室，也是隔壁班的一个同学（就是那位三级跳第一的体育生）突然向我发问：</p>
 <blockquote>
@@ -182,14 +304,14 @@
 <p>*注：2022年的市运动会在<strong>NBFLS</strong>举行</p>
 <br>
 
-<p><strong>1500m</strong> 小组：9/15; 总名次：16/29; 用时：4:50:36(电记)<br><img src="https://ttfou.com/images/2022/12/31/91534e6a7cb3c3d1571899992427bb2d.jpg" alt="1500m" title="1500m"></p>
+<p><strong>1500m</strong> 小组：9/15; 总名次：16/29; 用时：4:50:36(电记)<br><img data-src="https://ttfou.com/images/2022/12/31/91534e6a7cb3c3d1571899992427bb2d.jpg" alt="1500m" title="1500m"></p>
 <br>
 
-<p><strong>3000m</strong> 小组：6/13; 总名次：15/27; 用时：11:03:39(电记)<br><img src="https://ttfou.com/images/2022/12/31/b987a75a1e6e5ec33a91ebe7fa64c8d5.jpg" alt="3000m" title="3000m"></p>
+<p><strong>3000m</strong> 小组：6/13; 总名次：15/27; 用时：11:03:39(电记)<br><img data-src="https://ttfou.com/images/2022/12/31/b987a75a1e6e5ec33a91ebe7fa64c8d5.jpg" alt="3000m" title="3000m"></p>
 <br>
 
 <p>留念啦~</p>
-<p><img src="https://ttfou.com/images/2022/12/31/76854c8ce5a6d02dd4b3880cd4876ccb.jpg" alt="留念" title="留念"><br>*注：图中这双橙色的<strong>Asics MetaSpeed Sky</strong>是我的市运动会战靴，在此感谢将它借予我的<strong>K</strong>同学~</p>
+<p><img data-src="https://ttfou.com/images/2022/12/31/76854c8ce5a6d02dd4b3880cd4876ccb.jpg" alt="留念" title="留念"><br>*注：图中这双橙色的<strong>Asics MetaSpeed Sky</strong>是我的市运动会战靴，在此感谢将它借予我的<strong>K</strong>同学~</p>
 <hr>
 <h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><br>
 
@@ -201,13 +323,13 @@
 </ul>
 <p>来上图~</p>
 <ol>
-<li><strong>361 Spire S</strong><br><img src="https://ttfou.com/images/2022/12/31/1535df57e6a3f3267696d5badbec80bd.jpg" alt="361" title="361"><br>这双鞋买来主要是为了替代我那两双日益战损的<strong>Asics Gel Flux4</strong>的。<br>定位是支撑+顶缓。<br>使用下来上限比<strong>Asics Gel Flux4</strong>要高。综合训练加速时不拖沓，前掌也不泄力<br>但是感觉并不是十分适合我这样的小体重跑者，另外前掌偏薄，偏窄，也不怎么耐磨，更适合中后掌跑法的朋友们。</li>
+<li><strong>361 Spire S</strong><br><img data-src="https://ttfou.com/images/2022/12/31/1535df57e6a3f3267696d5badbec80bd.jpg" alt="361" title="361"><br>这双鞋买来主要是为了替代我那两双日益战损的<strong>Asics Gel Flux4</strong>的。<br>定位是支撑+顶缓。<br>使用下来上限比<strong>Asics Gel Flux4</strong>要高。综合训练加速时不拖沓，前掌也不泄力<br>但是感觉并不是十分适合我这样的小体重跑者，另外前掌偏薄，偏窄，也不怎么耐磨，更适合中后掌跑法的朋友们。</li>
 </ol>
 <p>*题外话：这双鞋我买来一个多月后就发布了二代，听说提升挺大。发布后这双也立马降价，血亏！</p>
 <hr>
-<p>2.<strong>乔丹体育 飞影</strong><br>  <img src="https://ttfou.com/images/2022/12/31/f8a3b84d49dac339239b487f4d0966af.jpg" alt="飞影" title="飞影"><br>这是我的第一双厚底跑鞋，（注意是<strong>飞影训练版一代</strong>，不是<strong>飞影PB</strong>）。初上jio这体验真的绝了。这透气！这轻质！这缓震！这回弹！这价格！我直接吹爆！！然后跑了两个多月，天哪，这泡棉，中底衰竭，亲妈都不认了，什么叫判若两鞋阿（x<br>所以说选购建议：小体重跑者，有一定跑步基础的有多双训练鞋的朋友的夏季训练鞋之一。其实能别买就别买啦，不管是一代还是二代。真的看重性价比的就去买<strong>飞影PB 2.0</strong>。</p>
+<p>2.<strong>乔丹体育 飞影</strong><br>  <img data-src="https://ttfou.com/images/2022/12/31/f8a3b84d49dac339239b487f4d0966af.jpg" alt="飞影" title="飞影"><br>这是我的第一双厚底跑鞋，（注意是<strong>飞影训练版一代</strong>，不是<strong>飞影PB</strong>）。初上jio这体验真的绝了。这透气！这轻质！这缓震！这回弹！这价格！我直接吹爆！！然后跑了两个多月，天哪，这泡棉，中底衰竭，亲妈都不认了，什么叫判若两鞋阿（x<br>所以说选购建议：小体重跑者，有一定跑步基础的有多双训练鞋的朋友的夏季训练鞋之一。其实能别买就别买啦，不管是一代还是二代。真的看重性价比的就去买<strong>飞影PB 2.0</strong>。</p>
 <hr>
-<p>3.<strong>乔丹体育 Titan 3</strong><br>  <img src="https://ttfou.com/images/2022/12/31/27821ce5679e7b703b672d0a6fd26ead.jpg" alt="Titan3" title="Titan3"><br>我的第一双篮球鞋，体育课报了篮球，遂去买了一双。高性价比的产物。中规中矩。买的篮球鞋仅此一双，也不好评价。</p>
+<p>3.<strong>乔丹体育 Titan 3</strong><br>  <img data-src="https://ttfou.com/images/2022/12/31/27821ce5679e7b703b672d0a6fd26ead.jpg" alt="Titan3" title="Titan3"><br>我的第一双篮球鞋，体育课报了篮球，遂去买了一双。高性价比的产物。中规中矩。买的篮球鞋仅此一双，也不好评价。</p>
 <hr>
 <h4 id="羽毛球"><a href="#羽毛球" class="headerlink" title="羽毛球"></a>羽毛球</h4><br>
 
@@ -230,25 +352,34 @@
       </tags>
   </entry>
   <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+    <title>Bloglog 23 01 14</title>
+    <url>/posts/db043193/</url>
+    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
 <span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+
+<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
+
+<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
+<ul>
+<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
+<li>之前的单独为篇的Bloglog悉已删除</li>
+<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
+</ul>
+</details>
+
 <hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<br>
+
+<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
 <hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
       <categories>
         <category>碎碎念</category>
-        <category>Blog-Log</category>
       </categories>
       <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
+        <tag>Hexo</tag>
+        <tag>Changelog</tag>
+        <tag>Hexo-NexT</tag>
       </tags>
   </entry>
   <entry>
@@ -280,7 +411,7 @@
 <p>总听到身边人说没什么坎儿是过不去的之类云云，以前不信，现在想想，中国人连春晚都看得下去，也确实是有够坚韧的</p>
 </blockquote>
 <p>明显的可以感觉到的是，<strong>春晚</strong>就是答辩。（确信<br>上个暑假应学校要求，做了一个社会调查，即是关于<strong>春晚</strong>的。以下便是那时候人们对春晚的意见的词云图之一：</p>
-<p><img src="https://ttfou.com/images/2023/01/22/fd05b701d5e43c58f4683189d5f6587b.png" alt="chunwan" title="chunwan"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/22/fd05b701d5e43c58f4683189d5f6587b.png" alt="chunwan" title="chunwan"></p>
 <p><strong>不言而喻，一目了然</strong>，<br>貌似但凡是<strong>CCTV</strong>出品，最终定会变成答辩（</p>
 <h2 id="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"><a href="#谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨" class="headerlink" title="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"></a>谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨</h2><p>都看到这儿了，咋还不留个评论？ <em><strong>QAQ</strong></em></p>
 ]]></content>
@@ -304,7 +435,7 @@
 
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>现在是大数据时代了，但似乎在茫茫的信息流中发现<strong>REDЯUM</strong>乐队的人儿也不占多数。（不禁叹惋<br>初次与<strong>REDЯUM</strong>遇见还是在网易云音乐上。那时候的我还留有着听<em>每日歌曲推荐</em> 的习惯。然后就这样毫无征兆的，<strong>REDЯUM</strong>闯入了我的视界。</p>
 <p><strong>REDЯUM</strong>的取名或是来源于《<strong>闪灵</strong>》。REDЯUM，即为 MURDER (谋杀)一词的镜像。正如其名，<strong>REDЯUM</strong>的音乐给人一种“谋杀的冷感” —— 冷淡，像是深邃的蓝与苍绿的黑交织的漩涡，却又不冰冷透骨，丝毫没有阴森森的感觉。<strong>梶原幸嗣</strong>强大而又准确的鼓点深入骨髓，侵蚀内脏；吉他和贝斯的声音一丝一缕地（不知这样形容是否准确）无限下溺，十分漂亮；而主唱 <strong>來山裕美</strong> 的声音，更像是游走在梦幻与现实的边界，饱满，而不失空灵，一尘不染的干净、大气。遂让我由衷觉得日语或许是“世界上最温柔的语言”…</p>
-<p><img src="https://ttfou.com/images/2023/01/18/0da7cb3ea6aab68c12792794d77728b7.png" alt="REDЯUM" title="REDЯUM"><br>  $ sreenshot from <em>The Shining</em></p>
+<p><img data-src="https://ttfou.com/images/2023/01/18/0da7cb3ea6aab68c12792794d77728b7.png" alt="REDЯUM" title="REDЯUM"><br>  $ sreenshot from <em>The Shining</em></p>
 <hr>
 <hr>
 <h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><h3 id="Members"><a href="#Members" class="headerlink" title="Members"></a>Members</h3><p>Vocal：<strong>來山 裕美</strong> (Yumi Kitayama)<br>Bass：<strong>外 浩司</strong> (Hiroshi Soto)<br>Guitar：<strong>武内 剛</strong> (Tsuyoshi Takeguchi)<br>Drum Sets：<strong>梶原 幸嗣</strong> (Koji Kajiwara)</p>
@@ -315,7 +446,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/93ebb6ec211f1f223d1e5a69f6c01469.jpg" alt="Members" title="Members"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/93ebb6ec211f1f223d1e5a69f6c01469.jpg" alt="Members" title="Members"></p>
 <p>$ 从左往右，依次为：<em>武内剛</em>、<em>來山裕美</em>、<em>梶原幸嗣</em>、<em>外浩司</em></p>
 <br>
 
@@ -328,7 +459,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDRUM" title="REDRUM"></p>
+<p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDRUM" title="REDRUM"></p>
 <ol>
 <li>Room</li>
 <li>Cherry pie</li>
@@ -341,7 +472,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/e2f2ff6334a212b07b60709ee4a3968f.jpg" alt="Second Circle" title="Second Circle"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/e2f2ff6334a212b07b60709ee4a3968f.jpg" alt="Second Circle" title="Second Circle"></p>
 <ol>
 <li>4 A.D. (4 ASIAN DOCUMENTS)</li>
 <li>SWALLOWING THE SUN</li>
@@ -356,7 +487,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/b0482f0ea27e948f402097ccb5ec5a87.jpg" alt="Cronenberg" title="Cronenberg"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/b0482f0ea27e948f402097ccb5ec5a87.jpg" alt="Cronenberg" title="Cronenberg"></p>
 <ol>
 <li>航海(sea voyage)</li>
 <li>Time Trip</li>
@@ -372,7 +503,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/8464e89a6a181decc199e513a1e12013.jpg" alt="4" title="4"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/8464e89a6a181decc199e513a1e12013.jpg" alt="4" title="4"></p>
 <ol>
 <li>嘘と理想</li>
 <li>Abstracture</li>
@@ -384,7 +515,7 @@
 
 <details><summary>Arizona Dream (2003) </summary>
 
-<p><img src="https://ttfou.com/images/2023/01/19/d8850f644ccff89de43ca3e083428a1d.jpg" alt="Arizona Dream" title="Arizona Dream"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/d8850f644ccff89de43ca3e083428a1d.jpg" alt="Arizona Dream" title="Arizona Dream"></p>
 <ol>
 <li>Scorpio Rising</li>
 <li>アルタードステイツ</li>
@@ -398,7 +529,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/435863460ea9a563713759c6ee985098.jpg" alt="Answer Songs" title="Answer Songs"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/435863460ea9a563713759c6ee985098.jpg" alt="Answer Songs" title="Answer Songs"></p>
 <ol>
 <li>Slider</li>
 <li>Sayonara Song</li>
@@ -411,7 +542,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/77bab8b5febd7e2ed5a2544ad2f7efd8.jpg" alt="審美眼とパラドックス" title="審美眼とパラドックス"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/77bab8b5febd7e2ed5a2544ad2f7efd8.jpg" alt="審美眼とパラドックス" title="審美眼とパラドックス"></p>
 <ol>
 <li>逆光</li>
 <li>響きの森</li>
@@ -430,7 +561,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/25009419c915251641291ede53ec1408.jpg" alt="Tokyo" title="Tokyo"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/25009419c915251641291ede53ec1408.jpg" alt="Tokyo" title="Tokyo"></p>
 <ol>
 <li>TOKYO</li>
 <li>under neon</li>
@@ -442,7 +573,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/2233a24a5264efec14d7bfe5417847a5.jpg" alt="Order From 1996" title="Order From 1996"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/2233a24a5264efec14d7bfe5417847a5.jpg" alt="Order From 1996" title="Order From 1996"></p>
 <ol>
 <li>1996</li>
 <li>Sleeping Gypsy</li>
@@ -529,7 +660,7 @@
 <p>“日本で <strong>PORTISHEAD</strong> みたいなバンドを作ろう！”<br>(打造日本自己的<strong>Portihead</strong>式乐队)</p>
 </blockquote>
 <p>鼓手<strong>梶原幸嗣</strong>向吉他手<strong>武内剛</strong>宣布道。<br><strong>梶原幸嗣</strong>在以前的工作中遇到了<strong>武内剛</strong>，不久之后结识了歌手<strong>來山裕美</strong>，三人组建了<strong>REDRUM</strong>，以实现这一目标。</p>
-<p><img src="https://ttfou.com/images/2023/01/19/087320966bb70a29721d0cb736572881.jpg" alt="Early Years" title="Early Years"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/087320966bb70a29721d0cb736572881.jpg" alt="Early Years" title="Early Years"></p>
 </details>
 
 <h4 id="1997年"><a href="#1997年" class="headerlink" title="1997年"></a>1997年</h4><details> <summary>点我查看</summary>
@@ -634,7 +765,7 @@
 
 <br>
 
-<p><img src="https://ttfou.com/images/2023/01/19/3a50df37675f724749f48406599117bc.jpg" alt="REDЯUM" title="REDЯUM"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/3a50df37675f724749f48406599117bc.jpg" alt="REDЯUM" title="REDЯUM"></p>
 <br>
 
 <hr>
@@ -681,7 +812,7 @@
 <p>K：当<strong>浩司</strong>来看我们在LOFT的演出时，我们一起在酒吧喝酒。那时，我想，“是不是到是时候了?”(笑)。由于个人原因，<strong>浩司</strong>不得不退出乐队，但在当时，我们并不想跟上那种节奏。我们需要<strong>浩司</strong>的贝斯，所以当我们谈到试着互相配合时，他说他想一起做。</p>
 <p>── <em>如果你仔细想想，第一个贝斯手退队是因为他跟不上乐队的节奏，所以你有一种始终把乐队放在首位的态度。</em></p>
 <p>K：是的。但是，Bass手的更替为何如此频繁（$直译：进进出出..），这是个谜(笑)。</p>
-<p><img src="https://ttfou.com/images/2023/01/19/2edc2b1eea1f067d68a6d5a19e13729e.jpg" alt="來山裕美" title="來山裕美"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/2edc2b1eea1f067d68a6d5a19e13729e.jpg" alt="來山裕美" title="來山裕美"></p>
 <h4 id="REDЯUM与新宿LOFT的密切关系"><a href="#REDЯUM与新宿LOFT的密切关系" class="headerlink" title="REDЯUM与新宿LOFT的密切关系"></a>REDЯUM与新宿LOFT的密切关系</h4><p>—— <em>4名核心成员时隔3年再次制作的EP《TOKYO》(07年10月)，是不拘泥于特定类型的某种风格的乐队的杰作。</em></p>
 <p>K：当我制作《Tokyo》时，我不敢去迎合当时的流行趋势。我们只是做自己想做的事，而不是随大流。他们（指大流）从一开始就是天上的恶魔。如果每个人都去那里，我们也将会去那里。</p>
 <p>—— <em>我个人最喜欢的一个地方是，当你知道全国有很多同名乐队时，你决定通过成为最有名的乐队来“重新命名”它们。</em>（$这里没看懂..）</p>
@@ -735,7 +866,7 @@
 <br>
 
 <p>&lt; ***完*** &gt;</p>
-<p><img src="https://ttfou.com/images/2023/01/19/42399014120205d89b4cfe2f64023c68.jpg" alt="Album" title="Album"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/42399014120205d89b4cfe2f64023c68.jpg" alt="Album" title="Album"></p>
 </details>
 
 <br>
@@ -766,7 +897,7 @@
 <p>K：也许吧。如果新成员拥有更多比离开成员之外的内容，则可以接受。</p>
 <p>── *.<strong>剛</strong>和<strong>浩司</strong>对<strong>裕美</strong>打算离开乐队的反应和你一样吗？*</p>
 <p>K：没错。这很令人沮丧，但也没办法。我们都明白，每个人都在变老，每个人有自己的情况，如果我们在一个完全以音乐为生的乐队里，情况会有所不同。说实话，我想知道我能不能强迫他们留下来，保障他们的生活。最后，我们说服了自己，<strong>裕美</strong>应该过她自己的生活。</p>
-<p><img src="https://ttfou.com/images/2023/01/19/0cc05aeca0c3e95dc646e0f41984ae68.jpg" alt="redrum" title="redrum"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/0cc05aeca0c3e95dc646e0f41984ae68.jpg" alt="redrum" title="redrum"></p>
 <h4 id="如果将要结束，最好完美收官"><a href="#如果将要结束，最好完美收官" class="headerlink" title="如果将要结束，最好完美收官"></a>如果将要结束，最好完美收官</h4><p>── <em>“停止唱歌”是一个必须有极大的决心和决心才能做出的决定，不是吗？</em></p>
 <p>K：我无法想象放弃音乐，我不认为我准备得很充分。也许我们更执着于音乐，但我无法想象完全放弃音乐。嗯，也许在告诉我们之前，<strong>裕美</strong>已经思考了很长一段时间。</p>
 <p>── <em>继续为众多狂热歌迷唱歌，还有什么选择？经过深思熟虑，我认为肯定没有。</em></p>
@@ -783,7 +914,7 @@
 <p>KAZI: <strong>剛</strong>创作了两首歌，我也创作了两首。<strong>剛</strong>的歌曲是带有所谓<strong>REDЯUM</strong>式的的悲伤歌曲和枯萎感觉的摇滚。让人想起他最喜欢的音乐。我写的只是一首悲伤的歌，一首我在活动中反复修改的歌。同时，乐队的所有成员都要为这些歌曲写歌词。在此之前，我和<strong>裕美</strong>都是对半写歌词，但这次<strong>裕美</strong>建议每人写一首歌词。我还没决定(笑)。</p>
 <p>—— <em>我觉得你在解散前写的歌词，难免会是感伤的内容……</em></p>
 <p>K：我写的歌词就是这样。可以说，从形成到今天，它击中了思想的长度（$看不懂呃…）。我本来就没有什么亮眼的风格，但现在我正在进行解散巡演，所以格外痛苦。无论我走到哪里，我都会说再见，每次演出我都会哭。成员们说:“现在不是还早吗?”(笑)。</p>
-<p><img src="https://ttfou.com/images/2023/01/19/c4ed8b79af4c752cb2f7b5fd60b21ced.jpg" alt="colored" title="colored"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/c4ed8b79af4c752cb2f7b5fd60b21ced.jpg" alt="colored" title="colored"></p>
 <h4 id="这种解散肯定有某种意义"><a href="#这种解散肯定有某种意义" class="headerlink" title="这种解散肯定有某种意义"></a>这种解散肯定有某种意义</h4><p>—— <em>但这次巡演的标题是“TOMORROW NEVER COMES.”。“TOMORROW NEVER KNOWS”应该会更棒。</em></p>
 <p>K：这表明我已经准备好面对它了。<strong>REDЯUM</strong>永远不会再发生，就在这里，一切都结束了。这难免有些伤感，因为这是我第一次经历解散。</p>
 <p>── <em>13年的时间的分量也会被算在内。</em></p>
@@ -798,7 +929,7 @@
 <p>K：不仅仅是一张专辑，我想拿出尽可能多的。因此，这与我之前所说的相矛盾，但我也想等待<strong>裕美</strong>想再次唱歌的时候。在那之前，我希望其他三个人继续演奏音乐，提高他们的技能。由于我的胳膊和外表都日渐衰弱，举行类似重新团聚的活动是完全不可接受的。嗯，我还没有和其他成员讨论过这个问题，所以我不知道未来会发生什么。有些人会继续做音乐，有些人会因为某种原因放弃。当然，我想继续做音乐。然而，在考虑了各种事情之后，我发现我喜欢乐队和摇滚，但最重要的是，我喜欢<strong>REDЯUM</strong>。我相信解散后很可能在一段时间内，它会看起来像一个空壳。这可能有点疯狂，我自己都害怕。在在最后一场演出的那天，我感觉我从进场就已经哭了。成员们很了解我，但我流下了眼泪。</p>
 <p>── <em>你选择新宿Loft作为你最后一次现场演出的地点，是因为你的激情吗？</em></p>
 <p>K：这是我想到的第一件事。只有一个Loft，对吧？在Loft的舞台上总有一种快乐，我们总是在Loft进行重要的里程碑式的演出。</p>
-<p><img src="https://ttfou.com/images/2023/01/19/a119a93f12b5eede8b61a4c8c105d0ec.jpg" alt="Yumi" title="Yumi"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/a119a93f12b5eede8b61a4c8c105d0ec.jpg" alt="Yumi" title="Yumi"></p>
 <h4 id="最后一次演出，我们会竭尽所能"><a href="#最后一次演出，我们会竭尽所能" class="headerlink" title="最后一次演出，我们会竭尽所能"></a>最后一次演出，我们会竭尽所能</h4><p>—— *.<strong>REDЯUM</strong>解散后你有什么计划?*</p>
 <p>K：到目前为止，我什么都没想。</p>
 <p>── <em>有没有什么是你有意识地在纸上留白的？</em></p>
@@ -832,7 +963,7 @@
 <p>—— <em>最后，请以<strong>REDЯUM</strong>的<strong>梶原幸嗣</strong>的身份给我们留言。</em></p>
 <p>K：我希望你永远不会忘记<strong>REDЯUM</strong>这样的乐队的存在。即便乐队解散，音源也会保留下来，所以我希望人们继续谈论它，把它传递下去。我希望那些在最后一场现场演出中遇见的人会把我们最后的画面烙入眼里和心里。这是我们这是真正的，也是最后一次现场演出了。</p>
 <p>&lt; ***完*** &gt;</p>
-<p><img src="https://ttfou.com/images/2023/01/19/13c4a9d995a49e37230cb7adc63ac0e9.jpg" alt="Rememberance" title="Remenberance"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/19/13c4a9d995a49e37230cb7adc63ac0e9.jpg" alt="Rememberance" title="Remenberance"></p>
 </details>
 
 <br>
@@ -879,7 +1010,7 @@
 <br>
 
 <p>在解散的很长一段时间，乐队成员们仍然唱歌表演，做着音乐。活跃度是惊人的。</p>
-<p><img src="https://ttfou.com/images/2023/01/20/a02a20c08cf7e841e4802336b5143a35.jpg" alt="Kazi" title="kazi"><br>$ 2018年，<strong>梶原幸嗣</strong>在自己45岁生日的前一天举办了一场演出，演奏了45首乐曲。包含<strong>REDЯUM</strong> 致敬乐队在内的6个乐队参与了这场演出。</p>
+<p><img data-src="https://ttfou.com/images/2023/01/20/a02a20c08cf7e841e4802336b5143a35.jpg" alt="Kazi" title="kazi"><br>$ 2018年，<strong>梶原幸嗣</strong>在自己45岁生日的前一天举办了一场演出，演奏了45首乐曲。包含<strong>REDЯUM</strong> 致敬乐队在内的6个乐队参与了这场演出。</p>
 <blockquote>
 <p>-BAND-<br>■カカオキッズ<br>[Vo.高橋浩司 / Gt.武内剛 / Ba.恩賀周平(electro53) / Dr.KAZI]<br>■THE BEAT UK<br>[Vo.澁谷潤(CQ) / Vo.徳山拓磨(alcana) / Gt.music of gentleman(NO MORE LIES/dario)<br>/ Ba.佐山忍 / key.佐藤統(THE BLACK COMET CLUB BAND/THE JUNEJULYAUGUST) / Dr.KAZI]<br>■REDЯUM Tribute Band<br>[Vo.山田将司(THE BACK HORN) / Gt.武内剛 / Ba.外浩司 / Dr.KAZI]<br>■あきゆきばんど<br>[Vo.石崎あきゆき(The Cavemans) / Gt.武内剛 / Ba.本田祐也(ex.COCK ROACH,無限マイナス) / Dr.KAZI]<br>■HUMAN TAIL<br>[Vo.窪”雪之丞”洋介 / Gt.ノスケティック村長 / Ba.蝶名林友 / Gt.黒岩裕右 / Dr.KAZI]</p>
 </blockquote>
@@ -903,137 +1034,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
-<span id="more"></span>
-
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
-
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
-
-<hr>
-<br>
-
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>Changelog</tag>
-        <tag>Hexo</tag>
-        <tag>Hexo-NexT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Otherwise My New Year Greetings</title>
     <url>/posts/4ac7f78/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
@@ -1042,70 +1042,70 @@
 <h2 id="🧨-新年快乐"><a href="#🧨-新年快乐" class="headerlink" title="🧨 新年快乐"></a>🧨 新年快乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=20787183&amp;auto=1&amp;height=66"></iframe>
 
 <p>尽管显得有些小题大做，但在此，我仍要向我所有的朋友们，以及在浏览这篇博文的你献上我最真挚的祝福。<br><strong>HAPPY NEW YEAR！！！</strong></p>
-<p><img src="https://ttfou.com/images/2022/12/21/dd99ece0bab43569619bc9bab5f60da2.jpg" alt="谨贺新年" title="谨贺新年"></p>
+<p><img data-src="https://ttfou.com/images/2022/12/21/dd99ece0bab43569619bc9bab5f60da2.jpg" alt="谨贺新年" title="谨贺新年"></p>
 <hr>
 <hr>
 <h2 id="🎊-岁末放送（-Xavier）"><a href="#🎊-岁末放送（-Xavier）" class="headerlink" title="🎊 岁末放送（@Xavier）"></a>🎊 岁末放送（@Xavier）</h2><p>22年，我听的专辑虽说不多，但也不算少了吧…<br>现在借此良机便想着<del>强行安利</del>与大家分享一下——选了二十张自认为<del>容易成功安利</del>的“<em>精华</em>”，与大家分享~<br>🎊 <em><strong>Move on Forward</strong></em> 🎊</p>
 <p>&lt;&lt;&lt;&lt; 排序无先后 &gt;&gt;&gt;&gt; </p>
 <hr>
 <hr>
-<h3 id="华语"><a href="#华语" class="headerlink" title="华语"></a>华语</h3><h4 id="他在时间门外"><a href="#他在时间门外" class="headerlink" title="他在时间门外"></a>他在时间门外</h4><p><img src="https://ttfou.com/images/2022/12/21/cf49fc9697564daa4f1422d0e09d869c.jpg" alt="他在时间门外" title="他在时间门外"></p>
+<h3 id="华语"><a href="#华语" class="headerlink" title="华语"></a>华语</h3><h4 id="他在时间门外"><a href="#他在时间门外" class="headerlink" title="他在时间门外"></a>他在时间门外</h4><p><img data-src="https://ttfou.com/images/2022/12/21/cf49fc9697564daa4f1422d0e09d869c.jpg" alt="他在时间门外" title="他在时间门外"></p>
 <p><strong>Artist:</strong> 哪吒<br><strong>Genre:</strong> 摇滚/Rock<br><strong>Label:</strong> 哪吒<br><strong>Recording:</strong> 2012-12-20<br><strong>Barcode:</strong> 4988006798335<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1764282/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=36538">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003m1iNo4SbEh7">QQ音乐</a>  </p>
 <hr>
-<h4 id="菊花夜行军"><a href="#菊花夜行军" class="headerlink" title="菊花夜行军"></a>菊花夜行军</h4><p><img src="https://ttfou.com/images/2022/12/21/3295d67d7e3e8bb784aaa517c0dbe33a.jpg" alt="菊花夜行军" title="菊花夜行军"></p>
+<h4 id="菊花夜行军"><a href="#菊花夜行军" class="headerlink" title="菊花夜行军"></a>菊花夜行军</h4><p><img data-src="https://ttfou.com/images/2022/12/21/3295d67d7e3e8bb784aaa517c0dbe33a.jpg" alt="菊花夜行军" title="菊花夜行军"></p>
 <p><strong>Artist:</strong> 交工樂隊<br><strong>Genre:</strong> 民谣/Folk Rock、摇滚/Rock、Chinese Classical<br><strong>Label:</strong> 大大樹系列–TMCD-2002<br><strong>Recording:</strong> 2001<br><strong>Barcode:</strong> 4716483020027<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1920130/">豆瓣</a>、<a href="https://www.discogs.com/master/1097740-%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A-%E8%8F%8A%E8%8A%B1%E5%A4%9C%E8%A1%8C%E8%BB%8D-The-Night-March-of-the-Chrysanthemums">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
 <hr>
-<h4 id="醜奴兒"><a href="#醜奴兒" class="headerlink" title="醜奴兒"></a>醜奴兒</h4><p><img src="https://ttfou.com/images/2022/12/21/92ceb9fbcfc01b6d7e497fe809ae9dc7.jpg" alt="醜奴兒" title="醜奴兒"></p>
+<h4 id="醜奴兒"><a href="#醜奴兒" class="headerlink" title="醜奴兒"></a>醜奴兒</h4><p><img data-src="https://ttfou.com/images/2022/12/21/92ceb9fbcfc01b6d7e497fe809ae9dc7.jpg" alt="醜奴兒" title="醜奴兒"></p>
 <p><strong>Artist:</strong> 草東沒有派對<br><strong>Genre:</strong> 摇滚/Rock、流行/Pop、另类/Alternative<br><strong>Label:</strong> 草東沒有派對<br><strong>Recording:</strong> 2016-04-30<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26753594/">豆瓣</a>、<a href="https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
 <hr>
-<h4 id="七七连环X人调"><a href="#七七连环X人调" class="headerlink" title="七七连环X人调"></a>七七连环X人调</h4><p><img src="https://ttfou.com/images/2022/12/22/a69bcc751f2e2050b041087985a8d92b.jpg" alt="七七连环X人调" title="七七连环X人调">  </p>
+<h4 id="七七连环X人调"><a href="#七七连环X人调" class="headerlink" title="七七连环X人调"></a>七七连环X人调</h4><p><img data-src="https://ttfou.com/images/2022/12/22/a69bcc751f2e2050b041087985a8d92b.jpg" alt="七七连环X人调" title="七七连环X人调">  </p>
 <p><strong>Artist:</strong> 周二下午谁没来？<br><strong>Genre:</strong> 摇滚/Rock、实验/Experimental<br><strong>Label:</strong> 周二下午谁没来？<br><strong>Recording:</strong> 2015-01-01<br><strong>Barcode:</strong> WEBM<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26829903/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3126178">网易云</a>  </p>
 <hr>
 <hr>
-<h3 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h3><h4 id="REDЯUM"><a href="#REDЯUM" class="headerlink" title="REDЯUM"></a>REDЯUM</h4><p><img src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDЯUM" title="REDЯUM">  </p>
+<h3 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h3><h4 id="REDЯUM"><a href="#REDЯUM" class="headerlink" title="REDЯUM"></a>REDЯUM</h4><p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDЯUM" title="REDЯUM">  </p>
 <p><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> 摇滚/Rock、电子/Electronic<br><strong>Label:</strong> Embryo–none, Gianormous Records–ORO-1018<br><strong>Recording:</strong> 1999-05-26<br><strong>Barcode:</strong> 4997184100182<br><strong>Links:</strong> <a href="https://music.douban.com/subject/5266793/">豆瓣</a>、<a href="https://www.discogs.com/release/11257318-Redrum-Redrum">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2987758">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=M5oPahDZnRFP">QQ音乐</a>  </p>
 <hr>
-<h4 id="頭脳警察1"><a href="#頭脳警察1" class="headerlink" title="頭脳警察1"></a>頭脳警察1</h4><p><img src="https://ttfou.com/images/2022/12/22/8f88af10ce8b2be1614cbff82606e230.jpg" alt="頭脳警察1" title="頭脳警察1">  </p>
+<h4 id="頭脳警察1"><a href="#頭脳警察1" class="headerlink" title="頭脳警察1"></a>頭脳警察1</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8f88af10ce8b2be1614cbff82606e230.jpg" alt="頭脳警察1" title="頭脳警察1">  </p>
 <p><strong>Artist:</strong> 頭脳警察<br><strong>Genre:</strong> 摇滚/Rock、现场/Live、原声/Acoustic<br><strong>Label:</strong> Be-Witch Record-none<br><strong>Recording:</strong> 1972-03-21<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2971946/">豆瓣</a>、<a href="https://www.discogs.com/master/169979-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F1">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2085917">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002BBvUd4T4mv4">QQ音乐</a>  </p>
 <hr>
-<h4 id="玉姫様"><a href="#玉姫様" class="headerlink" title="玉姫様"></a>玉姫様</h4><p><img src="https://ttfou.com/images/2022/12/22/276bc318a6a11b0dffc82f2c815589b8.jpg" alt="玉姫様" title="玉姫様">  </p>
+<h4 id="玉姫様"><a href="#玉姫様" class="headerlink" title="玉姫様"></a>玉姫様</h4><p><img data-src="https://ttfou.com/images/2022/12/22/276bc318a6a11b0dffc82f2c815589b8.jpg" alt="玉姫様" title="玉姫様">  </p>
 <p><strong>Artist:</strong> 戸川純<br><strong>Genre:</strong> 新浪潮/New Wave、摇滚/Rock、合成器/Synth-pop<br><strong>Label:</strong> Alfa-38XA-22, Yen Records-38XA-22<br><strong>Recording:</strong> 1984-01-24<br><strong>Barcode:</strong> 4988024015254<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1871948/">豆瓣</a>、<a href="https://www.discogs.com/master/458429-%E6%88%B8%E5%B7%9D%E7%B4%94-%E7%8E%89%E5%A7%AB%E6%A7%98">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2650070">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=DjVjKDMxdUbm">QQ音乐</a>  </p>
 <hr>
-<h4 id="III"><a href="#III" class="headerlink" title="III"></a>III</h4><p><img src="https://ttfou.com/images/2022/12/22/0135c73dfdedf712816103d0a25f36e7.jpg" alt="III" title="III">  </p>
+<h4 id="III"><a href="#III" class="headerlink" title="III"></a>III</h4><p><img data-src="https://ttfou.com/images/2022/12/22/0135c73dfdedf712816103d0a25f36e7.jpg" alt="III" title="III">  </p>
 <p><strong>Artist:</strong> 頭士奈生樹<br><strong>Genre:</strong> 摇滚/Folk Rock、前卫/Prog Rock、原声/Acoustic<br><strong>Label:</strong> Org Records-ORG-020cd<br><strong>Recording:</strong> 2005-01-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/30174788/">豆瓣</a>、<a href="https://www.discogs.com/master/660095-%E9%A0%AD%E5%A3%AB%E5%A5%88%E7%94%9F%E6%A8%B9-III">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=82619910">网易云</a></p>
 <hr>
-<h4 id="ワインレッドの心"><a href="#ワインレッドの心" class="headerlink" title="ワインレッドの心"></a>ワインレッドの心</h4><p><img src="https://ttfou.com/images/2022/12/22/e853a45e15893489c72c95f38df1a2d4.jpg" alt="ワインレッドの心" title="ワインレッドの心">  </p>
+<h4 id="ワインレッドの心"><a href="#ワインレッドの心" class="headerlink" title="ワインレッドの心"></a>ワインレッドの心</h4><p><img data-src="https://ttfou.com/images/2022/12/22/e853a45e15893489c72c95f38df1a2d4.jpg" alt="ワインレッドの心" title="ワインレッドの心">  </p>
 <p><strong>Artist:</strong> 玉置浩二<br><strong>Genre:</strong> 流行/Pop<br><strong>Label:</strong> Fun House-FHCF-2447<br><strong>Recording:</strong> 1999-02-24<br><strong>Barcode:</strong> 9787885704162<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1449775/">豆瓣</a>、<a href="https://www.discogs.com/master/1009542-%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C-%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E5%BF%83">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=49287">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=iGJ2w2U">QQ音乐</a>  </p>
 <hr>
-<h4 id="MIZUTANI"><a href="#MIZUTANI" class="headerlink" title="MIZUTANI"></a>MIZUTANI</h4><p><img src="https://ttfou.com/images/2022/12/22/8653e9ae1215a1ad0f28a154b0dc90f3.jpg" alt="MIZUTANI" title="MIZUTANI">  </p>
+<h4 id="MIZUTANI"><a href="#MIZUTANI" class="headerlink" title="MIZUTANI"></a>MIZUTANI</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8653e9ae1215a1ad0f28a154b0dc90f3.jpg" alt="MIZUTANI" title="MIZUTANI">  </p>
 <p><strong>Artist:</strong> Les Rallizes DéNudés<br><strong>Genre:</strong> 迷幻摇滚/Psychedelic Rock、民谣/Folk Rock、噪音/Noise<br><strong>Label:</strong> Rivista Inc.<br><strong>Recording:</strong> 1991-08-15<br><strong>Barcode:</strong> 0823564603322<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2082257/">豆瓣</a>、<a href="https://www.discogs.com/release/24800570-Mizutani-Les-Rallizes-Denudes-Mizutani-Les-Rallizes-D%C3%A9nud%C3%A9s">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=34861209">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004DYJCf0ue1sa">QQ音乐</a>  </p>
 <hr>
-<h4 id="First-Love"><a href="#First-Love" class="headerlink" title="First Love"></a>First Love</h4><p><img src="https://ttfou.com/images/2022/12/22/05761627df5db3fdd20abfc3b715f3aa.jpg" alt="First Love" title="First Love">  </p>
+<h4 id="First-Love"><a href="#First-Love" class="headerlink" title="First Love"></a>First Love</h4><p><img data-src="https://ttfou.com/images/2022/12/22/05761627df5db3fdd20abfc3b715f3aa.jpg" alt="First Love" title="First Love">  </p>
 <p><strong>Artist:</strong> 宇多田ヒカル<br><strong>Genre:</strong> 流行/J-pop、节奏布鲁斯/R&amp;B<br><strong>Label:</strong> Eastworld-TOCT-24067<br><strong>Recording:</strong> 1999-03-10<br><strong>Barcode:</strong> 4988006158764<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1397751/">豆瓣</a>、<a href="https://www.discogs.com/master/184564-Utada-Hikaru-First-Love">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2093862">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002SwRbo2GrlLp">QQ音乐</a>  </p>
 <hr>
 <hr>
-<h3 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h3><h4 id="Blue-Lullaby"><a href="#Blue-Lullaby" class="headerlink" title="Blue Lullaby"></a>Blue Lullaby</h4><p><img src="https://ttfou.com/images/2022/12/29/a5c241279b035edadf7ce72a84683963.jpg" alt="Blue Lullaby" title="Blue Lullaby">  </p>
+<h3 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h3><h4 id="Blue-Lullaby"><a href="#Blue-Lullaby" class="headerlink" title="Blue Lullaby"></a>Blue Lullaby</h4><p><img data-src="https://ttfou.com/images/2022/12/29/a5c241279b035edadf7ce72a84683963.jpg" alt="Blue Lullaby" title="Blue Lullaby">  </p>
 <p><strong>Artist:</strong> Wolf Alice<br><strong>Genre:</strong> 另类/Alternative、流行/Pop、原声/Acoustic<br><strong>Label:</strong> Dirty Hit-none<br><strong>Recording:</strong> 2022-06-24<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/35906517/">豆瓣</a>、<a href="https://www.discogs.com/release/23702975-Wolf-Alice-Blue-Lullaby">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=146272503">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003bltQn2bdw5Z">QQ音乐</a>  </p>
 <hr>
-<h4 id="Islands"><a href="#Islands" class="headerlink" title="Islands"></a>Islands</h4><p><img src="https://ttfou.com/images/2022/12/29/e629e8f0353afad0d39c83b0eba80116.jpg" alt="Islands" title="Islands">  </p>
+<h4 id="Islands"><a href="#Islands" class="headerlink" title="Islands"></a>Islands</h4><p><img data-src="https://ttfou.com/images/2022/12/29/e629e8f0353afad0d39c83b0eba80116.jpg" alt="Islands" title="Islands">  </p>
 <p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 前卫/Prog Rock、艺术/Art Rock<br><strong>Label:</strong> Island Records-ILPS 9175<br><strong>Recording:</strong> 1971-12-03<br><strong>Barcode:</strong> 0017046150521<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1458449/">豆瓣</a>、<a href="https://www.discogs.com/master/436-King-Crimson-Islands">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1855512">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002S9lOV3FaZon">QQ音乐</a>  </p>
 <hr>
-<h4 id="Ten-New-Songs"><a href="#Ten-New-Songs" class="headerlink" title="Ten New Songs"></a>Ten New Songs</h4><p><img src="https://ttfou.com/images/2022/12/29/4c087edf932ef07bcd60562f1c8ece1a.png" alt="Ten New Songs" title="Ten New Songs">  </p>
+<h4 id="Ten-New-Songs"><a href="#Ten-New-Songs" class="headerlink" title="Ten New Songs"></a>Ten New Songs</h4><p><img data-src="https://ttfou.com/images/2022/12/29/4c087edf932ef07bcd60562f1c8ece1a.png" alt="Ten New Songs" title="Ten New Songs">  </p>
 <p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 民谣/Folk Rock、抒情/Ballad<br><strong>Label:</strong> Columbia-COL 501202 2<br><strong>Recording:</strong> 2001-10-09<br><strong>Barcode:</strong> 5099750120224<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1405187/">豆瓣</a>、<a href="https://www.discogs.com/master/4253-Leonard-Cohen-Ten-New-Songs">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1941065">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004SWvKW0bAgSI">QQ音乐</a>  </p>
 <hr>
-<h4 id="Closer"><a href="#Closer" class="headerlink" title="Closer"></a>Closer</h4><p><img src="https://ttfou.com/images/2022/12/29/bed2fc3dd5f1be107e4fd0670266bdf3.png" alt="Closer" title="Closer">  </p>
+<h4 id="Closer"><a href="#Closer" class="headerlink" title="Closer"></a>Closer</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bed2fc3dd5f1be107e4fd0670266bdf3.png" alt="Closer" title="Closer">  </p>
 <p><strong>Artist:</strong> Joy Division<br><strong>Genre:</strong> 后朋克/Post Punk、摇滚/Rock、新浪潮/New Wave<br><strong>Label:</strong> Factory-FACT. 25<br><strong>Recording:</strong> 1980-07-18<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1401774/">豆瓣</a>、<a href="https://www.discogs.com/master/4734-Joy-Division-Closer">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1727473">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004ajy260DiSN1">QQ音乐</a>  </p>
 <hr>
-<h4 id="The-Queen-is-Dead"><a href="#The-Queen-is-Dead" class="headerlink" title="The Queen is Dead"></a>The Queen is Dead</h4><p><img src="https://ttfou.com/images/2022/12/29/bca2e42e923dc453551ed1c7ea78c04e.png" alt="The Queen is Dead" title="The Queen is Dead">  </p>
+<h4 id="The-Queen-is-Dead"><a href="#The-Queen-is-Dead" class="headerlink" title="The Queen is Dead"></a>The Queen is Dead</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bca2e42e923dc453551ed1c7ea78c04e.png" alt="The Queen is Dead" title="The Queen is Dead">  </p>
 <p><strong>Artist:</strong> The Smiths<br><strong>Genre:</strong> 另类/Alternative、独立/Indie Rock<br><strong>Label:</strong> Megadisc-MD 7961<br><strong>Recording:</strong> 1986-06-16<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1394616/">豆瓣</a>、<a href="https://www.discogs.com/master/20137-The-Smiths-The-Queen-Is-Dead">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1802911">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002T3Q3D38LLDv">QQ音乐</a>  </p>
 <hr>
-<h3 id="世界音乐"><a href="#世界音乐" class="headerlink" title="世界音乐"></a>世界音乐</h3><h4 id="荒腔走板选段"><a href="#荒腔走板选段" class="headerlink" title="荒腔走板选段"></a>荒腔走板选段</h4><p><img src="https://ttfou.com/images/2022/12/29/8c873a82737ea6c231db8e6d27a54c90.png" alt="荒腔走板选段" title="荒腔走板选段">  </p>
+<h3 id="世界音乐"><a href="#世界音乐" class="headerlink" title="世界音乐"></a>世界音乐</h3><h4 id="荒腔走板选段"><a href="#荒腔走板选段" class="headerlink" title="荒腔走板选段"></a>荒腔走板选段</h4><p><img data-src="https://ttfou.com/images/2022/12/29/8c873a82737ea6c231db8e6d27a54c90.png" alt="荒腔走板选段" title="荒腔走板选段">  </p>
 <p><strong>Artist:</strong> 大忘杠<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> 北京树音乐公司<br><strong>Recording:</strong> 2014-11-29<br><strong>Barcode:</strong> 9787798505740<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26277320/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3112226">网易云（灰色）</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002rqYzX2A3GmO">QQ音乐</a>  </p>
 <hr>
-<h4 id="Xinjiang"><a href="#Xinjiang" class="headerlink" title="Xinjiang"></a>Xinjiang</h4><p><img src="https://ttfou.com/images/2022/12/29/3a5af289841855079361fac5e28a0cda.jpg" alt="Xinjiang" title="Xinjiang">  </p>
+<h4 id="Xinjiang"><a href="#Xinjiang" class="headerlink" title="Xinjiang"></a>Xinjiang</h4><p><img data-src="https://ttfou.com/images/2022/12/29/3a5af289841855079361fac5e28a0cda.jpg" alt="Xinjiang" title="Xinjiang">  </p>
 <p><strong>Artist:</strong> Kink Gong<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> Discrepant–CREP-02<br><strong>Recording:</strong> 2011-12-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/27013947/">豆瓣</a>、<a href="https://www.discogs.com/release/3162225-Kink-Gong-Xinjiang">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=73264263">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002FgNO23w4SrL">QQ音乐</a>  </p>
 <hr>
-<h4 id="Cycles"><a href="#Cycles" class="headerlink" title="Cycles"></a>Cycles</h4><p><img src="https://ttfou.com/images/2022/12/29/cc5db2d18d2264fa1dd0ca1b807ba4e5.jpg" alt="Cycles" title="Cycles">  </p>
+<h4 id="Cycles"><a href="#Cycles" class="headerlink" title="Cycles"></a>Cycles</h4><p><img data-src="https://ttfou.com/images/2022/12/29/cc5db2d18d2264fa1dd0ca1b807ba4e5.jpg" alt="Cycles" title="Cycles">  </p>
 <p><strong>Artist:</strong> David Darling<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> ECM Records-ECM 1219<br><strong>Recording:</strong> 1982-06-01<br><strong>Barcode:</strong> 0042284317221<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1460024/">豆瓣</a>、<a href="https://www.discogs.com/master/168582-David-Darling-Cycles">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=126845">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/001tf67X3vJ8oc">QQ音乐</a>  </p>
 <hr>
 <hr>
@@ -1121,6 +1121,29 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
+<span id="more"></span>
+<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
+  </entry>
+  <entry>
     <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
     <url>/posts/936f4e60/</url>
     <content><![CDATA[<p>无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；<strong>简单、优雅、快速</strong>！人人可用~</p>
@@ -1134,7 +1157,7 @@
 <p><strong>Kiwix</strong>成立于10多年前，它是许多网站（包括<a href="https://www.wikipedia.org/">维基百科</a>，<a href="https://www.gutenberg.org/">古腾堡项目</a>或<a href="https://stackexchange.com/">Stack Exchange</a>等大型网站）在线内容的离线阅读器。<br><strong>Kiwix</strong>可以将任意网站高度压缩成独特的内容包（.zim文件），以便它们易于共享。<br><strong>Kiwix</strong>阅读器几乎可以在任何设备（手机，计算机等）上运行。<strong>Kiwix</strong>就好像是一个普通的浏览器。因为除了没有接入互联网，它的体验几乎与浏览源网站相同。<br>该软件以及内容可供任何人免费使用。</p>
 </blockquote>
 <p>以上内容截取自<a href="https://www.kiwix.org/en/"><strong>Kiwix</strong>的官网(点我直达)</a>。实现离线阅读，只需在相关网站下载一个.zim格式的文件。<br><strong>Wikipedia</strong>的内容都被压缩存储在这个.zim格式的文件中。<br>然后，我们就可以使用<strong>Kiwix</strong>，打开.zim文件，实现离线阅读。</p>
-<h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><p><img src="https://ttfou.com/images/2023/01/20/4ed9b9a4dbbd44cfe3296233bf0c211e.png" alt="Kiwix"><br>$ <em>Kiwix</em> 应用界面</p>
+<h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><p><img data-src="https://ttfou.com/images/2023/01/20/4ed9b9a4dbbd44cfe3296233bf0c211e.png" alt="Kiwix"><br>$ <em>Kiwix</em> 应用界面</p>
 <hr>
 <h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>$ 以下步骤都无需 <em>科学上网</em>，请放心食用</p>
 <h3 id="安装Kiwix应用-点我直达"><a href="#安装Kiwix应用-点我直达" class="headerlink" title="安装Kiwix应用(点我直达)"></a>安装<a href="https://www.kiwix.org/en/download/">Kiwix应用(点我直达)</a></h3><p><strong>Kiwix</strong>应用是跨平台的，这意味这你几乎可以在任意设备上使用它。</p>
@@ -1168,7 +1191,7 @@
 <li><a href="https://download.kiwix.org/zim/wikipedia/">Kiwix(推荐，点我直达)</a></li>
 <li><a href="https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/">Wikimedia Downloads（点我直达）</a></li>
 </ol>
-<p><img src="https://ttfou.com/images/2023/01/20/a752078838896dcc90cb7d3bcf4b7303.png" alt="DL" title="DL"></p>
+<p><img data-src="https://ttfou.com/images/2023/01/20/a752078838896dcc90cb7d3bcf4b7303.png" alt="DL" title="DL"></p>
 <p>如图，<strong>Kiwix</strong>提供了多种下载文件。那么如何选择适合自己的呢？<br>文件的命名格式是：<br><code>Project_Language_Number of Articles_Flavour</code><br>（ <code>项目_语言_词条数目_种类</code> ）</p>
 <p><code>Project</code>，不必多说，就该链接而言，肯定是<strong>Wikipedia</strong>维基啦~</p>
 <p><code>Language</code>，一般就直接会选择英文<strong>en</strong>或中文<strong>zh</strong>喽。就我而言，我还是会更加推荐英文<strong>en</strong>。原因显而易见，因为英文百科的收入更加全面。可供下载的选择也更加多。即便是遇到看不懂的页面也是翻译可以解决的。</p>
@@ -1214,28 +1237,5 @@
         <tag>全平台</tag>
         <tag>Firewall</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
-<span id="more"></span>
-<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Hello World</category>
-      </categories>
   </entry>
 </search>
