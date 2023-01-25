@@ -252,34 +252,103 @@
       </tags>
   </entry>
   <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
 <span id="more"></span>
 
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
-
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
 
 <hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
 <br>
 
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
 <hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
       <categories>
-        <category>碎碎念</category>
+        <category>教程向</category>
       </categories>
       <tags>
-        <tag>Changelog</tag>
         <tag>Hexo</tag>
-        <tag>Hexo-NexT</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
       </tags>
   </entry>
   <entry>
@@ -891,6 +960,37 @@
       </tags>
   </entry>
   <entry>
+    <title>Bloglog 23 01 14</title>
+    <url>/posts/db043193/</url>
+    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
+<span id="more"></span>
+
+<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
+
+<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
+<ul>
+<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
+<li>之前的单独为篇的Bloglog悉已删除</li>
+<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
+</ul>
+</details>
+
+<hr>
+<br>
+
+<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
+<hr>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Changelog</tag>
+        <tag>Hexo-NexT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>🐇2023兔年快乐~</title>
     <url>/posts/68b54462/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🧨🐇兔年终于（要）来力🧨🐇</blockquote>  
@@ -931,106 +1031,6 @@
         <tag>碎碎念</tag>
         <tag>庆祝</tag>
         <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
       </tags>
   </entry>
   <entry>
@@ -1119,6 +1119,29 @@
         <tag>庆祝</tag>
         <tag>节日</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
+<span id="more"></span>
+<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
   </entry>
   <entry>
     <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
@@ -1214,28 +1237,5 @@
         <tag>全平台</tag>
         <tag>Firewall</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
-<span id="more"></span>
-<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Hello World</category>
-      </categories>
   </entry>
 </search>
