@@ -6,7 +6,7 @@
   <link href="https://mujitogawa.github.io/atom.xml" rel="self"/>
   
   <link href="https://mujitogawa.github.io/"/>
-  <updated>2023-01-22T10:20:37.041Z</updated>
+  <updated>2023-02-03T18:36:04.686Z</updated>
   <id>https://mujitogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>已经过去的一月的小结</title>
+    <link href="https://mujitogawa.github.io/posts/75ee39bd/"/>
+    <id>https://mujitogawa.github.io/posts/75ee39bd/</id>
+    <published>2023-02-03T13:30:41.000Z</published>
+    <updated>2023-02-03T18:36:04.686Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;抓住冬天的小尾巴~&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://mujitogawa.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="碎碎念" scheme="https://mujitogawa.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="总结" scheme="https://mujitogawa.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>在NexT主题下设置友链的一种高效方法</title>
