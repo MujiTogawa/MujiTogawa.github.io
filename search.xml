@@ -1,1338 +1,328 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>2022总结&amp;My Resolutions</title>
-    <url>/posts/b7a38911/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote> 
-<span id="more"></span>
-
-<p><del>在2023的第一天写年度总结和展望没毛病吧（x</del><br>似水流年，一年又过去喽，又是新的一年，<del>一年又一年</del><br>2022年又没做成什么事情，2023<del>继续保持！</del>要更加努力嗷</p>
-<hr>
-<h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="线下"><a href="#线下" class="headerlink" title="线下"></a>线下</h3><br>
-
-<p>今年最大的事嘛，无非是完成了浙江省宁波市的中考，遂如愿以663/720的分数顺利从<strong>NBFLS</strong>初中部升级到了<strong>NBFLS</strong>的普高部。（顺带说一句由于我报考了小羟稽，所以我目前身处<strong>NBFLS</strong>的文科创新班<del>（拉倒吧侬</del><br>吐槽归吐槽，也感谢中考，让我认识了<a href="https://blog.chihuo2104.dev/#/">chihuo</a>。没有他就没有我目前的小blog，#<a href="https://mujitogawa.github.io/posts/8cdc15a3/#more">衍生阅读：建站小记</a># 小blog是22.10.01趁着国庆假期搭建的，使用的显而易见，是Github Pages+Hexo。主题起初使用的是bmw，现已更换为拓展更为丰富，页面也更为简洁的<a href="https://github.com/next-theme/hexo-theme-next">NexT</a>。  </p>
-<p>高中生活不是很如意呢，在新的学校负责人的<del>高压</del>领导之下，人人都不得不感叹：<strong>NBFLS</strong>变了，变成<strong>答辩</strong>了(x，而同班的人们也是让人一言难尽…每天讲话跟说谜语一样的班主任，那严重失调的班级男女比例（文创班，你懂的。Female:40, Male:8），还有我真的无法理解为什么体育课都会有那么多人在写作业!）曾经热闹的操场和体育馆现如今在<em>阳光体育</em> 结束后冷冷清清。先别说操场上跑步的人了，就连打篮球的也一直只有三三两两的初中部的人儿。除去体育课外，球场就没有被占满的日子…别人心中所想的，似乎只有写作业写作业写作业。无语了😶…  </p>
-<p>所以，我十分感谢一直在联系我的初中和小学同学们，以及我在高中为数不多的挚友，还有<em>亲爱</em> 的网友们是你们在这个<strong>答辩</strong>环境中给予我以慰藉，让我有整装待发的动力。<br>高中生活似乎也不过就是这些日子，逝者如斯夫，三年寒窗<del>苦读</del>后，又是一场大<del>尻</del>考。在新的一年，与君共勉！  </p>
-<h3 id="线上"><a href="#线上" class="headerlink" title="线上"></a>线上</h3><br>
-
-<p>认识<a href="https://blog.chihuo2104.dev/#/">chihuo</a>后，他把我拉进了<strong>香子兰</strong>群，然后就认识了<a href="https://nekomoe.xyz/">柏园猫</a>，<a href="https://littlesunnybear.com/">bear</a>，<a href="https://mzwing.eu.org/">mzwing</a>，<a href="https://atri.tk/">猫猫</a>，<a href="https://杨冬.top/">杨冬冬</a>，<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>，<a href="https://mk1.io/">Ray</a>，666999HC，<a href="https://github.com/JJ-Shep">Elusive丹泰</a>，<a href="https://github.com/yingyouyu">sfs</a>等群友 ( 好像还有已经不在了的Mike Hey,乐(x) ） 。谢谢你们一年以来<del>（其实大概好像差不多是半年）</del>的陪伴，新年快乐！！✨  </p>
-<hr>
-<h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>此处再次向<a href="https://blog.chihuo2104.dev/#/">chihuo</a>致谢~</p>
-<ul>
-<li><a href="https://skyline.github.com/MujiTogawa/2022">2022 Github Skyline</a></li>
-</ul>
-<p>今年刚刚正式接触coding，但也没做什么咩  </p>
-<ul>
-<li>为<a href="https://github.com/bbg-contributors/bbg">静态博客生成器bbg</a>做了Changelog和Third-party theme edit的文档翻译  </li>
-<li>学校的STEM小项目<a href="https://github.com/MujiTogawa/Genius-Plant-Master">智能植物小管家</a>（其实coding部分基本上都是<a href="https://blog.chihuo2104.dev/#/">chihuo</a>做的…）</li>
-<li>用Github Pages+Hexo搭建了现在的小blog<ul>
-<li>包括Blog-Log在内，<del>氵</del>写了5篇小文章</li>
-</ul>
-</li>
-<li>学习了用Markdown编写文档</li>
-<li>学习了Git的小小基础</li>
-<li>参考<code>Python编程：从入门到实践（第2版）</code>一书，自学了一点点Python基础</li>
-<li>参考<a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs</a>学了一点点点HTML和CSS基础（中的基础（x</li>
-</ul>
-<p>至于立给2023年的Flag，，，</p>
-<ul>
-<li>继续学Python（毕竟要高考的嘛</li>
-<li>继续学HTML+CSS</li>
-<li>学一点JS</li>
-<li>勤更小blog</li>
-<li>去Github上找一些小项目contribute~</li>
-<li>以上</li>
-</ul>
-<hr>
-<h2 id="书影音"><a href="#书影音" class="headerlink" title="书影音"></a>书影音</h2><br>
-
-<p>今年我书影音的主要记录工具还是<strong>豆瓣</strong>，毕竟三合一比较方便。尝试着去使用过IMDB+BANGUMI+Last FM的奇葩记录组合，但个人感觉还是豆瓣方便（虽然现如今豆瓣也快成<strong>答辩</strong>了…)，而且主要是豆瓣能提供<em>书</em> 的记录，目前暂时还找不到替代品。Bangumi姑且还是会去注册并使用的，但是补充观看数据太惹人烦惹~</p>
-<hr>
-<h3 id="书"><a href="#书" class="headerlink" title="书"></a>书</h3><br>
-
-<p>先上数据罢~  </p>
-<p><img data-src="https://ttfou.com/images/2023/01/01/bfe452429b24184c5bbd6316511267da.jpg" alt="Books" title="Books">  </p>
-<ul>
-<li><code>红拂夜奔  王小波  十月文艺出版社</code> 纸质书</li>
-<li><code>长日将尽  石黑一雄  上海译文出版社</code> 纸质书</li>
-<li><code>发条橙  安东尼·伯吉斯  译林出版社</code> 纸质书</li>
-<li><code>上升的一切必将汇合  弗兰纳里·奥康纳 新星出版社</code> 纸质书</li>
-<li><code>寂寞的游戏  袁哲生  北京联合出版公司</code> 纸质书</li>
-<li><code>白银时代  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>通往夏天的隧道,再見的出口  八目迷  東立</code> 电子书</li>
-<li><code>红楼梦  曹雪芹  人民文学出版社</code> 纸质书</li>
-<li><code>这些人，那些事  吴念真  译林出版社</code> 电子书</li>
-<li><code>强风吹拂  三浦紫苑  广西师范大学出版社</code> 电子书</li>
-<li><code>目送  龙应台  生活·读书·新知三联书店</code> 电子书</li>
-<li><code>当我们谈论爱情时我们在谈论什么  雷蒙德·卡佛  译林出版社</code> 纸质书</li>
-<li><code>沉默的大多数  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>分成两半的子爵  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li>
-<li><code>不存在的骑士  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li>
-<li><code>看见与被看见 : 《书城》精选（一）  上海三联书店</code> 纸质书</li>
-<li><code>有象 : 《书城》精选（二）  上海三联书店</code> 纸质书</li>
-<li><code>白棉花 : 莫言中篇小说精品系列4  莫言  浙江文艺出版社</code> 纸质书</li>
-<li><code>绿毛水怪  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>文学的事件  何成洲、但汉松、主编  南京大学出版社</code> 纸质书</li>
-<li><code>悉达多 : 一首印度的诗  赫尔曼·黑塞  天津人民出版社</code> 纸质书</li>
-<li><code>革命时期的爱情  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>さよなら絵梨  藤本 タツキ  集英社</code> 电子书</li>
-</ul>
-<p>2022读的书真不算多阿，，，</p>
-<hr>
-<h3 id="影"><a href="#影" class="headerlink" title="影"></a>影</h3><br>
-
-<p>上图！  </p>
-<p><img data-src="https://ttfou.com/images/2023/01/01/5bbcb99c7eb0d9c3961ead1633b5fa09.jpg" alt="Movies" title="Movies">  </p>
-<br>
-
-<p>破案！<br>看书少的原因是看番看太多辣，，，上图中的“剧集：68”中基本上都是动漫啦，还不包括剧场版，，，  </p>
-<p>值得推荐的：</p>
-<p>动漫：</p>
-<ul>
-<li><code>氷菓</code></li>
-<li><code>かぐや様は告らせたい～天才たちの恋愛頭脳戦～</code></li>
-<li><code>さくら荘のペットな彼女</code></li>
-<li><code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></li>
-<li><code>STEINS;GATE</code></li>
-<li><code>ノラガミ</code></li>
-<li><code>劇場版 空の境界 第五章 矛盾螺旋</code></li>
-<li><code>ゴールデンカムイ</code></li>
-<li><code>ヱヴァンゲリヲン新劇場版：破</code></li>
-<li><code>四畳半神話大系</code></li>
-<li><code>るろうに剣心 -明治剣客浪漫譚- 追憶編</code></li>
-<li><code>モブサイコ100</code></li>
-<li><code>キルラキル</code></li>
-<li><code>PSYCHO-PASS サイコパス</code></li>
-<li><code>東のエデン /</code></li>
-<li><code>輪るピングドラム</code></li>
-<li><code>傷物語</code></li>
-<li><code>リコリス・リコイル</code></li>
-</ul>
-<p>电影就不写推荐了哈哈~</p>
-<hr>
-<h3 id="音"><a href="#音" class="headerlink" title="音"></a>音</h3><br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/01/1b46e30c2e84c8c392d9877f3cb5ae64.jpg" alt="Music" title="Music"><br><img data-src="https://ttfou.com/images/2023/01/01/dc14486c4e2826434df10251b5ee459f.jpg" alt="NeteaseReport" title="NeteaseReport"></p>
-<br>
-
-<p>年度专辑推荐在之前的新年祝福里写过啦~ <a href="https://mujitogawa.github.io/posts/4ac7f78/#%F0%9F%8E%8A-%E5%B2%81%E6%9C%AB%E6%94%BE%E9%80%81%EF%BC%88-Xavier%EF%BC%89">点我直达！！</a></p>
-<hr>
-<h2 id="VAN♂游戏"><a href="#VAN♂游戏" class="headerlink" title="VAN♂游戏"></a>VAN♂游戏</h2><ul>
-<li><strong>Fallout:New Vegas</strong>(辐射：新维加斯)<br>Platform: PC<br>经典美式RPG，正在玩。游戏时长：15.5h。（玩之后发现自己有些晕3D，悲（<br></li>
-<li><strong>魔法使いの夜</strong>(魔法使之夜)<br>Platform: PC<br>今年刚出语音重置版，强推！！！但我玩的是老版（悲<br>可以算是玩的第一款Galgame吧，，不过没有H-scene。大体上算是Visual Novel。文字冒险类。与其它Galgame不同的是玩家没有选项，就真·视觉小说呗（x<br></li>
-<li><strong>Kingdom Rush</strong>(王国保卫战)<br>Platform: PC&amp;Android<br>被初中同学安利的游戏。塔防类。目前出了4代，第四代正在玩。<br></li>
-<li><strong>Bleach VS Naruto</strong>(死神VS火影)<br>Platform: PC<br>即时格斗类同人游戏。之前初中在信息课上一直和同学们玩，挺乐（x。目前正式版是出到了版本<code>3.6sp9Xmas</code>（对，是之前圣诞节发布的圣诞节ver.）基于flash制作，而基于Unity制作的<code>4.0beta</code>版也已经发布了。（听说bug比较多…)<br></li>
-<li><strong>東方非想天則 〜 超弩級ギニョルの謎を追え</strong>(东方非想天则)<br>Platform: PC<br>东方Project即时格斗类同人游戏，是香子兰的群友<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>拉我入坑的，目前还很菜，连段不会打，人机也打不过（x</li>
-</ul>
-<hr>
-<h2 id="目前使用的设备"><a href="#目前使用的设备" class="headerlink" title="目前使用的设备"></a>目前使用的设备</h2><br>
-
-<ul>
-<li>Apple iPhone 7</li>
-<li>Apple iPad Air</li>
-<li>Dell Insperation 5570<br>配置如下：<br><code>CPU: i5-8250U@1.60GHz 1.80 GHz(4C+8T)</code><br><code>RAM: 12GB DDR4 2400MHz(4GB+8GB)</code><br><code>Disk: 1TB SATA HDD</code><br><code>GPU: UHD620 + R7 M460</code><br><code>Screen: 1920x1080 60Hz</code><br><code>System: Windows 10 22H2</code></li>
-<li>Sony Walkman A55 (DAP)</li>
-<li>Philips SA1508 (DAP)</li>
-<li>DUNU Titan S (Earphone)</li>
-<li>Apple Earpod (Earphone)</li>
-<li>Skyworth-unknown (TV&amp;Screen)  </li>
-<li>Huawei Watch GT2 (Smart Watch)</li>
-</ul>
-<hr>
-<h2 id="运动"><a href="#运动" class="headerlink" title="运动"></a>运动</h2><br>
-
-<h3 id="田径"><a href="#田径" class="headerlink" title="田径"></a>田径</h3><br>
-
-<p>今年的总跑量大概在300km左右，使用Huawei Watch GT2以及（华为）运动与健康APP记录</p>
-<ul>
-<li>中考体测1000m：3:08:47(电记)</li>
-<li><strong>400m</strong> PB：0:59:11(电记)于校运动会创下</li>
-<li><strong>1000m</strong> PB：3:05:xx(手记)在初三创下</li>
-<li><strong>1500m</strong> PB：4:50:36(电记)于市运动会创下</li>
-<li><strong>3000m</strong> PB：11:03:39(电记)于市运动会创下</li>
-</ul>
-<br>
-
-<h4 id="校运动会"><a href="#校运动会" class="headerlink" title="校运动会"></a>校运动会</h4><p><strong>NBFLS</strong>普高部的体育就是<strong>答辩</strong>啊！连我都可以拿牌子（x<br>鉴于文科创新班悬殊的男女比例，校领导决定该班的男同志每人可以报名3个个人项目（其它班限定是每人2个）然后，我就有了7个项目（x，最后只参加了5个）</p>
-<ul>
-<li>400m</li>
-<li>三级跳远</li>
-<li>4x400m</li>
-</ul>
-<p>其中三级跳远再此之前我连规则都不知道。。。</p>
-<blockquote>
-<p>班主任：别人也不知道规则的，我们重在参与<br>我：*****</p>
-</blockquote>
-<p>然后我就自己瞎琢磨，也没去请教别人，也没看视频教学。瞎练了2个星期，结果连女生的沙坑都进不了…小腿胫骨还死疼死疼的  </p>
-<p>但在运动会前最后一个星期，我终于进坑了。女坑。。而与我一起参加的那位同班怨种同学就没那么幸运了，他不仅没进坑，还把jio崴了…  </p>
-<p>然后，我就拿了银牌，第一是体育生。<strong>NBFLS</strong>你真的就这吗？！</p>
-<p><img data-src="https://ttfou.com/images/2023/01/01/80d6af036878888aca81eca0b9c98972.jpg" alt="银牌" title="银牌"></p>
-<p>另外，出乎意料地，400m也冲进了决赛，最终夺铜。<br><strong>NBFLS</strong>的体育就是<strong>答辩</strong>(x</p>
-<p><img data-src="https://ttfou.com/images/2023/01/01/19f1a05b9632f638eede3ea642eb6328.jpg" alt="铜牌" title="铜牌"></p>
-<hr>
-<h4 id="市运动会"><a href="#市运动会" class="headerlink" title="市运动会"></a>市运动会</h4><p>参加市运动会也存粹是个意外。<br>刚开学时候，一天在寝室，隔壁寝室，也是隔壁班的一个同学（就是那位三级跳第一的体育生）突然向我发问：</p>
-<blockquote>
-<p>体育生：你有兴趣来参加田径社吗？训练量不大的，就可能会有个小比赛。<br>我：好呀好呀~</p>
-</blockquote>
-<p>然后就都知道了吧…确实<strong>NBFLS</strong>的田径社不单单训练量不大，而且是根本没有训练。然后在市运动会前两个星期：</p>
-<blockquote>
-<p>体育老师：你们要参加市运动会的，知道的嗷。下礼拜身份证带一下，我给你们报名。<br>我：。。？？？！！！！┗|｀O′|┛ 嗷~</p>
-</blockquote>
-<p>最后结果还过得去吧，至少没有最后一名（x，明年继续（x</p>
-<p>*注：2022年的市运动会在<strong>NBFLS</strong>举行</p>
-<br>
-
-<p><strong>1500m</strong> 小组：9/15; 总名次：16/29; 用时：4:50:36(电记)<br><img data-src="https://ttfou.com/images/2022/12/31/91534e6a7cb3c3d1571899992427bb2d.jpg" alt="1500m" title="1500m"></p>
-<br>
-
-<p><strong>3000m</strong> 小组：6/13; 总名次：15/27; 用时：11:03:39(电记)<br><img data-src="https://ttfou.com/images/2022/12/31/b987a75a1e6e5ec33a91ebe7fa64c8d5.jpg" alt="3000m" title="3000m"></p>
-<br>
-
-<p>留念啦~</p>
-<p><img data-src="https://ttfou.com/images/2022/12/31/76854c8ce5a6d02dd4b3880cd4876ccb.jpg" alt="留念" title="留念"><br>*注：图中这双橙色的<strong>Asics MetaSpeed Sky</strong>是我的市运动会战靴，在此感谢将它借予我的<strong>K</strong>同学~</p>
-<hr>
-<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><br>
-
-<h4 id="鞋子"><a href="#鞋子" class="headerlink" title="鞋子"></a>鞋子</h4><p>今年新买了三双鞋子</p>
-<ul>
-<li><strong>361 Spire S</strong> (慢跑综合训练)</li>
-<li><strong>乔丹体育 飞影</strong> (速度训练)</li>
-<li><strong>乔丹体育 Titan 3</strong> (篮球)</li>
-</ul>
-<p>来上图~</p>
-<ol>
-<li><strong>361 Spire S</strong><br><img data-src="https://ttfou.com/images/2022/12/31/1535df57e6a3f3267696d5badbec80bd.jpg" alt="361" title="361"><br>这双鞋买来主要是为了替代我那两双日益战损的<strong>Asics Gel Flux4</strong>的。<br>定位是支撑+顶缓。<br>使用下来上限比<strong>Asics Gel Flux4</strong>要高。综合训练加速时不拖沓，前掌也不泄力<br>但是感觉并不是十分适合我这样的小体重跑者，另外前掌偏薄，偏窄，也不怎么耐磨，更适合中后掌跑法的朋友们。</li>
-</ol>
-<p>*题外话：这双鞋我买来一个多月后就发布了二代，听说提升挺大。发布后这双也立马降价，血亏！</p>
-<hr>
-<p>2.<strong>乔丹体育 飞影</strong><br>  <img data-src="https://ttfou.com/images/2022/12/31/f8a3b84d49dac339239b487f4d0966af.jpg" alt="飞影" title="飞影"><br>这是我的第一双厚底跑鞋，（注意是<strong>飞影训练版一代</strong>，不是<strong>飞影PB</strong>）。初上jio这体验真的绝了。这透气！这轻质！这缓震！这回弹！这价格！我直接吹爆！！然后跑了两个多月，天哪，这泡棉，中底衰竭，亲妈都不认了，什么叫判若两鞋阿（x<br>所以说选购建议：小体重跑者，有一定跑步基础的有多双训练鞋的朋友的夏季训练鞋之一。其实能别买就别买啦，不管是一代还是二代。真的看重性价比的就去买<strong>飞影PB 2.0</strong>。</p>
-<hr>
-<p>3.<strong>乔丹体育 Titan 3</strong><br>  <img data-src="https://ttfou.com/images/2022/12/31/27821ce5679e7b703b672d0a6fd26ead.jpg" alt="Titan3" title="Titan3"><br>我的第一双篮球鞋，体育课报了篮球，遂去买了一双。高性价比的产物。中规中矩。买的篮球鞋仅此一双，也不好评价。</p>
-<hr>
-<h4 id="羽毛球"><a href="#羽毛球" class="headerlink" title="羽毛球"></a>羽毛球</h4><br>
-
-<p>羽毛球偶尔打打。今年买了（其实是我爸买来（给自己玩（x））两幅拍子</p>
-<ul>
-<li><strong>Yonex NF700</strong> (4U)</li>
-<li><strong>Yonex Arc-11</strong>(弓11) (3U)</li>
-</ul>
-<p>之前家里都是<strong>凯胜</strong>和<strong>李宁</strong>的拍子。<strong>Yonex</strong>的买来尝尝鲜。<br>羽毛球的话用的是<strong>Yonex AS-05</strong>和红<strong>威肯</strong>  </p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链~🎉"></a>欢迎交流评论加友链~🎉</h2><p>谢谢你有耐心读到这里⭐再次祝各位新年快乐呀~</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>从冒犯与被冒犯谈起</title>
+      <link href="/posts/a4135b5b/"/>
+      <url>/posts/a4135b5b/</url>
+      
+        <content type="html"><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center><span id="more"></span><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p><h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p><h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p><h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p><br><h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br><center><font size="8">烧吧！</font></center>  <br><h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>]]></content>
+      
+      
       <categories>
-        <category>碎碎念</category>
+          
+          <category> 碎碎念 </category>
+          
+          <category> 随笔 </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>展望</tag>
-        <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
-<span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
-<hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
-<hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> EVA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>已经过去的一月的小结</title>
+      <link href="/posts/75ee39bd/"/>
+      <url>/posts/75ee39bd/</url>
+      
+        <content type="html"><![CDATA[<center>抓住冬天的小尾巴~</center><span id="more"></span><h2 id="是正文嗷"><a href="#是正文嗷" class="headerlink" title="是正文嗷"></a>是正文嗷</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>由于疫情，一月份的大多数时间是在家中，也就意味着是在网络上度过的。原本定于一月初的市统考也由此推迟到了开学后（ 也就是在一个星期之后（2.15） ）。然而网课以及寒假期间，我并没有选择去完全的认认真真听课、做笔记、写作业<del>难得的摸鱼🦑机会谁会愿意错过呢？</del>，所以课内的学业进展或多或少的是落下了。至于那不可能做完的寒假作业，也自然是没有完成，还好班主任没有过多追究。在我写下这段文字的时候，<strong>NBFLS</strong>普高部 都已经开课（线下）一个星期了。可能因为都是复习课的缘故，在三大主科（语数英）和我的选考科目（政地技）方面，我并没有感觉有多少疑难，只是写作业的手感大大不如从前了。但是所幸刚刚开学，各位老师们也都比较 <em>仁慈</em> <del>即便像我这样，语文物理生物作业不写不上交也不会来催促</del>。算是谢天谢地了吧。</p><h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p><strong>NBFLS</strong>普高部 的寒假只有13天，所以在网课期间“兴风作浪”也便成为了像我这样<del>不爱学习</del>的懒人们的选择。<br>以下便是我的一月份的“战况”(按时间排序)：</p><h4 id="影"><a href="#影" class="headerlink" title="影"></a>影</h4><p>果不其然，动漫还是占据了大部分。<del>看动漫什么的网课摸鱼最爽了</del></p><ul><li><p><strong>电影</strong></p><ul><li><code>独行月球</code> <em><strong>22/100</strong></em></li><li><code>マルドロールの歌 / 马尔多罗之歌</code> <em><strong>81/100</strong></em></li><li><code>乱 (黑泽明)</code> <em><strong>97/100</strong></em></li><li><code>The Dark Knight /蝙蝠侠：黑暗骑士</code> <em><strong>92/100</strong></em></li><li><code>2001: A Space Odyssey / 2001太空漫游</code> <em><strong>93/100</strong></em></li><li><code>Loving Vincent / 至爱梵高·星空之谜</code> <em><strong>90/100</strong></em></li><li><code>Scent of a Woman / 闻香识女人</code> <em><strong>89/100</strong></em></li></ul></li><li><p><strong>动漫</strong></p><ul><li><code>境界の彼方 / 境界的彼方</code> <em><strong>87/100</strong></em></li><li><code>月刊少女野崎くん / 月刊少女野崎君</code> <em><strong>83/100</strong></em></li><li><code>暗殺教室 / 暗杀教室</code> <em><strong>88/100</strong></em></li><li><code>ダンジョンに出会いを求めるのは間違っているだろうか / 在地下城寻求邂逅是否搞错了什么</code> <em><strong>64/100</strong></em></li><li><code>Cyberpunk: Edgerunners / 赛博朋克：边缘行者</code> <em><strong>92/100</strong></em></li><li><code>劇場版 輪るピングドラム［前編］君の列車は生存戦略 / 回转企鹅罐 剧场版 前篇 你的列车是生存战略</code> <em><strong>87/100</strong></em></li><li><code>サクラダリセット / 重启咲良田</code> <em><strong>96/100</strong></em></li><li><code>ノラガミ ARAGOTO / 野良神 第2季</code> <em><strong>91/100</strong></em></li><li><code>メイドインアビス / 来自深渊</code> <em><strong>90/100</strong></em></li><li><code>メイドインアビス 烈日の黄金郷 / 来自深渊：烈日的黄金乡</code> <em><strong>67/100</strong></em></li><li><code>ゴールデンカムイ 3期 / 黄金神威 第三季</code> <em><strong>93/100</strong></em></li><li><code>ハロー・ワールド / HELLO WORLD</code> <em><strong>78/100</strong></em></li><li><code>カイト / A KITE</code> <em><strong>85/100</strong></em></li><li><code>荒川アンダー ザ ブリッジ×ブリッジ / 荒川爆笑团 第二季</code> <em><strong>94/100</strong></em></li><li><code>Serial Experiments: Lain / 玲音</code> <em><strong>98/100</strong></em></li></ul></li></ul><h4 id="音"><a href="#音" class="headerlink" title="音"></a>音</h4><p>专辑基本上都是在网课期间听的，基本每天一张的速度。当然也有几天听的特别多。<br>Blog的文章中也有一篇<a href="https://mujitogawa.github.io/posts/1f99454c/">关于<strong>REDЯUM</strong>乐队的科普安利文（点我直达）</a>。</p><ul><li><p><strong>1月听的专辑</strong></p><ul><li><code>Funeral - Arcade Fire</code> <em><strong>93/100</strong></em></li><li><code>剃刀乙女 - 青葉市子</code> <em><strong>92/100</strong></em></li><li><code>Plastic Love - Mariya Takeuchi</code> <em><strong>86/100</strong></em></li><li><code>华北浪革 - 刘森</code> <em><strong>60/100</strong></em></li><li><code>浪潮上岸 / Tears In Ocean - 橘子海 Orange Ocean</code> <em><strong>68/100</strong></em></li><li><code>Three of a Perfect Pair - King Crimson</code> <em><strong>85/100</strong></em></li><li><code>Getz/Gilberto - Stan Getz,Joao Gilberto,Antônio Carlos Jobim,Astrud Gilberto,Luiz Bonfá</code> <em><strong>91/100</strong></em></li><li><code>如意里 - 白象</code> <em><strong>78/100</strong></em></li><li><code>Mirage - Came</code> <em><strong>89/100</strong></em></li><li><code>PACIFIC / Paraiso - 細野晴臣</code> <em><strong>90/100</strong></em></li><li><code>Projections - The Blues Project</code> <em><strong>84/100</strong></em></li><li><code>Raising Hell - Run-D.M.C.</code> <em><strong>80/100</strong></em></li><li><code>鳴罹自成音盤 黄金バット / The Golden Bat - 東京キッド・ブラザーズ</code> <em><strong>93/100</strong></em></li><li><code>Answer songs - REDRUM</code> <em><strong>96/100</strong></em></li><li><code>NON BAND - NON BAND</code> <em><strong>79/100</strong></em></li><li><code>Richard D. James Album - Aphex Twin</code> <em><strong>94/100</strong></em></li><li><code>Mushi 虫 - THE STALIN / ザ・スターリン</code> <em><strong>82/100</strong></em></li><li><code>MELTING MOMENT / メルティング・モーメント - POiSON GiRL FRiEND</code> <em><strong>81/100</strong></em></li><li><code>The Dreaming - Kate Bush</code> <em><strong>92/100</strong></em></li><li><code>Midnight Theme - Manzel</code> <em><strong>94/100</strong></em></li><li><code>Meet the Residents - The Residents</code> <em><strong>90/100</strong></em></li></ul></li></ul><h4 id="书"><a href="#书" class="headerlink" title="书"></a>书</h4><p>1月没读完任何书，实是有些遗憾。<br>正在看的有一本：<code>信号 - [美] 蒂姆·高特罗（Tim Gautreaux） 程应铸 译</code></p><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><p>玩的不多<del>本来也就没有多少可以玩</del></p><ul><li><code>绯想天则</code> 和 群友 <a href="https://koishi514.ml/"><strong>sci</strong></a> 联机了一次，被完虐（乐。下次继续。<br>附：<a href="https://koishi514.ml/"><strong>sci</strong></a> 一直说要举办群 <code>绯想天则</code> 大赛（</li><li><code>辐射新维加斯</code> 废土邮差继续游荡中~ goes on and on and on. ~</li><li><code>アマツツミ / 天津罪</code> <a href="https://koishi514.ml/"><strong>sci</strong></a> 推荐的 Galgame。玩了个开头，1个cg都还没碰到（乐（x</li></ul><h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>如果你一直在关注我的Blog的话，应该会发现Blog的背景图片现在已经被我删去（想当初我是耗费了多少心思在上面啊），因为它实在是严重拖慢了网站的访问速度。<br>我在一月份里对Blog的大大小小的改动还是挺多的。<code>hexo clean &amp;&amp; hexo s -g</code> 已经快要按吐了(x)。一些主要的改动可以去Blog的 <a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong>页面（点我直达）</a>查看。虽说这些折腾多数是蛮无聊且无意义或未达成的，但从中我确实学到了许多。而这是那些乖乖上网课，跟着学校和老师走的同学所不可能得到的。<br>一月份共更新了<strong>六篇</strong>小博文，算是达成了当初给自己定下的“勤更小Blog”的flag。但2月份最多也估计只能周更了。时间实在是不够。就努力提高一下博文的质量吧<del>实现从量变到质变的转化(bushi)</del>。<br>此外，我还依照 <code>Python编程：从入门到实践（第2版）</code> 一书，自学了其中的大部分内容<del>（还不是为了技术选考吗）</del>。但可惜的是，（由于缺少实操(?)）有许多细节内容现在有些已经记忆不清楚了…等暑假再回顾一下，顺便搭一个基于<code>nonebot</code>架构的机器人来玩玩~</p><h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p>我在一月二十九日回到了 <strong>NBFLS</strong>普高部 开始进行所谓的 <em>研究性学习</em> 无非就是上课和开会听讲座。<br>讲座的话有两场。我就听了一场不到，因为这实在是浪费时间，也不过多解释了。</p><details> <summary>以下文字充满戾气，谨慎展开！</summary><p>但让人比较不满的就是 普高部负责人之一 <strong>张Lily</strong>(化名) 在第一次讲座结束之时“血口喷人”。只因有同学不满学校过早开课，在政府网站上投诉反馈意见，就被<strong>张Lily</strong> “贬为”<strong>罪人之流</strong>。<br>为什么要TM这样搞呢？原因很简单，就是因为<strong>张Lily</strong>低能，没能力，解决问题的方式只能付诸于咒骂与恐吓。所以我才中途（其实也差不多结束了）退场。我替<strong>张Lily</strong>的无能感到悲哀。</p><p><strong>大致原话意思</strong>：</p><p><em>现在，因为某些同学在开学前的某些行为，我们宁外普高部这艘船将要被按停。我只想对这些同学说，如果你们是无意的，那我只能说你们很幼稚；如果你们是有意的，那么我只能说你们又蠢又笨。你拥有请假的权利，拥有不读书的权利，但是你并没有按停我们宁外普高部这艘船的权利，你们的行为影响到了上级对我们的绩效考核，甚至影响到了我们的社会声誉。我是教历史的，大家都记得黄埔军校吧，为新民主主义革命时期贡献了许多人才，在它大门上面就有一个对联，升官发财请走他处，贪生怕死勿入私门，横批革命者来。以后我们也在普高部楼上也挂个对联，什么什么请走他处，什么什么勿入私门，横批想优秀的来，要学习的来。这件事情我希望下不为例，这些同学的所在班级的考核也会受到影响。</em></p></details><hr><p>最近的气温有些回升，我也终于脱下了穿着已久的笨重秋裤，双腿得以迈开。<br>我相信这就是幸福</p><h3 id="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"><a href="#最后预祝各位元宵节快乐。春天的脚步在慢慢临近了" class="headerlink" title="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"></a>最后预祝各位元宵节快乐。春天的脚步在慢慢临近了</h3><br><h2 id="欢迎评论交流加友链！"><a href="#欢迎评论交流加友链！" class="headerlink" title="欢迎评论交流加友链！"></a>欢迎评论交流加友链！</h2><p>都看到这儿了，不来聊几句吗？👇</p>]]></content>
+      
+      
       <categories>
-        <category>碎碎念</category>
-        <category>Blog-Log</category>
+          
+          <category> 碎碎念 </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>已经过去的一月的小结</title>
-    <url>/posts/75ee39bd/</url>
-    <content><![CDATA[<center>抓住冬天的小尾巴~</center>
-<span id="more"></span>
-
-<h2 id="是正文嗷"><a href="#是正文嗷" class="headerlink" title="是正文嗷"></a>是正文嗷</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>由于疫情，一月份的大多数时间是在家中，也就意味着是在网络上度过的。原本定于一月初的市统考也由此推迟到了开学后（ 也就是在一个星期之后（2.15） ）。然而网课以及寒假期间，我并没有选择去完全的认认真真听课、做笔记、写作业<del>难得的摸鱼🦑机会谁会愿意错过呢？</del>，所以课内的学业进展或多或少的是落下了。至于那不可能做完的寒假作业，也自然是没有完成，还好班主任没有过多追究。在我写下这段文字的时候，<strong>NBFLS</strong>普高部 都已经开课（线下）一个星期了。可能因为都是复习课的缘故，在三大主科（语数英）和我的选考科目（政地技）方面，我并没有感觉有多少疑难，只是写作业的手感大大不如从前了。但是所幸刚刚开学，各位老师们也都比较 <em>仁慈</em> <del>即便像我这样，语文物理生物作业不写不上交也不会来催促</del>。算是谢天谢地了吧。</p>
-<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p><strong>NBFLS</strong>普高部 的寒假只有13天，所以在网课期间“兴风作浪”也便成为了像我这样<del>不爱学习</del>的懒人们的选择。<br>以下便是我的一月份的“战况”(按时间排序)：</p>
-<h4 id="影"><a href="#影" class="headerlink" title="影"></a>影</h4><p>果不其然，动漫还是占据了大部分。<del>看动漫什么的网课摸鱼最爽了</del></p>
-<ul>
-<li><p><strong>电影</strong></p>
-<ul>
-<li><code>独行月球</code> <em><strong>22/100</strong></em></li>
-<li><code>マルドロールの歌 / 马尔多罗之歌</code> <em><strong>81/100</strong></em></li>
-<li><code>乱 (黑泽明)</code> <em><strong>97/100</strong></em></li>
-<li><code>The Dark Knight /蝙蝠侠：黑暗骑士</code> <em><strong>92/100</strong></em></li>
-<li><code>2001: A Space Odyssey / 2001太空漫游</code> <em><strong>93/100</strong></em></li>
-<li><code>Loving Vincent / 至爱梵高·星空之谜</code> <em><strong>90/100</strong></em></li>
-<li><code>Scent of a Woman / 闻香识女人</code> <em><strong>89/100</strong></em></li>
-</ul>
-</li>
-<li><p><strong>动漫</strong></p>
-<ul>
-<li><code>境界の彼方 / 境界的彼方</code> <em><strong>87/100</strong></em></li>
-<li><code>月刊少女野崎くん / 月刊少女野崎君</code> <em><strong>83/100</strong></em></li>
-<li><code>暗殺教室 / 暗杀教室</code> <em><strong>88/100</strong></em></li>
-<li><code>ダンジョンに出会いを求めるのは間違っているだろうか / 在地下城寻求邂逅是否搞错了什么</code> <em><strong>64/100</strong></em></li>
-<li><code>Cyberpunk: Edgerunners / 赛博朋克：边缘行者</code> <em><strong>92/100</strong></em></li>
-<li><code>劇場版 輪るピングドラム［前編］君の列車は生存戦略 / 回转企鹅罐 剧场版 前篇 你的列车是生存战略</code> <em><strong>87/100</strong></em></li>
-<li><code>サクラダリセット / 重启咲良田</code> <em><strong>96/100</strong></em></li>
-<li><code>ノラガミ ARAGOTO / 野良神 第2季</code> <em><strong>91/100</strong></em></li>
-<li><code>メイドインアビス / 来自深渊</code> <em><strong>90/100</strong></em></li>
-<li><code>メイドインアビス 烈日の黄金郷 / 来自深渊：烈日的黄金乡</code> <em><strong>67/100</strong></em></li>
-<li><code>ゴールデンカムイ 3期 / 黄金神威 第三季</code> <em><strong>93/100</strong></em></li>
-<li><code>ハロー・ワールド / HELLO WORLD</code> <em><strong>78/100</strong></em></li>
-<li><code>カイト / A KITE</code> <em><strong>85/100</strong></em></li>
-<li><code>荒川アンダー ザ ブリッジ×ブリッジ / 荒川爆笑团 第二季</code> <em><strong>94/100</strong></em></li>
-<li><code>Serial Experiments: Lain / 玲音</code> <em><strong>98/100</strong></em></li>
-</ul>
-</li>
-</ul>
-<h4 id="音"><a href="#音" class="headerlink" title="音"></a>音</h4><p>专辑基本上都是在网课期间听的，基本每天一张的速度。当然也有几天听的特别多。<br>Blog的文章中也有一篇<a href="https://mujitogawa.github.io/posts/1f99454c/">关于<strong>REDЯUM</strong>乐队的科普安利文（点我直达）</a>。</p>
-<ul>
-<li><p><strong>1月听的专辑</strong></p>
-<ul>
-<li><code>Funeral - Arcade Fire</code> <em><strong>93/100</strong></em></li>
-<li><code>剃刀乙女 - 青葉市子</code> <em><strong>92/100</strong></em></li>
-<li><code>Plastic Love - Mariya Takeuchi</code> <em><strong>86/100</strong></em></li>
-<li><code>华北浪革 - 刘森</code> <em><strong>60/100</strong></em></li>
-<li><code>浪潮上岸 / Tears In Ocean - 橘子海 Orange Ocean</code> <em><strong>68/100</strong></em></li>
-<li><code>Three of a Perfect Pair - King Crimson</code> <em><strong>85/100</strong></em></li>
-<li><code>Getz/Gilberto - Stan Getz,Joao Gilberto,Antônio Carlos Jobim,Astrud Gilberto,Luiz Bonfá</code> <em><strong>91/100</strong></em></li>
-<li><code>如意里 - 白象</code> <em><strong>78/100</strong></em></li>
-<li><code>Mirage - Came</code> <em><strong>89/100</strong></em></li>
-<li><code>PACIFIC / Paraiso - 細野晴臣</code> <em><strong>90/100</strong></em></li>
-<li><code>Projections - The Blues Project</code> <em><strong>84/100</strong></em></li>
-<li><code>Raising Hell - Run-D.M.C.</code> <em><strong>80/100</strong></em></li>
-<li><code>鳴罹自成音盤 黄金バット / The Golden Bat - 東京キッド・ブラザーズ</code> <em><strong>93/100</strong></em></li>
-<li><code>Answer songs - REDRUM</code> <em><strong>96/100</strong></em></li>
-<li><code>NON BAND - NON BAND</code> <em><strong>79/100</strong></em></li>
-<li><code>Richard D. James Album - Aphex Twin</code> <em><strong>94/100</strong></em></li>
-<li><code>Mushi 虫 - THE STALIN / ザ・スターリン</code> <em><strong>82/100</strong></em></li>
-<li><code>MELTING MOMENT / メルティング・モーメント - POiSON GiRL FRiEND</code> <em><strong>81/100</strong></em></li>
-<li><code>The Dreaming - Kate Bush</code> <em><strong>92/100</strong></em></li>
-<li><code>Midnight Theme - Manzel</code> <em><strong>94/100</strong></em></li>
-<li><code>Meet the Residents - The Residents</code> <em><strong>90/100</strong></em></li>
-</ul>
-</li>
-</ul>
-<h4 id="书"><a href="#书" class="headerlink" title="书"></a>书</h4><p>1月没读完任何书，实是有些遗憾。<br>正在看的有一本：<code>信号 - [美] 蒂姆·高特罗（Tim Gautreaux） 程应铸 译</code></p>
-<h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><p>玩的不多<del>本来也就没有多少可以玩</del></p>
-<ul>
-<li><code>绯想天则</code> 和 群友 <a href="https://koishi514.ml/"><strong>sci</strong></a> 联机了一次，被完虐（乐。下次继续。<br>附：<a href="https://koishi514.ml/"><strong>sci</strong></a> 一直说要举办群 <code>绯想天则</code> 大赛（</li>
-<li><code>辐射新维加斯</code> 废土邮差继续游荡中~ goes on and on and on. ~</li>
-<li><code>アマツツミ / 天津罪</code> <a href="https://koishi514.ml/"><strong>sci</strong></a> 推荐的 Galgame。玩了个开头，1个cg都还没碰到（乐（x</li>
-</ul>
-<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>如果你一直在关注我的Blog的话，应该会发现Blog的背景图片现在已经被我删去（想当初我是耗费了多少心思在上面啊），因为它实在是严重拖慢了网站的访问速度。<br>我在一月份里对Blog的大大小小的改动还是挺多的。<code>hexo clean &amp;&amp; hexo s -g</code> 已经快要按吐了(x)。一些主要的改动可以去Blog的 <a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong>页面（点我直达）</a>查看。虽说这些折腾多数是蛮无聊且无意义或未达成的，但从中我确实学到了许多。而这是那些乖乖上网课，跟着学校和老师走的同学所不可能得到的。<br>一月份共更新了<strong>六篇</strong>小博文，算是达成了当初给自己定下的“勤更小Blog”的flag。但2月份最多也估计只能周更了。时间实在是不够。就努力提高一下博文的质量吧<del>实现从量变到质变的转化(bushi)</del>。<br>此外，我还依照 <code>Python编程：从入门到实践（第2版）</code> 一书，自学了其中的大部分内容<del>（还不是为了技术选考吗）</del>。但可惜的是，（由于缺少实操(?)）有许多细节内容现在有些已经记忆不清楚了…等暑假再回顾一下，顺便搭一个基于<code>nonebot</code>架构的机器人来玩玩~</p>
-<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p>我在一月二十九日回到了 <strong>NBFLS</strong>普高部 开始进行所谓的 <em>研究性学习</em> 无非就是上课和开会听讲座。<br>讲座的话有两场。我就听了一场不到，因为这实在是浪费时间，也不过多解释了。</p>
-<details> <summary>以下文字充满戾气，谨慎展开！</summary>
-
-<p>但让人比较不满的就是 普高部负责人之一 <strong>张Lily</strong>(化名) 在第一次讲座结束之时“血口喷人”。只因有同学不满学校过早开课，在政府网站上投诉反馈意见，就被<strong>张Lily</strong> “贬为”<strong>罪人之流</strong>。<br>为什么要TM这样搞呢？原因很简单，就是因为<strong>张Lily</strong>低能，没能力，解决问题的方式只能付诸于咒骂与恐吓。所以我才中途（其实也差不多结束了）退场。我替<strong>张Lily</strong>的无能感到悲哀。</p>
-</details>
-
-<hr>
-<p>最近的气温有些回升，我也终于脱下了穿着已久的笨重秋裤，双腿得以迈开。<br>我相信这就是幸福</p>
-<h3 id="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"><a href="#最后预祝各位元宵节快乐。春天的脚步在慢慢临近了" class="headerlink" title="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"></a>最后预祝各位元宵节快乐。春天的脚步在慢慢临近了</h3><br>
-
-<h2 id="欢迎评论交流加友链！"><a href="#欢迎评论交流加友链！" class="headerlink" title="欢迎评论交流加友链！"></a>欢迎评论交流加友链！</h2><p>都看到这儿了，不来聊几句吗？👇</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在NexT主题下设置友链的一种高效方法</title>
+      <link href="/posts/a676ca7a/"/>
+      <url>/posts/a676ca7a/</url>
+      
+        <content type="html"><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p><span id="more"></span><div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p></div><hr><h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p><h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img data-src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p><br><hr><h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p></div><br><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul><li><p><input checked="" disabled="" type="checkbox"> 在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure></li><li><p><input checked="" disabled="" type="checkbox"> 在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li></ul><hr><h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p><p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p><br><h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure><p>! <strong>注意</strong></p><ul><li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li><li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li><li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li></ul><h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure><h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container"><object class="link-grid-image" data="/images/icon-blog-Me.png"></object><p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p><a href="https://mujitogawa.github.io/"></a></div><div class="link-grid-container"><object class="link-grid-image" data="/images/icon-blog-Me.png"></object><p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p><a href="https://mujitogawa.github.io/"></a></div></div><br><h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure><p>! <strong>注意</strong></p><ul><li>基本同上</li><li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li><li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li></ul><h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure><h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container"><object class="link-grid-image" data="/images/icon-blog-Me.png"></object><p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p><a href="https://mujitogawa.github.io/"></a></div><div class="link-grid-container"><object class="link-grid-image" data="/images/icon-blog-Me.png"></object><p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p><a href="https://mujitogawa.github.io/"></a></div></div><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul><li>简洁、高效、快速、人人可用</li><li>无需插件，无需编辑主题代码</li></ul><h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul><li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li><li>友链一多，图片加载就会慢</li><li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li></ul><hr><h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>]]></content>
+      
+      
       <categories>
-        <category>碎碎念</category>
+          
+          <category> 教程向 </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img data-src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> NexT </tag>
+            
+            <tag> 友链 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>🐇2023兔年快乐~</title>
+      <link href="/posts/68b54462/"/>
+      <url>/posts/68b54462/</url>
+      
+        <content type="html"><![CDATA[<blockquote class="blockquote-center">🧨🐇兔年终于（要）来力🧨🐇</blockquote>  <span id="more"></span><p>今天（指23.01.21）是<strong>大年三十</strong>。</p><p>好吧。现在是<strong>大年初一</strong>力（这篇博文拖了一整（农历）年才写完（x</p><p>首先，献上我最真挚的：</p><h2 id="兔年🐇快乐"><a href="#兔年🐇快乐" class="headerlink" title="兔年🐇快乐~"></a>兔年🐇快乐~</h2><h3 id="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊"><a href="#放烟花鞭炮一定要好好放，放得开心嗷🧨🎊" class="headerlink" title="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~"></a>放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~</h3><p>其实到这里，这篇小博文就可以结束了，但我<a href="https://mujitogawa.github.io/posts/db043193/">之前不是说过吗</a>，新的一年要少写氵文（。所以：</p><h2 id="㊣篇（？开始"><a href="#㊣篇（？开始" class="headerlink" title="㊣篇（？开始"></a>㊣篇（？开始</h2><br><h3 id="有关于chi的小红包冒险-v-e-r-2023-点我直达"><a href="#有关于chi的小红包冒险-v-e-r-2023-点我直达" class="headerlink" title="有关于chi的小红包冒险 v.e.r. 2023(点我直达)"></a>有关于<a href="https://blog.chihuo2104.dev/posts/rb-2023">chi的小红包冒险 v.e.r. 2023(点我直达)</a></h3><p><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的这个小活动现已经（差不多）结束了。<br>我瞎解出来了<strong>quiz1&amp;2</strong>，共计收到了￥0.30。<br>在此谢谢<del>慷慨大方的</del><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>（x<br>来自<a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的 <em>官方</em> 的题解也即将公布，所以<strong>连蒙带猜</strong>的我的 <em>蒟蒻</em> 题解就不发了哈哈哈~</p><p>正式题目有3道</p><ul><li><p><a href="https://rb.chihuo2104.dev/quiz1/"><strong>Quiz 1</strong> (点我直达)</a></p></li><li><p><a href="https://rb.chihuo2104.dev/9575566ef5933aee87ce1528ab8d53a40d479081405ec52c2e5c230619c3bb47b56bec4e0b446923a15d73279e6452373fef52ae36ddd354048822203bb57d63/"><strong>Quiz 2</strong> (点我直达)</a></p></li><li><p><a href="https://rb.chihuo2104.dev/qu3a09d0af3cc5b39dfbc81b43a34d67e68ce03/"><strong>Quiz 3</strong> (点我直达)</a></p></li></ul><br><h2 id="Muji的小碎碎念"><a href="#Muji的小碎碎念" class="headerlink" title="Muji的小碎碎念"></a>Muji的小碎碎念</h2><p>今年的<strong>春晚</strong>是真的一分钟没看。<br>正如<strong>豆瓣</strong>上的友邻所说的：</p><blockquote><p>总听到身边人说没什么坎儿是过不去的之类云云，以前不信，现在想想，中国人连春晚都看得下去，也确实是有够坚韧的</p></blockquote><p>明显的可以感觉到的是，<strong>春晚</strong>就是答辩。（确信<br>上个暑假应学校要求，做了一个社会调查，即是关于<strong>春晚</strong>的。以下便是那时候人们对春晚的意见的词云图之一：</p><p><img data-src="https://ttfou.com/images/2023/01/22/fd05b701d5e43c58f4683189d5f6587b.png" alt="chunwan" title="chunwan"></p><p><strong>不言而喻，一目了然</strong>，<br>貌似但凡是<strong>CCTV</strong>出品，最终定会变成答辩（</p><h2 id="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"><a href="#谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨" class="headerlink" title="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"></a>谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨</h2><p>都看到这儿了，咋还不留个评论？ <em><strong>QAQ</strong></em></p>]]></content>
+      
+      
       <categories>
-        <category>教程向</category>
+          
+          <category> 碎碎念 </category>
+          
+          <category> 祝福 </category>
+          
       </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
-    <url>/posts/1f99454c/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">“日本で PORTISHEAD みたいなバンドを作ろう！”</blockquote>  
-<span id="more"></span>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=29127073&amp;auto=1&amp;height=66"></iframe>  
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>现在是大数据时代了，但似乎在茫茫的信息流中发现<strong>REDЯUM</strong>乐队的人儿也不占多数。（不禁叹惋<br>初次与<strong>REDЯUM</strong>遇见还是在网易云音乐上。那时候的我还留有着听<em>每日歌曲推荐</em> 的习惯。然后就这样毫无征兆的，<strong>REDЯUM</strong>闯入了我的视界。</p>
-<p><strong>REDЯUM</strong>的取名或是来源于《<strong>闪灵</strong>》。REDЯUM，即为 MURDER (谋杀)一词的镜像。正如其名，<strong>REDЯUM</strong>的音乐给人一种“谋杀的冷感” —— 冷淡，像是深邃的蓝与苍绿的黑交织的漩涡，却又不冰冷透骨，丝毫没有阴森森的感觉。<strong>梶原幸嗣</strong>强大而又准确的鼓点深入骨髓，侵蚀内脏；吉他和贝斯的声音一丝一缕地（不知这样形容是否准确）无限下溺，十分漂亮；而主唱 <strong>來山裕美</strong> 的声音，更像是游走在梦幻与现实的边界，饱满，而不失空灵，一尘不染的干净、大气。遂让我由衷觉得日语或许是“世界上最温柔的语言”…</p>
-<p><img data-src="https://ttfou.com/images/2023/01/18/0da7cb3ea6aab68c12792794d77728b7.png" alt="REDЯUM" title="REDЯUM"><br>  $ sreenshot from <em>The Shining</em></p>
-<hr>
-<hr>
-<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><h3 id="Members"><a href="#Members" class="headerlink" title="Members"></a>Members</h3><p>Vocal：<strong>來山 裕美</strong> (Yumi Kitayama)<br>Bass：<strong>外 浩司</strong> (Hiroshi Soto)<br>Guitar：<strong>武内 剛</strong> (Tsuyoshi Takeguchi)<br>Drum Sets：<strong>梶原 幸嗣</strong> (Koji Kajiwara)</p>
-<details><summary>Former Members（点我查看</summary>
-
-<p><strong>Jyunji</strong>  (Bass 1996)<br><strong>平林直己</strong> Hirabayashi Naoki  (Bass 2005)<br><strong>本田由弥</strong> Honda Yuuya (Bass 2005-2006)</p>
-</details>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/93ebb6ec211f1f223d1e5a69f6c01469.jpg" alt="Members" title="Members"></p>
-<p>$ 从左往右，依次为：<em>武内剛</em>、<em>來山裕美</em>、<em>梶原幸嗣</em>、<em>外浩司</em></p>
-<br>
-
-<hr>
-<h3 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h3><p><strong>REDЯUM</strong>（1996-2006；2007-2009）是一支日本独立摇滚乐队，风格主要为 <em>Trip-Hop</em> 。<strong>REDЯUM</strong>成立于1996年，其目标是 “成为类似于日本的<strong>Portishead</strong>” 这样的乐队。他们的作品只包括几张正式专辑，几张迷你专辑和超大单曲。部分版本仅通过邮购或在他们的演出中获得，并且此后已绝版。  </p>
-<p><strong>REDЯUM</strong>的歌曲中偶尔会出现反向播放的台词，这可能是对《<strong>闪灵</strong>》致敬，但也很可能是对<strong>David Lynch</strong>(大卫·林奇) 的连续剧《<strong>双峰</strong>》中红房间的序列的致敬 (《双峰》讲述了与小镇谋杀案有关的奇怪事件)。乐队成员，特别是<strong>梶原幸嗣</strong>，欣赏<strong>David Lynch</strong>和<strong>David Cronenberg</strong>(大卫·柯南伯格) 的作品。这在他们的许多歌曲中都有体现。</p>
-<p><strong>REDЯUM</strong>的部分灵感来自于西方的 Red Hot Chili Peppers, John Frusciante, Radiohead, Portishead, Massive Attack, Aphex Twin，Björk等等。<br>在日本本土，他们从honeydip，the Back Horn，nil，Cock Roach，Anoyo，Durga等同时代的独立音乐团体，以及Gastunk，the Blue Hearts，ARB，the Roosters和the Stalin等20世纪80年代的组合中汲取灵感。</p>
-<hr>
-<h3 id="Discography-Studio-Albums"><a href="#Discography-Studio-Albums" class="headerlink" title="Discography(Studio Albums)"></a>Discography(Studio Albums)</h3><details><summary>REDRUM (1999) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDRUM" title="REDRUM"></p>
-<ol>
-<li>Room</li>
-<li>Cherry pie</li>
-<li>The world is mine</li>
-<li>Desert Green</li>
-</ol>
-</details>
-
-<details><summary>Second Circle (2000) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/e2f2ff6334a212b07b60709ee4a3968f.jpg" alt="Second Circle" title="Second Circle"></p>
-<ol>
-<li>4 A.D. (4 ASIAN DOCUMENTS)</li>
-<li>SWALLOWING THE SUN</li>
-<li>CIRCLES</li>
-<li>BPM 2001</li>
-<li>PLANET OF YOUR SIXTH</li>
-<li>(untitled)</li>
-</ol>
-</details>
-
-<details><summary>Cronenberg (2001) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/b0482f0ea27e948f402097ccb5ec5a87.jpg" alt="Cronenberg" title="Cronenberg"></p>
-<ol>
-<li>航海(sea voyage)</li>
-<li>Time Trip</li>
-<li>時の支配者(ruler of time)</li>
-<li>Blue Velvet</li>
-<li>サイレント</li>
-<li>Car’s Crash</li>
-<li>Paralell Time Trip</li>
-</ol>
-</details>
-
-<details><summary>4 (2002) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/8464e89a6a181decc199e513a1e12013.jpg" alt="4" title="4"></p>
-<ol>
-<li>嘘と理想</li>
-<li>Abstracture</li>
-<li>Break Beats Error</li>
-<li>Phosight</li>
-<li>葉隠</li>
-</ol>
-</details>
-
-<details><summary>Arizona Dream (2003) </summary>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/d8850f644ccff89de43ca3e083428a1d.jpg" alt="Arizona Dream" title="Arizona Dream"></p>
-<ol>
-<li>Scorpio Rising</li>
-<li>アルタードステイツ</li>
-<li>水葬</li>
-<li>魚影の果て</li>
-<li>失われたハイウェイ</li>
-</ol>
-</details>
-
-<details><summary>Answer Songs (2004) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/435863460ea9a563713759c6ee985098.jpg" alt="Answer Songs" title="Answer Songs"></p>
-<ol>
-<li>Slider</li>
-<li>Sayonara Song</li>
-<li>Sorrow Flows The Midnight</li>
-<li>Sleep</li>
-</ol>
-</details>
-
-<details><summary>審美眼とパラドックス (2004) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/77bab8b5febd7e2ed5a2544ad2f7efd8.jpg" alt="審美眼とパラドックス" title="審美眼とパラドックス"></p>
-<ol>
-<li>逆光</li>
-<li>響きの森</li>
-<li>スライダー</li>
-<li>背中</li>
-<li>ユメノユメ</li>
-<li>紅く光る。</li>
-<li>鮮やかな色</li>
-<li>流れ星</li>
-<li>冬の匂い</li>
-<li>魂の花</li>
-</ol>
-</details>
-
-<details><summary>Tokyo (2007) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/25009419c915251641291ede53ec1408.jpg" alt="Tokyo" title="Tokyo"></p>
-<ol>
-<li>TOKYO</li>
-<li>under neon</li>
-<li>翳りの街</li>
-</ol>
-</details>
-
-<details><summary>Order From 1996 (2009) </summary>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/2233a24a5264efec14d7bfe5417847a5.jpg" alt="Order From 1996" title="Order From 1996"></p>
-<ol>
-<li>1996</li>
-<li>Sleeping Gypsy</li>
-<li>記憶の忘れ物</li>
-</ol>
-</details>
-
-<h4 id="Discography-Complete"><a href="#Discography-Complete" class="headerlink" title="Discography(Complete)"></a>Discography(Complete)</h4><details><summary>点击我查看</summary>
-
-<br>
-
-<p><strong>Albums</strong>:</p>
-<ul>
-<li>Second Circle (2000.04.28 ORA-1018)</li>
-<li>Cronenberg (2001.11.16)</li>
-<li>4 (2002.12.14)</li>
-<li>Too Young to Fall in Love (2003.06.11 IFRDU-0028)</li>
-<li>Arizona Dream (2003.12.16 IFRDU-0030)</li>
-<li>Shinbigan to Paradox (2004.12.08 IFRDU-0032)</li>
-</ul>
-<p><strong>Maxi-Singles</strong>:</p>
-<ul>
-<li>REDЯUM (1999.05.26)</li>
-<li>Answer Songs (2004.09.08 IFRDU-0031)</li>
-</ul>
-<p><strong>Singles</strong>:</p>
-<ul>
-<li>Touen no chikai | 2004.12.16</li>
-<li>Cherry Pie 2005ver. | 2005.09.03</li>
-<li>Utskushii kaze | 2005.10.23</li>
-<li>Jellico | 2005.12.03</li>
-<li>Bessekai | 2006.01.29</li>
-<li>Himitsu | 2006.02.25</li>
-<li>Tokyo | 2007.10.31</li>
-<li>Order from 1996 | 2009.04.15</li>
-</ul>
-<p><strong>Compilations</strong>:</p>
-<ul>
-<li>Grand Cross 1999 | 1999.08.11 (POCH-1818)</li>
-<li>Contributed the song ‘Namida’</li>
-<li>Parallel Side of Soundtract (2001.11.14 HDCA-10075)</li>
-<li>Contributed the song ‘Q’</li>
-<li>Mad for Sadness (2006.05.06)</li>
-<li>Search out the Jams: The Pogo Tribute Album (2008.10.08 THCA-064 )</li>
-<li>Contributed a cover of the song ‘Fallen Angel’</li>
-<li>Cinematic Sound Foundation (2008.11.19 FECD-0098)</li>
-</ul>
-<p><strong>Live Albums</strong>:</p>
-<ul>
-<li>Good Evening Wonderful Friends (2005.02.10)</li>
-<li>070422 (2007.07.22)</li>
-<li>Sad Song Classics (2008.02.01)</li>
-</ul>
-<p><strong>Live-Only or Mail-Order CDs</strong>:</p>
-<ul>
-<li>New Album (4) Release Party! (2002.12.14)</li>
-<li>Durga + Redrum remix CD (2006.02.25)</li>
-<li>Snow Bird (2009.05.28) released with first-press [Party Is Over] DVD</li>
-</ul>
-<p><strong>Video</strong>:</p>
-<ul>
-<li>Broken Jr. (2002.07.26)</li>
-<li>Car’s Crash (2002.08.15)</li>
-<li>Sentimental Journey (2002.08.23)</li>
-<li>Altered Stasis (2003.12.26)</li>
-<li>Live in Hong Kong: 2001.09.20 @ Queen Elizabeth Stadium (2004.08.29)</li>
-<li>End of Dogma (2006.06.11)</li>
-<li>Sad Song Classics (2008.02.01)</li>
-<li>Party is Over (2009.05.28)</li>
-<li>Last Utopia Under the Rain (2009.07.20)</li>
-</ul>
-</details>
-
-<br>
-
-<hr>
-<h3 id="Events"><a href="#Events" class="headerlink" title="Events"></a>Events</h3><br>
-
-<h4 id="1996年"><a href="#1996年" class="headerlink" title="1996年"></a>1996年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<blockquote>
-<p>“日本で <strong>PORTISHEAD</strong> みたいなバンドを作ろう！”<br>(打造日本自己的<strong>Portihead</strong>式乐队)</p>
-</blockquote>
-<p>鼓手<strong>梶原幸嗣</strong>向吉他手<strong>武内剛</strong>宣布道。<br><strong>梶原幸嗣</strong>在以前的工作中遇到了<strong>武内剛</strong>，不久之后结识了歌手<strong>來山裕美</strong>，三人组建了<strong>REDRUM</strong>，以实现这一目标。</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/087320966bb70a29721d0cb736572881.jpg" alt="Early Years" title="Early Years"></p>
-</details>
-
-<h4 id="1997年"><a href="#1997年" class="headerlink" title="1997年"></a>1997年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p><strong>REDRUM</strong>的第一个贝斯手<strong>Jyunji</strong>并不可靠。他会若无其事地告诉他的乐队成员他很“<em>忙</em> ”，随之一到两周都无法联系到他。不久之后，他就被赶出了乐队。同年，<strong>REDRUM</strong>开始在 <em>下北沢CLUB251</em> 进行现场表演。乐队就在各大演出场所和杂志上都刊登了一则招聘新贝斯手的公告:</p>
-<blockquote>
-<p>“Bassist Urgently Needed! For a Vocalist, Guitarist, and Drummer. To make a band in the likes of <em>Portishead</em> , <em>Massive Attack</em> , <em>Tricky</em> , <em>the Bristol sound of music</em> , and even <em>Radiohead</em> and <em>Björk</em> , in Japanese with such a raw sound!”</p>
-<p>（急需贝斯手！已有歌手,吉他手，鼓手。像Portishead、Massive Attack、 Tricky、Bristol sound of music、甚至Radiohead和Björk这样的乐队，以原始的日语声音演绎!）</p>
-</blockquote>
-<p><strong>外浩司</strong>回应了这则公告，领队<strong>梶原幸嗣</strong>起初怀疑这个30岁的<em>工薪族</em> 能否融入乐队，因为乐队成员的年龄都不到25岁。<strong>外浩司</strong>的音乐品味也与乐队的其他成员不同，这给乐队带来了一些犹豫。<br>但在与<strong>外浩司</strong>会面后，他们便向他发出了加入乐队的邀请。<strong>外浩司</strong>于1997年1月接受了邀请。在这一年里，他们在工作室里表演和排练，创作了《Sad Song》、《Room》、《Blue Velvet》、《Cherry Pie》和《midori no sabaku》等歌曲。</p>
-</details>
-
-<h4 id="1998年"><a href="#1998年" class="headerlink" title="1998年"></a>1998年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>1998年6月，成员们去 <em>惠比寿花园音乐厅</em> 参加了一场“Massive Attack concert”。<br><strong>梶原幸嗣</strong>站在Live House外面，注意到同样站在附近的一个男人。</p>
-<blockquote>
-<p><em>梶原幸嗣</em> : 那不是 <em>Luna Sea</em> 的家伙吗?<br><em>來山裕美</em> : 真的吗?<br><em>武内剛</em> : 对，看起来是这样。<br><em>外浩司</em> : 嗯，对不起，我不知道。</p>
-</blockquote>
-<p><strong>梶原幸嗣</strong>揣着一盘DEMO磁带走来走去，他鼓足了勇气接近他。令他惊讶的是，杉原康弘非常善于交际，并让<strong>梶原幸嗣</strong>把自己的电话号码给他。最后杉木佐打来电话，说他刚听了这盘磁带，并被它惊呆了，想让REDRUM成为他新成立的厂牌Embryo签约的第一支乐队。<strong>梶原幸嗣</strong>立即打电话给其他乐队成员，他们都很惊讶，因为他们不是 <em>Luna Sea</em> 那样以“视觉系”风格著称的乐队。<br>乐队再次见到<strong>杉原康弘</strong>，正式接受了他的邀请，乐队很快就进入录音室录制了他们的第一张 Maxi-Singles ——《REDRUM》，杉原康弘担任录音工程师。在处理完最后的混音后，乐队的每个成员都对他们专辑的录音质量感到满意</p>
-</details>
-
-<h4 id="1999-年"><a href="#1999-年" class="headerlink" title="1999 年"></a>1999 年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>第一张专辑(Maxi-Singles) 《REDRUM》发行。<br>迄今为止已有19届，由<strong>REDRUM</strong>主办的活动 “CINEMATIC SOUND FOUNDATION”，首次开始。<br>歌曲「涙」成为了汇编专辑“GRAND CROSS1999”中的一曲。</p>
-</details>
-
-<h4 id="2000年"><a href="#2000年" class="headerlink" title="2000年"></a>2000年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>第二张专辑《SECOND CIRCLE》发行。</p>
-</details>
-
-<h4 id="2001年"><a href="#2001年" class="headerlink" title="2001年"></a>2001年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>以“Q”的身份参与电影<strong>Soundtrack</strong>的原声专辑《Parallel Side of Soundtrack》。<br>推出了会场和邮购限定版专辑“Cronenberg”。</p>
-</details>
-
-<h4 id="2002年"><a href="#2002年" class="headerlink" title="2002年"></a>2002年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>推出了会场和邮购限定专辑 “4”；现场视频 “BROCKEN Jr.”；纪录片视频   “Sentimental Journey”。</p>
-</details>
-
-<h4 id="2003年"><a href="#2003年" class="headerlink" title="2003年"></a>2003年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>创立了自己的LABEL —— NIGHT PEOPLE，发行专辑《TOO YOUNG TO FALL IN LOVE》。<br>同年发行收录了在新宿LOFT举行的个人演唱会的全部新歌的Live专辑《ARIZONA DREAM》。</p>
-</details>
-
-<h4 id="2004年"><a href="#2004年" class="headerlink" title="2004年"></a>2004年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>发行了专辑《ANSWER SONGS》和《審美眼とパラドックス》。<br>视频 “LIVE in 香港～2001.09.20@Queen Elizabeth Stadium～” 发布。<br>2004.12.16，<strong>外浩司</strong>退出乐队。</p>
-</details>
-
-<h4 id="2005年"><a href="#2005年" class="headerlink" title="2005年"></a>2005年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>新成员（Bass）<strong>平林直己</strong>（ex.THA BACK HORN）加入。<br>2005.10.31，<strong>平林直己</strong>退出。<br>2005.11， <strong>本田裕雅</strong>（ex. COCK ROACH）作为贝斯加入。</p>
-</details>
-
-<h4 id="2006年"><a href="#2006年" class="headerlink" title="2006年"></a>2006年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>2006.04，乐队宣布他们将在6月结束的10周年巡演后无限期停演。<strong>梶原幸嗣</strong>强调，这不是解散，所有乐队成员都会再回来。</p>
-</details>
-
-<h4 id="2007年"><a href="#2007年" class="headerlink" title="2007年"></a>2007年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>乐队兑现诺言，宣布将于2007年4月22日复出。随着这一消息的宣布，长期贝斯手<strong>外浩司</strong>在2004年底离开后，回归<strong>REDRUM</strong>乐队。<br>同年4月22日＠仙台JUNK BOXより开始第5期REDRUM。</p>
-</details>
-
-<h4 id="2008年"><a href="#2008年" class="headerlink" title="2008年"></a>2008年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p>2008.11.09，<strong>REDRUM</strong>发行了一张名为《Cinematic Sound Foundation》的“Best of”精选专辑，随后，在<strong>來山裕美</strong>决定退出乐坛后，宣布于2009年解散。<br><em>梶原幸嗣</em>表示，他、<strong>武内剛</strong>和<strong>外浩司</strong>最终将以某种形式合作演出。</p>
-</details>
-
-<h4 id="2009年"><a href="#2009年" class="headerlink" title="2009年"></a>2009年</h4><details> <summary>点我查看</summary>
-
-<br>
-
-<p><strong>REDRUM</strong>乐队开始了他们最后一次名为“Tomorrow Never Comes”的巡回演出，他们的最后一次现场于2009.04.25，在新宿Loft举行。</p>
-</details>
-
-<br>
-
-<p><img data-src="https://ttfou.com/images/2023/01/19/3a50df37675f724749f48406599117bc.jpg" alt="REDЯUM" title="REDЯUM"></p>
-<br>
-
-<hr>
-<h3 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a>External Links</h3><br>
-
-<p><a href="http://www.redrum.jp/">Redrum’s Website</a> 已挂<br><a href="http://mixi.jp/view_community.pl?id=73756">Redrum’s community at mixi.jp</a> 已挂<br><a href="http://park8.wakwak.com/~redrum/redrum.html">Redrum’s former website</a> 已挂<br><a href="http://yaplog.jp/touen">Kazi’s Journal</a> 已挂<br><a href="https://www.facebook.com/people/%E6%A2%B6%E5%8E%9F%E5%B9%B8%E5%97%A3/100003090348678">Kazi’s Facebook</a></p>
-<hr>
-<hr>
-<h2 id="访谈"><a href="#访谈" class="headerlink" title="访谈"></a>访谈</h2><p>$ <a href="https://github.com/MujiTogawa"><strong>Muji Togawa</strong></a>(也就是博主本人)拥有对该访谈的翻译的解释权<br><br></p>
-<h3 id="REDЯUM-‘08年11月号-——-“CINEMATIC-SOUND-FOUNDATION”-耽美と憂愁に彩られた幻想的な綺譚集"><a href="#REDЯUM-‘08年11月号-——-“CINEMATIC-SOUND-FOUNDATION”-耽美と憂愁に彩られた幻想的な綺譚集" class="headerlink" title="REDЯUM(‘08年11月号) —— “CINEMATIC SOUND FOUNDATION” 耽美と憂愁に彩られた幻想的な綺譚集"></a>REDЯUM(‘08年11月号) —— “CINEMATIC SOUND FOUNDATION” 耽美と憂愁に彩られた幻想的な綺譚集</h3><details> <summary>点击展开，查看访谈详情~</summary>
-
-<h4 id="为日文机翻为英文后，对比翻译为中文"><a href="#为日文机翻为英文后，对比翻译为中文" class="headerlink" title="为日文机翻为英文后，对比翻译为中文"></a>为日文机翻为英文后，对比翻译为中文</h4><blockquote>
-<p><strong>REDЯUM</strong> 以其“贪婪地”吞噬所有音乐流派的广泛的音乐性，及梦幻美丽的世界观确立了稳固的地位。同时提出了由 Massive Attack 和 Portishead 等建立的Bristol声音声学方法。 长期以来，人们一直期待着能够全面了解其12年活动的项目的推出。<br>即将发行的包含了26首歌曲，被命名为 “CINEMATIC SOUND FOUNDATION” 的双CD专辑，是他们的代名词。更别提代表作和经典Live了。<br>现在很难买到<strong>REDЯUM</strong>的声源。以至于这次新录制的歌曲，都是（不可多得的）华丽的宝石。对于没有经验的<strong>REDЯUM</strong>听众来说，这是一部介绍性的作品。<br>从这张专辑的发行过程，到12年的曲折轨迹，再到与新宿LOFT的密切联系，我与乐队的策划者<strong>梶原幸嗣</strong>(KAZI)进行了大量交谈。 （Interview：<strong>椎名宗之</strong>）</p>
-</blockquote>
-<br>
-
-<h4 id="让你可以俯瞰乐队的轨迹的最佳专辑"><a href="#让你可以俯瞰乐队的轨迹的最佳专辑" class="headerlink" title="让你可以俯瞰乐队的轨迹的最佳专辑"></a>让你可以俯瞰乐队的轨迹的最佳专辑</h4><p>── <em>是什么促使你在这个时候发行你最好的专辑?</em></p>
-<p>KAZI(以下简称K)：算上现场的限量版，我们目前已经发布了大约16个专辑声源。其中一些已经断货，买不到。而且（<strong>REDЯUM</strong>的）音乐表现力也在不断变化，我想在这里买一张能追溯乐队历史的专辑。所以我决定在专辑的双CD中加入尽可能多的不同类型的歌曲。听这张精选专辑，你就会知道关于REDЯUM的近乎一切。</p>
-<p>—— <em>“CINEMATIC SOUND FOUNDATION”这个名字是用在你们乐队自己的项目上的，对吧?</em></p>
-<p>K：是的。这是我们自己想出来的新词，就像乐队的流行语一样。</p>
-<p>── *.<strong>REDЯUM</strong>的音乐具有高度的视觉影像唤起力，说起来很奇怪。*</p>
-<p>K：从一开始，我就想做一种音乐，让人们听的时候脑海里会浮现的声音和图像。所以用这个词来形容这一点再合适不过了。</p>
-<p>—— <em>所有的成员都决定了歌曲的选择吗?</em></p>
-<p>K：我们让每个成员说，“我想把这首歌包括在内”，然后我们决定了最适用的歌曲。我想我们有所有所谓的代表作歌曲。就我个人而言，我认为像<strong>ROOM</strong>和<strong>Desert Green</strong>这样的早期歌曲是很难被错过的。</p>
-<p>—— <em>在选择歌曲的时候，你有没有重新听过以前的录音?</em></p>
-<p>K：我没有。我经常听他们的歌，他们都是我在各地播放的歌曲。我并非是 “哦，有一首这样的歌”这种样子，我真的很想加入更多的歌曲，但有很多让人潸然泪下的歌我都没有选择。尤其是《CRONENBERG》(01年11月)和《4》(02年12月)中的歌曲。这是在该演出场地独家发行的。当时，我们正在考虑做一些非常核心的事情。</p>
-<p>—— *当我听这张最好的专辑时，我再次感觉到以Massive Attack和Portishead为代表的Bristol声音为基础，你经历了一个难以言说的音乐过渡转变。单看这种音乐广泛性，我觉得这（指 <strong>REDЯUM</strong>）是一个非常独特的乐队(笑)。*</p>
-<p>K：总有会差距，我认为我们做的事情很容易理解(笑)。我们唱的不是什么高难度的歌，旋律也非常简单。我不在乎我说什么，但我认为这（指 <strong>REDЯUM</strong>）是一个很好的乐队(笑)。</p>
-<p>── <em>当然了。</em></p>
-<p>K：我想还是有很多人不了解我们，所以我希望这张最好的精选的专辑，能成为一个很好的催化剂。人们经常说“我不知道该听哪张专辑”。所以我希望你能先拿到这张专辑。</p>
-<p>—— <em>这（指专辑）不像一个简单的编排。它还包括新录制的歌曲。</em></p>
-<p>K：“Altered States”只在现场录制过，所以这次我们重新录制了。有不少歌曲被重新混音了。这只是调整每个片段声音平衡的问题，但工程师让我重新混音。我当时听了专辑的录音，现在听起来会更好。所以现在的一些歌曲和当年不一样了，感觉像是重生了。</p>
-<h4 id="互相吸引的（乐队）成员"><a href="#互相吸引的（乐队）成员" class="headerlink" title="互相吸引的（乐队）成员"></a>互相吸引的（乐队）成员</h4><p>—— <em>即便如此，我还是不敢相信，自从乐队成立以来，黄道十二宫又回到了原点。（$意思是已经过去了十二个年头）</em></p>
-<p>K：我想这是很长一段时间，但我真的没有那么多感觉。我们不是一个常年巡演或者花很多时间录制唱片的乐队。嗯，还有许多其他乐队已经活跃到这种程度，还有很长的路要走。我想我终于走到三分之一了。我是说(笑)，我的理想是即使成为爷爷，也能和现在的成员继续在一个乐队里。</p>
-<p>── <em>Kazi， <strong>剛</strong> 和 <strong>裕美</strong> 是你做兼职时的朋友，你通过杂志招聘认识了<strong>浩司</strong>。</em></p>
-<p>K：我只收到<strong>浩司</strong>的一个回复。当时我想知道<strong>浩司</strong>是否30岁。当时，我觉得30岁的我已经很老了。但当我真正见到他的时候，他还很年轻。他喜欢圣诞颂歌和<strong>Yazawa Eikichi</strong>，我几乎不知道<strong>Portishead</strong>和<strong>Tricky</strong>这样的乐队，他们在招募时提到过他们想做这样的音乐。我只知道<strong>Radiohead</strong>。</p>
-<p>── <em>这就是你为什么申请那么多的原因(笑)。</em></p>
-<p>K：不，这就是为什么它（<strong>REDЯUM</strong>）这么好。下一个我要合作的乐队似乎认为我想要一种我完全不懂的音乐性。这是一种奇怪的联系，我感觉我们被对方吸引了。</p>
-<p>—— <em>在<strong>REDЯUM</strong>成立的1996年前后，独立音乐重新焕发了活力，在我的印象中，无法无法一以概之的独特乐队相继出现。</em></p>
-<p>K: <strong>54-71</strong>和<strong>mono</strong>几乎是同时形成的，所以我很受启发。我觉得有些乐队真的很酷。此外，那时候还没有互联网，传单是我们自己手工剪切和粘贴的。那时我们还没有网站，所以杂志是最好的信息来源。我看着杂志上的小图片，心想着，“他们是什么样的乐队?”；“那是一个激动人心的时刻，不是吗?”</p>
-<p>── <em>我认为在过去12年里有许多障碍需要克服，但我认为最明显的一个障碍是<strong>浩司</strong>的退出(2004年12月)。</em></p>
-<p>K：毕竟，我强烈希望继续四个人在一起。但幸运的是，那时，<strong>平林直己</strong>（ex. THE BACK HORN)即将加入乐队，所以我从未想过解散或休息。另一方面，我觉得和不同的人一起工作会很有趣，所以我转向了积极的想法。</p>
-<p>── <em>你在六个月后离开了团体，在那之后，*<em>本田由弥</em></em>(Yuya Honda)，也就是现在的Mugenminus，作为支持者加入了团体，<strong>浩司</strong>于2007年4月回归，这是一个戏剧性的发展。你是怎么决定回来的?*</p>
-<p>K：当<strong>浩司</strong>来看我们在LOFT的演出时，我们一起在酒吧喝酒。那时，我想，“是不是到是时候了?”(笑)。由于个人原因，<strong>浩司</strong>不得不退出乐队，但在当时，我们并不想跟上那种节奏。我们需要<strong>浩司</strong>的贝斯，所以当我们谈到试着互相配合时，他说他想一起做。</p>
-<p>── <em>如果你仔细想想，第一个贝斯手退队是因为他跟不上乐队的节奏，所以你有一种始终把乐队放在首位的态度。</em></p>
-<p>K：是的。但是，Bass手的更替为何如此频繁（$直译：进进出出..），这是个谜(笑)。</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/2edc2b1eea1f067d68a6d5a19e13729e.jpg" alt="來山裕美" title="來山裕美"></p>
-<h4 id="REDЯUM与新宿LOFT的密切关系"><a href="#REDЯUM与新宿LOFT的密切关系" class="headerlink" title="REDЯUM与新宿LOFT的密切关系"></a>REDЯUM与新宿LOFT的密切关系</h4><p>—— <em>4名核心成员时隔3年再次制作的EP《TOKYO》(07年10月)，是不拘泥于特定类型的某种风格的乐队的杰作。</em></p>
-<p>K：当我制作《Tokyo》时，我不敢去迎合当时的流行趋势。我们只是做自己想做的事，而不是随大流。他们（指大流）从一开始就是天上的恶魔。如果每个人都去那里，我们也将会去那里。</p>
-<p>—— <em>我个人最喜欢的一个地方是，当你知道全国有很多同名乐队时，你决定通过成为最有名的乐队来“重新命名”它们。</em>（$这里没看懂..）</p>
-<p>K：没错。如果这支乐队出名了，对方难道不会换队名吗？就是这样。</p>
-<p>—— <em>在过去的12年里，KAZI你的转折点是什么?</em></p>
-<p>K：我想是第一张专辑(REDЯUM, 99年5月)的发行。当时，我认为它的出现这将是一个震惊世界的可怕事件(笑)。我很自豪没有其他人做这样的音乐。</p>
-<p>—— <em>我还喜欢Massive Attack的《BLUE LINES》、Portishead的《DUMMY》和Björk的《POST》，所以手弹Trip-Hop并用日语演唱的<strong>REDЯUM</strong>的出现，是一个新的惊喜。</em></p>
-<p>K：这是最本初的概念。我不愿意用英语唱歌。我去看了几支受<strong>Portihead</strong>影响的乐队，但他们中的一些人依赖于唱盘的力量，或者变得太疯狂，最终只是沦为他人的模仿。但从根本上说，我认为如果我们喜欢强烈的摇滚，我们可以做一些有趣的事情。毕竟，<strong>裕美</strong>是作为歌手的存在。经常有女歌手用男性化的方式唱歌，我认为这是一种浪费。我们想展现女性特有的端庄和外表。</p>
-<p>—— *.<strong>裕美</strong>的声音给人一种清新透明的感觉，听着这张最好的专辑，我敏锐地意识到你是一位出色的歌手。*</p>
-<p>K：<strong>裕美</strong>（的歌声）一点也不“脏”，有一种纯真的光泽。而且她不会被任何事情所左右，我认为她是个很棒的歌手。</p>
-<p>── <em>回顾<strong>REDЯUM</strong>的发展轨迹，你会发现，新宿LOFT的事情比你想象的要多。只有新歌的现场专辑《ARIZONA DREAM》(03年12月)是在LOFT录制的单人专辑，《TOKYO》发行后的复兴单人专辑(07年11月)也是在LOFT录制的。另外，从店长<strong>大塚</strong>先生那里得知，今年光顾LOFT酒吧次数最多的是KAZI(笑)。嘿,<strong>大塚君</strong> ?</em></p>
-<p><strong>大塚智昭</strong>(新宿LOFT经理，以下简称为O):我一直很感激你(笑)。</p>
-<p>K：最近，<strong>大塚智昭</strong>先生问我:“你又来了吗?”(笑)。</p>
-<p>O：不，那是一种深情的问候表达(笑)。</p>
-<p>K：我来东京的第一个地方是当时小滝橋街的LOFT。我在东京塔之前去过那里(笑)。</p>
-<p>—— <em>你去看了什么样的现场表演?</em></p>
-<p>K：没有，我只是在白天去了商店的前面(笑)。当我看着它的外观说:“这里……”时，我被深深地感动了，当时乐队的成员说:“我们一定要从这里出去！” 我很兴奋。毕竟，<strong>REDЯUM</strong>从来没有去过老的LOFT。我甚至去参加了我以前所在乐队的午间试镜。</p>
-<h4 id="如果你去Live-House，会有很多有趣的事情"><a href="#如果你去Live-House，会有很多有趣的事情" class="headerlink" title="如果你去Live House，会有很多有趣的事情"></a>如果你去Live House，会有很多有趣的事情</h4><p>── *.<strong>REDЯUM</strong>的第一次现场演出是在下北沢251号，对吗?*</p>
-<p>K：没错。当时我唱的歌几乎和现在一样，观众只有四五个人(笑)。他们都是我做兼职时认识的朋友。我不喜欢穿着t恤和牛仔裤上台，所以<strong>裕美</strong>穿了一条裙子，我们穿西装出去了。当时，我把样带寄给了不同的演出公司，但他们只给了我251号。大多数人都说，“我没有乐队可以预订。”</p>
-<p>O: REDЯUM的音乐最吸引我的地方是他们的原创性，这使他们有别于其他乐队。这就是为什么“没有乐队预订”不是一个好的拒绝，但我觉得他们真的是这么想的。</p>
-<p>── <em>这种不属于任何地方的扭曲肯定从一开始就很突出。</em></p>
-<p>K：我想这就是他们天生的品质和口味吧。我喜欢去看现场表演，每个人都很开心，很兴奋，但当我在舞台上的时候，有点尴尬。你说没什么可分享的话，这是一种粗略的说法，但从这里片面地展示它更合适。你的感受取决于你自己，让每个人都以同样的方式享受生活是没有意义的。</p>
-<p>O: <strong>REDЯUM</strong>的顾客都是醉醺醺的可爱女孩。我在那里感到不舒服，这是一个独特的世界。当你发出声音时，这个地方的气氛完全改变了。</p>
-<p>K: LOFT是所有成员最受尊敬的地方。我一直想去日本最著名的Live House演出。我相信LOFT里还有很多其他的招牌乐队，而我们想打入其中。</p>
-<p>O: <strong>KAZI</strong>经常来LOFT酒吧喝酒，因为他经常和<strong>アナーキー</strong>的<strong>Shigeru</strong> (Nakano)和<strong>ARB</strong>的<strong>Keith</strong>在旧LOFT喝的酒一起喝。</p>
-<p>K：我一直喜欢去Live House，现在也是一样。你可以和很多不同的人互动，我觉得如果你去那里，会有很多有趣的事情。现在有很多漂亮的Live House了，但在过去，（Live House就是）可怕的小哥们聚集在一起，充满了香烟的烟雾…… 我渴望那种糟糕的感觉。这种感觉可能仍然存在。</p>
-<p>──<em>从<strong>KAZI</strong>的角度来看，您觉得（LOFT）与其他Live House有什么不同?</em></p>
-<p>K：这里有很多有趣的人，包括<strong>大塚</strong>先生。此外，无论什么样的人来，都有一种热烈的欢迎感。我喜欢这种从乐队的角度去做有趣的事情的态度。</p>
-<p>—— <em>你在LOFT看过的最难忘的现场表演是什么?</em></p>
-<p>K：是什么呢，我来自九州，当时有很多乐队都解散了，所以我没能去看。我很高兴看到他们重聚。<strong>ARB</strong>，<strong>ROCK’N’ROLL GYPSIES</strong>等等。</p>
-<p>── <em>想想看，你曾经以<strong>ARB</strong>翻唱乐队<strong>ARCB</strong>的身份出现在LOFT(笑)。</em></p>
-<p>凯西:是的。是当LOFT搬到歌舞伎町，庆祝成立30周年时。</p>
-<p>—— <em>除了ARCB(笑)，你在LOFT最难忘的演出是什么?</em></p>
-<p>K：我猜是“ARIZONA DREAM”，这也是一个现场声源。我会写一首新歌，录下第一次的现场演出。失败可是不可原谅的。我记得当时非常紧张，我们有一个录音团队，我们知道预算有多少，所以这是额外的(笑)。但最终，这种紧张有了很好的效果。</p>
-<p>── <em>你呢，*<em>大塚</em></em>?*</p>
-<p>O：很难说出是哪一个…… 私以为，是今年4月的，<strong>the BACK HORN</strong>。因为<strong>REDЯUM</strong>的最新现场表演，总是最好的。</p>
-<h4 id="“桃园结义”兄弟情"><a href="#“桃园结义”兄弟情" class="headerlink" title="“桃园结义”兄弟情"></a>“桃园结义”兄弟情</h4><p>── <em>在你归队后的现场表演中，你一直保持着适度的紧张感，但你也感到肩膀不知何故得到了放松。你是说有一种深沉的胸怀保持平衡吗?</em></p>
-<p>K：是的，没错。我觉得我们之间发生了变化。我感觉顾客（观众）的反应也发生了变化。在此之前，很多人都是站着不动地倾听，但最近适度摆动身体的人有所增加。在过去，我经常来听歌曲，但现在我似乎享受声音本身。</p>
-<p>── <em>过去你更注重声音，但反应却恰恰相反，似乎是<strong>REDЯUM</strong>。</em></p>
-<p>K:当然。在过去，有一把烟斗椅就足够了(笑)。现在回想起来，能够在休整期回顾自己是一种很好的经历。我认为这是一个必要的时间，我们每个人都要思考我们想做什么样的音乐，我们想成为什么样的人。重要的是重新安排，而不是模糊地继续做音乐。在过去，我们故意不去听现场演奏的歌曲。但现在，我在想，如果有人让我去做，我就会去做。</p>
-<p>── <em>桃园结拜，一个不规律而持续的自主企划（$没get到在说什么）。然而，这个标题的来源似乎是《三国演义》中的一段插曲。</em></p>
-<p>K：没错。这是我最喜欢的一集。刘备、关羽、张飞在一次宴会上结拜为兄弟，并宣布:“从此三人同生同死。” 好吧，虽然，但是，最后，我们三个人不会一起死(笑)。这个自主企划基本上是由三个人完成的。我不觉得每次都有不同的面孔是必然的，我觉得总是有同样的个人是好的。嗯，下次我们做LOFT分为主舞台和酒吧舞台，会有很多乐队参与。</p>
-<p>O: <strong>REDЯUM</strong>的自主企划非常紧密，乐队之间的距离非常近，很密集。就像“桃园结义”一样，接近兄弟的关系。这是一种令人信服的关系，即使你只是在一次现场表演中使用了如此重要的词汇。这一次的“桃园结义”，<strong>vol.8</strong>也是一支欣然同意演出的乐队，他们只回答了两句:“如果是为了<strong>REDЯUM</strong>。”每个人都没有考虑到出席活动对乐队来说是好是坏，就决定参加演出，最近这样的活动越来越少了。</p>
-<p>K：谢天谢地。除了我们之外，共有12组朋友会来庆祝。酒吧的舞台基本上是在演奏，他们好像在替我们翻唱。与年轻乐队一起现场表演是令人兴奋、惊喜的，有着真正的乐趣。我还会想，“我们在他们这个年纪的时候，可没这么体面……”</p>
-<p>—— <em>这张最佳精选专辑的宣布是否标志着一个突破?</em></p>
-<p>K：是的。我也想从这里开始接受新的挑战。你可以在<strong>REDЯUM</strong>上做更多的事情。我正在考虑用我早期的方法再做一首“黑暗”的歌曲(笑)。我也想将键盘和其他乐器加入录音。</p>
-<p>O：我们在LOFT再做一个有趣的项目吧。</p>
-<p>K：是的。连续七天都是一个乐队，就像发疯了一样(笑)。作为<strong>REDЯUM</strong>，我们每年只能在LOFT现场演出两到三次。</p>
-<p>O: <strong>KAZI</strong>个人每年来LOFT大约有100天(笑)。</p>
-<p>K：是酒吧(笑)。我期待在“桃园结义”的<strong>vol.8</strong>的演出结束后，会在他们的主场看到“KAZI之夜”。我们会有一个活动，会倒啤酒(笑)，所以请过来看看。</p>
-<br>
-
-<p>&lt; ***完*** &gt;</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/42399014120205d89b4cfe2f64023c68.jpg" alt="Album" title="Album"></p>
-</details>
-
-<br>
-
-<p><a href="https://rooftop1976.com/interview/081101220000.php">原文链接（点我直达）</a></p>
-<br>
-
-<h3 id="REDЯUM-‘09年4月号-——-13年間にわたり構築した“CINEMATIC-SOUND-FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情"><a href="#REDЯUM-‘09年4月号-——-13年間にわたり構築した“CINEMATIC-SOUND-FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情" class="headerlink" title="REDЯUM(‘09年4月号) —— 13年間にわたり構築した“CINEMATIC SOUND FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情"></a>REDЯUM(‘09年4月号) —— 13年間にわたり構築した“CINEMATIC SOUND FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情</h3><details> <summary>点击展开，查看访谈详情~</summary>
-
-<h4 id="同为日文机翻为英文后-对比翻译为中文"><a href="#同为日文机翻为英文后-对比翻译为中文" class="headerlink" title="同为日文机翻为英文后,对比翻译为中文"></a>同为日文机翻为英文后,对比翻译为中文</h4><blockquote>
-<p>2009年4月25日，我们将对<strong>REDЯUM</strong>进行最后一次采访，他们将以新宿Loft的现场演出结束他们长达13年的活动。<br>去年11月，（开展了）“桃园结义”企划。4个月前，于<strong>vol.8</strong>的返场演出上，（<strong>REDЯUM</strong>）突然宣布解散。<br>他们目前正在为名为“TOMORROW NEVER COMES”的巡回演唱会制作新歌，也在每天努力工作，为他们的最后一次现场演出做准备。<strong>REDЯUM</strong>的明天在4月25日以后就不会再来了。他们不让最后的时光白白浪费，而是竭尽全力地装饰结局的美。这甚至有一种悲伤的感觉。<br>但幸运的是，还有时间。直到他演奏完天鹅挽歌最后的旋律的那一刻。仍有机会看到传奇乐队<strong>REDЯUM</strong>在一方舞台上燃烧自己。我们有义务将<strong>REDЯUM</strong>的“遗产”留给子孙后代，它绚丽绽放爆炸而从容燃烧。我希望这次采访能成为一个好的副标题。 （Interview：椎名宗之）</p>
-</blockquote>
-<br>
-
-<h4 id="没有裕美的REDЯUM是不可能的"><a href="#没有裕美的REDЯUM是不可能的" class="headerlink" title="没有裕美的REDЯUM是不可能的"></a>没有裕美的REDЯUM是不可能的</h4><p>── <em>请告诉我们你的真实感受，即作为 <strong>REDЯUM</strong> 的现场表演只剩下四个现场节目(包括谈话直播)。</em></p>
-<p>K：这是一种直觉。还有很多事情要做，我有一种被吹得喘不着气的感觉。然而，我只能说抱歉和遗憾。嗯，我不是自愿解散的…</p>
-<p>── <em>我相信有些读者不了解事件的具体情况，能否再告诉我解散的原因吗?</em></p>
-<p>K：去年11月的一天，排练结束后，<strong>裕美</strong>告诉我她想停止演唱。<strong>裕美</strong>要求我们即使离开，也要用另一个歌手继续乐队，但我们说这不是一个选择。如果<strong>裕美</strong>不唱歌，<strong>REDЯUM</strong>就不再是<strong>REDЯUM</strong>了。就在那时，我们决定解散。这是惊人的，快速和无忧无奇的。只花了大约30分钟就解决了。</p>
-<p>—— <em>那是在你最好的专辑《Cinema SOUND FOUNDATION》发行之后。</em></p>
-<p>K：没错。<strong>裕美</strong>突然说:“我跟大家谈过了…”，但当时我想，“哦，终于来了…</p>
-<p>── <em>直到那时，“终于”还是一个象征吗?</em></p>
-<p>K：<strong>裕美</strong>身上有一股情绪，我想我很清楚这一点。我直觉认为，这是关于一个事实。但我们都知道她是一个意志非常坚强的人，我们不能阻止她。你怎么能对一个说“我不想再唱了”的人说“唱吧”呢？这种感觉我们三个人都没有说出来。</p>
-<p>—— <em>你是说<strong>裕美</strong>一直在努力唱歌吗？我不认为有多少歌手能让你听到这样的歌声。</em></p>
-<p>K：当我在20岁出头的时候开始<strong>REDЯUM</strong>时，我想我只是在努力唱歌，但随着年龄的增长，我想，“我的生活真的能保持这样吗？”这种感觉越来越强烈了。现在我有了这样的想法，在另外三个认真的乐队成员面前“唱歌”是不礼貌的。他们告诉我，如果不能回应我们三个人的感情，我不想继续乐队，所以请让我走吧。</p>
-<p>── <em>我知道这是一个愚蠢的问题，但你有没有想过与另一个歌手继续<strong>REDЯUM</strong>？</em></p>
-<p>K：不完全是。如果我们引进一个新的主唱，我们不会改变乐队的名字，也不会做任何<strong>REDЯUM</strong>的歌曲。我不太喜欢主唱变化很大的乐队。我真的很喜欢<strong>Daisy Chainsaw</strong>，但当歌手<strong>Katie Jane Garside</strong>离开并与一位新歌手推出专辑时，我很失望。无论有多少其他成员在一起，主唱都不可能根据另一个成员而改变。主唱是一支乐队的明星。</p>
-<p>—— <em>你是否强烈地认为乐队应该是“纯血统”的？</em></p>
-<p>K：也许吧。如果新成员拥有更多比离开成员之外的内容，则可以接受。</p>
-<p>── *.<strong>剛</strong>和<strong>浩司</strong>对<strong>裕美</strong>打算离开乐队的反应和你一样吗？*</p>
-<p>K：没错。这很令人沮丧，但也没办法。我们都明白，每个人都在变老，每个人有自己的情况，如果我们在一个完全以音乐为生的乐队里，情况会有所不同。说实话，我想知道我能不能强迫他们留下来，保障他们的生活。最后，我们说服了自己，<strong>裕美</strong>应该过她自己的生活。</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/0cc05aeca0c3e95dc646e0f41984ae68.jpg" alt="redrum" title="redrum"></p>
-<h4 id="如果将要结束，最好完美收官"><a href="#如果将要结束，最好完美收官" class="headerlink" title="如果将要结束，最好完美收官"></a>如果将要结束，最好完美收官</h4><p>── <em>“停止唱歌”是一个必须有极大的决心和决心才能做出的决定，不是吗？</em></p>
-<p>K：我无法想象放弃音乐，我不认为我准备得很充分。也许我们更执着于音乐，但我无法想象完全放弃音乐。嗯，也许在告诉我们之前，<strong>裕美</strong>已经思考了很长一段时间。</p>
-<p>── <em>继续为众多狂热歌迷唱歌，还有什么选择？经过深思熟虑，我认为肯定没有。</em></p>
-<p>K：如果<strong>裕美</strong>有这个想法，我想我们的现场演出可以选择延缓，或者暂停一段时间，一年后再做。但事实并非如此，我决定“停止唱歌”。既然如此，我们首先决定永远不再重新组合。 此外，我们决定一劳永逸地结束这段关系，而不是期待着几年后重组。既然我们解散了，轻易地重组是不道德的。</p>
-<p>── <em>在经历了12年的历程后，我非常期待下一张专辑的发行，所以我想知道，你是否能像<strong>浩司</strong>那样暂时离开一线，以避免解散。当你想像以前一样休息时，你应该休息一下，让乐队以合理的节奏继续下去。</em></p>
-<p>K：很多人都这么跟我说。我认为，在不明确表示解散的情况下，我应该休息一会儿。但我觉得如果真要结束的话，最好能恰当地完成它。</p>
-<p>—— <em>在你决定解散之前，你有继续写新歌吗?</em></p>
-<p>K：自从决定解散后，歌曲创作的速度加快了，我们仍然在以惊人的速度创作新歌。在这段时间里，<strong>剛</strong>带来了六首歌，我带来了两首歌，然后我在活动期间上又创作了两首歌。我的势头足以能够制作一张完整的专辑。在宣布解散后，你还能够创作越来越多的歌，这也很奇怪。</p>
-<p>—— *.<strong>REDЯUM</strong>能够以这样的速度创作歌曲，是不是很不寻常?*</p>
-<p>不，这很正常。我通常会唱歌。大多数歌曲都是围绕着吉他和歌曲的旋律创作的。然而，<strong>剛</strong>也带来了多个曲调，所以我停下来说，“等一下，我跟不上它”（笑）)。我非常理解这种感觉，我相信还有很多事情是<strong>剛</strong>想做的。我在考虑最后完成三到四首歌。我想把它作为<strong>REDЯUM</strong>的最后一张EP。</p>
-<p>—— <em>声源会以什么形式发行?</em></p>
-<p>K：我们计划只在最后一次演出的地点发布。在那之后，我想我们会做邮购，但可能不会在全国范围内分销。</p>
-<p>── <em>你能告诉我们这四首歌是什么样的吗?</em></p>
-<p>KAZI: <strong>剛</strong>创作了两首歌，我也创作了两首。<strong>剛</strong>的歌曲是带有所谓<strong>REDЯUM</strong>式的的悲伤歌曲和枯萎感觉的摇滚。让人想起他最喜欢的音乐。我写的只是一首悲伤的歌，一首我在活动中反复修改的歌。同时，乐队的所有成员都要为这些歌曲写歌词。在此之前，我和<strong>裕美</strong>都是对半写歌词，但这次<strong>裕美</strong>建议每人写一首歌词。我还没决定(笑)。</p>
-<p>—— <em>我觉得你在解散前写的歌词，难免会是感伤的内容……</em></p>
-<p>K：我写的歌词就是这样。可以说，从形成到今天，它击中了思想的长度（$看不懂呃…）。我本来就没有什么亮眼的风格，但现在我正在进行解散巡演，所以格外痛苦。无论我走到哪里，我都会说再见，每次演出我都会哭。成员们说:“现在不是还早吗?”(笑)。</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/c4ed8b79af4c752cb2f7b5fd60b21ced.jpg" alt="colored" title="colored"></p>
-<h4 id="这种解散肯定有某种意义"><a href="#这种解散肯定有某种意义" class="headerlink" title="这种解散肯定有某种意义"></a>这种解散肯定有某种意义</h4><p>—— <em>但这次巡演的标题是“TOMORROW NEVER COMES.”。“TOMORROW NEVER KNOWS”应该会更棒。</em></p>
-<p>K：这表明我已经准备好面对它了。<strong>REDЯUM</strong>永远不会再发生，就在这里，一切都结束了。这难免有些伤感，因为这是我第一次经历解散。</p>
-<p>── <em>13年的时间的分量也会被算在内。</em></p>
-<p>K：这就是为什么，我在和经历过解散的前辈喝酒时听各种故事的原因。我想知道我在解散时的心情是什么样的，以及在解散现场哭泣是否好(笑)。每个人都说，“这难道不是好事吗？”；“如果你想哭，你可以哭，你不必忍受。”此外，我接触了各种乐队的解散现场表演的视频和声源，并思考了<strong>REDЯUM</strong>将如何结束。我还没有找到答案。</p>
-<p>—— <em>在古今东西方已经解散的乐队中，什么样的乐队解散时，你会感到同情？</em></p>
-<p>K：<strong>Carol</strong>, <strong>BOφWY</strong>, <strong>Street Sliders</strong> 。自从解散后，他们就再也没有重聚过。总有传言说他们会重组，但我认为他们从未重组的原因是每个成员的意志都没有动摇。我能理解这种态度，我认为这真的很酷。一旦轻松地重新组合，请把当时流下的眼泪还给我！我是这么想的(笑)。</p>
-<p>── <em>你认为是一生只有一次（一届一会）的美学是美丽的，还是认为美丽是因为它短暂而虚幻？</em></p>
-<p>KAZI:是的。关于解散，我最近经常想到的是，那些能够继续在同一乐队演奏的人可能是被选中的。 我不是所谓的宿命论者，但我认为是这样的。</p>
-<p>—— <em>自出道以来，已经组建了46年的<strong>滚石</strong>乐队，可能就是最好的例子。</em></p>
-<p>K：是的，没错。随着年龄的增长，越来越多的人退出音乐，乐队解散。但我们仍然能够以强大的心态继续下去。然而，我觉得有某种原因促使我这样做。所以在我看来，<strong>REDЯUM</strong>在这里结束对我来说似乎有某种意义。这不是到目前为止的事，而是我觉得我后来可以理解，这就是当时让我选择解散的原因。</p>
-<p>—— <em>你是否想在最后再发行一张原创的完整专辑？</em></p>
-<p>K：不仅仅是一张专辑，我想拿出尽可能多的。因此，这与我之前所说的相矛盾，但我也想等待<strong>裕美</strong>想再次唱歌的时候。在那之前，我希望其他三个人继续演奏音乐，提高他们的技能。由于我的胳膊和外表都日渐衰弱，举行类似重新团聚的活动是完全不可接受的。嗯，我还没有和其他成员讨论过这个问题，所以我不知道未来会发生什么。有些人会继续做音乐，有些人会因为某种原因放弃。当然，我想继续做音乐。然而，在考虑了各种事情之后，我发现我喜欢乐队和摇滚，但最重要的是，我喜欢<strong>REDЯUM</strong>。我相信解散后很可能在一段时间内，它会看起来像一个空壳。这可能有点疯狂，我自己都害怕。在在最后一场演出的那天，我感觉我从进场就已经哭了。成员们很了解我，但我流下了眼泪。</p>
-<p>── <em>你选择新宿Loft作为你最后一次现场演出的地点，是因为你的激情吗？</em></p>
-<p>K：这是我想到的第一件事。只有一个Loft，对吧？在Loft的舞台上总有一种快乐，我们总是在Loft进行重要的里程碑式的演出。</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/a119a93f12b5eede8b61a4c8c105d0ec.jpg" alt="Yumi" title="Yumi"></p>
-<h4 id="最后一次演出，我们会竭尽所能"><a href="#最后一次演出，我们会竭尽所能" class="headerlink" title="最后一次演出，我们会竭尽所能"></a>最后一次演出，我们会竭尽所能</h4><p>—— *.<strong>REDЯUM</strong>解散后你有什么计划?*</p>
-<p>K：到目前为止，我什么都没想。</p>
-<p>── <em>有没有什么是你有意识地在纸上留白的？</em></p>
-<p>K：我跟所有人都说过，在我们解散之前不要“偷偷摸摸”。和其他乐队一起排练，参加其他乐队的现场演出等等。现在，我别无选择，只能投身于<strong>REDЯUM</strong>。我在上次的现场表演中演唱了很多歌曲，所以很难回顾这些歌曲。与此同时，我也急着创作新歌。</p>
-<p>—— <em>你觉得你最后一次现场演出的规模会有多大？</em></p>
-<p>K：我打算做大约四个小时。我正在考虑尽我所能，我不去想来看我的最后一班人(笑)。我请求他原谅我漫长生命中的一天。我想做所有我想做的歌，我不想有任何事情没有完成。</p>
-<p>── <em>光是为最后一场现场演出准备曲目就得费很大劲。</em></p>
-<p>K：在我想做很多歌之前，我有很多歌曲要唱。有一首歌很长。大约需要6分钟。我可以像<strong>Ramones</strong>一样唱很多短歌，但如果我想唱所有的歌，就必须整晚通宵唱(笑)。但我们想做所有对我们来说重要的歌曲，我们觉得我们需要四个小时来做。</p>
-<p>—— <em>你们上次巡演的歌单和你们四个人想要演奏的歌匹配吗？</em></p>
-<p>K：基本一致。我做了一个基本的集合列表，然后我把它单独替换成“我想做那个而不是这个”，但它不会有很大的变化。<strong>剛</strong>和我经常列出我们创作的、我们非常喜欢的歌曲，<strong>裕美</strong>有很多我们喜欢的歌曲，因为我们写的歌词，<strong>浩司</strong>有很多我可以用贝斯演奏的歌曲。每个人都喜欢自己(笑)。</p>
-<p>—— <em>在你的最后一场演唱会之前，你还将在Loft Plus One进行第一次也是最后一次现场演讲。</em></p>
-<p>KAZI:我收到了Loft Plus One的<strong>田実</strong>先生的热情邀请。无论是博客还是像这样的采访，我基本上都是那个评论乐队的人，所以没有太多机会看到其他成员说话。你会有兴趣看看每个角色的性格是什么样的。这就是为什么我在现场谈话时不会说太多话，我尽量让其他三个人多说话(笑)。</p>
-<p>── <em>现场谈话节目在台上喝酒时进行，但喝完酒后最沮丧的人是<strong>浩司</strong>吗？</em></p>
-<p>K：当然。喝醉的时候，我会一直唱着<strong>Yazawa Eikichi</strong>的歌，一直唱到早上，然后开始向年轻的乐队成员说教(笑)。“你听过<strong>卡罗尔</strong>吗?”(笑)</p>
-<p>── <em>就我个人而言，我希望<strong>浩司</strong>能发表这样的讲话。公开宣布解散“桃园结义”。在<strong>vol.8</strong>的时候，最触动我泪腺的是<strong>浩司</strong>的故事。</em></p>
-<p>K：即使在那个时候，其他成员也告诉我不要在舞台上哭。但当我们开始交谈时，<strong>浩司</strong>是第一个哭的人。我也哭了，但当我看到<strong>浩司</strong>哭的时候，我平静了一点(笑)。<strong>浩司</strong>只是喝醉了才高兴起来。嗯，这三个人倾向于唱<strong>Yazawa Eikichi</strong>的歌(笑)。</p>
-<p>—— <em>我听说你还计划与 <strong>裕美</strong> 和 <strong>剛</strong> 进行现场录音。</em></p>
-<p>K：除了现有的歌曲，我们还想提前展示新歌。此外，我们精心设计，也在尝试播放有价值的视频，并邀请与我们有关系的嘉宾，所以我希望你过来玩。</p>
-<h4 id="我要你把最后的画面烙入你的眼里和心里"><a href="#我要你把最后的画面烙入你的眼里和心里" class="headerlink" title="我要你把最后的画面烙入你的眼里和心里"></a>我要你把最后的画面烙入你的眼里和心里</h4><p>—— <em>演出现场的当天，曾在<strong>REDЯUM</strong>担任过一段时间的伴奏贝斯手的<strong>本田祐也</strong>，在3月份参与了“桃园结义”。<strong>THE BACK HORN</strong>乐队的<strong>松田晋二</strong>也将参与演出，他曾在“vol.9”中与您合作过。</em></p>
-<p>K：在决定解散的第二天，我给<strong>松田</strong>打了电话。<strong>BACK HORN</strong>在巡演，在京都之类的地方。<strong>松田</strong>说，“有这么好的乐队，所以请听他们的”，并让一家大型唱片公司听<strong>REDЯUM</strong>的CD，他们实际上做了很多事情。他们总是说我们是他们最喜欢的乐队，我非常感谢<strong>松田</strong>。</p>
-<p>── <em>事实上，通过<strong>BACK HORN</strong>成为<strong>REDЯUM</strong>粉丝的人一定不少。</em></p>
-<p>K：没错。正因为如此，<strong>REDЯUM</strong>在这里结束是令人沮丧的。有很多人帮助过我们，包括<strong>SUGIZO</strong>，他激励我们发行CD，说:“我们需要像你们这样的人来做日本摇滚。”那不是我的目标，但我可以通过音乐产生影响。年轻的乐队成员经常说:“我听了很长时间了”，但这并不是商业上的成功，我们想把我们的音乐传播给更多人。我刚出道的时候，经常带着录音机去唱片公司。我查了唱片公司的位置，没有预约就上了，在接待处，我说:“请为我找一个好人!”(笑)。当然，他们不可能照顾我，所以我强迫接待员听了(笑)。我们总是把CD放在包里，如果我们在酒桌上遇到音乐行业的人，我们会把CD递给他们,以此来吸引他们。</p>
-<p>—— <em>你认为 <strong>剛</strong> 和 <strong>浩司</strong> 在解散后还会有音乐上的接触吗？</em></p>
-<p>K：我不知道未来会怎样，但我的理想是像<strong>ROCK’N’ROLL GYPSIES</strong>的三个成员。</p>
-<p>── <em>花田博之、池田俊二、下山俊，<strong>THE ROOSTERS</strong>前成员。</em></p>
-<p>K：即使<strong>THE ROOSTERS</strong>解散了，我也会渴望我们经常在各种录音会话和现场表演中一起共同表演的关系。像那三个人一样，我希望 <strong>剛</strong> 和 <strong>浩司</strong> 能继续以某种方式一起演奏。</p>
-<p>── <em>就你而言，在我看来，在一个乐队里比被邀请参加一个演出活动并演奏更适合你的性格。</em></p>
-<p>K：我想是的。但如果有人问我，我（会回答）想演奏各种音乐， 如果音乐是可敬的。当我积极地思考<strong>REDЯUM</strong>解散时，能够在一个新的地方打鼓是很有趣的。当我参加<strong>REDЯUM</strong>以外的录音时，非常鼓舞人心。但我在乐队里最有趣的部分是我在录音室里写歌的时候。从无到有，我最充实的时间来创造语言和旋律。我无法忍受我们四个人在整理一首还没发行的歌时做计划的感觉。当然，现场表演也是不可替代的、充实的时间。</p>
-<p>── <em>即使<strong>REDЯUM</strong>解散，你们四个之间的良好关系也不会结束，不是吗？*</em></p>
-<p>K：没错。我们在成为乐队成员之前就是最好的朋友。将来，如果我听说一个受<strong>REDЯUM</strong>影响的乐队成为热门话题，我们四个人就会讨论去现场看。我们会去看，然后“毁”了它(笑)。</p>
-<p>—— <em>最后，请以<strong>REDЯUM</strong>的<strong>梶原幸嗣</strong>的身份给我们留言。</em></p>
-<p>K：我希望你永远不会忘记<strong>REDЯUM</strong>这样的乐队的存在。即便乐队解散，音源也会保留下来，所以我希望人们继续谈论它，把它传递下去。我希望那些在最后一场现场演出中遇见的人会把我们最后的画面烙入眼里和心里。这是我们这是真正的，也是最后一次现场演出了。</p>
-<p>&lt; ***完*** &gt;</p>
-<p><img data-src="https://ttfou.com/images/2023/01/19/13c4a9d995a49e37230cb7adc63ac0e9.jpg" alt="Rememberance" title="Remenberance"></p>
-</details>
-
-<br>
-
-<p><a href="https://rooftop1976.com/interview/090401123107.php">原文链接（点我直达）</a></p>
-<hr>
-<hr>
-<h2 id="Live视频"><a href="#Live视频" class="headerlink" title="Live视频"></a>Live视频</h2><br>
-
-<h3 id="BiliBili"><a href="#BiliBili" class="headerlink" title="BiliBili"></a>BiliBili</h3><h4 id="REDЯUM＆LOFT-PRESENTS-CINEMATIC-SOUND-FOUNDATION2016"><a href="#REDЯUM＆LOFT-PRESENTS-CINEMATIC-SOUND-FOUNDATION2016" class="headerlink" title="REDЯUM＆LOFT PRESENTS CINEMATIC SOUND FOUNDATION2016"></a>REDЯUM＆LOFT PRESENTS CINEMATIC SOUND FOUNDATION2016</h4><iframe src="//player.bilibili.com/player.html?aid=10052114&amp;bvid=BV1sx411U7bk&amp;cid=16612364&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<br>
-
-<h4 id="REDЯUM-涙-高円寺showboat-14-07-2018"><a href="#REDЯUM-涙-高円寺showboat-14-07-2018" class="headerlink" title="REDЯUM - 涙 - 高円寺showboat 14.07.2018"></a>REDЯUM - 涙 - 高円寺showboat 14.07.2018</h4><iframe src="//player.bilibili.com/player.html?aid=81861398&amp;bvid=BV1vJ411j7Wa&amp;cid=140070036&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<br>
-
-<h4 id="REDЯUM-翳りの街-高円寺showboat-14-07-2018"><a href="#REDЯUM-翳りの街-高円寺showboat-14-07-2018" class="headerlink" title="REDЯUM - 翳りの街 - 高円寺showboat 14.07.2018"></a>REDЯUM - 翳りの街 - 高円寺showboat 14.07.2018</h4><iframe src="//player.bilibili.com/player.html?aid=81865473&amp;bvid=BV1iJ411j7qp&amp;cid=140076845&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<br>
-
-<h3 id="Youtube"><a href="#Youtube" class="headerlink" title="Youtube"></a>Youtube</h3><p> $ 翻不了长城，所以不保证Youtube视频的有效性</p>
-<br>
-
-<ol>
-<li><a href="https://www.youtube.com/watch?v=_YgA0pESdW4">https://www.youtube.com/watch?v=_YgA0pESdW4</a></li>
-<li><a href="https://www.youtube.com/watch?v=iZNvAyr3Scw">https://www.youtube.com/watch?v=iZNvAyr3Scw</a></li>
-<li><a href="https://www.youtube.com/watch?v=1NZoxLAXBEs">https://www.youtube.com/watch?v=1NZoxLAXBEs</a></li>
-<li><a href="https://www.youtube.com/watch?v=i-SkG7xjmFY">https://www.youtube.com/watch?v=i-SkG7xjmFY</a></li>
-<li><a href="https://www.youtube.com/watch?v=tFf8YgWEea4">https://www.youtube.com/watch?v=tFf8YgWEea4</a></li>
-<li><a href="https://www.youtube.com/watch?v=_YgA0pESdW4">https://www.youtube.com/watch?v=_YgA0pESdW4</a></li>
-<li><a href="https://www.youtube.com/watch?v=ilTSfKnijHo">https://www.youtube.com/watch?v=ilTSfKnijHo</a></li>
-<li><a href="https://www.youtube.com/watch?v=qht68JoKRFs">https://www.youtube.com/watch?v=qht68JoKRFs</a></li>
-<li><a href="https://www.youtube.com/watch?v=WCLs2cYPA6U">https://www.youtube.com/watch?v=WCLs2cYPA6U</a></li>
-</ol>
-<br>
-
-<hr>
-<hr>
-<h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>在解散六年后，他们决定在2015.04.25在 <em>阿佐ヶ谷ロフトA</em> 进行名为「Six Years」的为期一夜的演出。至于为何要进行，乐队成员们说，“这没什么特别的意义”。</p>
-<blockquote>
-<p>REDЯUM LIVE「Six Years」<br>4月25日（土）　東京 阿佐ヶ谷ロフトA<br>第一部：open17:30 / start 18:00<br>第二部：open20:00 / start 20:30<br>前売り3000円 当日券未定（通し券なし）<br>チケット イープラスのみで発売中<br>（会場、メール予約、取り置きなし）</p>
-</blockquote>
-<br>
-
-<p>在解散的很长一段时间，乐队成员们仍然唱歌表演，做着音乐。活跃度是惊人的。</p>
-<p><img data-src="https://ttfou.com/images/2023/01/20/a02a20c08cf7e841e4802336b5143a35.jpg" alt="Kazi" title="kazi"><br>$ 2018年，<strong>梶原幸嗣</strong>在自己45岁生日的前一天举办了一场演出，演奏了45首乐曲。包含<strong>REDЯUM</strong> 致敬乐队在内的6个乐队参与了这场演出。</p>
-<blockquote>
-<p>-BAND-<br>■カカオキッズ<br>[Vo.高橋浩司 / Gt.武内剛 / Ba.恩賀周平(electro53) / Dr.KAZI]<br>■THE BEAT UK<br>[Vo.澁谷潤(CQ) / Vo.徳山拓磨(alcana) / Gt.music of gentleman(NO MORE LIES/dario)<br>/ Ba.佐山忍 / key.佐藤統(THE BLACK COMET CLUB BAND/THE JUNEJULYAUGUST) / Dr.KAZI]<br>■REDЯUM Tribute Band<br>[Vo.山田将司(THE BACK HORN) / Gt.武内剛 / Ba.外浩司 / Dr.KAZI]<br>■あきゆきばんど<br>[Vo.石崎あきゆき(The Cavemans) / Gt.武内剛 / Ba.本田祐也(ex.COCK ROACH,無限マイナス) / Dr.KAZI]<br>■HUMAN TAIL<br>[Vo.窪”雪之丞”洋介 / Gt.ノスケティック村長 / Ba.蝶名林友 / Gt.黒岩裕右 / Dr.KAZI]</p>
-</blockquote>
-<br>
-
-<p>就我个人而言，我认为<strong>REDЯUM</strong>是否重组其实并不重要。<br>我认为现在这样已经是最好的了，每个人都过着属于自己的充实生活。即使<strong>REDЯUM</strong>名义上解散了，我也为他们感到快乐。<br>我知道，当我戴上耳机时，乐队的四个人就又待在了一块儿。也只有这样，他们才就是<strong>REDЯUM</strong>。<br>（但我还是希望有一天能再次看到乐队成员们的现场表演。</p>
-<p>&lt; ***The End*** &gt;</p>
-<hr>
-<hr>
-<h2 id="欢迎评论交流加友链🎉"><a href="#欢迎评论交流加友链🎉" class="headerlink" title="欢迎评论交流加友链🎉"></a>欢迎评论交流加友链🎉</h2><p>都看到这儿了，不留个评论嘛~</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 庆祝 </tag>
+            
+            <tag> 节日 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
+      <link href="/posts/936f4e60/"/>
+      <url>/posts/936f4e60/</url>
+      
+        <content type="html"><![CDATA[<p>无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；<strong>简单、优雅、快速</strong>！人人可用~</p><span id="more"></span><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="430" height="86" src="//music.163.com/outchain/player?type=2&amp;id=28546412&amp;auto=1&amp;height=66"></iframe><h2 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h2><p>众所周知，在<strong>Chinese Government</strong>的政策下，<strong>Wikipedia</strong>维基百科因为包含一些“ <em><strong>敏感</strong></em> ”内容，被隔离在了长城之外。<br>由此一来，每当需要在<strong>Wikipedia</strong>查阅资料时（因为一些信息，在闭塞的国内网络环境下难以查找；我的<a href="https://mujitogawa.github.io/posts/1f99454c/">上一篇博文</a>中的许多信息都是在 <em>维基</em> 英文站上才找到的），就必须需要 <em>科学上网</em> 或者使用 <em>维基</em> 镜像站。无奈这两种方案都不是十分稳定，且有些麻烦。而造成麻烦的根源所在，即为：它们都需要使用网络作为“媒介”。<br>那么解决方式就十分明了：我不通过网络访问不就可以了（乐</p><hr><h2 id="离线的Wikipedia"><a href="#离线的Wikipedia" class="headerlink" title="离线的Wikipedia"></a>离线的Wikipedia</h2><blockquote><p><strong>Kiwix</strong>成立于10多年前，它是许多网站（包括<a href="https://www.wikipedia.org/">维基百科</a>，<a href="https://www.gutenberg.org/">古腾堡项目</a>或<a href="https://stackexchange.com/">Stack Exchange</a>等大型网站）在线内容的离线阅读器。<br><strong>Kiwix</strong>可以将任意网站高度压缩成独特的内容包（.zim文件），以便它们易于共享。<br><strong>Kiwix</strong>阅读器几乎可以在任何设备（手机，计算机等）上运行。<strong>Kiwix</strong>就好像是一个普通的浏览器。因为除了没有接入互联网，它的体验几乎与浏览源网站相同。<br>该软件以及内容可供任何人免费使用。</p></blockquote><p>以上内容截取自<a href="https://www.kiwix.org/en/"><strong>Kiwix</strong>的官网(点我直达)</a>。实现离线阅读，只需在相关网站下载一个.zim格式的文件。<br><strong>Wikipedia</strong>的内容都被压缩存储在这个.zim格式的文件中。<br>然后，我们就可以使用<strong>Kiwix</strong>，打开.zim文件，实现离线阅读。</p><h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><p><img data-src="https://ttfou.com/images/2023/01/20/4ed9b9a4dbbd44cfe3296233bf0c211e.png" alt="Kiwix"><br>$ <em>Kiwix</em> 应用界面</p><hr><h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>$ 以下步骤都无需 <em>科学上网</em>，请放心食用</p><h3 id="安装Kiwix应用-点我直达"><a href="#安装Kiwix应用-点我直达" class="headerlink" title="安装Kiwix应用(点我直达)"></a>安装<a href="https://www.kiwix.org/en/download/">Kiwix应用(点我直达)</a></h3><p><strong>Kiwix</strong>应用是跨平台的，这意味这你几乎可以在任意设备上使用它。</p><h4 id="Kiwix-支持的平台"><a href="#Kiwix-支持的平台" class="headerlink" title="Kiwix 支持的平台"></a>Kiwix 支持的平台</h4><ul><li><strong>Android</strong><ul><li>Android v5.0 or higher</li></ul></li><li><strong>Windows</strong><ul><li>Windows XP/Vista or higher</li></ul></li><li><strong>iOS/macOS</strong><ul><li>Compatible with all Apple devices</li></ul></li><li><strong>GNU/Linux</strong><ul><li>Compatible with all(?)</li></ul></li><li><strong>Browser Extensions</strong> ( <em>浏览器插件</em> )<ul><li>Chrome, Firefox &amp; Edge</li></ul></li><li><strong>Raspberry Pi</strong><ul><li>You can install Kiwix on a Raspberry Pi and use it as a hotspot</li></ul></li></ul><h3 id="下载-zim文件"><a href="#下载-zim文件" class="headerlink" title="下载.zim文件"></a>下载.zim文件</h3><h4 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h4><ol><li><a href="https://download.kiwix.org/zim/wikipedia/">Kiwix(推荐，点我直达)</a></li><li><a href="https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/">Wikimedia Downloads（点我直达）</a></li></ol><p><img data-src="https://ttfou.com/images/2023/01/20/a752078838896dcc90cb7d3bcf4b7303.png" alt="DL" title="DL"></p><p>如图，<strong>Kiwix</strong>提供了多种下载文件。那么如何选择适合自己的呢？<br>文件的命名格式是：<br><code>Project_Language_Number of Articles_Flavour</code><br>（ <code>项目_语言_词条数目_种类</code> ）</p><p><code>Project</code>，不必多说，就该链接而言，肯定是<strong>Wikipedia</strong>维基啦~</p><p><code>Language</code>，一般就直接会选择英文<strong>en</strong>或中文<strong>zh</strong>喽。就我而言，我还是会更加推荐英文<strong>en</strong>。原因显而易见，因为英文百科的收入更加全面。可供下载的选择也更加多。即便是遇到看不懂的页面也是翻译可以解决的。</p><p><code>Number of Articles</code>，这在上图中看到的都是“all”，表示.zim中包括了该语言下<strong>Wikipedia</strong>维基的所有词条内容。除此之外也还会出现像 <em>medicine</em> 或 <em>football</em> 之类的，表示该.zim文件只收录了与医药或足球相关的词条内容。按个人需求下载吧。理所应当的，这些只收录了单一板块的，.zim文件的大小会相对的小。</p><p><code>Flavour</code>，.zim文件的版本主要分为3种：</p><ul><li><p><strong>mini</strong></p><ul><li>表示有的词条只包含一小部分，详细内容可能会看到不到。</li><li>（$ 但我查个维基的资料就是为了看到详细的信息阿，所以不推荐这种。</li></ul></li><li><p><strong>maxi</strong></p><ul><li>maxi版本包含所有内容，除了视频和音频内容。这种.zim文件内容最完整，文件也最大。</li><li>（ $ 只要你的设备的储存空间够大，就请下这个版本吧~</li></ul></li><li><p><strong>nopic</strong></p><ul><li>和maxi版本相比，被删去了词条中几乎所有的图片和视频。但是词条内容还是完整的。</li><li>（ $ 一般查阅资料也不需要看什么图片视频吧，而且还能省下将近一半的储存空间。<strong>个人推荐</strong></li></ul></li></ul><h4 id="！！！注意"><a href="#！！！注意" class="headerlink" title="！！！注意"></a>！！！注意</h4><p><strong>Wikimedia</strong>将每个 IP 的连接数限制为了 2<del>(镜像站点好像没有这个限制)</del>，所以请尽量不要使用诸如<strong>IDM</strong>的多线程下载器进行文件的下载。<br>文件的普通下载速度还是相对给力的。像我300M的宽带，使用Edge浏览器内置下载，速度可以稳定在10MB/s~13MB/s。</p><h3 id="导入-zim文件"><a href="#导入-zim文件" class="headerlink" title="导入.zim文件"></a>导入.zim文件</h3><p>$ 我使用的是 <em>Windows</em> 操作系统，所以以下内容针对 <em>Windows</em> 而言。但理论上各平台的操作方式都是类似的。</p><ol><li><strong>Kiwix</strong>软件和.zim文件下载完成后，建议将.zim文件放在<strong>Kiwix</strong>软件的根目录。</li><li>随后打开<strong>Kiwix</strong>软件，点击右上方“文件夹”图标或者<code>Ctrl+o</code>，选中刚刚放在根目录的.zim文件并打开。然后就可以正常使用了。</li></ol><br><hr><h2 id="欢迎评论交流加友链✨"><a href="#欢迎评论交流加友链✨" class="headerlink" title="欢迎评论交流加友链✨"></a>欢迎评论交流加友链✨</h2><p>都看到这儿了，不留条评论再走吗 <em><strong>QAQ</strong></em></p>]]></content>
+      
+      
       <categories>
-        <category>三十三又三分之一转</category>
-        <category>Performers</category>
+          
+          <category> 教程向 </category>
+          
       </categories>
-      <tags>
-        <tag>REDЯUM</tag>
-        <tag>Music</tag>
-        <tag>Trip-Hop</tag>
-        <tag>J-Rock</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
-<span id="more"></span>
-
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
-
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
-
-<hr>
-<br>
-
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+      
+      
+        <tags>
+            
+            <tag> Wikipedia </tag>
+            
+            <tag> Kiwix </tag>
+            
+            <tag> 全平台 </tag>
+            
+            <tag> Firewall </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
+      <link href="/posts/1f99454c/"/>
+      <url>/posts/1f99454c/</url>
+      
+        <content type="html"><![CDATA[<blockquote class="blockquote-center">“日本で PORTISHEAD みたいなバンドを作ろう！”</blockquote>  <span id="more"></span><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=29127073&amp;auto=1&amp;height=66"></iframe>  <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>现在是大数据时代了，但似乎在茫茫的信息流中发现<strong>REDЯUM</strong>乐队的人儿也不占多数。（不禁叹惋<br>初次与<strong>REDЯUM</strong>遇见还是在网易云音乐上。那时候的我还留有着听<em>每日歌曲推荐</em> 的习惯。然后就这样毫无征兆的，<strong>REDЯUM</strong>闯入了我的视界。</p><p><strong>REDЯUM</strong>的取名或是来源于《<strong>闪灵</strong>》。REDЯUM，即为 MURDER (谋杀)一词的镜像。正如其名，<strong>REDЯUM</strong>的音乐给人一种“谋杀的冷感” —— 冷淡，像是深邃的蓝与苍绿的黑交织的漩涡，却又不冰冷透骨，丝毫没有阴森森的感觉。<strong>梶原幸嗣</strong>强大而又准确的鼓点深入骨髓，侵蚀内脏；吉他和贝斯的声音一丝一缕地（不知这样形容是否准确）无限下溺，十分漂亮；而主唱 <strong>來山裕美</strong> 的声音，更像是游走在梦幻与现实的边界，饱满，而不失空灵，一尘不染的干净、大气。遂让我由衷觉得日语或许是“世界上最温柔的语言”…</p><p><img data-src="https://ttfou.com/images/2023/01/18/0da7cb3ea6aab68c12792794d77728b7.png" alt="REDЯUM" title="REDЯUM"><br>  $ sreenshot from <em>The Shining</em></p><hr><hr><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><h3 id="Members"><a href="#Members" class="headerlink" title="Members"></a>Members</h3><p>Vocal：<strong>來山 裕美</strong> (Yumi Kitayama)<br>Bass：<strong>外 浩司</strong> (Hiroshi Soto)<br>Guitar：<strong>武内 剛</strong> (Tsuyoshi Takeguchi)<br>Drum Sets：<strong>梶原 幸嗣</strong> (Koji Kajiwara)</p><details><summary>Former Members（点我查看</summary><p><strong>Jyunji</strong>  (Bass 1996)<br><strong>平林直己</strong> Hirabayashi Naoki  (Bass 2005)<br><strong>本田由弥</strong> Honda Yuuya (Bass 2005-2006)</p></details><br><p><img data-src="https://ttfou.com/images/2023/01/19/93ebb6ec211f1f223d1e5a69f6c01469.jpg" alt="Members" title="Members"></p><p>$ 从左往右，依次为：<em>武内剛</em>、<em>來山裕美</em>、<em>梶原幸嗣</em>、<em>外浩司</em></p><br><hr><h3 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h3><p><strong>REDЯUM</strong>（1996-2006；2007-2009）是一支日本独立摇滚乐队，风格主要为 <em>Trip-Hop</em> 。<strong>REDЯUM</strong>成立于1996年，其目标是 “成为类似于日本的<strong>Portishead</strong>” 这样的乐队。他们的作品只包括几张正式专辑，几张迷你专辑和超大单曲。部分版本仅通过邮购或在他们的演出中获得，并且此后已绝版。  </p><p><strong>REDЯUM</strong>的歌曲中偶尔会出现反向播放的台词，这可能是对《<strong>闪灵</strong>》致敬，但也很可能是对<strong>David Lynch</strong>(大卫·林奇) 的连续剧《<strong>双峰</strong>》中红房间的序列的致敬 (《双峰》讲述了与小镇谋杀案有关的奇怪事件)。乐队成员，特别是<strong>梶原幸嗣</strong>，欣赏<strong>David Lynch</strong>和<strong>David Cronenberg</strong>(大卫·柯南伯格) 的作品。这在他们的许多歌曲中都有体现。</p><p><strong>REDЯUM</strong>的部分灵感来自于西方的 Red Hot Chili Peppers, John Frusciante, Radiohead, Portishead, Massive Attack, Aphex Twin，Björk等等。<br>在日本本土，他们从honeydip，the Back Horn，nil，Cock Roach，Anoyo，Durga等同时代的独立音乐团体，以及Gastunk，the Blue Hearts，ARB，the Roosters和the Stalin等20世纪80年代的组合中汲取灵感。</p><hr><h3 id="Discography-Studio-Albums"><a href="#Discography-Studio-Albums" class="headerlink" title="Discography(Studio Albums)"></a>Discography(Studio Albums)</h3><details><summary>REDRUM (1999) </summary><br><p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDRUM" title="REDRUM"></p><ol><li>Room</li><li>Cherry pie</li><li>The world is mine</li><li>Desert Green</li></ol></details><details><summary>Second Circle (2000) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/e2f2ff6334a212b07b60709ee4a3968f.jpg" alt="Second Circle" title="Second Circle"></p><ol><li>4 A.D. (4 ASIAN DOCUMENTS)</li><li>SWALLOWING THE SUN</li><li>CIRCLES</li><li>BPM 2001</li><li>PLANET OF YOUR SIXTH</li><li>(untitled)</li></ol></details><details><summary>Cronenberg (2001) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/b0482f0ea27e948f402097ccb5ec5a87.jpg" alt="Cronenberg" title="Cronenberg"></p><ol><li>航海(sea voyage)</li><li>Time Trip</li><li>時の支配者(ruler of time)</li><li>Blue Velvet</li><li>サイレント</li><li>Car’s Crash</li><li>Paralell Time Trip</li></ol></details><details><summary>4 (2002) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/8464e89a6a181decc199e513a1e12013.jpg" alt="4" title="4"></p><ol><li>嘘と理想</li><li>Abstracture</li><li>Break Beats Error</li><li>Phosight</li><li>葉隠</li></ol></details><details><summary>Arizona Dream (2003) </summary><p><img data-src="https://ttfou.com/images/2023/01/19/d8850f644ccff89de43ca3e083428a1d.jpg" alt="Arizona Dream" title="Arizona Dream"></p><ol><li>Scorpio Rising</li><li>アルタードステイツ</li><li>水葬</li><li>魚影の果て</li><li>失われたハイウェイ</li></ol></details><details><summary>Answer Songs (2004) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/435863460ea9a563713759c6ee985098.jpg" alt="Answer Songs" title="Answer Songs"></p><ol><li>Slider</li><li>Sayonara Song</li><li>Sorrow Flows The Midnight</li><li>Sleep</li></ol></details><details><summary>審美眼とパラドックス (2004) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/77bab8b5febd7e2ed5a2544ad2f7efd8.jpg" alt="審美眼とパラドックス" title="審美眼とパラドックス"></p><ol><li>逆光</li><li>響きの森</li><li>スライダー</li><li>背中</li><li>ユメノユメ</li><li>紅く光る。</li><li>鮮やかな色</li><li>流れ星</li><li>冬の匂い</li><li>魂の花</li></ol></details><details><summary>Tokyo (2007) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/25009419c915251641291ede53ec1408.jpg" alt="Tokyo" title="Tokyo"></p><ol><li>TOKYO</li><li>under neon</li><li>翳りの街</li></ol></details><details><summary>Order From 1996 (2009) </summary><br><p><img data-src="https://ttfou.com/images/2023/01/19/2233a24a5264efec14d7bfe5417847a5.jpg" alt="Order From 1996" title="Order From 1996"></p><ol><li>1996</li><li>Sleeping Gypsy</li><li>記憶の忘れ物</li></ol></details><h4 id="Discography-Complete"><a href="#Discography-Complete" class="headerlink" title="Discography(Complete)"></a>Discography(Complete)</h4><details><summary>点击我查看</summary><br><p><strong>Albums</strong>:</p><ul><li>Second Circle (2000.04.28 ORA-1018)</li><li>Cronenberg (2001.11.16)</li><li>4 (2002.12.14)</li><li>Too Young to Fall in Love (2003.06.11 IFRDU-0028)</li><li>Arizona Dream (2003.12.16 IFRDU-0030)</li><li>Shinbigan to Paradox (2004.12.08 IFRDU-0032)</li></ul><p><strong>Maxi-Singles</strong>:</p><ul><li>REDЯUM (1999.05.26)</li><li>Answer Songs (2004.09.08 IFRDU-0031)</li></ul><p><strong>Singles</strong>:</p><ul><li>Touen no chikai | 2004.12.16</li><li>Cherry Pie 2005ver. | 2005.09.03</li><li>Utskushii kaze | 2005.10.23</li><li>Jellico | 2005.12.03</li><li>Bessekai | 2006.01.29</li><li>Himitsu | 2006.02.25</li><li>Tokyo | 2007.10.31</li><li>Order from 1996 | 2009.04.15</li></ul><p><strong>Compilations</strong>:</p><ul><li>Grand Cross 1999 | 1999.08.11 (POCH-1818)</li><li>Contributed the song ‘Namida’</li><li>Parallel Side of Soundtract (2001.11.14 HDCA-10075)</li><li>Contributed the song ‘Q’</li><li>Mad for Sadness (2006.05.06)</li><li>Search out the Jams: The Pogo Tribute Album (2008.10.08 THCA-064 )</li><li>Contributed a cover of the song ‘Fallen Angel’</li><li>Cinematic Sound Foundation (2008.11.19 FECD-0098)</li></ul><p><strong>Live Albums</strong>:</p><ul><li>Good Evening Wonderful Friends (2005.02.10)</li><li>070422 (2007.07.22)</li><li>Sad Song Classics (2008.02.01)</li></ul><p><strong>Live-Only or Mail-Order CDs</strong>:</p><ul><li>New Album (4) Release Party! (2002.12.14)</li><li>Durga + Redrum remix CD (2006.02.25)</li><li>Snow Bird (2009.05.28) released with first-press [Party Is Over] DVD</li></ul><p><strong>Video</strong>:</p><ul><li>Broken Jr. (2002.07.26)</li><li>Car’s Crash (2002.08.15)</li><li>Sentimental Journey (2002.08.23)</li><li>Altered Stasis (2003.12.26)</li><li>Live in Hong Kong: 2001.09.20 @ Queen Elizabeth Stadium (2004.08.29)</li><li>End of Dogma (2006.06.11)</li><li>Sad Song Classics (2008.02.01)</li><li>Party is Over (2009.05.28)</li><li>Last Utopia Under the Rain (2009.07.20)</li></ul></details><br><hr><h3 id="Events"><a href="#Events" class="headerlink" title="Events"></a>Events</h3><br><h4 id="1996年"><a href="#1996年" class="headerlink" title="1996年"></a>1996年</h4><details> <summary>点我查看</summary><br><blockquote><p>“日本で <strong>PORTISHEAD</strong> みたいなバンドを作ろう！”<br>(打造日本自己的<strong>Portihead</strong>式乐队)</p></blockquote><p>鼓手<strong>梶原幸嗣</strong>向吉他手<strong>武内剛</strong>宣布道。<br><strong>梶原幸嗣</strong>在以前的工作中遇到了<strong>武内剛</strong>，不久之后结识了歌手<strong>來山裕美</strong>，三人组建了<strong>REDRUM</strong>，以实现这一目标。</p><p><img data-src="https://ttfou.com/images/2023/01/19/087320966bb70a29721d0cb736572881.jpg" alt="Early Years" title="Early Years"></p></details><h4 id="1997年"><a href="#1997年" class="headerlink" title="1997年"></a>1997年</h4><details> <summary>点我查看</summary><br><p><strong>REDRUM</strong>的第一个贝斯手<strong>Jyunji</strong>并不可靠。他会若无其事地告诉他的乐队成员他很“<em>忙</em> ”，随之一到两周都无法联系到他。不久之后，他就被赶出了乐队。同年，<strong>REDRUM</strong>开始在 <em>下北沢CLUB251</em> 进行现场表演。乐队就在各大演出场所和杂志上都刊登了一则招聘新贝斯手的公告:</p><blockquote><p>“Bassist Urgently Needed! For a Vocalist, Guitarist, and Drummer. To make a band in the likes of <em>Portishead</em> , <em>Massive Attack</em> , <em>Tricky</em> , <em>the Bristol sound of music</em> , and even <em>Radiohead</em> and <em>Björk</em> , in Japanese with such a raw sound!”</p><p>（急需贝斯手！已有歌手,吉他手，鼓手。像Portishead、Massive Attack、 Tricky、Bristol sound of music、甚至Radiohead和Björk这样的乐队，以原始的日语声音演绎!）</p></blockquote><p><strong>外浩司</strong>回应了这则公告，领队<strong>梶原幸嗣</strong>起初怀疑这个30岁的<em>工薪族</em> 能否融入乐队，因为乐队成员的年龄都不到25岁。<strong>外浩司</strong>的音乐品味也与乐队的其他成员不同，这给乐队带来了一些犹豫。<br>但在与<strong>外浩司</strong>会面后，他们便向他发出了加入乐队的邀请。<strong>外浩司</strong>于1997年1月接受了邀请。在这一年里，他们在工作室里表演和排练，创作了《Sad Song》、《Room》、《Blue Velvet》、《Cherry Pie》和《midori no sabaku》等歌曲。</p></details><h4 id="1998年"><a href="#1998年" class="headerlink" title="1998年"></a>1998年</h4><details> <summary>点我查看</summary><br><p>1998年6月，成员们去 <em>惠比寿花园音乐厅</em> 参加了一场“Massive Attack concert”。<br><strong>梶原幸嗣</strong>站在Live House外面，注意到同样站在附近的一个男人。</p><blockquote><p><em>梶原幸嗣</em> : 那不是 <em>Luna Sea</em> 的家伙吗?<br><em>來山裕美</em> : 真的吗?<br><em>武内剛</em> : 对，看起来是这样。<br><em>外浩司</em> : 嗯，对不起，我不知道。</p></blockquote><p><strong>梶原幸嗣</strong>揣着一盘DEMO磁带走来走去，他鼓足了勇气接近他。令他惊讶的是，杉原康弘非常善于交际，并让<strong>梶原幸嗣</strong>把自己的电话号码给他。最后杉木佐打来电话，说他刚听了这盘磁带，并被它惊呆了，想让REDRUM成为他新成立的厂牌Embryo签约的第一支乐队。<strong>梶原幸嗣</strong>立即打电话给其他乐队成员，他们都很惊讶，因为他们不是 <em>Luna Sea</em> 那样以“视觉系”风格著称的乐队。<br>乐队再次见到<strong>杉原康弘</strong>，正式接受了他的邀请，乐队很快就进入录音室录制了他们的第一张 Maxi-Singles ——《REDRUM》，杉原康弘担任录音工程师。在处理完最后的混音后，乐队的每个成员都对他们专辑的录音质量感到满意</p></details><h4 id="1999-年"><a href="#1999-年" class="headerlink" title="1999 年"></a>1999 年</h4><details> <summary>点我查看</summary><br><p>第一张专辑(Maxi-Singles) 《REDRUM》发行。<br>迄今为止已有19届，由<strong>REDRUM</strong>主办的活动 “CINEMATIC SOUND FOUNDATION”，首次开始。<br>歌曲「涙」成为了汇编专辑“GRAND CROSS1999”中的一曲。</p></details><h4 id="2000年"><a href="#2000年" class="headerlink" title="2000年"></a>2000年</h4><details> <summary>点我查看</summary><br><p>第二张专辑《SECOND CIRCLE》发行。</p></details><h4 id="2001年"><a href="#2001年" class="headerlink" title="2001年"></a>2001年</h4><details> <summary>点我查看</summary><br><p>以“Q”的身份参与电影<strong>Soundtrack</strong>的原声专辑《Parallel Side of Soundtrack》。<br>推出了会场和邮购限定版专辑“Cronenberg”。</p></details><h4 id="2002年"><a href="#2002年" class="headerlink" title="2002年"></a>2002年</h4><details> <summary>点我查看</summary><br><p>推出了会场和邮购限定专辑 “4”；现场视频 “BROCKEN Jr.”；纪录片视频   “Sentimental Journey”。</p></details><h4 id="2003年"><a href="#2003年" class="headerlink" title="2003年"></a>2003年</h4><details> <summary>点我查看</summary><br><p>创立了自己的LABEL —— NIGHT PEOPLE，发行专辑《TOO YOUNG TO FALL IN LOVE》。<br>同年发行收录了在新宿LOFT举行的个人演唱会的全部新歌的Live专辑《ARIZONA DREAM》。</p></details><h4 id="2004年"><a href="#2004年" class="headerlink" title="2004年"></a>2004年</h4><details> <summary>点我查看</summary><br><p>发行了专辑《ANSWER SONGS》和《審美眼とパラドックス》。<br>视频 “LIVE in 香港～2001.09.20@Queen Elizabeth Stadium～” 发布。<br>2004.12.16，<strong>外浩司</strong>退出乐队。</p></details><h4 id="2005年"><a href="#2005年" class="headerlink" title="2005年"></a>2005年</h4><details> <summary>点我查看</summary><br><p>新成员（Bass）<strong>平林直己</strong>（ex.THA BACK HORN）加入。<br>2005.10.31，<strong>平林直己</strong>退出。<br>2005.11， <strong>本田裕雅</strong>（ex. COCK ROACH）作为贝斯加入。</p></details><h4 id="2006年"><a href="#2006年" class="headerlink" title="2006年"></a>2006年</h4><details> <summary>点我查看</summary><br><p>2006.04，乐队宣布他们将在6月结束的10周年巡演后无限期停演。<strong>梶原幸嗣</strong>强调，这不是解散，所有乐队成员都会再回来。</p></details><h4 id="2007年"><a href="#2007年" class="headerlink" title="2007年"></a>2007年</h4><details> <summary>点我查看</summary><br><p>乐队兑现诺言，宣布将于2007年4月22日复出。随着这一消息的宣布，长期贝斯手<strong>外浩司</strong>在2004年底离开后，回归<strong>REDRUM</strong>乐队。<br>同年4月22日＠仙台JUNK BOXより开始第5期REDRUM。</p></details><h4 id="2008年"><a href="#2008年" class="headerlink" title="2008年"></a>2008年</h4><details> <summary>点我查看</summary><br><p>2008.11.09，<strong>REDRUM</strong>发行了一张名为《Cinematic Sound Foundation》的“Best of”精选专辑，随后，在<strong>來山裕美</strong>决定退出乐坛后，宣布于2009年解散。<br><em>梶原幸嗣</em>表示，他、<strong>武内剛</strong>和<strong>外浩司</strong>最终将以某种形式合作演出。</p></details><h4 id="2009年"><a href="#2009年" class="headerlink" title="2009年"></a>2009年</h4><details> <summary>点我查看</summary><br><p><strong>REDRUM</strong>乐队开始了他们最后一次名为“Tomorrow Never Comes”的巡回演出，他们的最后一次现场于2009.04.25，在新宿Loft举行。</p></details><br><p><img data-src="https://ttfou.com/images/2023/01/19/3a50df37675f724749f48406599117bc.jpg" alt="REDЯUM" title="REDЯUM"></p><br><hr><h3 id="External-Links"><a href="#External-Links" class="headerlink" title="External Links"></a>External Links</h3><br><p><a href="http://www.redrum.jp/">Redrum’s Website</a> 已挂<br><a href="http://mixi.jp/view_community.pl?id=73756">Redrum’s community at mixi.jp</a> 已挂<br><a href="http://park8.wakwak.com/~redrum/redrum.html">Redrum’s former website</a> 已挂<br><a href="http://yaplog.jp/touen">Kazi’s Journal</a> 已挂<br><a href="https://www.facebook.com/people/%E6%A2%B6%E5%8E%9F%E5%B9%B8%E5%97%A3/100003090348678">Kazi’s Facebook</a></p><hr><hr><h2 id="访谈"><a href="#访谈" class="headerlink" title="访谈"></a>访谈</h2><p>$ <a href="https://github.com/MujiTogawa"><strong>Muji Togawa</strong></a>(也就是博主本人)拥有对该访谈的翻译的解释权<br><br></p><h3 id="REDЯUM-‘08年11月号-——-“CINEMATIC-SOUND-FOUNDATION”-耽美と憂愁に彩られた幻想的な綺譚集"><a href="#REDЯUM-‘08年11月号-——-“CINEMATIC-SOUND-FOUNDATION”-耽美と憂愁に彩られた幻想的な綺譚集" class="headerlink" title="REDЯUM(‘08年11月号) —— “CINEMATIC SOUND FOUNDATION” 耽美と憂愁に彩られた幻想的な綺譚集"></a>REDЯUM(‘08年11月号) —— “CINEMATIC SOUND FOUNDATION” 耽美と憂愁に彩られた幻想的な綺譚集</h3><details> <summary>点击展开，查看访谈详情~</summary><h4 id="为日文机翻为英文后，对比翻译为中文"><a href="#为日文机翻为英文后，对比翻译为中文" class="headerlink" title="为日文机翻为英文后，对比翻译为中文"></a>为日文机翻为英文后，对比翻译为中文</h4><blockquote><p><strong>REDЯUM</strong> 以其“贪婪地”吞噬所有音乐流派的广泛的音乐性，及梦幻美丽的世界观确立了稳固的地位。同时提出了由 Massive Attack 和 Portishead 等建立的Bristol声音声学方法。 长期以来，人们一直期待着能够全面了解其12年活动的项目的推出。<br>即将发行的包含了26首歌曲，被命名为 “CINEMATIC SOUND FOUNDATION” 的双CD专辑，是他们的代名词。更别提代表作和经典Live了。<br>现在很难买到<strong>REDЯUM</strong>的声源。以至于这次新录制的歌曲，都是（不可多得的）华丽的宝石。对于没有经验的<strong>REDЯUM</strong>听众来说，这是一部介绍性的作品。<br>从这张专辑的发行过程，到12年的曲折轨迹，再到与新宿LOFT的密切联系，我与乐队的策划者<strong>梶原幸嗣</strong>(KAZI)进行了大量交谈。 （Interview：<strong>椎名宗之</strong>）</p></blockquote><br><h4 id="让你可以俯瞰乐队的轨迹的最佳专辑"><a href="#让你可以俯瞰乐队的轨迹的最佳专辑" class="headerlink" title="让你可以俯瞰乐队的轨迹的最佳专辑"></a>让你可以俯瞰乐队的轨迹的最佳专辑</h4><p>── <em>是什么促使你在这个时候发行你最好的专辑?</em></p><p>KAZI(以下简称K)：算上现场的限量版，我们目前已经发布了大约16个专辑声源。其中一些已经断货，买不到。而且（<strong>REDЯUM</strong>的）音乐表现力也在不断变化，我想在这里买一张能追溯乐队历史的专辑。所以我决定在专辑的双CD中加入尽可能多的不同类型的歌曲。听这张精选专辑，你就会知道关于REDЯUM的近乎一切。</p><p>—— <em>“CINEMATIC SOUND FOUNDATION”这个名字是用在你们乐队自己的项目上的，对吧?</em></p><p>K：是的。这是我们自己想出来的新词，就像乐队的流行语一样。</p><p>── *.<strong>REDЯUM</strong>的音乐具有高度的视觉影像唤起力，说起来很奇怪。*</p><p>K：从一开始，我就想做一种音乐，让人们听的时候脑海里会浮现的声音和图像。所以用这个词来形容这一点再合适不过了。</p><p>—— <em>所有的成员都决定了歌曲的选择吗?</em></p><p>K：我们让每个成员说，“我想把这首歌包括在内”，然后我们决定了最适用的歌曲。我想我们有所有所谓的代表作歌曲。就我个人而言，我认为像<strong>ROOM</strong>和<strong>Desert Green</strong>这样的早期歌曲是很难被错过的。</p><p>—— <em>在选择歌曲的时候，你有没有重新听过以前的录音?</em></p><p>K：我没有。我经常听他们的歌，他们都是我在各地播放的歌曲。我并非是 “哦，有一首这样的歌”这种样子，我真的很想加入更多的歌曲，但有很多让人潸然泪下的歌我都没有选择。尤其是《CRONENBERG》(01年11月)和《4》(02年12月)中的歌曲。这是在该演出场地独家发行的。当时，我们正在考虑做一些非常核心的事情。</p><p>—— *当我听这张最好的专辑时，我再次感觉到以Massive Attack和Portishead为代表的Bristol声音为基础，你经历了一个难以言说的音乐过渡转变。单看这种音乐广泛性，我觉得这（指 <strong>REDЯUM</strong>）是一个非常独特的乐队(笑)。*</p><p>K：总有会差距，我认为我们做的事情很容易理解(笑)。我们唱的不是什么高难度的歌，旋律也非常简单。我不在乎我说什么，但我认为这（指 <strong>REDЯUM</strong>）是一个很好的乐队(笑)。</p><p>── <em>当然了。</em></p><p>K：我想还是有很多人不了解我们，所以我希望这张最好的精选的专辑，能成为一个很好的催化剂。人们经常说“我不知道该听哪张专辑”。所以我希望你能先拿到这张专辑。</p><p>—— <em>这（指专辑）不像一个简单的编排。它还包括新录制的歌曲。</em></p><p>K：“Altered States”只在现场录制过，所以这次我们重新录制了。有不少歌曲被重新混音了。这只是调整每个片段声音平衡的问题，但工程师让我重新混音。我当时听了专辑的录音，现在听起来会更好。所以现在的一些歌曲和当年不一样了，感觉像是重生了。</p><h4 id="互相吸引的（乐队）成员"><a href="#互相吸引的（乐队）成员" class="headerlink" title="互相吸引的（乐队）成员"></a>互相吸引的（乐队）成员</h4><p>—— <em>即便如此，我还是不敢相信，自从乐队成立以来，黄道十二宫又回到了原点。（$意思是已经过去了十二个年头）</em></p><p>K：我想这是很长一段时间，但我真的没有那么多感觉。我们不是一个常年巡演或者花很多时间录制唱片的乐队。嗯，还有许多其他乐队已经活跃到这种程度，还有很长的路要走。我想我终于走到三分之一了。我是说(笑)，我的理想是即使成为爷爷，也能和现在的成员继续在一个乐队里。</p><p>── <em>Kazi， <strong>剛</strong> 和 <strong>裕美</strong> 是你做兼职时的朋友，你通过杂志招聘认识了<strong>浩司</strong>。</em></p><p>K：我只收到<strong>浩司</strong>的一个回复。当时我想知道<strong>浩司</strong>是否30岁。当时，我觉得30岁的我已经很老了。但当我真正见到他的时候，他还很年轻。他喜欢圣诞颂歌和<strong>Yazawa Eikichi</strong>，我几乎不知道<strong>Portishead</strong>和<strong>Tricky</strong>这样的乐队，他们在招募时提到过他们想做这样的音乐。我只知道<strong>Radiohead</strong>。</p><p>── <em>这就是你为什么申请那么多的原因(笑)。</em></p><p>K：不，这就是为什么它（<strong>REDЯUM</strong>）这么好。下一个我要合作的乐队似乎认为我想要一种我完全不懂的音乐性。这是一种奇怪的联系，我感觉我们被对方吸引了。</p><p>—— <em>在<strong>REDЯUM</strong>成立的1996年前后，独立音乐重新焕发了活力，在我的印象中，无法无法一以概之的独特乐队相继出现。</em></p><p>K: <strong>54-71</strong>和<strong>mono</strong>几乎是同时形成的，所以我很受启发。我觉得有些乐队真的很酷。此外，那时候还没有互联网，传单是我们自己手工剪切和粘贴的。那时我们还没有网站，所以杂志是最好的信息来源。我看着杂志上的小图片，心想着，“他们是什么样的乐队?”；“那是一个激动人心的时刻，不是吗?”</p><p>── <em>我认为在过去12年里有许多障碍需要克服，但我认为最明显的一个障碍是<strong>浩司</strong>的退出(2004年12月)。</em></p><p>K：毕竟，我强烈希望继续四个人在一起。但幸运的是，那时，<strong>平林直己</strong>（ex. THE BACK HORN)即将加入乐队，所以我从未想过解散或休息。另一方面，我觉得和不同的人一起工作会很有趣，所以我转向了积极的想法。</p><p>── <em>你在六个月后离开了团体，在那之后，*<em>本田由弥</em></em>(Yuya Honda)，也就是现在的Mugenminus，作为支持者加入了团体，<strong>浩司</strong>于2007年4月回归，这是一个戏剧性的发展。你是怎么决定回来的?*</p><p>K：当<strong>浩司</strong>来看我们在LOFT的演出时，我们一起在酒吧喝酒。那时，我想，“是不是到是时候了?”(笑)。由于个人原因，<strong>浩司</strong>不得不退出乐队，但在当时，我们并不想跟上那种节奏。我们需要<strong>浩司</strong>的贝斯，所以当我们谈到试着互相配合时，他说他想一起做。</p><p>── <em>如果你仔细想想，第一个贝斯手退队是因为他跟不上乐队的节奏，所以你有一种始终把乐队放在首位的态度。</em></p><p>K：是的。但是，Bass手的更替为何如此频繁（$直译：进进出出..），这是个谜(笑)。</p><p><img data-src="https://ttfou.com/images/2023/01/19/2edc2b1eea1f067d68a6d5a19e13729e.jpg" alt="來山裕美" title="來山裕美"></p><h4 id="REDЯUM与新宿LOFT的密切关系"><a href="#REDЯUM与新宿LOFT的密切关系" class="headerlink" title="REDЯUM与新宿LOFT的密切关系"></a>REDЯUM与新宿LOFT的密切关系</h4><p>—— <em>4名核心成员时隔3年再次制作的EP《TOKYO》(07年10月)，是不拘泥于特定类型的某种风格的乐队的杰作。</em></p><p>K：当我制作《Tokyo》时，我不敢去迎合当时的流行趋势。我们只是做自己想做的事，而不是随大流。他们（指大流）从一开始就是天上的恶魔。如果每个人都去那里，我们也将会去那里。</p><p>—— <em>我个人最喜欢的一个地方是，当你知道全国有很多同名乐队时，你决定通过成为最有名的乐队来“重新命名”它们。</em>（$这里没看懂..）</p><p>K：没错。如果这支乐队出名了，对方难道不会换队名吗？就是这样。</p><p>—— <em>在过去的12年里，KAZI你的转折点是什么?</em></p><p>K：我想是第一张专辑(REDЯUM, 99年5月)的发行。当时，我认为它的出现这将是一个震惊世界的可怕事件(笑)。我很自豪没有其他人做这样的音乐。</p><p>—— <em>我还喜欢Massive Attack的《BLUE LINES》、Portishead的《DUMMY》和Björk的《POST》，所以手弹Trip-Hop并用日语演唱的<strong>REDЯUM</strong>的出现，是一个新的惊喜。</em></p><p>K：这是最本初的概念。我不愿意用英语唱歌。我去看了几支受<strong>Portihead</strong>影响的乐队，但他们中的一些人依赖于唱盘的力量，或者变得太疯狂，最终只是沦为他人的模仿。但从根本上说，我认为如果我们喜欢强烈的摇滚，我们可以做一些有趣的事情。毕竟，<strong>裕美</strong>是作为歌手的存在。经常有女歌手用男性化的方式唱歌，我认为这是一种浪费。我们想展现女性特有的端庄和外表。</p><p>—— *.<strong>裕美</strong>的声音给人一种清新透明的感觉，听着这张最好的专辑，我敏锐地意识到你是一位出色的歌手。*</p><p>K：<strong>裕美</strong>（的歌声）一点也不“脏”，有一种纯真的光泽。而且她不会被任何事情所左右，我认为她是个很棒的歌手。</p><p>── <em>回顾<strong>REDЯUM</strong>的发展轨迹，你会发现，新宿LOFT的事情比你想象的要多。只有新歌的现场专辑《ARIZONA DREAM》(03年12月)是在LOFT录制的单人专辑，《TOKYO》发行后的复兴单人专辑(07年11月)也是在LOFT录制的。另外，从店长<strong>大塚</strong>先生那里得知，今年光顾LOFT酒吧次数最多的是KAZI(笑)。嘿,<strong>大塚君</strong> ?</em></p><p><strong>大塚智昭</strong>(新宿LOFT经理，以下简称为O):我一直很感激你(笑)。</p><p>K：最近，<strong>大塚智昭</strong>先生问我:“你又来了吗?”(笑)。</p><p>O：不，那是一种深情的问候表达(笑)。</p><p>K：我来东京的第一个地方是当时小滝橋街的LOFT。我在东京塔之前去过那里(笑)。</p><p>—— <em>你去看了什么样的现场表演?</em></p><p>K：没有，我只是在白天去了商店的前面(笑)。当我看着它的外观说:“这里……”时，我被深深地感动了，当时乐队的成员说:“我们一定要从这里出去！” 我很兴奋。毕竟，<strong>REDЯUM</strong>从来没有去过老的LOFT。我甚至去参加了我以前所在乐队的午间试镜。</p><h4 id="如果你去Live-House，会有很多有趣的事情"><a href="#如果你去Live-House，会有很多有趣的事情" class="headerlink" title="如果你去Live House，会有很多有趣的事情"></a>如果你去Live House，会有很多有趣的事情</h4><p>── *.<strong>REDЯUM</strong>的第一次现场演出是在下北沢251号，对吗?*</p><p>K：没错。当时我唱的歌几乎和现在一样，观众只有四五个人(笑)。他们都是我做兼职时认识的朋友。我不喜欢穿着t恤和牛仔裤上台，所以<strong>裕美</strong>穿了一条裙子，我们穿西装出去了。当时，我把样带寄给了不同的演出公司，但他们只给了我251号。大多数人都说，“我没有乐队可以预订。”</p><p>O: REDЯUM的音乐最吸引我的地方是他们的原创性，这使他们有别于其他乐队。这就是为什么“没有乐队预订”不是一个好的拒绝，但我觉得他们真的是这么想的。</p><p>── <em>这种不属于任何地方的扭曲肯定从一开始就很突出。</em></p><p>K：我想这就是他们天生的品质和口味吧。我喜欢去看现场表演，每个人都很开心，很兴奋，但当我在舞台上的时候，有点尴尬。你说没什么可分享的话，这是一种粗略的说法，但从这里片面地展示它更合适。你的感受取决于你自己，让每个人都以同样的方式享受生活是没有意义的。</p><p>O: <strong>REDЯUM</strong>的顾客都是醉醺醺的可爱女孩。我在那里感到不舒服，这是一个独特的世界。当你发出声音时，这个地方的气氛完全改变了。</p><p>K: LOFT是所有成员最受尊敬的地方。我一直想去日本最著名的Live House演出。我相信LOFT里还有很多其他的招牌乐队，而我们想打入其中。</p><p>O: <strong>KAZI</strong>经常来LOFT酒吧喝酒，因为他经常和<strong>アナーキー</strong>的<strong>Shigeru</strong> (Nakano)和<strong>ARB</strong>的<strong>Keith</strong>在旧LOFT喝的酒一起喝。</p><p>K：我一直喜欢去Live House，现在也是一样。你可以和很多不同的人互动，我觉得如果你去那里，会有很多有趣的事情。现在有很多漂亮的Live House了，但在过去，（Live House就是）可怕的小哥们聚集在一起，充满了香烟的烟雾…… 我渴望那种糟糕的感觉。这种感觉可能仍然存在。</p><p>──<em>从<strong>KAZI</strong>的角度来看，您觉得（LOFT）与其他Live House有什么不同?</em></p><p>K：这里有很多有趣的人，包括<strong>大塚</strong>先生。此外，无论什么样的人来，都有一种热烈的欢迎感。我喜欢这种从乐队的角度去做有趣的事情的态度。</p><p>—— <em>你在LOFT看过的最难忘的现场表演是什么?</em></p><p>K：是什么呢，我来自九州，当时有很多乐队都解散了，所以我没能去看。我很高兴看到他们重聚。<strong>ARB</strong>，<strong>ROCK’N’ROLL GYPSIES</strong>等等。</p><p>── <em>想想看，你曾经以<strong>ARB</strong>翻唱乐队<strong>ARCB</strong>的身份出现在LOFT(笑)。</em></p><p>凯西:是的。是当LOFT搬到歌舞伎町，庆祝成立30周年时。</p><p>—— <em>除了ARCB(笑)，你在LOFT最难忘的演出是什么?</em></p><p>K：我猜是“ARIZONA DREAM”，这也是一个现场声源。我会写一首新歌，录下第一次的现场演出。失败可是不可原谅的。我记得当时非常紧张，我们有一个录音团队，我们知道预算有多少，所以这是额外的(笑)。但最终，这种紧张有了很好的效果。</p><p>── <em>你呢，*<em>大塚</em></em>?*</p><p>O：很难说出是哪一个…… 私以为，是今年4月的，<strong>the BACK HORN</strong>。因为<strong>REDЯUM</strong>的最新现场表演，总是最好的。</p><h4 id="“桃园结义”兄弟情"><a href="#“桃园结义”兄弟情" class="headerlink" title="“桃园结义”兄弟情"></a>“桃园结义”兄弟情</h4><p>── <em>在你归队后的现场表演中，你一直保持着适度的紧张感，但你也感到肩膀不知何故得到了放松。你是说有一种深沉的胸怀保持平衡吗?</em></p><p>K：是的，没错。我觉得我们之间发生了变化。我感觉顾客（观众）的反应也发生了变化。在此之前，很多人都是站着不动地倾听，但最近适度摆动身体的人有所增加。在过去，我经常来听歌曲，但现在我似乎享受声音本身。</p><p>── <em>过去你更注重声音，但反应却恰恰相反，似乎是<strong>REDЯUM</strong>。</em></p><p>K:当然。在过去，有一把烟斗椅就足够了(笑)。现在回想起来，能够在休整期回顾自己是一种很好的经历。我认为这是一个必要的时间，我们每个人都要思考我们想做什么样的音乐，我们想成为什么样的人。重要的是重新安排，而不是模糊地继续做音乐。在过去，我们故意不去听现场演奏的歌曲。但现在，我在想，如果有人让我去做，我就会去做。</p><p>── <em>桃园结拜，一个不规律而持续的自主企划（$没get到在说什么）。然而，这个标题的来源似乎是《三国演义》中的一段插曲。</em></p><p>K：没错。这是我最喜欢的一集。刘备、关羽、张飞在一次宴会上结拜为兄弟，并宣布:“从此三人同生同死。” 好吧，虽然，但是，最后，我们三个人不会一起死(笑)。这个自主企划基本上是由三个人完成的。我不觉得每次都有不同的面孔是必然的，我觉得总是有同样的个人是好的。嗯，下次我们做LOFT分为主舞台和酒吧舞台，会有很多乐队参与。</p><p>O: <strong>REDЯUM</strong>的自主企划非常紧密，乐队之间的距离非常近，很密集。就像“桃园结义”一样，接近兄弟的关系。这是一种令人信服的关系，即使你只是在一次现场表演中使用了如此重要的词汇。这一次的“桃园结义”，<strong>vol.8</strong>也是一支欣然同意演出的乐队，他们只回答了两句:“如果是为了<strong>REDЯUM</strong>。”每个人都没有考虑到出席活动对乐队来说是好是坏，就决定参加演出，最近这样的活动越来越少了。</p><p>K：谢天谢地。除了我们之外，共有12组朋友会来庆祝。酒吧的舞台基本上是在演奏，他们好像在替我们翻唱。与年轻乐队一起现场表演是令人兴奋、惊喜的，有着真正的乐趣。我还会想，“我们在他们这个年纪的时候，可没这么体面……”</p><p>—— <em>这张最佳精选专辑的宣布是否标志着一个突破?</em></p><p>K：是的。我也想从这里开始接受新的挑战。你可以在<strong>REDЯUM</strong>上做更多的事情。我正在考虑用我早期的方法再做一首“黑暗”的歌曲(笑)。我也想将键盘和其他乐器加入录音。</p><p>O：我们在LOFT再做一个有趣的项目吧。</p><p>K：是的。连续七天都是一个乐队，就像发疯了一样(笑)。作为<strong>REDЯUM</strong>，我们每年只能在LOFT现场演出两到三次。</p><p>O: <strong>KAZI</strong>个人每年来LOFT大约有100天(笑)。</p><p>K：是酒吧(笑)。我期待在“桃园结义”的<strong>vol.8</strong>的演出结束后，会在他们的主场看到“KAZI之夜”。我们会有一个活动，会倒啤酒(笑)，所以请过来看看。</p><br><p>&lt; ***完*** &gt;</p><p><img data-src="https://ttfou.com/images/2023/01/19/42399014120205d89b4cfe2f64023c68.jpg" alt="Album" title="Album"></p></details><br><p><a href="https://rooftop1976.com/interview/081101220000.php">原文链接（点我直达）</a></p><br><h3 id="REDЯUM-‘09年4月号-——-13年間にわたり構築した“CINEMATIC-SOUND-FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情"><a href="#REDЯUM-‘09年4月号-——-13年間にわたり構築した“CINEMATIC-SOUND-FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情" class="headerlink" title="REDЯUM(‘09年4月号) —— 13年間にわたり構築した“CINEMATIC SOUND FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情"></a>REDЯUM(‘09年4月号) —— 13年間にわたり構築した“CINEMATIC SOUND FOUNDATION”の終幕──バンドを牽引し続けてきたKAZIが語る解散の真意と赤裸々な心情</h3><details> <summary>点击展开，查看访谈详情~</summary><h4 id="同为日文机翻为英文后-对比翻译为中文"><a href="#同为日文机翻为英文后-对比翻译为中文" class="headerlink" title="同为日文机翻为英文后,对比翻译为中文"></a>同为日文机翻为英文后,对比翻译为中文</h4><blockquote><p>2009年4月25日，我们将对<strong>REDЯUM</strong>进行最后一次采访，他们将以新宿Loft的现场演出结束他们长达13年的活动。<br>去年11月，（开展了）“桃园结义”企划。4个月前，于<strong>vol.8</strong>的返场演出上，（<strong>REDЯUM</strong>）突然宣布解散。<br>他们目前正在为名为“TOMORROW NEVER COMES”的巡回演唱会制作新歌，也在每天努力工作，为他们的最后一次现场演出做准备。<strong>REDЯUM</strong>的明天在4月25日以后就不会再来了。他们不让最后的时光白白浪费，而是竭尽全力地装饰结局的美。这甚至有一种悲伤的感觉。<br>但幸运的是，还有时间。直到他演奏完天鹅挽歌最后的旋律的那一刻。仍有机会看到传奇乐队<strong>REDЯUM</strong>在一方舞台上燃烧自己。我们有义务将<strong>REDЯUM</strong>的“遗产”留给子孙后代，它绚丽绽放爆炸而从容燃烧。我希望这次采访能成为一个好的副标题。 （Interview：椎名宗之）</p></blockquote><br><h4 id="没有裕美的REDЯUM是不可能的"><a href="#没有裕美的REDЯUM是不可能的" class="headerlink" title="没有裕美的REDЯUM是不可能的"></a>没有裕美的REDЯUM是不可能的</h4><p>── <em>请告诉我们你的真实感受，即作为 <strong>REDЯUM</strong> 的现场表演只剩下四个现场节目(包括谈话直播)。</em></p><p>K：这是一种直觉。还有很多事情要做，我有一种被吹得喘不着气的感觉。然而，我只能说抱歉和遗憾。嗯，我不是自愿解散的…</p><p>── <em>我相信有些读者不了解事件的具体情况，能否再告诉我解散的原因吗?</em></p><p>K：去年11月的一天，排练结束后，<strong>裕美</strong>告诉我她想停止演唱。<strong>裕美</strong>要求我们即使离开，也要用另一个歌手继续乐队，但我们说这不是一个选择。如果<strong>裕美</strong>不唱歌，<strong>REDЯUM</strong>就不再是<strong>REDЯUM</strong>了。就在那时，我们决定解散。这是惊人的，快速和无忧无奇的。只花了大约30分钟就解决了。</p><p>—— <em>那是在你最好的专辑《Cinema SOUND FOUNDATION》发行之后。</em></p><p>K：没错。<strong>裕美</strong>突然说:“我跟大家谈过了…”，但当时我想，“哦，终于来了…</p><p>── <em>直到那时，“终于”还是一个象征吗?</em></p><p>K：<strong>裕美</strong>身上有一股情绪，我想我很清楚这一点。我直觉认为，这是关于一个事实。但我们都知道她是一个意志非常坚强的人，我们不能阻止她。你怎么能对一个说“我不想再唱了”的人说“唱吧”呢？这种感觉我们三个人都没有说出来。</p><p>—— <em>你是说<strong>裕美</strong>一直在努力唱歌吗？我不认为有多少歌手能让你听到这样的歌声。</em></p><p>K：当我在20岁出头的时候开始<strong>REDЯUM</strong>时，我想我只是在努力唱歌，但随着年龄的增长，我想，“我的生活真的能保持这样吗？”这种感觉越来越强烈了。现在我有了这样的想法，在另外三个认真的乐队成员面前“唱歌”是不礼貌的。他们告诉我，如果不能回应我们三个人的感情，我不想继续乐队，所以请让我走吧。</p><p>── <em>我知道这是一个愚蠢的问题，但你有没有想过与另一个歌手继续<strong>REDЯUM</strong>？</em></p><p>K：不完全是。如果我们引进一个新的主唱，我们不会改变乐队的名字，也不会做任何<strong>REDЯUM</strong>的歌曲。我不太喜欢主唱变化很大的乐队。我真的很喜欢<strong>Daisy Chainsaw</strong>，但当歌手<strong>Katie Jane Garside</strong>离开并与一位新歌手推出专辑时，我很失望。无论有多少其他成员在一起，主唱都不可能根据另一个成员而改变。主唱是一支乐队的明星。</p><p>—— <em>你是否强烈地认为乐队应该是“纯血统”的？</em></p><p>K：也许吧。如果新成员拥有更多比离开成员之外的内容，则可以接受。</p><p>── *.<strong>剛</strong>和<strong>浩司</strong>对<strong>裕美</strong>打算离开乐队的反应和你一样吗？*</p><p>K：没错。这很令人沮丧，但也没办法。我们都明白，每个人都在变老，每个人有自己的情况，如果我们在一个完全以音乐为生的乐队里，情况会有所不同。说实话，我想知道我能不能强迫他们留下来，保障他们的生活。最后，我们说服了自己，<strong>裕美</strong>应该过她自己的生活。</p><p><img data-src="https://ttfou.com/images/2023/01/19/0cc05aeca0c3e95dc646e0f41984ae68.jpg" alt="redrum" title="redrum"></p><h4 id="如果将要结束，最好完美收官"><a href="#如果将要结束，最好完美收官" class="headerlink" title="如果将要结束，最好完美收官"></a>如果将要结束，最好完美收官</h4><p>── <em>“停止唱歌”是一个必须有极大的决心和决心才能做出的决定，不是吗？</em></p><p>K：我无法想象放弃音乐，我不认为我准备得很充分。也许我们更执着于音乐，但我无法想象完全放弃音乐。嗯，也许在告诉我们之前，<strong>裕美</strong>已经思考了很长一段时间。</p><p>── <em>继续为众多狂热歌迷唱歌，还有什么选择？经过深思熟虑，我认为肯定没有。</em></p><p>K：如果<strong>裕美</strong>有这个想法，我想我们的现场演出可以选择延缓，或者暂停一段时间，一年后再做。但事实并非如此，我决定“停止唱歌”。既然如此，我们首先决定永远不再重新组合。 此外，我们决定一劳永逸地结束这段关系，而不是期待着几年后重组。既然我们解散了，轻易地重组是不道德的。</p><p>── <em>在经历了12年的历程后，我非常期待下一张专辑的发行，所以我想知道，你是否能像<strong>浩司</strong>那样暂时离开一线，以避免解散。当你想像以前一样休息时，你应该休息一下，让乐队以合理的节奏继续下去。</em></p><p>K：很多人都这么跟我说。我认为，在不明确表示解散的情况下，我应该休息一会儿。但我觉得如果真要结束的话，最好能恰当地完成它。</p><p>—— <em>在你决定解散之前，你有继续写新歌吗?</em></p><p>K：自从决定解散后，歌曲创作的速度加快了，我们仍然在以惊人的速度创作新歌。在这段时间里，<strong>剛</strong>带来了六首歌，我带来了两首歌，然后我在活动期间上又创作了两首歌。我的势头足以能够制作一张完整的专辑。在宣布解散后，你还能够创作越来越多的歌，这也很奇怪。</p><p>—— *.<strong>REDЯUM</strong>能够以这样的速度创作歌曲，是不是很不寻常?*</p><p>不，这很正常。我通常会唱歌。大多数歌曲都是围绕着吉他和歌曲的旋律创作的。然而，<strong>剛</strong>也带来了多个曲调，所以我停下来说，“等一下，我跟不上它”（笑）)。我非常理解这种感觉，我相信还有很多事情是<strong>剛</strong>想做的。我在考虑最后完成三到四首歌。我想把它作为<strong>REDЯUM</strong>的最后一张EP。</p><p>—— <em>声源会以什么形式发行?</em></p><p>K：我们计划只在最后一次演出的地点发布。在那之后，我想我们会做邮购，但可能不会在全国范围内分销。</p><p>── <em>你能告诉我们这四首歌是什么样的吗?</em></p><p>KAZI: <strong>剛</strong>创作了两首歌，我也创作了两首。<strong>剛</strong>的歌曲是带有所谓<strong>REDЯUM</strong>式的的悲伤歌曲和枯萎感觉的摇滚。让人想起他最喜欢的音乐。我写的只是一首悲伤的歌，一首我在活动中反复修改的歌。同时，乐队的所有成员都要为这些歌曲写歌词。在此之前，我和<strong>裕美</strong>都是对半写歌词，但这次<strong>裕美</strong>建议每人写一首歌词。我还没决定(笑)。</p><p>—— <em>我觉得你在解散前写的歌词，难免会是感伤的内容……</em></p><p>K：我写的歌词就是这样。可以说，从形成到今天，它击中了思想的长度（$看不懂呃…）。我本来就没有什么亮眼的风格，但现在我正在进行解散巡演，所以格外痛苦。无论我走到哪里，我都会说再见，每次演出我都会哭。成员们说:“现在不是还早吗?”(笑)。</p><p><img data-src="https://ttfou.com/images/2023/01/19/c4ed8b79af4c752cb2f7b5fd60b21ced.jpg" alt="colored" title="colored"></p><h4 id="这种解散肯定有某种意义"><a href="#这种解散肯定有某种意义" class="headerlink" title="这种解散肯定有某种意义"></a>这种解散肯定有某种意义</h4><p>—— <em>但这次巡演的标题是“TOMORROW NEVER COMES.”。“TOMORROW NEVER KNOWS”应该会更棒。</em></p><p>K：这表明我已经准备好面对它了。<strong>REDЯUM</strong>永远不会再发生，就在这里，一切都结束了。这难免有些伤感，因为这是我第一次经历解散。</p><p>── <em>13年的时间的分量也会被算在内。</em></p><p>K：这就是为什么，我在和经历过解散的前辈喝酒时听各种故事的原因。我想知道我在解散时的心情是什么样的，以及在解散现场哭泣是否好(笑)。每个人都说，“这难道不是好事吗？”；“如果你想哭，你可以哭，你不必忍受。”此外，我接触了各种乐队的解散现场表演的视频和声源，并思考了<strong>REDЯUM</strong>将如何结束。我还没有找到答案。</p><p>—— <em>在古今东西方已经解散的乐队中，什么样的乐队解散时，你会感到同情？</em></p><p>K：<strong>Carol</strong>, <strong>BOφWY</strong>, <strong>Street Sliders</strong> 。自从解散后，他们就再也没有重聚过。总有传言说他们会重组，但我认为他们从未重组的原因是每个成员的意志都没有动摇。我能理解这种态度，我认为这真的很酷。一旦轻松地重新组合，请把当时流下的眼泪还给我！我是这么想的(笑)。</p><p>── <em>你认为是一生只有一次（一届一会）的美学是美丽的，还是认为美丽是因为它短暂而虚幻？</em></p><p>KAZI:是的。关于解散，我最近经常想到的是，那些能够继续在同一乐队演奏的人可能是被选中的。 我不是所谓的宿命论者，但我认为是这样的。</p><p>—— <em>自出道以来，已经组建了46年的<strong>滚石</strong>乐队，可能就是最好的例子。</em></p><p>K：是的，没错。随着年龄的增长，越来越多的人退出音乐，乐队解散。但我们仍然能够以强大的心态继续下去。然而，我觉得有某种原因促使我这样做。所以在我看来，<strong>REDЯUM</strong>在这里结束对我来说似乎有某种意义。这不是到目前为止的事，而是我觉得我后来可以理解，这就是当时让我选择解散的原因。</p><p>—— <em>你是否想在最后再发行一张原创的完整专辑？</em></p><p>K：不仅仅是一张专辑，我想拿出尽可能多的。因此，这与我之前所说的相矛盾，但我也想等待<strong>裕美</strong>想再次唱歌的时候。在那之前，我希望其他三个人继续演奏音乐，提高他们的技能。由于我的胳膊和外表都日渐衰弱，举行类似重新团聚的活动是完全不可接受的。嗯，我还没有和其他成员讨论过这个问题，所以我不知道未来会发生什么。有些人会继续做音乐，有些人会因为某种原因放弃。当然，我想继续做音乐。然而，在考虑了各种事情之后，我发现我喜欢乐队和摇滚，但最重要的是，我喜欢<strong>REDЯUM</strong>。我相信解散后很可能在一段时间内，它会看起来像一个空壳。这可能有点疯狂，我自己都害怕。在在最后一场演出的那天，我感觉我从进场就已经哭了。成员们很了解我，但我流下了眼泪。</p><p>── <em>你选择新宿Loft作为你最后一次现场演出的地点，是因为你的激情吗？</em></p><p>K：这是我想到的第一件事。只有一个Loft，对吧？在Loft的舞台上总有一种快乐，我们总是在Loft进行重要的里程碑式的演出。</p><p><img data-src="https://ttfou.com/images/2023/01/19/a119a93f12b5eede8b61a4c8c105d0ec.jpg" alt="Yumi" title="Yumi"></p><h4 id="最后一次演出，我们会竭尽所能"><a href="#最后一次演出，我们会竭尽所能" class="headerlink" title="最后一次演出，我们会竭尽所能"></a>最后一次演出，我们会竭尽所能</h4><p>—— *.<strong>REDЯUM</strong>解散后你有什么计划?*</p><p>K：到目前为止，我什么都没想。</p><p>── <em>有没有什么是你有意识地在纸上留白的？</em></p><p>K：我跟所有人都说过，在我们解散之前不要“偷偷摸摸”。和其他乐队一起排练，参加其他乐队的现场演出等等。现在，我别无选择，只能投身于<strong>REDЯUM</strong>。我在上次的现场表演中演唱了很多歌曲，所以很难回顾这些歌曲。与此同时，我也急着创作新歌。</p><p>—— <em>你觉得你最后一次现场演出的规模会有多大？</em></p><p>K：我打算做大约四个小时。我正在考虑尽我所能，我不去想来看我的最后一班人(笑)。我请求他原谅我漫长生命中的一天。我想做所有我想做的歌，我不想有任何事情没有完成。</p><p>── <em>光是为最后一场现场演出准备曲目就得费很大劲。</em></p><p>K：在我想做很多歌之前，我有很多歌曲要唱。有一首歌很长。大约需要6分钟。我可以像<strong>Ramones</strong>一样唱很多短歌，但如果我想唱所有的歌，就必须整晚通宵唱(笑)。但我们想做所有对我们来说重要的歌曲，我们觉得我们需要四个小时来做。</p><p>—— <em>你们上次巡演的歌单和你们四个人想要演奏的歌匹配吗？</em></p><p>K：基本一致。我做了一个基本的集合列表，然后我把它单独替换成“我想做那个而不是这个”，但它不会有很大的变化。<strong>剛</strong>和我经常列出我们创作的、我们非常喜欢的歌曲，<strong>裕美</strong>有很多我们喜欢的歌曲，因为我们写的歌词，<strong>浩司</strong>有很多我可以用贝斯演奏的歌曲。每个人都喜欢自己(笑)。</p><p>—— <em>在你的最后一场演唱会之前，你还将在Loft Plus One进行第一次也是最后一次现场演讲。</em></p><p>KAZI:我收到了Loft Plus One的<strong>田実</strong>先生的热情邀请。无论是博客还是像这样的采访，我基本上都是那个评论乐队的人，所以没有太多机会看到其他成员说话。你会有兴趣看看每个角色的性格是什么样的。这就是为什么我在现场谈话时不会说太多话，我尽量让其他三个人多说话(笑)。</p><p>── <em>现场谈话节目在台上喝酒时进行，但喝完酒后最沮丧的人是<strong>浩司</strong>吗？</em></p><p>K：当然。喝醉的时候，我会一直唱着<strong>Yazawa Eikichi</strong>的歌，一直唱到早上，然后开始向年轻的乐队成员说教(笑)。“你听过<strong>卡罗尔</strong>吗?”(笑)</p><p>── <em>就我个人而言，我希望<strong>浩司</strong>能发表这样的讲话。公开宣布解散“桃园结义”。在<strong>vol.8</strong>的时候，最触动我泪腺的是<strong>浩司</strong>的故事。</em></p><p>K：即使在那个时候，其他成员也告诉我不要在舞台上哭。但当我们开始交谈时，<strong>浩司</strong>是第一个哭的人。我也哭了，但当我看到<strong>浩司</strong>哭的时候，我平静了一点(笑)。<strong>浩司</strong>只是喝醉了才高兴起来。嗯，这三个人倾向于唱<strong>Yazawa Eikichi</strong>的歌(笑)。</p><p>—— <em>我听说你还计划与 <strong>裕美</strong> 和 <strong>剛</strong> 进行现场录音。</em></p><p>K：除了现有的歌曲，我们还想提前展示新歌。此外，我们精心设计，也在尝试播放有价值的视频，并邀请与我们有关系的嘉宾，所以我希望你过来玩。</p><h4 id="我要你把最后的画面烙入你的眼里和心里"><a href="#我要你把最后的画面烙入你的眼里和心里" class="headerlink" title="我要你把最后的画面烙入你的眼里和心里"></a>我要你把最后的画面烙入你的眼里和心里</h4><p>—— <em>演出现场的当天，曾在<strong>REDЯUM</strong>担任过一段时间的伴奏贝斯手的<strong>本田祐也</strong>，在3月份参与了“桃园结义”。<strong>THE BACK HORN</strong>乐队的<strong>松田晋二</strong>也将参与演出，他曾在“vol.9”中与您合作过。</em></p><p>K：在决定解散的第二天，我给<strong>松田</strong>打了电话。<strong>BACK HORN</strong>在巡演，在京都之类的地方。<strong>松田</strong>说，“有这么好的乐队，所以请听他们的”，并让一家大型唱片公司听<strong>REDЯUM</strong>的CD，他们实际上做了很多事情。他们总是说我们是他们最喜欢的乐队，我非常感谢<strong>松田</strong>。</p><p>── <em>事实上，通过<strong>BACK HORN</strong>成为<strong>REDЯUM</strong>粉丝的人一定不少。</em></p><p>K：没错。正因为如此，<strong>REDЯUM</strong>在这里结束是令人沮丧的。有很多人帮助过我们，包括<strong>SUGIZO</strong>，他激励我们发行CD，说:“我们需要像你们这样的人来做日本摇滚。”那不是我的目标，但我可以通过音乐产生影响。年轻的乐队成员经常说:“我听了很长时间了”，但这并不是商业上的成功，我们想把我们的音乐传播给更多人。我刚出道的时候，经常带着录音机去唱片公司。我查了唱片公司的位置，没有预约就上了，在接待处，我说:“请为我找一个好人!”(笑)。当然，他们不可能照顾我，所以我强迫接待员听了(笑)。我们总是把CD放在包里，如果我们在酒桌上遇到音乐行业的人，我们会把CD递给他们,以此来吸引他们。</p><p>—— <em>你认为 <strong>剛</strong> 和 <strong>浩司</strong> 在解散后还会有音乐上的接触吗？</em></p><p>K：我不知道未来会怎样，但我的理想是像<strong>ROCK’N’ROLL GYPSIES</strong>的三个成员。</p><p>── <em>花田博之、池田俊二、下山俊，<strong>THE ROOSTERS</strong>前成员。</em></p><p>K：即使<strong>THE ROOSTERS</strong>解散了，我也会渴望我们经常在各种录音会话和现场表演中一起共同表演的关系。像那三个人一样，我希望 <strong>剛</strong> 和 <strong>浩司</strong> 能继续以某种方式一起演奏。</p><p>── <em>就你而言，在我看来，在一个乐队里比被邀请参加一个演出活动并演奏更适合你的性格。</em></p><p>K：我想是的。但如果有人问我，我（会回答）想演奏各种音乐， 如果音乐是可敬的。当我积极地思考<strong>REDЯUM</strong>解散时，能够在一个新的地方打鼓是很有趣的。当我参加<strong>REDЯUM</strong>以外的录音时，非常鼓舞人心。但我在乐队里最有趣的部分是我在录音室里写歌的时候。从无到有，我最充实的时间来创造语言和旋律。我无法忍受我们四个人在整理一首还没发行的歌时做计划的感觉。当然，现场表演也是不可替代的、充实的时间。</p><p>── <em>即使<strong>REDЯUM</strong>解散，你们四个之间的良好关系也不会结束，不是吗？*</em></p><p>K：没错。我们在成为乐队成员之前就是最好的朋友。将来，如果我听说一个受<strong>REDЯUM</strong>影响的乐队成为热门话题，我们四个人就会讨论去现场看。我们会去看，然后“毁”了它(笑)。</p><p>—— <em>最后，请以<strong>REDЯUM</strong>的<strong>梶原幸嗣</strong>的身份给我们留言。</em></p><p>K：我希望你永远不会忘记<strong>REDЯUM</strong>这样的乐队的存在。即便乐队解散，音源也会保留下来，所以我希望人们继续谈论它，把它传递下去。我希望那些在最后一场现场演出中遇见的人会把我们最后的画面烙入眼里和心里。这是我们这是真正的，也是最后一次现场演出了。</p><p>&lt; ***完*** &gt;</p><p><img data-src="https://ttfou.com/images/2023/01/19/13c4a9d995a49e37230cb7adc63ac0e9.jpg" alt="Rememberance" title="Remenberance"></p></details><br><p><a href="https://rooftop1976.com/interview/090401123107.php">原文链接（点我直达）</a></p><hr><hr><h2 id="Live视频"><a href="#Live视频" class="headerlink" title="Live视频"></a>Live视频</h2><br><h3 id="BiliBili"><a href="#BiliBili" class="headerlink" title="BiliBili"></a>BiliBili</h3><h4 id="REDЯUM＆LOFT-PRESENTS-CINEMATIC-SOUND-FOUNDATION2016"><a href="#REDЯUM＆LOFT-PRESENTS-CINEMATIC-SOUND-FOUNDATION2016" class="headerlink" title="REDЯUM＆LOFT PRESENTS CINEMATIC SOUND FOUNDATION2016"></a>REDЯUM＆LOFT PRESENTS CINEMATIC SOUND FOUNDATION2016</h4><iframe src="//player.bilibili.com/player.html?aid=10052114&amp;bvid=BV1sx411U7bk&amp;cid=16612364&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br><h4 id="REDЯUM-涙-高円寺showboat-14-07-2018"><a href="#REDЯUM-涙-高円寺showboat-14-07-2018" class="headerlink" title="REDЯUM - 涙 - 高円寺showboat 14.07.2018"></a>REDЯUM - 涙 - 高円寺showboat 14.07.2018</h4><iframe src="//player.bilibili.com/player.html?aid=81861398&amp;bvid=BV1vJ411j7Wa&amp;cid=140070036&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br><h4 id="REDЯUM-翳りの街-高円寺showboat-14-07-2018"><a href="#REDЯUM-翳りの街-高円寺showboat-14-07-2018" class="headerlink" title="REDЯUM - 翳りの街 - 高円寺showboat 14.07.2018"></a>REDЯUM - 翳りの街 - 高円寺showboat 14.07.2018</h4><iframe src="//player.bilibili.com/player.html?aid=81865473&amp;bvid=BV1iJ411j7qp&amp;cid=140076845&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br><h3 id="Youtube"><a href="#Youtube" class="headerlink" title="Youtube"></a>Youtube</h3><p> $ 翻不了长城，所以不保证Youtube视频的有效性</p><br><ol><li><a href="https://www.youtube.com/watch?v=_YgA0pESdW4">https://www.youtube.com/watch?v=_YgA0pESdW4</a></li><li><a href="https://www.youtube.com/watch?v=iZNvAyr3Scw">https://www.youtube.com/watch?v=iZNvAyr3Scw</a></li><li><a href="https://www.youtube.com/watch?v=1NZoxLAXBEs">https://www.youtube.com/watch?v=1NZoxLAXBEs</a></li><li><a href="https://www.youtube.com/watch?v=i-SkG7xjmFY">https://www.youtube.com/watch?v=i-SkG7xjmFY</a></li><li><a href="https://www.youtube.com/watch?v=tFf8YgWEea4">https://www.youtube.com/watch?v=tFf8YgWEea4</a></li><li><a href="https://www.youtube.com/watch?v=_YgA0pESdW4">https://www.youtube.com/watch?v=_YgA0pESdW4</a></li><li><a href="https://www.youtube.com/watch?v=ilTSfKnijHo">https://www.youtube.com/watch?v=ilTSfKnijHo</a></li><li><a href="https://www.youtube.com/watch?v=qht68JoKRFs">https://www.youtube.com/watch?v=qht68JoKRFs</a></li><li><a href="https://www.youtube.com/watch?v=WCLs2cYPA6U">https://www.youtube.com/watch?v=WCLs2cYPA6U</a></li></ol><br><hr><hr><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>在解散六年后，他们决定在2015.04.25在 <em>阿佐ヶ谷ロフトA</em> 进行名为「Six Years」的为期一夜的演出。至于为何要进行，乐队成员们说，“这没什么特别的意义”。</p><blockquote><p>REDЯUM LIVE「Six Years」<br>4月25日（土）　東京 阿佐ヶ谷ロフトA<br>第一部：open17:30 / start 18:00<br>第二部：open20:00 / start 20:30<br>前売り3000円 当日券未定（通し券なし）<br>チケット イープラスのみで発売中<br>（会場、メール予約、取り置きなし）</p></blockquote><br><p>在解散的很长一段时间，乐队成员们仍然唱歌表演，做着音乐。活跃度是惊人的。</p><p><img data-src="https://ttfou.com/images/2023/01/20/a02a20c08cf7e841e4802336b5143a35.jpg" alt="Kazi" title="kazi"><br>$ 2018年，<strong>梶原幸嗣</strong>在自己45岁生日的前一天举办了一场演出，演奏了45首乐曲。包含<strong>REDЯUM</strong> 致敬乐队在内的6个乐队参与了这场演出。</p><blockquote><p>-BAND-<br>■カカオキッズ<br>[Vo.高橋浩司 / Gt.武内剛 / Ba.恩賀周平(electro53) / Dr.KAZI]<br>■THE BEAT UK<br>[Vo.澁谷潤(CQ) / Vo.徳山拓磨(alcana) / Gt.music of gentleman(NO MORE LIES/dario)<br>/ Ba.佐山忍 / key.佐藤統(THE BLACK COMET CLUB BAND/THE JUNEJULYAUGUST) / Dr.KAZI]<br>■REDЯUM Tribute Band<br>[Vo.山田将司(THE BACK HORN) / Gt.武内剛 / Ba.外浩司 / Dr.KAZI]<br>■あきゆきばんど<br>[Vo.石崎あきゆき(The Cavemans) / Gt.武内剛 / Ba.本田祐也(ex.COCK ROACH,無限マイナス) / Dr.KAZI]<br>■HUMAN TAIL<br>[Vo.窪”雪之丞”洋介 / Gt.ノスケティック村長 / Ba.蝶名林友 / Gt.黒岩裕右 / Dr.KAZI]</p></blockquote><br><p>就我个人而言，我认为<strong>REDЯUM</strong>是否重组其实并不重要。<br>我认为现在这样已经是最好的了，每个人都过着属于自己的充实生活。即使<strong>REDЯUM</strong>名义上解散了，我也为他们感到快乐。<br>我知道，当我戴上耳机时，乐队的四个人就又待在了一块儿。也只有这样，他们才就是<strong>REDЯUM</strong>。<br>（但我还是希望有一天能再次看到乐队成员们的现场表演。</p><p>&lt; ***The End*** &gt;</p><hr><hr><h2 id="欢迎评论交流加友链🎉"><a href="#欢迎评论交流加友链🎉" class="headerlink" title="欢迎评论交流加友链🎉"></a>欢迎评论交流加友链🎉</h2><p>都看到这儿了，不留个评论嘛~</p>]]></content>
+      
+      
       <categories>
-        <category>碎碎念</category>
+          
+          <category> 三十三又三分之一转 </category>
+          
+          <category> Performers </category>
+          
       </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Changelog</tag>
-        <tag>Hexo-NexT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>🐇2023兔年快乐~</title>
-    <url>/posts/68b54462/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">🧨🐇兔年终于（要）来力🧨🐇</blockquote>  
-<span id="more"></span>
-
-<p>今天（指23.01.21）是<strong>大年三十</strong>。</p>
-<p>好吧。现在是<strong>大年初一</strong>力（这篇博文拖了一整（农历）年才写完（x</p>
-<p>首先，献上我最真挚的：</p>
-<h2 id="兔年🐇快乐"><a href="#兔年🐇快乐" class="headerlink" title="兔年🐇快乐~"></a>兔年🐇快乐~</h2><h3 id="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊"><a href="#放烟花鞭炮一定要好好放，放得开心嗷🧨🎊" class="headerlink" title="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~"></a>放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~</h3><p>其实到这里，这篇小博文就可以结束了，但我<a href="https://mujitogawa.github.io/posts/db043193/">之前不是说过吗</a>，新的一年要少写氵文（。所以：</p>
-<h2 id="㊣篇（？开始"><a href="#㊣篇（？开始" class="headerlink" title="㊣篇（？开始"></a>㊣篇（？开始</h2><br>
-
-<h3 id="有关于chi的小红包冒险-v-e-r-2023-点我直达"><a href="#有关于chi的小红包冒险-v-e-r-2023-点我直达" class="headerlink" title="有关于chi的小红包冒险 v.e.r. 2023(点我直达)"></a>有关于<a href="https://blog.chihuo2104.dev/posts/rb-2023">chi的小红包冒险 v.e.r. 2023(点我直达)</a></h3><p><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的这个小活动现已经（差不多）结束了。<br>我瞎解出来了<strong>quiz1&amp;2</strong>，共计收到了￥0.30。<br>在此谢谢<del>慷慨大方的</del><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>（x<br>来自<a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的 <em>官方</em> 的题解也即将公布，所以<strong>连蒙带猜</strong>的我的 <em>蒟蒻</em> 题解就不发了哈哈哈~</p>
-<p>正式题目有3道</p>
-<ul>
-<li><p><a href="https://rb.chihuo2104.dev/quiz1/"><strong>Quiz 1</strong> (点我直达)</a></p>
-</li>
-<li><p><a href="https://rb.chihuo2104.dev/9575566ef5933aee87ce1528ab8d53a40d479081405ec52c2e5c230619c3bb47b56bec4e0b446923a15d73279e6452373fef52ae36ddd354048822203bb57d63/"><strong>Quiz 2</strong> (点我直达)</a></p>
-</li>
-<li><p><a href="https://rb.chihuo2104.dev/qu3a09d0af3cc5b39dfbc81b43a34d67e68ce03/"><strong>Quiz 3</strong> (点我直达)</a></p>
-</li>
-</ul>
-<br>
-
-<h2 id="Muji的小碎碎念"><a href="#Muji的小碎碎念" class="headerlink" title="Muji的小碎碎念"></a>Muji的小碎碎念</h2><p>今年的<strong>春晚</strong>是真的一分钟没看。<br>正如<strong>豆瓣</strong>上的友邻所说的：</p>
-<blockquote>
-<p>总听到身边人说没什么坎儿是过不去的之类云云，以前不信，现在想想，中国人连春晚都看得下去，也确实是有够坚韧的</p>
-</blockquote>
-<p>明显的可以感觉到的是，<strong>春晚</strong>就是答辩。（确信<br>上个暑假应学校要求，做了一个社会调查，即是关于<strong>春晚</strong>的。以下便是那时候人们对春晚的意见的词云图之一：</p>
-<p><img data-src="https://ttfou.com/images/2023/01/22/fd05b701d5e43c58f4683189d5f6587b.png" alt="chunwan" title="chunwan"></p>
-<p><strong>不言而喻，一目了然</strong>，<br>貌似但凡是<strong>CCTV</strong>出品，最终定会变成答辩（</p>
-<h2 id="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"><a href="#谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨" class="headerlink" title="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"></a>谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨</h2><p>都看到这儿了，咋还不留个评论？ <em><strong>QAQ</strong></em></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> REDЯUM </tag>
+            
+            <tag> Music </tag>
+            
+            <tag> Trip-Hop </tag>
+            
+            <tag> J-Rock </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Bloglog 23 01 14</title>
+      <link href="/posts/db043193/"/>
+      <url>/posts/db043193/</url>
+      
+        <content type="html"><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p><span id="more"></span><h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary><h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p><ul><li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li><li>之前的单独为篇的Bloglog悉已删除</li><li>这是从此往后唯一一篇会单独列出来的Bloglog</li></ul></details><hr><br><p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p><hr><h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+      
+      
       <categories>
-        <category>碎碎念</category>
-        <category>祝福</category>
+          
+          <category> 碎碎念 </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Otherwise My New Year Greetings</title>
-    <url>/posts/4ac7f78/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
-<span id="more"></span>
-
-<h2 id="🧨-新年快乐"><a href="#🧨-新年快乐" class="headerlink" title="🧨 新年快乐"></a>🧨 新年快乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=20787183&amp;auto=1&amp;height=66"></iframe>
-
-<p>尽管显得有些小题大做，但在此，我仍要向我所有的朋友们，以及在浏览这篇博文的你献上我最真挚的祝福。<br><strong>HAPPY NEW YEAR！！！</strong></p>
-<p><img data-src="https://ttfou.com/images/2022/12/21/dd99ece0bab43569619bc9bab5f60da2.jpg" alt="谨贺新年" title="谨贺新年"></p>
-<hr>
-<hr>
-<h2 id="🎊-岁末放送（-Xavier）"><a href="#🎊-岁末放送（-Xavier）" class="headerlink" title="🎊 岁末放送（@Xavier）"></a>🎊 岁末放送（@Xavier）</h2><p>22年，我听的专辑虽说不多，但也不算少了吧…<br>现在借此良机便想着<del>强行安利</del>与大家分享一下——选了二十张自认为<del>容易成功安利</del>的“<em>精华</em>”，与大家分享~<br>🎊 <em><strong>Move on Forward</strong></em> 🎊</p>
-<p>&lt;&lt;&lt;&lt; 排序无先后 &gt;&gt;&gt;&gt; </p>
-<hr>
-<hr>
-<h3 id="华语"><a href="#华语" class="headerlink" title="华语"></a>华语</h3><h4 id="他在时间门外"><a href="#他在时间门外" class="headerlink" title="他在时间门外"></a>他在时间门外</h4><p><img data-src="https://ttfou.com/images/2022/12/21/cf49fc9697564daa4f1422d0e09d869c.jpg" alt="他在时间门外" title="他在时间门外"></p>
-<p><strong>Artist:</strong> 哪吒<br><strong>Genre:</strong> 摇滚/Rock<br><strong>Label:</strong> 哪吒<br><strong>Recording:</strong> 2012-12-20<br><strong>Barcode:</strong> 4988006798335<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1764282/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=36538">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003m1iNo4SbEh7">QQ音乐</a>  </p>
-<hr>
-<h4 id="菊花夜行军"><a href="#菊花夜行军" class="headerlink" title="菊花夜行军"></a>菊花夜行军</h4><p><img data-src="https://ttfou.com/images/2022/12/21/3295d67d7e3e8bb784aaa517c0dbe33a.jpg" alt="菊花夜行军" title="菊花夜行军"></p>
-<p><strong>Artist:</strong> 交工樂隊<br><strong>Genre:</strong> 民谣/Folk Rock、摇滚/Rock、Chinese Classical<br><strong>Label:</strong> 大大樹系列–TMCD-2002<br><strong>Recording:</strong> 2001<br><strong>Barcode:</strong> 4716483020027<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1920130/">豆瓣</a>、<a href="https://www.discogs.com/master/1097740-%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A-%E8%8F%8A%E8%8A%B1%E5%A4%9C%E8%A1%8C%E8%BB%8D-The-Night-March-of-the-Chrysanthemums">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
-<hr>
-<h4 id="醜奴兒"><a href="#醜奴兒" class="headerlink" title="醜奴兒"></a>醜奴兒</h4><p><img data-src="https://ttfou.com/images/2022/12/21/92ceb9fbcfc01b6d7e497fe809ae9dc7.jpg" alt="醜奴兒" title="醜奴兒"></p>
-<p><strong>Artist:</strong> 草東沒有派對<br><strong>Genre:</strong> 摇滚/Rock、流行/Pop、另类/Alternative<br><strong>Label:</strong> 草東沒有派對<br><strong>Recording:</strong> 2016-04-30<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26753594/">豆瓣</a>、<a href="https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
-<hr>
-<h4 id="七七连环X人调"><a href="#七七连环X人调" class="headerlink" title="七七连环X人调"></a>七七连环X人调</h4><p><img data-src="https://ttfou.com/images/2022/12/22/a69bcc751f2e2050b041087985a8d92b.jpg" alt="七七连环X人调" title="七七连环X人调">  </p>
-<p><strong>Artist:</strong> 周二下午谁没来？<br><strong>Genre:</strong> 摇滚/Rock、实验/Experimental<br><strong>Label:</strong> 周二下午谁没来？<br><strong>Recording:</strong> 2015-01-01<br><strong>Barcode:</strong> WEBM<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26829903/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3126178">网易云</a>  </p>
-<hr>
-<hr>
-<h3 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h3><h4 id="REDЯUM"><a href="#REDЯUM" class="headerlink" title="REDЯUM"></a>REDЯUM</h4><p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDЯUM" title="REDЯUM">  </p>
-<p><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> 摇滚/Rock、电子/Electronic<br><strong>Label:</strong> Embryo–none, Gianormous Records–ORO-1018<br><strong>Recording:</strong> 1999-05-26<br><strong>Barcode:</strong> 4997184100182<br><strong>Links:</strong> <a href="https://music.douban.com/subject/5266793/">豆瓣</a>、<a href="https://www.discogs.com/release/11257318-Redrum-Redrum">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2987758">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=M5oPahDZnRFP">QQ音乐</a>  </p>
-<hr>
-<h4 id="頭脳警察1"><a href="#頭脳警察1" class="headerlink" title="頭脳警察1"></a>頭脳警察1</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8f88af10ce8b2be1614cbff82606e230.jpg" alt="頭脳警察1" title="頭脳警察1">  </p>
-<p><strong>Artist:</strong> 頭脳警察<br><strong>Genre:</strong> 摇滚/Rock、现场/Live、原声/Acoustic<br><strong>Label:</strong> Be-Witch Record-none<br><strong>Recording:</strong> 1972-03-21<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2971946/">豆瓣</a>、<a href="https://www.discogs.com/master/169979-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F1">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2085917">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002BBvUd4T4mv4">QQ音乐</a>  </p>
-<hr>
-<h4 id="玉姫様"><a href="#玉姫様" class="headerlink" title="玉姫様"></a>玉姫様</h4><p><img data-src="https://ttfou.com/images/2022/12/22/276bc318a6a11b0dffc82f2c815589b8.jpg" alt="玉姫様" title="玉姫様">  </p>
-<p><strong>Artist:</strong> 戸川純<br><strong>Genre:</strong> 新浪潮/New Wave、摇滚/Rock、合成器/Synth-pop<br><strong>Label:</strong> Alfa-38XA-22, Yen Records-38XA-22<br><strong>Recording:</strong> 1984-01-24<br><strong>Barcode:</strong> 4988024015254<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1871948/">豆瓣</a>、<a href="https://www.discogs.com/master/458429-%E6%88%B8%E5%B7%9D%E7%B4%94-%E7%8E%89%E5%A7%AB%E6%A7%98">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2650070">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=DjVjKDMxdUbm">QQ音乐</a>  </p>
-<hr>
-<h4 id="III"><a href="#III" class="headerlink" title="III"></a>III</h4><p><img data-src="https://ttfou.com/images/2022/12/22/0135c73dfdedf712816103d0a25f36e7.jpg" alt="III" title="III">  </p>
-<p><strong>Artist:</strong> 頭士奈生樹<br><strong>Genre:</strong> 摇滚/Folk Rock、前卫/Prog Rock、原声/Acoustic<br><strong>Label:</strong> Org Records-ORG-020cd<br><strong>Recording:</strong> 2005-01-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/30174788/">豆瓣</a>、<a href="https://www.discogs.com/master/660095-%E9%A0%AD%E5%A3%AB%E5%A5%88%E7%94%9F%E6%A8%B9-III">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=82619910">网易云</a></p>
-<hr>
-<h4 id="ワインレッドの心"><a href="#ワインレッドの心" class="headerlink" title="ワインレッドの心"></a>ワインレッドの心</h4><p><img data-src="https://ttfou.com/images/2022/12/22/e853a45e15893489c72c95f38df1a2d4.jpg" alt="ワインレッドの心" title="ワインレッドの心">  </p>
-<p><strong>Artist:</strong> 玉置浩二<br><strong>Genre:</strong> 流行/Pop<br><strong>Label:</strong> Fun House-FHCF-2447<br><strong>Recording:</strong> 1999-02-24<br><strong>Barcode:</strong> 9787885704162<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1449775/">豆瓣</a>、<a href="https://www.discogs.com/master/1009542-%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C-%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E5%BF%83">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=49287">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=iGJ2w2U">QQ音乐</a>  </p>
-<hr>
-<h4 id="MIZUTANI"><a href="#MIZUTANI" class="headerlink" title="MIZUTANI"></a>MIZUTANI</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8653e9ae1215a1ad0f28a154b0dc90f3.jpg" alt="MIZUTANI" title="MIZUTANI">  </p>
-<p><strong>Artist:</strong> Les Rallizes DéNudés<br><strong>Genre:</strong> 迷幻摇滚/Psychedelic Rock、民谣/Folk Rock、噪音/Noise<br><strong>Label:</strong> Rivista Inc.<br><strong>Recording:</strong> 1991-08-15<br><strong>Barcode:</strong> 0823564603322<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2082257/">豆瓣</a>、<a href="https://www.discogs.com/release/24800570-Mizutani-Les-Rallizes-Denudes-Mizutani-Les-Rallizes-D%C3%A9nud%C3%A9s">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=34861209">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004DYJCf0ue1sa">QQ音乐</a>  </p>
-<hr>
-<h4 id="First-Love"><a href="#First-Love" class="headerlink" title="First Love"></a>First Love</h4><p><img data-src="https://ttfou.com/images/2022/12/22/05761627df5db3fdd20abfc3b715f3aa.jpg" alt="First Love" title="First Love">  </p>
-<p><strong>Artist:</strong> 宇多田ヒカル<br><strong>Genre:</strong> 流行/J-pop、节奏布鲁斯/R&amp;B<br><strong>Label:</strong> Eastworld-TOCT-24067<br><strong>Recording:</strong> 1999-03-10<br><strong>Barcode:</strong> 4988006158764<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1397751/">豆瓣</a>、<a href="https://www.discogs.com/master/184564-Utada-Hikaru-First-Love">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2093862">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002SwRbo2GrlLp">QQ音乐</a>  </p>
-<hr>
-<hr>
-<h3 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h3><h4 id="Blue-Lullaby"><a href="#Blue-Lullaby" class="headerlink" title="Blue Lullaby"></a>Blue Lullaby</h4><p><img data-src="https://ttfou.com/images/2022/12/29/a5c241279b035edadf7ce72a84683963.jpg" alt="Blue Lullaby" title="Blue Lullaby">  </p>
-<p><strong>Artist:</strong> Wolf Alice<br><strong>Genre:</strong> 另类/Alternative、流行/Pop、原声/Acoustic<br><strong>Label:</strong> Dirty Hit-none<br><strong>Recording:</strong> 2022-06-24<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/35906517/">豆瓣</a>、<a href="https://www.discogs.com/release/23702975-Wolf-Alice-Blue-Lullaby">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=146272503">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003bltQn2bdw5Z">QQ音乐</a>  </p>
-<hr>
-<h4 id="Islands"><a href="#Islands" class="headerlink" title="Islands"></a>Islands</h4><p><img data-src="https://ttfou.com/images/2022/12/29/e629e8f0353afad0d39c83b0eba80116.jpg" alt="Islands" title="Islands">  </p>
-<p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 前卫/Prog Rock、艺术/Art Rock<br><strong>Label:</strong> Island Records-ILPS 9175<br><strong>Recording:</strong> 1971-12-03<br><strong>Barcode:</strong> 0017046150521<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1458449/">豆瓣</a>、<a href="https://www.discogs.com/master/436-King-Crimson-Islands">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1855512">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002S9lOV3FaZon">QQ音乐</a>  </p>
-<hr>
-<h4 id="Ten-New-Songs"><a href="#Ten-New-Songs" class="headerlink" title="Ten New Songs"></a>Ten New Songs</h4><p><img data-src="https://ttfou.com/images/2022/12/29/4c087edf932ef07bcd60562f1c8ece1a.png" alt="Ten New Songs" title="Ten New Songs">  </p>
-<p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 民谣/Folk Rock、抒情/Ballad<br><strong>Label:</strong> Columbia-COL 501202 2<br><strong>Recording:</strong> 2001-10-09<br><strong>Barcode:</strong> 5099750120224<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1405187/">豆瓣</a>、<a href="https://www.discogs.com/master/4253-Leonard-Cohen-Ten-New-Songs">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1941065">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004SWvKW0bAgSI">QQ音乐</a>  </p>
-<hr>
-<h4 id="Closer"><a href="#Closer" class="headerlink" title="Closer"></a>Closer</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bed2fc3dd5f1be107e4fd0670266bdf3.png" alt="Closer" title="Closer">  </p>
-<p><strong>Artist:</strong> Joy Division<br><strong>Genre:</strong> 后朋克/Post Punk、摇滚/Rock、新浪潮/New Wave<br><strong>Label:</strong> Factory-FACT. 25<br><strong>Recording:</strong> 1980-07-18<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1401774/">豆瓣</a>、<a href="https://www.discogs.com/master/4734-Joy-Division-Closer">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1727473">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004ajy260DiSN1">QQ音乐</a>  </p>
-<hr>
-<h4 id="The-Queen-is-Dead"><a href="#The-Queen-is-Dead" class="headerlink" title="The Queen is Dead"></a>The Queen is Dead</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bca2e42e923dc453551ed1c7ea78c04e.png" alt="The Queen is Dead" title="The Queen is Dead">  </p>
-<p><strong>Artist:</strong> The Smiths<br><strong>Genre:</strong> 另类/Alternative、独立/Indie Rock<br><strong>Label:</strong> Megadisc-MD 7961<br><strong>Recording:</strong> 1986-06-16<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1394616/">豆瓣</a>、<a href="https://www.discogs.com/master/20137-The-Smiths-The-Queen-Is-Dead">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1802911">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002T3Q3D38LLDv">QQ音乐</a>  </p>
-<hr>
-<h3 id="世界音乐"><a href="#世界音乐" class="headerlink" title="世界音乐"></a>世界音乐</h3><h4 id="荒腔走板选段"><a href="#荒腔走板选段" class="headerlink" title="荒腔走板选段"></a>荒腔走板选段</h4><p><img data-src="https://ttfou.com/images/2022/12/29/8c873a82737ea6c231db8e6d27a54c90.png" alt="荒腔走板选段" title="荒腔走板选段">  </p>
-<p><strong>Artist:</strong> 大忘杠<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> 北京树音乐公司<br><strong>Recording:</strong> 2014-11-29<br><strong>Barcode:</strong> 9787798505740<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26277320/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3112226">网易云（灰色）</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002rqYzX2A3GmO">QQ音乐</a>  </p>
-<hr>
-<h4 id="Xinjiang"><a href="#Xinjiang" class="headerlink" title="Xinjiang"></a>Xinjiang</h4><p><img data-src="https://ttfou.com/images/2022/12/29/3a5af289841855079361fac5e28a0cda.jpg" alt="Xinjiang" title="Xinjiang">  </p>
-<p><strong>Artist:</strong> Kink Gong<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> Discrepant–CREP-02<br><strong>Recording:</strong> 2011-12-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/27013947/">豆瓣</a>、<a href="https://www.discogs.com/release/3162225-Kink-Gong-Xinjiang">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=73264263">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002FgNO23w4SrL">QQ音乐</a>  </p>
-<hr>
-<h4 id="Cycles"><a href="#Cycles" class="headerlink" title="Cycles"></a>Cycles</h4><p><img data-src="https://ttfou.com/images/2022/12/29/cc5db2d18d2264fa1dd0ca1b807ba4e5.jpg" alt="Cycles" title="Cycles">  </p>
-<p><strong>Artist:</strong> David Darling<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> ECM Records-ECM 1219<br><strong>Recording:</strong> 1982-06-01<br><strong>Barcode:</strong> 0042284317221<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1460024/">豆瓣</a>、<a href="https://www.discogs.com/master/168582-David-Darling-Cycles">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=126845">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/001tf67X3vJ8oc">QQ音乐</a>  </p>
-<hr>
-<hr>
-<h3 id="欢迎交流评论加友链🎉"><a href="#欢迎交流评论加友链🎉" class="headerlink" title="欢迎交流评论加友链🎉"></a>欢迎交流评论加友链🎉</h3>]]></content>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Changelog </tag>
+            
+            <tag> Hexo-NexT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2022总结&amp;My Resolutions</title>
+      <link href="/posts/b7a38911/"/>
+      <url>/posts/b7a38911/</url>
+      
+        <content type="html"><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote> <span id="more"></span><p><del>在2023的第一天写年度总结和展望没毛病吧（x</del><br>似水流年，一年又过去喽，又是新的一年，<del>一年又一年</del><br>2022年又没做成什么事情，2023<del>继续保持！</del>要更加努力嗷</p><hr><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="线下"><a href="#线下" class="headerlink" title="线下"></a>线下</h3><br><p>今年最大的事嘛，无非是完成了浙江省宁波市的中考，遂如愿以663/720的分数顺利从<strong>NBFLS</strong>初中部升级到了<strong>NBFLS</strong>的普高部。（顺带说一句由于我报考了小羟稽，所以我目前身处<strong>NBFLS</strong>的文科创新班<del>（拉倒吧侬</del><br>吐槽归吐槽，也感谢中考，让我认识了<a href="https://blog.chihuo2104.dev/#/">chihuo</a>。没有他就没有我目前的小blog，#<a href="https://mujitogawa.github.io/posts/8cdc15a3/#more">衍生阅读：建站小记</a># 小blog是22.10.01趁着国庆假期搭建的，使用的显而易见，是Github Pages+Hexo。主题起初使用的是bmw，现已更换为拓展更为丰富，页面也更为简洁的<a href="https://github.com/next-theme/hexo-theme-next">NexT</a>。  </p><p>高中生活不是很如意呢，在新的学校负责人的<del>高压</del>领导之下，人人都不得不感叹：<strong>NBFLS</strong>变了，变成<strong>答辩</strong>了(x，而同班的人们也是让人一言难尽…每天讲话跟说谜语一样的班主任，那严重失调的班级男女比例（文创班，你懂的。Female:40, Male:8），还有我真的无法理解为什么体育课都会有那么多人在写作业!）曾经热闹的操场和体育馆现如今在<em>阳光体育</em> 结束后冷冷清清。先别说操场上跑步的人了，就连打篮球的也一直只有三三两两的初中部的人儿。除去体育课外，球场就没有被占满的日子…别人心中所想的，似乎只有写作业写作业写作业。无语了😶…  </p><p>所以，我十分感谢一直在联系我的初中和小学同学们，以及我在高中为数不多的挚友，还有<em>亲爱</em> 的网友们是你们在这个<strong>答辩</strong>环境中给予我以慰藉，让我有整装待发的动力。<br>高中生活似乎也不过就是这些日子，逝者如斯夫，三年寒窗<del>苦读</del>后，又是一场大<del>尻</del>考。在新的一年，与君共勉！  </p><h3 id="线上"><a href="#线上" class="headerlink" title="线上"></a>线上</h3><br><p>认识<a href="https://blog.chihuo2104.dev/#/">chihuo</a>后，他把我拉进了<strong>香子兰</strong>群，然后就认识了<a href="https://nekomoe.xyz/">柏园猫</a>，<a href="https://littlesunnybear.com/">bear</a>，<a href="https://mzwing.eu.org/">mzwing</a>，<a href="https://atri.tk/">猫猫</a>，<a href="https://杨冬.top/">杨冬冬</a>，<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>，<a href="https://mk1.io/">Ray</a>，666999HC，<a href="https://github.com/JJ-Shep">Elusive丹泰</a>，<a href="https://github.com/yingyouyu">sfs</a>等群友 ( 好像还有已经不在了的Mike Hey,乐(x) ） 。谢谢你们一年以来<del>（其实大概好像差不多是半年）</del>的陪伴，新年快乐！！✨  </p><hr><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>此处再次向<a href="https://blog.chihuo2104.dev/#/">chihuo</a>致谢~</p><ul><li><a href="https://skyline.github.com/MujiTogawa/2022">2022 Github Skyline</a></li></ul><p>今年刚刚正式接触coding，但也没做什么咩  </p><ul><li>为<a href="https://github.com/bbg-contributors/bbg">静态博客生成器bbg</a>做了Changelog和Third-party theme edit的文档翻译  </li><li>学校的STEM小项目<a href="https://github.com/MujiTogawa/Genius-Plant-Master">智能植物小管家</a>（其实coding部分基本上都是<a href="https://blog.chihuo2104.dev/#/">chihuo</a>做的…）</li><li>用Github Pages+Hexo搭建了现在的小blog<ul><li>包括Blog-Log在内，<del>氵</del>写了5篇小文章</li></ul></li><li>学习了用Markdown编写文档</li><li>学习了Git的小小基础</li><li>参考<code>Python编程：从入门到实践（第2版）</code>一书，自学了一点点Python基础</li><li>参考<a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs</a>学了一点点点HTML和CSS基础（中的基础（x</li></ul><p>至于立给2023年的Flag，，，</p><ul><li>继续学Python（毕竟要高考的嘛</li><li>继续学HTML+CSS</li><li>学一点JS</li><li>勤更小blog</li><li>去Github上找一些小项目contribute~</li><li>以上</li></ul><hr><h2 id="书影音"><a href="#书影音" class="headerlink" title="书影音"></a>书影音</h2><br><p>今年我书影音的主要记录工具还是<strong>豆瓣</strong>，毕竟三合一比较方便。尝试着去使用过IMDB+BANGUMI+Last FM的奇葩记录组合，但个人感觉还是豆瓣方便（虽然现如今豆瓣也快成<strong>答辩</strong>了…)，而且主要是豆瓣能提供<em>书</em> 的记录，目前暂时还找不到替代品。Bangumi姑且还是会去注册并使用的，但是补充观看数据太惹人烦惹~</p><hr><h3 id="书"><a href="#书" class="headerlink" title="书"></a>书</h3><br><p>先上数据罢~  </p><p><img data-src="https://ttfou.com/images/2023/01/01/bfe452429b24184c5bbd6316511267da.jpg" alt="Books" title="Books">  </p><ul><li><code>红拂夜奔  王小波  十月文艺出版社</code> 纸质书</li><li><code>长日将尽  石黑一雄  上海译文出版社</code> 纸质书</li><li><code>发条橙  安东尼·伯吉斯  译林出版社</code> 纸质书</li><li><code>上升的一切必将汇合  弗兰纳里·奥康纳 新星出版社</code> 纸质书</li><li><code>寂寞的游戏  袁哲生  北京联合出版公司</code> 纸质书</li><li><code>白银时代  王小波  北京十月文艺出版社</code> 纸质书</li><li><code>通往夏天的隧道,再見的出口  八目迷  東立</code> 电子书</li><li><code>红楼梦  曹雪芹  人民文学出版社</code> 纸质书</li><li><code>这些人，那些事  吴念真  译林出版社</code> 电子书</li><li><code>强风吹拂  三浦紫苑  广西师范大学出版社</code> 电子书</li><li><code>目送  龙应台  生活·读书·新知三联书店</code> 电子书</li><li><code>当我们谈论爱情时我们在谈论什么  雷蒙德·卡佛  译林出版社</code> 纸质书</li><li><code>沉默的大多数  王小波  北京十月文艺出版社</code> 纸质书</li><li><code>分成两半的子爵  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li><li><code>不存在的骑士  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li><li><code>看见与被看见 : 《书城》精选（一）  上海三联书店</code> 纸质书</li><li><code>有象 : 《书城》精选（二）  上海三联书店</code> 纸质书</li><li><code>白棉花 : 莫言中篇小说精品系列4  莫言  浙江文艺出版社</code> 纸质书</li><li><code>绿毛水怪  王小波  北京十月文艺出版社</code> 纸质书</li><li><code>文学的事件  何成洲、但汉松、主编  南京大学出版社</code> 纸质书</li><li><code>悉达多 : 一首印度的诗  赫尔曼·黑塞  天津人民出版社</code> 纸质书</li><li><code>革命时期的爱情  王小波  北京十月文艺出版社</code> 纸质书</li><li><code>さよなら絵梨  藤本 タツキ  集英社</code> 电子书</li></ul><p>2022读的书真不算多阿，，，</p><hr><h3 id="影"><a href="#影" class="headerlink" title="影"></a>影</h3><br><p>上图！  </p><p><img data-src="https://ttfou.com/images/2023/01/01/5bbcb99c7eb0d9c3961ead1633b5fa09.jpg" alt="Movies" title="Movies">  </p><br><p>破案！<br>看书少的原因是看番看太多辣，，，上图中的“剧集：68”中基本上都是动漫啦，还不包括剧场版，，，  </p><p>值得推荐的：</p><p>动漫：</p><ul><li><code>氷菓</code></li><li><code>かぐや様は告らせたい～天才たちの恋愛頭脳戦～</code></li><li><code>さくら荘のペットな彼女</code></li><li><code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></li><li><code>STEINS;GATE</code></li><li><code>ノラガミ</code></li><li><code>劇場版 空の境界 第五章 矛盾螺旋</code></li><li><code>ゴールデンカムイ</code></li><li><code>ヱヴァンゲリヲン新劇場版：破</code></li><li><code>四畳半神話大系</code></li><li><code>るろうに剣心 -明治剣客浪漫譚- 追憶編</code></li><li><code>モブサイコ100</code></li><li><code>キルラキル</code></li><li><code>PSYCHO-PASS サイコパス</code></li><li><code>東のエデン /</code></li><li><code>輪るピングドラム</code></li><li><code>傷物語</code></li><li><code>リコリス・リコイル</code></li></ul><p>电影就不写推荐了哈哈~</p><hr><h3 id="音"><a href="#音" class="headerlink" title="音"></a>音</h3><br><p><img data-src="https://ttfou.com/images/2023/01/01/1b46e30c2e84c8c392d9877f3cb5ae64.jpg" alt="Music" title="Music"><br><img data-src="https://ttfou.com/images/2023/01/01/dc14486c4e2826434df10251b5ee459f.jpg" alt="NeteaseReport" title="NeteaseReport"></p><br><p>年度专辑推荐在之前的新年祝福里写过啦~ <a href="https://mujitogawa.github.io/posts/4ac7f78/#%F0%9F%8E%8A-%E5%B2%81%E6%9C%AB%E6%94%BE%E9%80%81%EF%BC%88-Xavier%EF%BC%89">点我直达！！</a></p><hr><h2 id="VAN♂游戏"><a href="#VAN♂游戏" class="headerlink" title="VAN♂游戏"></a>VAN♂游戏</h2><ul><li><strong>Fallout:New Vegas</strong>(辐射：新维加斯)<br>Platform: PC<br>经典美式RPG，正在玩。游戏时长：15.5h。（玩之后发现自己有些晕3D，悲（<br></li><li><strong>魔法使いの夜</strong>(魔法使之夜)<br>Platform: PC<br>今年刚出语音重置版，强推！！！但我玩的是老版（悲<br>可以算是玩的第一款Galgame吧，，不过没有H-scene。大体上算是Visual Novel。文字冒险类。与其它Galgame不同的是玩家没有选项，就真·视觉小说呗（x<br></li><li><strong>Kingdom Rush</strong>(王国保卫战)<br>Platform: PC&amp;Android<br>被初中同学安利的游戏。塔防类。目前出了4代，第四代正在玩。<br></li><li><strong>Bleach VS Naruto</strong>(死神VS火影)<br>Platform: PC<br>即时格斗类同人游戏。之前初中在信息课上一直和同学们玩，挺乐（x。目前正式版是出到了版本<code>3.6sp9Xmas</code>（对，是之前圣诞节发布的圣诞节ver.）基于flash制作，而基于Unity制作的<code>4.0beta</code>版也已经发布了。（听说bug比较多…)<br></li><li><strong>東方非想天則 〜 超弩級ギニョルの謎を追え</strong>(东方非想天则)<br>Platform: PC<br>东方Project即时格斗类同人游戏，是香子兰的群友<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>拉我入坑的，目前还很菜，连段不会打，人机也打不过（x</li></ul><hr><h2 id="目前使用的设备"><a href="#目前使用的设备" class="headerlink" title="目前使用的设备"></a>目前使用的设备</h2><br><ul><li>Apple iPhone 7</li><li>Apple iPad Air</li><li>Dell Insperation 5570<br>配置如下：<br><code>CPU: i5-8250U@1.60GHz 1.80 GHz(4C+8T)</code><br><code>RAM: 12GB DDR4 2400MHz(4GB+8GB)</code><br><code>Disk: 1TB SATA HDD</code><br><code>GPU: UHD620 + R7 M460</code><br><code>Screen: 1920x1080 60Hz</code><br><code>System: Windows 10 22H2</code></li><li>Sony Walkman A55 (DAP)</li><li>Philips SA1508 (DAP)</li><li>DUNU Titan S (Earphone)</li><li>Apple Earpod (Earphone)</li><li>Skyworth-unknown (TV&amp;Screen)  </li><li>Huawei Watch GT2 (Smart Watch)</li></ul><hr><h2 id="运动"><a href="#运动" class="headerlink" title="运动"></a>运动</h2><br><h3 id="田径"><a href="#田径" class="headerlink" title="田径"></a>田径</h3><br><p>今年的总跑量大概在300km左右，使用Huawei Watch GT2以及（华为）运动与健康APP记录</p><ul><li>中考体测1000m：3:08:47(电记)</li><li><strong>400m</strong> PB：0:59:11(电记)于校运动会创下</li><li><strong>1000m</strong> PB：3:05:xx(手记)在初三创下</li><li><strong>1500m</strong> PB：4:50:36(电记)于市运动会创下</li><li><strong>3000m</strong> PB：11:03:39(电记)于市运动会创下</li></ul><br><h4 id="校运动会"><a href="#校运动会" class="headerlink" title="校运动会"></a>校运动会</h4><p><strong>NBFLS</strong>普高部的体育就是<strong>答辩</strong>啊！连我都可以拿牌子（x<br>鉴于文科创新班悬殊的男女比例，校领导决定该班的男同志每人可以报名3个个人项目（其它班限定是每人2个）然后，我就有了7个项目（x，最后只参加了5个）</p><ul><li>400m</li><li>三级跳远</li><li>4x400m</li></ul><p>其中三级跳远再此之前我连规则都不知道。。。</p><blockquote><p>班主任：别人也不知道规则的，我们重在参与<br>我：*****</p></blockquote><p>然后我就自己瞎琢磨，也没去请教别人，也没看视频教学。瞎练了2个星期，结果连女生的沙坑都进不了…小腿胫骨还死疼死疼的  </p><p>但在运动会前最后一个星期，我终于进坑了。女坑。。而与我一起参加的那位同班怨种同学就没那么幸运了，他不仅没进坑，还把jio崴了…  </p><p>然后，我就拿了银牌，第一是体育生。<strong>NBFLS</strong>你真的就这吗？！</p><p><img data-src="https://ttfou.com/images/2023/01/01/80d6af036878888aca81eca0b9c98972.jpg" alt="银牌" title="银牌"></p><p>另外，出乎意料地，400m也冲进了决赛，最终夺铜。<br><strong>NBFLS</strong>的体育就是<strong>答辩</strong>(x</p><p><img data-src="https://ttfou.com/images/2023/01/01/19f1a05b9632f638eede3ea642eb6328.jpg" alt="铜牌" title="铜牌"></p><hr><h4 id="市运动会"><a href="#市运动会" class="headerlink" title="市运动会"></a>市运动会</h4><p>参加市运动会也存粹是个意外。<br>刚开学时候，一天在寝室，隔壁寝室，也是隔壁班的一个同学（就是那位三级跳第一的体育生）突然向我发问：</p><blockquote><p>体育生：你有兴趣来参加田径社吗？训练量不大的，就可能会有个小比赛。<br>我：好呀好呀~</p></blockquote><p>然后就都知道了吧…确实<strong>NBFLS</strong>的田径社不单单训练量不大，而且是根本没有训练。然后在市运动会前两个星期：</p><blockquote><p>体育老师：你们要参加市运动会的，知道的嗷。下礼拜身份证带一下，我给你们报名。<br>我：。。？？？！！！！┗|｀O′|┛ 嗷~</p></blockquote><p>最后结果还过得去吧，至少没有最后一名（x，明年继续（x</p><p>*注：2022年的市运动会在<strong>NBFLS</strong>举行</p><br><p><strong>1500m</strong> 小组：9/15; 总名次：16/29; 用时：4:50:36(电记)<br><img data-src="https://ttfou.com/images/2022/12/31/91534e6a7cb3c3d1571899992427bb2d.jpg" alt="1500m" title="1500m"></p><br><p><strong>3000m</strong> 小组：6/13; 总名次：15/27; 用时：11:03:39(电记)<br><img data-src="https://ttfou.com/images/2022/12/31/b987a75a1e6e5ec33a91ebe7fa64c8d5.jpg" alt="3000m" title="3000m"></p><br><p>留念啦~</p><p><img data-src="https://ttfou.com/images/2022/12/31/76854c8ce5a6d02dd4b3880cd4876ccb.jpg" alt="留念" title="留念"><br>*注：图中这双橙色的<strong>Asics MetaSpeed Sky</strong>是我的市运动会战靴，在此感谢将它借予我的<strong>K</strong>同学~</p><hr><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><br><h4 id="鞋子"><a href="#鞋子" class="headerlink" title="鞋子"></a>鞋子</h4><p>今年新买了三双鞋子</p><ul><li><strong>361 Spire S</strong> (慢跑综合训练)</li><li><strong>乔丹体育 飞影</strong> (速度训练)</li><li><strong>乔丹体育 Titan 3</strong> (篮球)</li></ul><p>来上图~</p><ol><li><strong>361 Spire S</strong><br><img data-src="https://ttfou.com/images/2022/12/31/1535df57e6a3f3267696d5badbec80bd.jpg" alt="361" title="361"><br>这双鞋买来主要是为了替代我那两双日益战损的<strong>Asics Gel Flux4</strong>的。<br>定位是支撑+顶缓。<br>使用下来上限比<strong>Asics Gel Flux4</strong>要高。综合训练加速时不拖沓，前掌也不泄力<br>但是感觉并不是十分适合我这样的小体重跑者，另外前掌偏薄，偏窄，也不怎么耐磨，更适合中后掌跑法的朋友们。</li></ol><p>*题外话：这双鞋我买来一个多月后就发布了二代，听说提升挺大。发布后这双也立马降价，血亏！</p><hr><p>2.<strong>乔丹体育 飞影</strong><br>  <img data-src="https://ttfou.com/images/2022/12/31/f8a3b84d49dac339239b487f4d0966af.jpg" alt="飞影" title="飞影"><br>这是我的第一双厚底跑鞋，（注意是<strong>飞影训练版一代</strong>，不是<strong>飞影PB</strong>）。初上jio这体验真的绝了。这透气！这轻质！这缓震！这回弹！这价格！我直接吹爆！！然后跑了两个多月，天哪，这泡棉，中底衰竭，亲妈都不认了，什么叫判若两鞋阿（x<br>所以说选购建议：小体重跑者，有一定跑步基础的有多双训练鞋的朋友的夏季训练鞋之一。其实能别买就别买啦，不管是一代还是二代。真的看重性价比的就去买<strong>飞影PB 2.0</strong>。</p><hr><p>3.<strong>乔丹体育 Titan 3</strong><br>  <img data-src="https://ttfou.com/images/2022/12/31/27821ce5679e7b703b672d0a6fd26ead.jpg" alt="Titan3" title="Titan3"><br>我的第一双篮球鞋，体育课报了篮球，遂去买了一双。高性价比的产物。中规中矩。买的篮球鞋仅此一双，也不好评价。</p><hr><h4 id="羽毛球"><a href="#羽毛球" class="headerlink" title="羽毛球"></a>羽毛球</h4><br><p>羽毛球偶尔打打。今年买了（其实是我爸买来（给自己玩（x））两幅拍子</p><ul><li><strong>Yonex NF700</strong> (4U)</li><li><strong>Yonex Arc-11</strong>(弓11) (3U)</li></ul><p>之前家里都是<strong>凯胜</strong>和<strong>李宁</strong>的拍子。<strong>Yonex</strong>的买来尝尝鲜。<br>羽毛球的话用的是<strong>Yonex AS-05</strong>和红<strong>威肯</strong>  </p><hr><h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链~🎉"></a>欢迎交流评论加友链~🎉</h2><p>谢谢你有耐心读到这里⭐再次祝各位新年快乐呀~</p>]]></content>
+      
+      
       <categories>
-        <category>碎碎念</category>
-        <category>祝福</category>
+          
+          <category> 碎碎念 </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
-<span id="more"></span>
-<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 总结 </tag>
+            
+            <tag> 展望 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Otherwise My New Year Greetings</title>
+      <link href="/posts/4ac7f78/"/>
+      <url>/posts/4ac7f78/</url>
+      
+        <content type="html"><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  <span id="more"></span><h2 id="🧨-新年快乐"><a href="#🧨-新年快乐" class="headerlink" title="🧨 新年快乐"></a>🧨 新年快乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=20787183&amp;auto=1&amp;height=66"></iframe><p>尽管显得有些小题大做，但在此，我仍要向我所有的朋友们，以及在浏览这篇博文的你献上我最真挚的祝福。<br><strong>HAPPY NEW YEAR！！！</strong></p><p><img data-src="https://ttfou.com/images/2022/12/21/dd99ece0bab43569619bc9bab5f60da2.jpg" alt="谨贺新年" title="谨贺新年"></p><hr><hr><h2 id="🎊-岁末放送（-Xavier）"><a href="#🎊-岁末放送（-Xavier）" class="headerlink" title="🎊 岁末放送（@Xavier）"></a>🎊 岁末放送（@Xavier）</h2><p>22年，我听的专辑虽说不多，但也不算少了吧…<br>现在借此良机便想着<del>强行安利</del>与大家分享一下——选了二十张自认为<del>容易成功安利</del>的“<em>精华</em>”，与大家分享~<br>🎊 <em><strong>Move on Forward</strong></em> 🎊</p><p>&lt;&lt;&lt;&lt; 排序无先后 &gt;&gt;&gt;&gt; </p><hr><hr><h3 id="华语"><a href="#华语" class="headerlink" title="华语"></a>华语</h3><h4 id="他在时间门外"><a href="#他在时间门外" class="headerlink" title="他在时间门外"></a>他在时间门外</h4><p><img data-src="https://ttfou.com/images/2022/12/21/cf49fc9697564daa4f1422d0e09d869c.jpg" alt="他在时间门外" title="他在时间门外"></p><p><strong>Artist:</strong> 哪吒<br><strong>Genre:</strong> 摇滚/Rock<br><strong>Label:</strong> 哪吒<br><strong>Recording:</strong> 2012-12-20<br><strong>Barcode:</strong> 4988006798335<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1764282/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=36538">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003m1iNo4SbEh7">QQ音乐</a>  </p><hr><h4 id="菊花夜行军"><a href="#菊花夜行军" class="headerlink" title="菊花夜行军"></a>菊花夜行军</h4><p><img data-src="https://ttfou.com/images/2022/12/21/3295d67d7e3e8bb784aaa517c0dbe33a.jpg" alt="菊花夜行军" title="菊花夜行军"></p><p><strong>Artist:</strong> 交工樂隊<br><strong>Genre:</strong> 民谣/Folk Rock、摇滚/Rock、Chinese Classical<br><strong>Label:</strong> 大大樹系列–TMCD-2002<br><strong>Recording:</strong> 2001<br><strong>Barcode:</strong> 4716483020027<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1920130/">豆瓣</a>、<a href="https://www.discogs.com/master/1097740-%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A-%E8%8F%8A%E8%8A%B1%E5%A4%9C%E8%A1%8C%E8%BB%8D-The-Night-March-of-the-Chrysanthemums">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p><hr><h4 id="醜奴兒"><a href="#醜奴兒" class="headerlink" title="醜奴兒"></a>醜奴兒</h4><p><img data-src="https://ttfou.com/images/2022/12/21/92ceb9fbcfc01b6d7e497fe809ae9dc7.jpg" alt="醜奴兒" title="醜奴兒"></p><p><strong>Artist:</strong> 草東沒有派對<br><strong>Genre:</strong> 摇滚/Rock、流行/Pop、另类/Alternative<br><strong>Label:</strong> 草東沒有派對<br><strong>Recording:</strong> 2016-04-30<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26753594/">豆瓣</a>、<a href="https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p><hr><h4 id="七七连环X人调"><a href="#七七连环X人调" class="headerlink" title="七七连环X人调"></a>七七连环X人调</h4><p><img data-src="https://ttfou.com/images/2022/12/22/a69bcc751f2e2050b041087985a8d92b.jpg" alt="七七连环X人调" title="七七连环X人调">  </p><p><strong>Artist:</strong> 周二下午谁没来？<br><strong>Genre:</strong> 摇滚/Rock、实验/Experimental<br><strong>Label:</strong> 周二下午谁没来？<br><strong>Recording:</strong> 2015-01-01<br><strong>Barcode:</strong> WEBM<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26829903/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3126178">网易云</a>  </p><hr><hr><h3 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h3><h4 id="REDЯUM"><a href="#REDЯUM" class="headerlink" title="REDЯUM"></a>REDЯUM</h4><p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDЯUM" title="REDЯUM">  </p><p><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> 摇滚/Rock、电子/Electronic<br><strong>Label:</strong> Embryo–none, Gianormous Records–ORO-1018<br><strong>Recording:</strong> 1999-05-26<br><strong>Barcode:</strong> 4997184100182<br><strong>Links:</strong> <a href="https://music.douban.com/subject/5266793/">豆瓣</a>、<a href="https://www.discogs.com/release/11257318-Redrum-Redrum">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2987758">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=M5oPahDZnRFP">QQ音乐</a>  </p><hr><h4 id="頭脳警察1"><a href="#頭脳警察1" class="headerlink" title="頭脳警察1"></a>頭脳警察1</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8f88af10ce8b2be1614cbff82606e230.jpg" alt="頭脳警察1" title="頭脳警察1">  </p><p><strong>Artist:</strong> 頭脳警察<br><strong>Genre:</strong> 摇滚/Rock、现场/Live、原声/Acoustic<br><strong>Label:</strong> Be-Witch Record-none<br><strong>Recording:</strong> 1972-03-21<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2971946/">豆瓣</a>、<a href="https://www.discogs.com/master/169979-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F1">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2085917">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002BBvUd4T4mv4">QQ音乐</a>  </p><hr><h4 id="玉姫様"><a href="#玉姫様" class="headerlink" title="玉姫様"></a>玉姫様</h4><p><img data-src="https://ttfou.com/images/2022/12/22/276bc318a6a11b0dffc82f2c815589b8.jpg" alt="玉姫様" title="玉姫様">  </p><p><strong>Artist:</strong> 戸川純<br><strong>Genre:</strong> 新浪潮/New Wave、摇滚/Rock、合成器/Synth-pop<br><strong>Label:</strong> Alfa-38XA-22, Yen Records-38XA-22<br><strong>Recording:</strong> 1984-01-24<br><strong>Barcode:</strong> 4988024015254<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1871948/">豆瓣</a>、<a href="https://www.discogs.com/master/458429-%E6%88%B8%E5%B7%9D%E7%B4%94-%E7%8E%89%E5%A7%AB%E6%A7%98">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2650070">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=DjVjKDMxdUbm">QQ音乐</a>  </p><hr><h4 id="III"><a href="#III" class="headerlink" title="III"></a>III</h4><p><img data-src="https://ttfou.com/images/2022/12/22/0135c73dfdedf712816103d0a25f36e7.jpg" alt="III" title="III">  </p><p><strong>Artist:</strong> 頭士奈生樹<br><strong>Genre:</strong> 摇滚/Folk Rock、前卫/Prog Rock、原声/Acoustic<br><strong>Label:</strong> Org Records-ORG-020cd<br><strong>Recording:</strong> 2005-01-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/30174788/">豆瓣</a>、<a href="https://www.discogs.com/master/660095-%E9%A0%AD%E5%A3%AB%E5%A5%88%E7%94%9F%E6%A8%B9-III">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=82619910">网易云</a></p><hr><h4 id="ワインレッドの心"><a href="#ワインレッドの心" class="headerlink" title="ワインレッドの心"></a>ワインレッドの心</h4><p><img data-src="https://ttfou.com/images/2022/12/22/e853a45e15893489c72c95f38df1a2d4.jpg" alt="ワインレッドの心" title="ワインレッドの心">  </p><p><strong>Artist:</strong> 玉置浩二<br><strong>Genre:</strong> 流行/Pop<br><strong>Label:</strong> Fun House-FHCF-2447<br><strong>Recording:</strong> 1999-02-24<br><strong>Barcode:</strong> 9787885704162<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1449775/">豆瓣</a>、<a href="https://www.discogs.com/master/1009542-%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C-%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E5%BF%83">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=49287">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=iGJ2w2U">QQ音乐</a>  </p><hr><h4 id="MIZUTANI"><a href="#MIZUTANI" class="headerlink" title="MIZUTANI"></a>MIZUTANI</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8653e9ae1215a1ad0f28a154b0dc90f3.jpg" alt="MIZUTANI" title="MIZUTANI">  </p><p><strong>Artist:</strong> Les Rallizes DéNudés<br><strong>Genre:</strong> 迷幻摇滚/Psychedelic Rock、民谣/Folk Rock、噪音/Noise<br><strong>Label:</strong> Rivista Inc.<br><strong>Recording:</strong> 1991-08-15<br><strong>Barcode:</strong> 0823564603322<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2082257/">豆瓣</a>、<a href="https://www.discogs.com/release/24800570-Mizutani-Les-Rallizes-Denudes-Mizutani-Les-Rallizes-D%C3%A9nud%C3%A9s">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=34861209">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004DYJCf0ue1sa">QQ音乐</a>  </p><hr><h4 id="First-Love"><a href="#First-Love" class="headerlink" title="First Love"></a>First Love</h4><p><img data-src="https://ttfou.com/images/2022/12/22/05761627df5db3fdd20abfc3b715f3aa.jpg" alt="First Love" title="First Love">  </p><p><strong>Artist:</strong> 宇多田ヒカル<br><strong>Genre:</strong> 流行/J-pop、节奏布鲁斯/R&amp;B<br><strong>Label:</strong> Eastworld-TOCT-24067<br><strong>Recording:</strong> 1999-03-10<br><strong>Barcode:</strong> 4988006158764<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1397751/">豆瓣</a>、<a href="https://www.discogs.com/master/184564-Utada-Hikaru-First-Love">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2093862">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002SwRbo2GrlLp">QQ音乐</a>  </p><hr><hr><h3 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h3><h4 id="Blue-Lullaby"><a href="#Blue-Lullaby" class="headerlink" title="Blue Lullaby"></a>Blue Lullaby</h4><p><img data-src="https://ttfou.com/images/2022/12/29/a5c241279b035edadf7ce72a84683963.jpg" alt="Blue Lullaby" title="Blue Lullaby">  </p><p><strong>Artist:</strong> Wolf Alice<br><strong>Genre:</strong> 另类/Alternative、流行/Pop、原声/Acoustic<br><strong>Label:</strong> Dirty Hit-none<br><strong>Recording:</strong> 2022-06-24<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/35906517/">豆瓣</a>、<a href="https://www.discogs.com/release/23702975-Wolf-Alice-Blue-Lullaby">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=146272503">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003bltQn2bdw5Z">QQ音乐</a>  </p><hr><h4 id="Islands"><a href="#Islands" class="headerlink" title="Islands"></a>Islands</h4><p><img data-src="https://ttfou.com/images/2022/12/29/e629e8f0353afad0d39c83b0eba80116.jpg" alt="Islands" title="Islands">  </p><p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 前卫/Prog Rock、艺术/Art Rock<br><strong>Label:</strong> Island Records-ILPS 9175<br><strong>Recording:</strong> 1971-12-03<br><strong>Barcode:</strong> 0017046150521<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1458449/">豆瓣</a>、<a href="https://www.discogs.com/master/436-King-Crimson-Islands">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1855512">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002S9lOV3FaZon">QQ音乐</a>  </p><hr><h4 id="Ten-New-Songs"><a href="#Ten-New-Songs" class="headerlink" title="Ten New Songs"></a>Ten New Songs</h4><p><img data-src="https://ttfou.com/images/2022/12/29/4c087edf932ef07bcd60562f1c8ece1a.png" alt="Ten New Songs" title="Ten New Songs">  </p><p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 民谣/Folk Rock、抒情/Ballad<br><strong>Label:</strong> Columbia-COL 501202 2<br><strong>Recording:</strong> 2001-10-09<br><strong>Barcode:</strong> 5099750120224<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1405187/">豆瓣</a>、<a href="https://www.discogs.com/master/4253-Leonard-Cohen-Ten-New-Songs">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1941065">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004SWvKW0bAgSI">QQ音乐</a>  </p><hr><h4 id="Closer"><a href="#Closer" class="headerlink" title="Closer"></a>Closer</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bed2fc3dd5f1be107e4fd0670266bdf3.png" alt="Closer" title="Closer">  </p><p><strong>Artist:</strong> Joy Division<br><strong>Genre:</strong> 后朋克/Post Punk、摇滚/Rock、新浪潮/New Wave<br><strong>Label:</strong> Factory-FACT. 25<br><strong>Recording:</strong> 1980-07-18<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1401774/">豆瓣</a>、<a href="https://www.discogs.com/master/4734-Joy-Division-Closer">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1727473">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004ajy260DiSN1">QQ音乐</a>  </p><hr><h4 id="The-Queen-is-Dead"><a href="#The-Queen-is-Dead" class="headerlink" title="The Queen is Dead"></a>The Queen is Dead</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bca2e42e923dc453551ed1c7ea78c04e.png" alt="The Queen is Dead" title="The Queen is Dead">  </p><p><strong>Artist:</strong> The Smiths<br><strong>Genre:</strong> 另类/Alternative、独立/Indie Rock<br><strong>Label:</strong> Megadisc-MD 7961<br><strong>Recording:</strong> 1986-06-16<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1394616/">豆瓣</a>、<a href="https://www.discogs.com/master/20137-The-Smiths-The-Queen-Is-Dead">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1802911">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002T3Q3D38LLDv">QQ音乐</a>  </p><hr><h3 id="世界音乐"><a href="#世界音乐" class="headerlink" title="世界音乐"></a>世界音乐</h3><h4 id="荒腔走板选段"><a href="#荒腔走板选段" class="headerlink" title="荒腔走板选段"></a>荒腔走板选段</h4><p><img data-src="https://ttfou.com/images/2022/12/29/8c873a82737ea6c231db8e6d27a54c90.png" alt="荒腔走板选段" title="荒腔走板选段">  </p><p><strong>Artist:</strong> 大忘杠<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> 北京树音乐公司<br><strong>Recording:</strong> 2014-11-29<br><strong>Barcode:</strong> 9787798505740<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26277320/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3112226">网易云（灰色）</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002rqYzX2A3GmO">QQ音乐</a>  </p><hr><h4 id="Xinjiang"><a href="#Xinjiang" class="headerlink" title="Xinjiang"></a>Xinjiang</h4><p><img data-src="https://ttfou.com/images/2022/12/29/3a5af289841855079361fac5e28a0cda.jpg" alt="Xinjiang" title="Xinjiang">  </p><p><strong>Artist:</strong> Kink Gong<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> Discrepant–CREP-02<br><strong>Recording:</strong> 2011-12-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/27013947/">豆瓣</a>、<a href="https://www.discogs.com/release/3162225-Kink-Gong-Xinjiang">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=73264263">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002FgNO23w4SrL">QQ音乐</a>  </p><hr><h4 id="Cycles"><a href="#Cycles" class="headerlink" title="Cycles"></a>Cycles</h4><p><img data-src="https://ttfou.com/images/2022/12/29/cc5db2d18d2264fa1dd0ca1b807ba4e5.jpg" alt="Cycles" title="Cycles">  </p><p><strong>Artist:</strong> David Darling<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> ECM Records-ECM 1219<br><strong>Recording:</strong> 1982-06-01<br><strong>Barcode:</strong> 0042284317221<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1460024/">豆瓣</a>、<a href="https://www.discogs.com/master/168582-David-Darling-Cycles">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=126845">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/001tf67X3vJ8oc">QQ音乐</a>  </p><hr><hr><h3 id="欢迎交流评论加友链🎉"><a href="#欢迎交流评论加友链🎉" class="headerlink" title="欢迎交流评论加友链🎉"></a>欢迎交流评论加友链🎉</h3>]]></content>
+      
+      
       <categories>
-        <category>Hello World</category>
+          
+          <category> 碎碎念 </category>
+          
+          <category> 祝福 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
-    <url>/posts/936f4e60/</url>
-    <content><![CDATA[<p>无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；<strong>简单、优雅、快速</strong>！人人可用~</p>
-<span id="more"></span>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="430" height="86" src="//music.163.com/outchain/player?type=2&amp;id=28546412&amp;auto=1&amp;height=66"></iframe>
-
-<h2 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h2><p>众所周知，在<strong>Chinese Government</strong>的政策下，<strong>Wikipedia</strong>维基百科因为包含一些“ <em><strong>敏感</strong></em> ”内容，被隔离在了长城之外。<br>由此一来，每当需要在<strong>Wikipedia</strong>查阅资料时（因为一些信息，在闭塞的国内网络环境下难以查找；我的<a href="https://mujitogawa.github.io/posts/1f99454c/">上一篇博文</a>中的许多信息都是在 <em>维基</em> 英文站上才找到的），就必须需要 <em>科学上网</em> 或者使用 <em>维基</em> 镜像站。无奈这两种方案都不是十分稳定，且有些麻烦。而造成麻烦的根源所在，即为：它们都需要使用网络作为“媒介”。<br>那么解决方式就十分明了：我不通过网络访问不就可以了（乐</p>
-<hr>
-<h2 id="离线的Wikipedia"><a href="#离线的Wikipedia" class="headerlink" title="离线的Wikipedia"></a>离线的Wikipedia</h2><blockquote>
-<p><strong>Kiwix</strong>成立于10多年前，它是许多网站（包括<a href="https://www.wikipedia.org/">维基百科</a>，<a href="https://www.gutenberg.org/">古腾堡项目</a>或<a href="https://stackexchange.com/">Stack Exchange</a>等大型网站）在线内容的离线阅读器。<br><strong>Kiwix</strong>可以将任意网站高度压缩成独特的内容包（.zim文件），以便它们易于共享。<br><strong>Kiwix</strong>阅读器几乎可以在任何设备（手机，计算机等）上运行。<strong>Kiwix</strong>就好像是一个普通的浏览器。因为除了没有接入互联网，它的体验几乎与浏览源网站相同。<br>该软件以及内容可供任何人免费使用。</p>
-</blockquote>
-<p>以上内容截取自<a href="https://www.kiwix.org/en/"><strong>Kiwix</strong>的官网(点我直达)</a>。实现离线阅读，只需在相关网站下载一个.zim格式的文件。<br><strong>Wikipedia</strong>的内容都被压缩存储在这个.zim格式的文件中。<br>然后，我们就可以使用<strong>Kiwix</strong>，打开.zim文件，实现离线阅读。</p>
-<h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><p><img data-src="https://ttfou.com/images/2023/01/20/4ed9b9a4dbbd44cfe3296233bf0c211e.png" alt="Kiwix"><br>$ <em>Kiwix</em> 应用界面</p>
-<hr>
-<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>$ 以下步骤都无需 <em>科学上网</em>，请放心食用</p>
-<h3 id="安装Kiwix应用-点我直达"><a href="#安装Kiwix应用-点我直达" class="headerlink" title="安装Kiwix应用(点我直达)"></a>安装<a href="https://www.kiwix.org/en/download/">Kiwix应用(点我直达)</a></h3><p><strong>Kiwix</strong>应用是跨平台的，这意味这你几乎可以在任意设备上使用它。</p>
-<h4 id="Kiwix-支持的平台"><a href="#Kiwix-支持的平台" class="headerlink" title="Kiwix 支持的平台"></a>Kiwix 支持的平台</h4><ul>
-<li><strong>Android</strong><ul>
-<li>Android v5.0 or higher</li>
-</ul>
-</li>
-<li><strong>Windows</strong><ul>
-<li>Windows XP/Vista or higher</li>
-</ul>
-</li>
-<li><strong>iOS/macOS</strong><ul>
-<li>Compatible with all Apple devices</li>
-</ul>
-</li>
-<li><strong>GNU/Linux</strong><ul>
-<li>Compatible with all(?)</li>
-</ul>
-</li>
-<li><strong>Browser Extensions</strong> ( <em>浏览器插件</em> )<ul>
-<li>Chrome, Firefox &amp; Edge</li>
-</ul>
-</li>
-<li><strong>Raspberry Pi</strong><ul>
-<li>You can install Kiwix on a Raspberry Pi and use it as a hotspot</li>
-</ul>
-</li>
-</ul>
-<h3 id="下载-zim文件"><a href="#下载-zim文件" class="headerlink" title="下载.zim文件"></a>下载.zim文件</h3><h4 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h4><ol>
-<li><a href="https://download.kiwix.org/zim/wikipedia/">Kiwix(推荐，点我直达)</a></li>
-<li><a href="https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/">Wikimedia Downloads（点我直达）</a></li>
-</ol>
-<p><img data-src="https://ttfou.com/images/2023/01/20/a752078838896dcc90cb7d3bcf4b7303.png" alt="DL" title="DL"></p>
-<p>如图，<strong>Kiwix</strong>提供了多种下载文件。那么如何选择适合自己的呢？<br>文件的命名格式是：<br><code>Project_Language_Number of Articles_Flavour</code><br>（ <code>项目_语言_词条数目_种类</code> ）</p>
-<p><code>Project</code>，不必多说，就该链接而言，肯定是<strong>Wikipedia</strong>维基啦~</p>
-<p><code>Language</code>，一般就直接会选择英文<strong>en</strong>或中文<strong>zh</strong>喽。就我而言，我还是会更加推荐英文<strong>en</strong>。原因显而易见，因为英文百科的收入更加全面。可供下载的选择也更加多。即便是遇到看不懂的页面也是翻译可以解决的。</p>
-<p><code>Number of Articles</code>，这在上图中看到的都是“all”，表示.zim中包括了该语言下<strong>Wikipedia</strong>维基的所有词条内容。除此之外也还会出现像 <em>medicine</em> 或 <em>football</em> 之类的，表示该.zim文件只收录了与医药或足球相关的词条内容。按个人需求下载吧。理所应当的，这些只收录了单一板块的，.zim文件的大小会相对的小。</p>
-<p><code>Flavour</code>，.zim文件的版本主要分为3种：</p>
-<ul>
-<li><p><strong>mini</strong></p>
-<ul>
-<li>表示有的词条只包含一小部分，详细内容可能会看到不到。</li>
-<li>（$ 但我查个维基的资料就是为了看到详细的信息阿，所以不推荐这种。</li>
-</ul>
-</li>
-<li><p><strong>maxi</strong></p>
-<ul>
-<li>maxi版本包含所有内容，除了视频和音频内容。这种.zim文件内容最完整，文件也最大。</li>
-<li>（ $ 只要你的设备的储存空间够大，就请下这个版本吧~</li>
-</ul>
-</li>
-<li><p><strong>nopic</strong></p>
-<ul>
-<li>和maxi版本相比，被删去了词条中几乎所有的图片和视频。但是词条内容还是完整的。</li>
-<li>（ $ 一般查阅资料也不需要看什么图片视频吧，而且还能省下将近一半的储存空间。<strong>个人推荐</strong></li>
-</ul>
-</li>
-</ul>
-<h4 id="！！！注意"><a href="#！！！注意" class="headerlink" title="！！！注意"></a>！！！注意</h4><p><strong>Wikimedia</strong>将每个 IP 的连接数限制为了 2<del>(镜像站点好像没有这个限制)</del>，所以请尽量不要使用诸如<strong>IDM</strong>的多线程下载器进行文件的下载。<br>文件的普通下载速度还是相对给力的。像我300M的宽带，使用Edge浏览器内置下载，速度可以稳定在10MB/s~13MB/s。</p>
-<h3 id="导入-zim文件"><a href="#导入-zim文件" class="headerlink" title="导入.zim文件"></a>导入.zim文件</h3><p>$ 我使用的是 <em>Windows</em> 操作系统，所以以下内容针对 <em>Windows</em> 而言。但理论上各平台的操作方式都是类似的。</p>
-<ol>
-<li><strong>Kiwix</strong>软件和.zim文件下载完成后，建议将.zim文件放在<strong>Kiwix</strong>软件的根目录。</li>
-<li>随后打开<strong>Kiwix</strong>软件，点击右上方“文件夹”图标或者<code>Ctrl+o</code>，选中刚刚放在根目录的.zim文件并打开。然后就可以正常使用了。</li>
-</ol>
-<br>
-
-<hr>
-<h2 id="欢迎评论交流加友链✨"><a href="#欢迎评论交流加友链✨" class="headerlink" title="欢迎评论交流加友链✨"></a>欢迎评论交流加友链✨</h2><p>都看到这儿了，不留条评论再走吗 <em><strong>QAQ</strong></em></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 庆祝 </tag>
+            
+            <tag> 节日 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3...2...1...FIRE!!!</title>
+      <link href="/posts/8cdc15a3/"/>
+      <url>/posts/8cdc15a3/</url>
+      
+        <content type="html"><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p><span id="more"></span><h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p><hr><h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p><hr><h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p><h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>]]></content>
+      
+      
       <categories>
-        <category>教程向</category>
+          
+          <category> 碎碎念 </category>
+          
+          <category> Blog-Log </category>
+          
       </categories>
-      <tags>
-        <tag>Wikipedia</tag>
-        <tag>Kiwix</tag>
-        <tag>全平台</tag>
-        <tag>Firewall</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+            <tag> 庆祝 </tag>
+            
+            <tag> 建站 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p><span id="more"></span><p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hello World </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
