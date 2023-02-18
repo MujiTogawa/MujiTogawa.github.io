@@ -177,9 +177,9 @@
     <category term="碎碎念" scheme="https://mujitogawa.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
-    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
-    
     <category term="Changelog" scheme="https://mujitogawa.github.io/tags/Changelog/"/>
+    
+    <category term="Hexo" scheme="https://mujitogawa.github.io/tags/Hexo/"/>
     
     <category term="Hexo-NexT" scheme="https://mujitogawa.github.io/tags/Hexo-NexT/"/>
     
@@ -202,9 +202,9 @@
     
     <category term="碎碎念" scheme="https://mujitogawa.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
-    <category term="总结" scheme="https://mujitogawa.github.io/tags/%E6%80%BB%E7%BB%93/"/>
-    
     <category term="展望" scheme="https://mujitogawa.github.io/tags/%E5%B1%95%E6%9C%9B/"/>
+    
+    <category term="总结" scheme="https://mujitogawa.github.io/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
