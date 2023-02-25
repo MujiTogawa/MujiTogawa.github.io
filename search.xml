@@ -100,6 +100,28 @@
       </tags>
   </entry>
   <entry>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+<span id="more"></span>
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+<hr>
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<hr>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2022总结&amp;My Resolutions</title>
     <url>/posts/b7a38911/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote>
@@ -329,25 +351,103 @@
       </tags>
   </entry>
   <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
 <span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
 <hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="https://ttfou.com/images/2022/10/02/68b00973ab175f1204a239f757d2c28b.png" alt="bot贴贴图，来自此群" title="贴贴"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img data-src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
+<br>
+
 <hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mujitogawa.github.io/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
 ]]></content>
       <categories>
-        <category>碎碎念</category>
-        <category>Blog-Log</category>
+        <category>教程向</category>
       </categories>
       <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
       </tags>
   </entry>
   <entry>
@@ -959,106 +1059,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mujitogawa.github.io/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><p><img data-src="https://ttfou.com/images/2023/01/22/01965aeb583710f0c608aef511fbfa3f.png" alt="Preview" title="Preview"></p>
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mujitogawa.github.io/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mujitogawa.github.io/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mujitogawa.github.io/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Bloglog 23 01 14</title>
     <url>/posts/db043193/</url>
     <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
@@ -1087,6 +1087,75 @@
         <tag>Hexo</tag>
         <tag>Changelog</tag>
         <tag>Hexo-NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>🐇2023兔年快乐~</title>
+    <url>/posts/68b54462/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">🧨🐇兔年终于（要）来力🧨🐇</blockquote>  
+<span id="more"></span>
+
+<p>今天（指23.01.21）是<strong>大年三十</strong>。</p>
+<p>好吧。现在是<strong>大年初一</strong>力（这篇博文拖了一整（农历）年才写完（x</p>
+<p>首先，献上我最真挚的：</p>
+<h2 id="兔年🐇快乐"><a href="#兔年🐇快乐" class="headerlink" title="兔年🐇快乐~"></a>兔年🐇快乐~</h2><h3 id="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊"><a href="#放烟花鞭炮一定要好好放，放得开心嗷🧨🎊" class="headerlink" title="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~"></a>放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~</h3><p>其实到这里，这篇小博文就可以结束了，但我<a href="https://mujitogawa.github.io/posts/db043193/">之前不是说过吗</a>，新的一年要少写氵文（。所以：</p>
+<h2 id="㊣篇（？开始"><a href="#㊣篇（？开始" class="headerlink" title="㊣篇（？开始"></a>㊣篇（？开始</h2><br>
+
+<h3 id="有关于chi的小红包冒险-v-e-r-2023-点我直达"><a href="#有关于chi的小红包冒险-v-e-r-2023-点我直达" class="headerlink" title="有关于chi的小红包冒险 v.e.r. 2023(点我直达)"></a>有关于<a href="https://blog.chihuo2104.dev/posts/rb-2023">chi的小红包冒险 v.e.r. 2023(点我直达)</a></h3><p><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的这个小活动现已经（差不多）结束了。<br>我瞎解出来了<strong>quiz1&amp;2</strong>，共计收到了￥0.30。<br>在此谢谢<del>慷慨大方的</del><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>（x<br>来自<a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的 <em>官方</em> 的题解也即将公布，所以<strong>连蒙带猜</strong>的我的 <em>蒟蒻</em> 题解就不发了哈哈哈~</p>
+<p>正式题目有3道</p>
+<ul>
+<li><p><a href="https://rb.chihuo2104.dev/quiz1/"><strong>Quiz 1</strong> (点我直达)</a></p>
+</li>
+<li><p><a href="https://rb.chihuo2104.dev/9575566ef5933aee87ce1528ab8d53a40d479081405ec52c2e5c230619c3bb47b56bec4e0b446923a15d73279e6452373fef52ae36ddd354048822203bb57d63/"><strong>Quiz 2</strong> (点我直达)</a></p>
+</li>
+<li><p><a href="https://rb.chihuo2104.dev/qu3a09d0af3cc5b39dfbc81b43a34d67e68ce03/"><strong>Quiz 3</strong> (点我直达)</a></p>
+</li>
+</ul>
+<br>
+
+<h2 id="Muji的小碎碎念"><a href="#Muji的小碎碎念" class="headerlink" title="Muji的小碎碎念"></a>Muji的小碎碎念</h2><p>今年的<strong>春晚</strong>是真的一分钟没看。<br>正如<strong>豆瓣</strong>上的友邻所说的：</p>
+<blockquote>
+<p>总听到身边人说没什么坎儿是过不去的之类云云，以前不信，现在想想，中国人连春晚都看得下去，也确实是有够坚韧的</p>
+</blockquote>
+<p>明显的可以感觉到的是，<strong>春晚</strong>就是答辩。（确信<br>上个暑假应学校要求，做了一个社会调查，即是关于<strong>春晚</strong>的。以下便是那时候人们对春晚的意见的词云图之一：</p>
+<p><img data-src="https://ttfou.com/images/2023/01/22/fd05b701d5e43c58f4683189d5f6587b.png" alt="chunwan" title="chunwan"></p>
+<p><strong>不言而喻，一目了然</strong>，<br>貌似但凡是<strong>CCTV</strong>出品，最终定会变成答辩（</p>
+<h2 id="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"><a href="#谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨" class="headerlink" title="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"></a>谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨</h2><p>都看到这儿了，咋还不留个评论？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>祝福</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>节日</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>In Rememberance Of</title>
+    <url>/posts/47dfc91e/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
+<span id="more"></span>
+
+<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
+
+<center><font size="11"><b>1991 ~ 2023</b></font></center>
+
+<br>
+
+<center><b>R.I.P.</b></center>
+
+<hr>
+<br>
+
+<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -1185,6 +1254,36 @@
       </tags>
   </entry>
   <entry>
+    <title>从冒犯与被冒犯谈起</title>
+    <url>/posts/a4135b5b/</url>
+    <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p>
+<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p>
+<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p>
+<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p>
+<br>
+
+<h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br>
+
+<center><font size="8">烧吧！</font></center>  
+
+<br>
+
+<h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>EVA</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Otherwise My New Year Greetings</title>
     <url>/posts/4ac7f78/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
@@ -1272,75 +1371,6 @@
       </tags>
   </entry>
   <entry>
-    <title>In Rememberance Of</title>
-    <url>/posts/47dfc91e/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
-<span id="more"></span>
-
-<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
-
-<center><font size="11"><b>1991 ~ 2023</b></font></center>
-
-<br>
-
-<center><b>R.I.P.</b></center>
-
-<hr>
-<br>
-
-<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>纪念</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>🐇2023兔年快乐~</title>
-    <url>/posts/68b54462/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">🧨🐇兔年终于（要）来力🧨🐇</blockquote>  
-<span id="more"></span>
-
-<p>今天（指23.01.21）是<strong>大年三十</strong>。</p>
-<p>好吧。现在是<strong>大年初一</strong>力（这篇博文拖了一整（农历）年才写完（x</p>
-<p>首先，献上我最真挚的：</p>
-<h2 id="兔年🐇快乐"><a href="#兔年🐇快乐" class="headerlink" title="兔年🐇快乐~"></a>兔年🐇快乐~</h2><h3 id="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊"><a href="#放烟花鞭炮一定要好好放，放得开心嗷🧨🎊" class="headerlink" title="放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~"></a>放烟花鞭炮一定要好好放，放得开心嗷🧨🎊~~</h3><p>其实到这里，这篇小博文就可以结束了，但我<a href="https://mujitogawa.github.io/posts/db043193/">之前不是说过吗</a>，新的一年要少写氵文（。所以：</p>
-<h2 id="㊣篇（？开始"><a href="#㊣篇（？开始" class="headerlink" title="㊣篇（？开始"></a>㊣篇（？开始</h2><br>
-
-<h3 id="有关于chi的小红包冒险-v-e-r-2023-点我直达"><a href="#有关于chi的小红包冒险-v-e-r-2023-点我直达" class="headerlink" title="有关于chi的小红包冒险 v.e.r. 2023(点我直达)"></a>有关于<a href="https://blog.chihuo2104.dev/posts/rb-2023">chi的小红包冒险 v.e.r. 2023(点我直达)</a></h3><p><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的这个小活动现已经（差不多）结束了。<br>我瞎解出来了<strong>quiz1&amp;2</strong>，共计收到了￥0.30。<br>在此谢谢<del>慷慨大方的</del><a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>（x<br>来自<a href="https://blog.chihuo2104.dev/"><strong>Chihuo</strong></a>的 <em>官方</em> 的题解也即将公布，所以<strong>连蒙带猜</strong>的我的 <em>蒟蒻</em> 题解就不发了哈哈哈~</p>
-<p>正式题目有3道</p>
-<ul>
-<li><p><a href="https://rb.chihuo2104.dev/quiz1/"><strong>Quiz 1</strong> (点我直达)</a></p>
-</li>
-<li><p><a href="https://rb.chihuo2104.dev/9575566ef5933aee87ce1528ab8d53a40d479081405ec52c2e5c230619c3bb47b56bec4e0b446923a15d73279e6452373fef52ae36ddd354048822203bb57d63/"><strong>Quiz 2</strong> (点我直达)</a></p>
-</li>
-<li><p><a href="https://rb.chihuo2104.dev/qu3a09d0af3cc5b39dfbc81b43a34d67e68ce03/"><strong>Quiz 3</strong> (点我直达)</a></p>
-</li>
-</ul>
-<br>
-
-<h2 id="Muji的小碎碎念"><a href="#Muji的小碎碎念" class="headerlink" title="Muji的小碎碎念"></a>Muji的小碎碎念</h2><p>今年的<strong>春晚</strong>是真的一分钟没看。<br>正如<strong>豆瓣</strong>上的友邻所说的：</p>
-<blockquote>
-<p>总听到身边人说没什么坎儿是过不去的之类云云，以前不信，现在想想，中国人连春晚都看得下去，也确实是有够坚韧的</p>
-</blockquote>
-<p>明显的可以感觉到的是，<strong>春晚</strong>就是答辩。（确信<br>上个暑假应学校要求，做了一个社会调查，即是关于<strong>春晚</strong>的。以下便是那时候人们对春晚的意见的词云图之一：</p>
-<p><img data-src="https://ttfou.com/images/2023/01/22/fd05b701d5e43c58f4683189d5f6587b.png" alt="chunwan" title="chunwan"></p>
-<p><strong>不言而喻，一目了然</strong>，<br>貌似但凡是<strong>CCTV</strong>出品，最终定会变成答辩（</p>
-<h2 id="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"><a href="#谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨" class="headerlink" title="谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨"></a>谢谢你看完了这篇氵文（，欢迎交流评论加友链吖✨</h2><p>都看到这儿了，咋还不留个评论？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>祝福</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
@@ -1362,35 +1392,5 @@
       <categories>
         <category>Hello World</category>
       </categories>
-  </entry>
-  <entry>
-    <title>从冒犯与被冒犯谈起</title>
-    <url>/posts/a4135b5b/</url>
-    <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
-<span id="more"></span>
-
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p>
-<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p>
-<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p>
-<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p>
-<br>
-
-<h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br>
-
-<center><font size="8">烧吧！</font></center>  
-
-<br>
-
-<h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>EVA</tag>
-      </tags>
   </entry>
 </search>
