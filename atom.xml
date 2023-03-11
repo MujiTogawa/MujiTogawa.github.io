@@ -6,7 +6,7 @@
   <link href="https://mjt.asia/atom.xml" rel="self"/>
   
   <link href="https://mjt.asia/"/>
-  <updated>2023-02-24T13:17:10.022Z</updated>
+  <updated>2023-03-11T02:29:58.108Z</updated>
   <id>https://mjt.asia/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>『我主』复健Project</title>
+    <link href="https://mjt.asia/posts/2f5a1ac5/"/>
+    <id>https://mjt.asia/posts/2f5a1ac5/</id>
+    <published>2023-03-11T04:43:05.000Z</published>
+    <updated>2023-03-11T02:29:58.108Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;阳康许久后的（本学期）跑步复健计划&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Run" scheme="https://mjt.asia/categories/Run/"/>
+    
+    
+    <category term="跑步" scheme="https://mjt.asia/tags/%E8%B7%91%E6%AD%A5/"/>
+    
+    <category term="运动" scheme="https://mjt.asia/tags/%E8%BF%90%E5%8A%A8/"/>
+    
+    <category term="训练" scheme="https://mjt.asia/tags/%E8%AE%AD%E7%BB%83/"/>
+    
+    <category term="计划" scheme="https://mjt.asia/tags/%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="复健" scheme="https://mjt.asia/tags/%E5%A4%8D%E5%81%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>In Rememberance Of</title>
@@ -88,7 +115,7 @@
     <link href="https://mjt.asia/posts/a676ca7a/"/>
     <id>https://mjt.asia/posts/a676ca7a/</id>
     <published>2023-01-22T07:20:02.000Z</published>
-    <updated>2023-01-22T10:20:37.041Z</updated>
+    <updated>2023-03-11T02:09:54.052Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;简洁、高效、快速&lt;/strong&gt;！&lt;strong&gt;无需插件，无需编辑主题代码&lt;/strong&gt;！&lt;/p&gt;</summary>
@@ -198,9 +225,9 @@
     <category term="碎碎念" scheme="https://mjt.asia/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
-    <category term="Changelog" scheme="https://mjt.asia/tags/Changelog/"/>
-    
     <category term="Hexo" scheme="https://mjt.asia/tags/Hexo/"/>
+    
+    <category term="Changelog" scheme="https://mjt.asia/tags/Changelog/"/>
     
     <category term="Hexo-NexT" scheme="https://mjt.asia/tags/Hexo-NexT/"/>
     
