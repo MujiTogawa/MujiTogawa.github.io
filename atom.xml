@@ -225,9 +225,9 @@
     <category term="碎碎念" scheme="https://mjt.asia/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
-    <category term="Hexo" scheme="https://mjt.asia/tags/Hexo/"/>
-    
     <category term="Changelog" scheme="https://mjt.asia/tags/Changelog/"/>
+    
+    <category term="Hexo" scheme="https://mjt.asia/tags/Hexo/"/>
     
     <category term="Hexo-NexT" scheme="https://mjt.asia/tags/Hexo-NexT/"/>
     
