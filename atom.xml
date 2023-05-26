@@ -6,7 +6,7 @@
   <link href="https://mjt.asia/atom.xml" rel="self"/>
   
   <link href="https://mjt.asia/"/>
-  <updated>2023-05-12T13:06:59.598Z</updated>
+  <updated>2023-05-12T13:49:58.728Z</updated>
   <id>https://mjt.asia/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="https://mjt.asia/posts/c78afe72/"/>
     <id>https://mjt.asia/posts/c78afe72/</id>
     <published>2023-04-01T07:35:19.000Z</published>
-    <updated>2023-05-12T13:06:59.598Z</updated>
+    <updated>2023-05-12T13:49:58.728Z</updated>
     
     
     <summary type="html">&lt;center&gt;
 &lt;b&gt;Dio Magica&lt;/b&gt; 全专翻译
-&lt;img data-src=&quot;/images/post/magica/magicastory.gif&quot; width=&quot;494&quot; height=&quot;80/&quot;&gt;
+&lt;img data-src=&quot;/images/post/magica/magicastory.gif&quot; width=&quot;494&quot; height=&quot;80&quot; alt=&quot;magicastory&quot;&gt;
 &lt;/center&gt;</summary>
     
     
@@ -282,9 +282,9 @@
     
     <category term="碎碎念" scheme="https://mjt.asia/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
-    <category term="展望" scheme="https://mjt.asia/tags/%E5%B1%95%E6%9C%9B/"/>
-    
     <category term="总结" scheme="https://mjt.asia/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="展望" scheme="https://mjt.asia/tags/%E5%B1%95%E6%9C%9B/"/>
     
   </entry>
   
