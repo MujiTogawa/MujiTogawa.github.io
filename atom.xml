@@ -6,7 +6,7 @@
   <link href="https://mjt.asia/atom.xml" rel="self"/>
   
   <link href="https://mjt.asia/"/>
-  <updated>2023-05-12T13:49:58.728Z</updated>
+  <updated>2023-06-18T07:37:55.980Z</updated>
   <id>https://mjt.asia/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>地理必修一、二教材重点案例</title>
+    <link href="https://mjt.asia/posts/8e3fb02e/"/>
+    <id>https://mjt.asia/posts/8e3fb02e/</id>
+    <published>2023-06-18T07:03:57.000Z</published>
+    <updated>2023-06-18T07:37:55.980Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;地理学考临近，现将（人教版）地理必修一，必修二书中的重点案例提炼概括。以便复习使用。若有错误，还望指正！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://mjt.asia/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="高中地理" scheme="https://mjt.asia/tags/%E9%AB%98%E4%B8%AD%E5%9C%B0%E7%90%86/"/>
+    
+    <category term="学考" scheme="https://mjt.asia/tags/%E5%AD%A6%E8%80%83/"/>
+    
+    <category term="笔记整理" scheme="https://mjt.asia/tags/%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>「持续更新/专辑全译」Dio - Magica</title>
@@ -53,10 +76,15 @@
     <link href="https://mjt.asia/posts/2f5a1ac5/"/>
     <id>https://mjt.asia/posts/2f5a1ac5/</id>
     <published>2023-03-11T04:43:05.000Z</published>
-    <updated>2023-03-11T02:29:58.108Z</updated>
+    <updated>2023-06-18T07:29:46.878Z</updated>
     
     
-    <summary type="html">&lt;center&gt;阳康许久后的（本学期）跑步复健计划&lt;/center&gt;</summary>
+    <summary type="html">&lt;center&gt;阳康许久后的（本学期）跑步复健计划&lt;/center&gt;
+
+&lt;br&gt;
+
+&lt;div class=&quot;note info&quot;&gt;&lt;p&gt;参考 &lt;mark class=&quot;label info&quot;&gt;《丹尼尔斯经典跑步训练法》&lt;/mark&gt;和网络资料，并根据自身以及实际情况做出一定调整&lt;/p&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -147,7 +175,7 @@
     <link href="https://mjt.asia/posts/a676ca7a/"/>
     <id>https://mjt.asia/posts/a676ca7a/</id>
     <published>2023-01-22T07:20:02.000Z</published>
-    <updated>2023-05-12T13:43:20.081Z</updated>
+    <updated>2023-05-26T08:50:08.622Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;简洁、高效、快速&lt;/strong&gt;！&lt;strong&gt;无需插件，无需编辑主题代码&lt;/strong&gt;！&lt;/p&gt;</summary>
@@ -282,9 +310,9 @@
     
     <category term="碎碎念" scheme="https://mjt.asia/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
-    <category term="总结" scheme="https://mjt.asia/tags/%E6%80%BB%E7%BB%93/"/>
-    
     <category term="展望" scheme="https://mjt.asia/tags/%E5%B1%95%E6%9C%9B/"/>
+    
+    <category term="总结" scheme="https://mjt.asia/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
