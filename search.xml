@@ -245,7 +245,9 @@
       <tags>
         <tag>碎碎念</tag>
         <tag>展望</tag>
-        <tag>总结</tag>
+        <tag>年终总结</tag>
+        <tag>2023</tag>
+        <tag>2022</tag>
       </tags>
   </entry>
   <entry>
@@ -348,28 +350,6 @@
       </tags>
   </entry>
   <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
-<span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
-<hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
-<hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>Blog-Log</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在NexT主题下设置友链的一种高效方法</title>
     <url>/posts/a676ca7a/</url>
     <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
@@ -468,6 +448,28 @@
         <tag>Hexo</tag>
         <tag>NexT</tag>
         <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+<span id="more"></span>
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+<hr>
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<hr>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
       </tags>
   </entry>
   <entry>
@@ -1901,6 +1903,47 @@ $ *Kiwix* 应用界面
         <tag>Rock</tag>
         <tag>Heavy Metal</tag>
         <tag>专辑歌词翻译</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Byebye 2023(或 17岁再见)</title>
+    <url>/posts/ed8b190a/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">
+昔我往矣
+杨柳依依
+今我来思
+雨雪霏霏</blockquote>  
+<span id="more"></span>
+
+<h2 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h2><p>或许是年终总结。</p>
+<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><p>似水流年。<br>人一生只有一次17岁,而这是句让人感动的废话。这废话，就好像空无一物的天空中传来烟花的爆鸣，即将随着“2023+1=2024”这一数学符号的象征，永运地消逝在深邃的不为人知的蓝色之中。</p>
+<p>雨季不再来。<br>三毛的这本书让我感触最深的，现如今，竟是ta的标题，我一直相信着的，雨联结着天地，联结看时间与生死，雨幕使是漫漫岁月的记忆之桥。海子说的不错的，”雨是一生过错，雨是悲欢离合”。但在我摘录这句话时，外头却是久违的万里艳阳天。这是否又象征着什么，是否为这个陌生世界的不可言说的隐喻？名叫乌鸦的少年，又会给我指明方向吗？如此说来，成长似手是个不断失忆的过程。一点点地被蚕食，从未停歇。直至水滴石穿，我失去了我的一切，成为了崭新的人。像是海浪冲洗沙滩，准时而无情。</p>
+<div class="note info"><p>Mais la vie sépare ceux qui s’aiment,</p>
+<p>Tout doucement, sans faire de bruit</p>
+<p>Et la mer efface sur le sable</p>
+<p>Les pas des amants désunis.</p>
+<p><em>from the song</em> <mark class="label info"><strong>Les Feuilles Mortes</strong></mark></p>
+</div>
+
+<p>淹没在时间的海洋，记忆犹如气泡般涌现，上升，破灭。希腊神话中有着名为忘川的遗忘之河lethe。喝下河水便可以忘却世间的所有，乃至自我的真名。『天人五衰』的结尾，老尼聪子面对本多的讲述，却早已忘记俗世的恋人, 松枝清显的姓名。日光下渗，宁静的中庭，清冷在树木的脊梁间回荡…</p>
+<p>17岁所包含的，不只是 <strong>‘(0,17]’</strong>的前开后闭的范国集合。17所拥有的，只有17岁。仅此而已。而我已挥手自兹去，便也意味着摒弃了我的一切。如果这是场折磨人的旅程，那么我即将靠站，抵达终点。属于我的17岁话剧已然谢幕，你们请接着演</p>
+<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p><a href="https://mjt.asia/posts/b7a38911/#%E6%8A%80%E6%9C%AF">2023的计划</a>基本泡汤，跟浆糊一样。那么就展望未来，说说打算吧…<br>2024的blog更新频率应该可能会更低，但还是立个flag，尽量每个月一篇吧。主要还是会以随笔杂谈为主（我技术力太低了…）。<br>总之2024会，<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>。<br>但愿我能扛得住。<br>2023书看得比较杂，也不怎么多（相比之前）。影响比较大的有博尔赫斯，三岛由纪夫的小说，保罗·策兰的诗。2024读书估计会更少<br>音乐主要新接触了电子，虚拟歌姬，即兴，先锋实验爵士这些类别的音乐。日本上个世纪的地下音乐真是宝库。愿2024能“听”更多好音乐，做一个digger。<br>重新看Vtuber（指Gura）</p>
+<br>
+
+<p><img data-src="/images/post/bye2023/Gura.jpg" alt="Gura"></p>
+<p>以上，祝你<strong>新年快乐</strong></p>
+<h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><p>你还可能会对我友人的年度总结感兴趣：<br><a href="https://sekaimoe.dpkg123.site/end-of-2023/">SekaiMoe的2023</a><br><a href="https://blog.chihuo2104.dev/posts/goodbye-2023">2023年度总结(chihuo2104)</a><br><a href="https://blog.atri.tk/2023/my-2023/">我的 2023(Misaka13514)</a><br><a href="https://mzwing.eu.org/index.html?type=article&amp;filename=small-article-20231208.md">mzwing的2023小碎记</a></p>
+<h2 id="欢迎评论交流加友链"><a href="#欢迎评论交流加友链" class="headerlink" title="欢迎评论交流加友链"></a>欢迎评论交流加友链</h2><p>看完了文章，来评论一下吧</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>展望</tag>
+        <tag>年终总结</tag>
+        <tag>2023</tag>
+        <tag>2024</tag>
       </tags>
   </entry>
   <entry>

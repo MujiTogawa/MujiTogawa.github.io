@@ -6,7 +6,7 @@
   <link href="https://mjt.asia/atom.xml" rel="self"/>
   
   <link href="https://mjt.asia/"/>
-  <updated>2023-11-11T15:25:39.311Z</updated>
+  <updated>2024-01-07T09:23:40.534Z</updated>
   <id>https://mjt.asia/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Byebye 2023(或 17岁再见)</title>
+    <link href="https://mjt.asia/posts/ed8b190a/"/>
+    <id>https://mjt.asia/posts/ed8b190a/</id>
+    <published>2024-01-07T07:16:48.000Z</published>
+    <updated>2024-01-07T09:23:40.534Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
+昔我往矣
+杨柳依依
+今我来思
+雨雪霏霏&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://mjt.asia/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="碎碎念" scheme="https://mjt.asia/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="展望" scheme="https://mjt.asia/tags/%E5%B1%95%E6%9C%9B/"/>
+    
+    <category term="年终总结" scheme="https://mjt.asia/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="2023" scheme="https://mjt.asia/tags/2023/"/>
+    
+    <category term="2024" scheme="https://mjt.asia/tags/2024/"/>
+    
+  </entry>
   
   <entry>
     <title>关于宁外八一阳光体育改革的碎碎念</title>
@@ -325,7 +356,7 @@
     <link href="https://mjt.asia/posts/b7a38911/"/>
     <id>https://mjt.asia/posts/b7a38911/</id>
     <published>2022-12-31T23:58:56.000Z</published>
-    <updated>2023-05-12T13:40:34.844Z</updated>
+    <updated>2024-01-07T07:28:57.923Z</updated>
     
     
     <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇&lt;/blockquote&gt;</summary>
@@ -339,7 +370,11 @@
     
     <category term="展望" scheme="https://mjt.asia/tags/%E5%B1%95%E6%9C%9B/"/>
     
-    <category term="总结" scheme="https://mjt.asia/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="年终总结" scheme="https://mjt.asia/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="2023" scheme="https://mjt.asia/tags/2023/"/>
+    
+    <category term="2022" scheme="https://mjt.asia/tags/2022/"/>
     
   </entry>
   
