@@ -350,107 +350,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
-
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>3...2...1...FIRE!!!</title>
     <url>/posts/8cdc15a3/</url>
     <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
@@ -1081,6 +980,107 @@
       </tags>
   </entry>
   <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+<span id="more"></span>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
+<hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
+
+<br>
+
+<hr>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Bloglog 23 01 14</title>
     <url>/posts/db043193/</url>
     <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
@@ -1383,32 +1383,6 @@
       </tags>
   </entry>
   <entry>
-    <title>In Rememberance Of</title>
-    <url>/posts/47dfc91e/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
-<span id="more"></span>
-
-<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
-
-<center><font size="11"><b>1991 ~ 2023</b></font></center>
-
-<br>
-
-<center><b>R.I.P.</b></center>
-
-<hr>
-<br>
-
-<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>纪念</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Otherwise My New Year Greetings</title>
     <url>/posts/4ac7f78/</url>
     <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
@@ -1496,125 +1470,29 @@
       </tags>
   </entry>
   <entry>
-    <title>『我主』复健Project</title>
-    <url>/posts/2f5a1ac5/</url>
-    <content><![CDATA[<center>阳康许久后的（本学期）跑步复健计划</center>
-
-<br>
-
-<div class="note info"><p>参考 <mark class="label info">《丹尼尔斯经典跑步训练法》</mark>和网络资料，并根据自身以及实际情况做出一定调整</p>
-</div>
+    <title>In Rememberance Of</title>
+    <url>/posts/47dfc91e/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
 <span id="more"></span>
 
-<h2 id="预备-Getting-Started"><a href="#预备-Getting-Started" class="headerlink" title="预备 Getting Started"></a>预备 Getting Started</h2><br>
+<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
 
-<h3 id="作息"><a href="#作息" class="headerlink" title="作息"></a>作息</h3><ul>
-<li>早起早睡，注意夜间睡眠质量</li>
-<li>在强度组间应采取主动恢复</li>
-<li>睡眠常常被视为精英运动员最佳恢复手段，午饭后不再摄入咖啡因</li>
-<li>进步的最佳手段就是超量恢复</li>
-</ul>
-<h3 id="热身"><a href="#热身" class="headerlink" title="热身"></a>热身</h3><ul>
-<li>踝、膝、肩关节热身</li>
-<li>小腿、大腿、跨动态拉伸</li>
-<li>阳光体育（1.5k加速跑）</li>
-<li>平跑3圈（可选）</li>
-</ul>
-<h3 id="饮食"><a href="#饮食" class="headerlink" title="饮食"></a>饮食</h3><ul>
-<li>补糖：高糖碳水化合物，能量饮料，充能糖补剂等</li>
-<li>补蛋白质：牛奶，肉类，豆类，硬果类，蛋白粉，总和超体重（55kg x 2.5g=137.5g）</li>
-<li>补维生素：定期食用高剂量符合维生素矿物质片，多吃蔬菜</li>
-<li>补水：运动员体重（55kg x 2）x 20ml = 2.2L 运动后补充损失体重的150%-200%<ul>
-<li>每隔15分钟分次补充</li>
-</ul>
-</li>
-<li>补充时间：运动后30-60分钟吸收效率最高</li>
-<li>恢复期间禁止摄入咖啡因，会增加电解质流失</li>
-</ul>
-<h3 id="拉伸"><a href="#拉伸" class="headerlink" title="拉伸"></a>拉伸</h3><ul>
-<li>持续时间：15-30s</li>
-<li>重复次数：1-3次，先轮换机群后重复</li>
-<li>避免需要高水平肌力训练前拉伸，也避免对延迟肌肉酸痛肌群拉伸</li>
-<li>肌肉没有活动时禁止大幅度拉伸</li>
-<li>拉伸时避免肌肉处于高度收缩的姿势</li>
-<li>不宜在大强度运动或比赛后立即拉伸</li>
-</ul>
-<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ul>
-<li>一个月为一个周期，前三星期为训练周期，第四星期为调整周期</li>
-</ul>
+<center><font size="11"><b>1991 ~ 2023</b></font></center>
+
 <br>
+
+<center><b>R.I.P.</b></center>
 
 <hr>
-<h2 id="训练（红色计划）"><a href="#训练（红色计划）" class="headerlink" title="训练（红色计划）"></a>训练（红色计划）</h2><br>
-
-<div class="note info"><p>每周训练3天（暂定为：日、一、三）</p>
-</div>
-
-<h3 id="第：1到4周"><a href="#第：1到4周" class="headerlink" title="第：1到4周"></a>第：1到4周</h3><ul>
-<li>Day1:  15min-E + 4ST [Per Break: 1min]</li>
-<li>Day2:  8min-E + 1K x 3 [Pace: T, Per Break: W-1min] + 8min-E</li>
-<li>Day3:  8min-E + 0.8K x 5 [Pace: T, Per Break: W-1min] + 8min-E</li>
-</ul>
-<h3 id="第：5到8周"><a href="#第：5到8周" class="headerlink" title="第：5到8周"></a>第：5到8周</h3><ul>
-<li>Day1:  15min-E + 4ST [Per Break: 1min]</li>
-<li>Day2:  8min-E + 2.4K [Pace: T] + Rest-2min +1.2K [Pace: T] + 8min-E</li>
-<li>Day3:  8min-E + 1.2K x 2 + 1K x 2 [Pace: T, Per Break: W-1min]</li>
-</ul>
-<h3 id="第：9到12周"><a href="#第：9到12周" class="headerlink" title="第：9到12周"></a>第：9到12周</h3><ul>
-<li>Day1:  20min-E + 4ST [Per Break: 1min]</li>
-<li>Day2:  8min-E + 4ST + 4 x 2min-H [Per Break: W-2min] + 8min-E</li>
-<li>Day3:  8min-E + 15min / 3.2K [Pace: T-constant] + 8min-E</li>
-</ul>
-<h3 id="名词解释"><a href="#名词解释" class="headerlink" title="名词解释"></a>名词解释</h3><p>E：轻松跑。- 能以此配速舒服地跑很久。例：8min-E = 为期8分钟的轻松跑。</p>
-<p>ST：跨步跑。- 轻量的20秒快跑（非冲刺跑）。例：4ST = 四趟跨步跑</p>
-<p>K：千米。例：0.8K = 0.8km；1K x 3 = 三趟1km</p>
-<p>Pace: T：乳酸门槛跑配速。- 相对舒适的较吃力配速。（constant：定速跑）</p>
-<p>Per Break：每趟间休息。</p>
-<p>W：走路。例：W-2min = 走2分钟</p>
-<p>H：艰苦跑。- 大概为间歇跑配速。例：4 x 2min-H = 四组为期2分钟的艰苦跑</p>
-<p>Rest：休息。</p>
-<hr>
-<h2 id="欢迎交流评论加友链"><a href="#欢迎交流评论加友链" class="headerlink" title="欢迎交流评论加友链~"></a>欢迎交流评论加友链~</h2><p>都看到这儿了，不来谈谈你的看法？👇</p>
-]]></content>
-      <categories>
-        <category>Run</category>
-      </categories>
-      <tags>
-        <tag>跑步</tag>
-        <tag>运动</tag>
-        <tag>训练</tag>
-        <tag>计划</tag>
-        <tag>复健</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>从冒犯与被冒犯谈起</title>
-    <url>/posts/a4135b5b/</url>
-    <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
-<span id="more"></span>
-
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p>
-<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p>
-<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p>
-<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p>
 <br>
 
-<h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br>
-
-<center><font size="8">烧吧！</font></center>  
-
-<br>
-
-<h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>
-]]></content>
+<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
       <categories>
         <category>碎碎念</category>
-        <category>随笔</category>
       </categories>
       <tags>
         <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>EVA</tag>
+        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -1716,29 +1594,95 @@ $ *Kiwix* 应用界面
       </tags>
   </entry>
   <entry>
-    <title>人皆有不忍人之心</title>
-    <url>/posts/9d747d45/</url>
-    <content><![CDATA[<center>这是一篇许久之前的（考场）作文，由我的好友<b>Hans</b>写就。经我润色后呈现在诸君面前。</center>
+    <title>『我主』复健Project</title>
+    <url>/posts/2f5a1ac5/</url>
+    <content><![CDATA[<center>阳康许久后的（本学期）跑步复健计划</center>
+
+<br>
+
+<div class="note info"><p>参考 <mark class="label info">《丹尼尔斯经典跑步训练法》</mark>和网络资料，并根据自身以及实际情况做出一定调整</p>
+</div>
 <span id="more"></span>
 
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我平生一直在不忍人，因为我是人，所以人皆有不忍人之心。</p>
-<p>但是“我”只是一个人，何来“人皆有”之说呢？那么我就要对诸君说：我确乎是个唯心主义的人。</p>
-<p>埃尔德·曼同志曾说过，“人是唯心的，不是唯心主义的都不是人”。虽然我不认同，但是这句话还是精妙的，可以时不时拿出来提一两句或议论一二。比如说分析埃·尔德曼同志的处世为人啊，或者比如这里拿来荒谬地佐证一个荒谬的道理。有的人文章读得快，一眼瞟过去不加思索，看到一句埃尔德·曼同志的议论，大概也会十分认同然后装进脑子吧。这样的人真是可怜，脑于里装了乱七八糟的东西，遂形成了一个乱七八糟的世界观。再按照这个世界观去办事，也就办得乱七八糟。作为一个“不忍者”，我免不了对于这种人，同情得“五体投地”。</p>
-<p>但是更进一步讲，既然埃尔德·曼同志的道理是荒谬的，那引用论证的对象毫无疑问——肯定是荒谬的。而这对象的载体是我写的文章，那么就是说，本文的观点与内容亦是荒谬无疑的。可是有一点要明确，我平生一直在不忍人。比方说我现在就忍受不了还在于阅读此文的人。抱歉占用了诸君并不宝贵的时间，这篇文章固然荒谬，但是世上荒谬文章太多了。我见过的许多文章，都在用着荒谬的事例论证一个个虚无的思想。比方说有人写道“大鹏能够飞多远，他就能飞多远”，“两点是有重点的两点，重点是两点中的重点”又或者“金羊毛是奥林匹斯山上众神落在人间的宝物，那么这就是梦想…”诸如此类有很多，太多了。有的人读了这样的文章，还认真地做了笔记，是这样的，我对此万分不忍。因为即将发生一件事，那就是读了这样祸害人的荒谬文章的人，还要学习如何去写这样的荒谬文章，以便让更多的人知道八大山人是哪八大。这样多可怕，我作为一个不忍者，自然会不忍于他们的遭遇。但是说到头来，无论如何，我除了“不忍”一无所有。</p>
-<p>至此，如诸君所见，这已经是一篇完完全全荒谬的文章了，再写一个烂透了的结尾也无所谓了。</p>
-<p><strong>那么这就是结尾。</strong></p>
-<h2 id="附：作文题"><a href="#附：作文题" class="headerlink" title="附：作文题"></a>附：作文题</h2><blockquote class="blockquote-center">本单元课文中有不少经典语句，虽然产生在两千多年前，但至今仍然闪烁着智慧的光辉，给我们人生的启迪；有些语句在新的时代下又可以辩证思考，从新的角度作出辨析或阐释。从下列语句中任选其一，也可以从本单元课文中另选一句，准确理解思想内容，自选角度，自定立意，写一篇不少于800字的文章，阐述你的认识或思考，题目自拟</blockquote>
+<h2 id="预备-Getting-Started"><a href="#预备-Getting-Started" class="headerlink" title="预备 Getting Started"></a>预备 Getting Started</h2><br>
 
-<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2>]]></content>
+<h3 id="作息"><a href="#作息" class="headerlink" title="作息"></a>作息</h3><ul>
+<li>早起早睡，注意夜间睡眠质量</li>
+<li>在强度组间应采取主动恢复</li>
+<li>睡眠常常被视为精英运动员最佳恢复手段，午饭后不再摄入咖啡因</li>
+<li>进步的最佳手段就是超量恢复</li>
+</ul>
+<h3 id="热身"><a href="#热身" class="headerlink" title="热身"></a>热身</h3><ul>
+<li>踝、膝、肩关节热身</li>
+<li>小腿、大腿、跨动态拉伸</li>
+<li>阳光体育（1.5k加速跑）</li>
+<li>平跑3圈（可选）</li>
+</ul>
+<h3 id="饮食"><a href="#饮食" class="headerlink" title="饮食"></a>饮食</h3><ul>
+<li>补糖：高糖碳水化合物，能量饮料，充能糖补剂等</li>
+<li>补蛋白质：牛奶，肉类，豆类，硬果类，蛋白粉，总和超体重（55kg x 2.5g=137.5g）</li>
+<li>补维生素：定期食用高剂量符合维生素矿物质片，多吃蔬菜</li>
+<li>补水：运动员体重（55kg x 2）x 20ml = 2.2L 运动后补充损失体重的150%-200%<ul>
+<li>每隔15分钟分次补充</li>
+</ul>
+</li>
+<li>补充时间：运动后30-60分钟吸收效率最高</li>
+<li>恢复期间禁止摄入咖啡因，会增加电解质流失</li>
+</ul>
+<h3 id="拉伸"><a href="#拉伸" class="headerlink" title="拉伸"></a>拉伸</h3><ul>
+<li>持续时间：15-30s</li>
+<li>重复次数：1-3次，先轮换机群后重复</li>
+<li>避免需要高水平肌力训练前拉伸，也避免对延迟肌肉酸痛肌群拉伸</li>
+<li>肌肉没有活动时禁止大幅度拉伸</li>
+<li>拉伸时避免肌肉处于高度收缩的姿势</li>
+<li>不宜在大强度运动或比赛后立即拉伸</li>
+</ul>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ul>
+<li>一个月为一个周期，前三星期为训练周期，第四星期为调整周期</li>
+</ul>
+<br>
+
+<hr>
+<h2 id="训练（红色计划）"><a href="#训练（红色计划）" class="headerlink" title="训练（红色计划）"></a>训练（红色计划）</h2><br>
+
+<div class="note info"><p>每周训练3天（暂定为：日、一、三）</p>
+</div>
+
+<h3 id="第：1到4周"><a href="#第：1到4周" class="headerlink" title="第：1到4周"></a>第：1到4周</h3><ul>
+<li>Day1:  15min-E + 4ST [Per Break: 1min]</li>
+<li>Day2:  8min-E + 1K x 3 [Pace: T, Per Break: W-1min] + 8min-E</li>
+<li>Day3:  8min-E + 0.8K x 5 [Pace: T, Per Break: W-1min] + 8min-E</li>
+</ul>
+<h3 id="第：5到8周"><a href="#第：5到8周" class="headerlink" title="第：5到8周"></a>第：5到8周</h3><ul>
+<li>Day1:  15min-E + 4ST [Per Break: 1min]</li>
+<li>Day2:  8min-E + 2.4K [Pace: T] + Rest-2min +1.2K [Pace: T] + 8min-E</li>
+<li>Day3:  8min-E + 1.2K x 2 + 1K x 2 [Pace: T, Per Break: W-1min]</li>
+</ul>
+<h3 id="第：9到12周"><a href="#第：9到12周" class="headerlink" title="第：9到12周"></a>第：9到12周</h3><ul>
+<li>Day1:  20min-E + 4ST [Per Break: 1min]</li>
+<li>Day2:  8min-E + 4ST + 4 x 2min-H [Per Break: W-2min] + 8min-E</li>
+<li>Day3:  8min-E + 15min / 3.2K [Pace: T-constant] + 8min-E</li>
+</ul>
+<h3 id="名词解释"><a href="#名词解释" class="headerlink" title="名词解释"></a>名词解释</h3><p>E：轻松跑。- 能以此配速舒服地跑很久。例：8min-E = 为期8分钟的轻松跑。</p>
+<p>ST：跨步跑。- 轻量的20秒快跑（非冲刺跑）。例：4ST = 四趟跨步跑</p>
+<p>K：千米。例：0.8K = 0.8km；1K x 3 = 三趟1km</p>
+<p>Pace: T：乳酸门槛跑配速。- 相对舒适的较吃力配速。（constant：定速跑）</p>
+<p>Per Break：每趟间休息。</p>
+<p>W：走路。例：W-2min = 走2分钟</p>
+<p>H：艰苦跑。- 大概为间歇跑配速。例：4 x 2min-H = 四组为期2分钟的艰苦跑</p>
+<p>Rest：休息。</p>
+<hr>
+<h2 id="欢迎交流评论加友链"><a href="#欢迎交流评论加友链" class="headerlink" title="欢迎交流评论加友链~"></a>欢迎交流评论加友链~</h2><p>都看到这儿了，不来谈谈你的看法？👇</p>
+]]></content>
       <categories>
-        <category>碎碎念</category>
-        <category>随笔</category>
+        <category>Run</category>
       </categories>
       <tags>
-        <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>Hans</tag>
-        <tag>忍者</tag>
+        <tag>跑步</tag>
+        <tag>运动</tag>
+        <tag>训练</tag>
+        <tag>计划</tag>
+        <tag>复健</tag>
       </tags>
   </entry>
   <entry>
@@ -1962,29 +1906,6 @@ $ *Kiwix* 应用界面
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/4a17b156/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
-<span id="more"></span>
-<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Hello World</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Byebye 2023(或 17岁再见)</title>
     <url>/posts/ed8b190a/</url>
     <content><![CDATA[<blockquote class="blockquote-center">
@@ -2023,6 +1944,85 @@ $ *Kiwix* 应用界面
         <tag>年终总结</tag>
         <tag>2023</tag>
         <tag>2024</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从冒犯与被冒犯谈起</title>
+    <url>/posts/a4135b5b/</url>
+    <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p>
+<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p>
+<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p>
+<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p>
+<br>
+
+<h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br>
+
+<center><font size="8">烧吧！</font></center>  
+
+<br>
+
+<h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>EVA</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/4a17b156/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
+<span id="more"></span>
+<p>Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Hello World</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>人皆有不忍人之心</title>
+    <url>/posts/9d747d45/</url>
+    <content><![CDATA[<center>这是一篇许久之前的（考场）作文，由我的好友<b>Hans</b>写就。经我润色后呈现在诸君面前。</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我平生一直在不忍人，因为我是人，所以人皆有不忍人之心。</p>
+<p>但是“我”只是一个人，何来“人皆有”之说呢？那么我就要对诸君说：我确乎是个唯心主义的人。</p>
+<p>埃尔德·曼同志曾说过，“人是唯心的，不是唯心主义的都不是人”。虽然我不认同，但是这句话还是精妙的，可以时不时拿出来提一两句或议论一二。比如说分析埃·尔德曼同志的处世为人啊，或者比如这里拿来荒谬地佐证一个荒谬的道理。有的人文章读得快，一眼瞟过去不加思索，看到一句埃尔德·曼同志的议论，大概也会十分认同然后装进脑子吧。这样的人真是可怜，脑于里装了乱七八糟的东西，遂形成了一个乱七八糟的世界观。再按照这个世界观去办事，也就办得乱七八糟。作为一个“不忍者”，我免不了对于这种人，同情得“五体投地”。</p>
+<p>但是更进一步讲，既然埃尔德·曼同志的道理是荒谬的，那引用论证的对象毫无疑问——肯定是荒谬的。而这对象的载体是我写的文章，那么就是说，本文的观点与内容亦是荒谬无疑的。可是有一点要明确，我平生一直在不忍人。比方说我现在就忍受不了还在于阅读此文的人。抱歉占用了诸君并不宝贵的时间，这篇文章固然荒谬，但是世上荒谬文章太多了。我见过的许多文章，都在用着荒谬的事例论证一个个虚无的思想。比方说有人写道“大鹏能够飞多远，他就能飞多远”，“两点是有重点的两点，重点是两点中的重点”又或者“金羊毛是奥林匹斯山上众神落在人间的宝物，那么这就是梦想…”诸如此类有很多，太多了。有的人读了这样的文章，还认真地做了笔记，是这样的，我对此万分不忍。因为即将发生一件事，那就是读了这样祸害人的荒谬文章的人，还要学习如何去写这样的荒谬文章，以便让更多的人知道八大山人是哪八大。这样多可怕，我作为一个不忍者，自然会不忍于他们的遭遇。但是说到头来，无论如何，我除了“不忍”一无所有。</p>
+<p>至此，如诸君所见，这已经是一篇完完全全荒谬的文章了，再写一个烂透了的结尾也无所谓了。</p>
+<p><strong>那么这就是结尾。</strong></p>
+<h2 id="附：作文题"><a href="#附：作文题" class="headerlink" title="附：作文题"></a>附：作文题</h2><blockquote class="blockquote-center">本单元课文中有不少经典语句，虽然产生在两千多年前，但至今仍然闪烁着智慧的光辉，给我们人生的启迪；有些语句在新的时代下又可以辩证思考，从新的角度作出辨析或阐释。从下列语句中任选其一，也可以从本单元课文中另选一句，准确理解思想内容，自选角度，自定立意，写一篇不少于800字的文章，阐述你的认识或思考，题目自拟</blockquote>
+
+<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2>]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>Hans</tag>
+        <tag>忍者</tag>
       </tags>
   </entry>
   <entry>
