@@ -6,7 +6,7 @@
   <link href="https://mjt.asia/atom.xml" rel="self"/>
   
   <link href="https://mjt.asia/"/>
-  <updated>2024-01-27T05:47:02.763Z</updated>
+  <updated>2024-02-08T15:08:20.810Z</updated>
   <id>https://mjt.asia/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>埃尔德·曼</title>
+    <link href="https://mjt.asia/posts/63d7faae/"/>
+    <id>https://mjt.asia/posts/63d7faae/</id>
+    <published>2024-02-07T04:06:59.000Z</published>
+    <updated>2024-02-08T15:08:20.810Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;&lt;b&gt;Hans&lt;/b&gt;的那篇文章（上一篇博文）让我产生了微妙的灵感，遂有了这篇短篇小说&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://mjt.asia/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="碎碎念" scheme="https://mjt.asia/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    <category term="随笔" scheme="https://mjt.asia/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="埃尔德·曼" scheme="https://mjt.asia/tags/%E5%9F%83%E5%B0%94%E5%BE%B7%C2%B7%E6%9B%BC/"/>
+    
+    <category term="小说" scheme="https://mjt.asia/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>人皆有不忍人之心</title>
     <link href="https://mjt.asia/posts/9d747d45/"/>
     <id>https://mjt.asia/posts/9d747d45/</id>
     <published>2024-01-27T05:22:45.000Z</published>
-    <updated>2024-01-27T05:47:02.763Z</updated>
+    <updated>2024-02-04T07:45:06.895Z</updated>
     
     
     <summary type="html">&lt;center&gt;这是一篇许久之前的（考场）作文，由我的好友&lt;b&gt;Hans&lt;/b&gt;写就。经我润色后呈现在诸君面前。&lt;/center&gt;</summary>
@@ -48,7 +73,7 @@
     <link href="https://mjt.asia/posts/ed8b190a/"/>
     <id>https://mjt.asia/posts/ed8b190a/</id>
     <published>2024-01-07T07:16:48.000Z</published>
-    <updated>2024-01-07T09:23:40.534Z</updated>
+    <updated>2024-02-08T15:04:22.127Z</updated>
     
     
     <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
@@ -370,9 +395,9 @@
     <category term="碎碎念" scheme="https://mjt.asia/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
-    <category term="Hexo" scheme="https://mjt.asia/tags/Hexo/"/>
-    
     <category term="Changelog" scheme="https://mjt.asia/tags/Changelog/"/>
+    
+    <category term="Hexo" scheme="https://mjt.asia/tags/Hexo/"/>
     
     <category term="Hexo-NexT" scheme="https://mjt.asia/tags/Hexo-NexT/"/>
     

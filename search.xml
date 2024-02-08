@@ -251,28 +251,6 @@
       </tags>
   </entry>
   <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
-<span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
-<hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
-<hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>Blog-Log</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>已经过去的一月的小结</title>
     <url>/posts/75ee39bd/</url>
     <content><![CDATA[<center>抓住冬天的小尾巴~</center>
@@ -372,104 +350,25 @@
       </tags>
   </entry>
   <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
 <span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
 <hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
-
-<br>
-
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
 <hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
 ]]></content>
       <categories>
-        <category>教程向</category>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
       </tags>
   </entry>
   <entry>
@@ -1081,29 +980,135 @@
       </tags>
   </entry>
   <entry>
-    <title>In Rememberance Of</title>
-    <url>/posts/47dfc91e/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
+    <title>Bloglog 23 01 14</title>
+    <url>/posts/db043193/</url>
+    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
 <span id="more"></span>
 
-<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
+<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
 
-<center><font size="11"><b>1991 ~ 2023</b></font></center>
-
-<br>
-
-<center><b>R.I.P.</b></center>
+<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
+<ul>
+<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
+<li>之前的单独为篇的Bloglog悉已删除</li>
+<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
+</ul>
+</details>
 
 <hr>
 <br>
 
-<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
+<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
+<hr>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
       <categories>
         <category>碎碎念</category>
       </categories>
       <tags>
-        <tag>碎碎念</tag>
-        <tag>纪念</tag>
+        <tag>Changelog</tag>
+        <tag>Hexo</tag>
+        <tag>Hexo-NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+<span id="more"></span>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
+<hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
+
+<br>
+
+<hr>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
       </tags>
   </entry>
   <entry>
@@ -1378,34 +1383,29 @@
       </tags>
   </entry>
   <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
+    <title>In Rememberance Of</title>
+    <url>/posts/47dfc91e/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
 <span id="more"></span>
 
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
+<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
 
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
+<center><font size="11"><b>1991 ~ 2023</b></font></center>
+
+<br>
+
+<center><b>R.I.P.</b></center>
 
 <hr>
 <br>
 
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
       <categories>
         <category>碎碎念</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>Changelog</tag>
-        <tag>Hexo-NexT</tag>
+        <tag>碎碎念</tag>
+        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -1686,47 +1686,6 @@ $ *Kiwix* 应用界面
       </tags>
   </entry>
   <entry>
-    <title>Byebye 2023(或 17岁再见)</title>
-    <url>/posts/ed8b190a/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">
-昔我往矣
-杨柳依依
-今我来思
-雨雪霏霏</blockquote>  
-<span id="more"></span>
-
-<h2 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h2><p>或许是年终总结。</p>
-<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><p>似水流年。<br>人一生只有一次17岁,而这是句让人感动的废话。这废话，就好像空无一物的天空中传来烟花的爆鸣，即将随着“2023+1=2024”这一数学符号的象征，永运地消逝在深邃的不为人知的蓝色之中。</p>
-<p>雨季不再来。<br>三毛的这本书让我感触最深的，现如今，竟是ta的标题，我一直相信着的，雨联结着天地，联结看时间与生死，雨幕使是漫漫岁月的记忆之桥。海子说的不错的，”雨是一生过错，雨是悲欢离合”。但在我摘录这句话时，外头却是久违的万里艳阳天。这是否又象征着什么，是否为这个陌生世界的不可言说的隐喻？名叫乌鸦的少年，又会给我指明方向吗？如此说来，成长似手是个不断失忆的过程。一点点地被蚕食，从未停歇。直至水滴石穿，我失去了我的一切，成为了崭新的人。像是海浪冲洗沙滩，准时而无情。</p>
-<div class="note info"><p>Mais la vie sépare ceux qui s’aiment,</p>
-<p>Tout doucement, sans faire de bruit</p>
-<p>Et la mer efface sur le sable</p>
-<p>Les pas des amants désunis.</p>
-<p><em>from the song</em> <mark class="label info"><strong>Les Feuilles Mortes</strong></mark></p>
-</div>
-
-<p>淹没在时间的海洋，记忆犹如气泡般涌现，上升，破灭。希腊神话中有着名为忘川的遗忘之河lethe。喝下河水便可以忘却世间的所有，乃至自我的真名。『天人五衰』的结尾，老尼聪子面对本多的讲述，却早已忘记俗世的恋人, 松枝清显的姓名。日光下渗，宁静的中庭，清冷在树木的脊梁间回荡…</p>
-<p>17岁所包含的，不只是 <strong>‘(0,17]’</strong>的前开后闭的范国集合。17所拥有的，只有17岁。仅此而已。而我已挥手自兹去，便也意味着摒弃了我的一切。如果这是场折磨人的旅程，那么我即将靠站，抵达终点。属于我的17岁话剧已然谢幕，你们请接着演</p>
-<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p><a href="https://mjt.asia/posts/b7a38911/#%E6%8A%80%E6%9C%AF">2023的计划</a>基本泡汤，跟浆糊一样。那么就展望未来，说说打算吧…<br>2024的blog更新频率应该可能会更低，但还是立个flag，尽量每个月一篇吧。主要还是会以随笔杂谈为主（我技术力太低了…）。<br>总之2024会，<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>。<br>但愿我能扛得住。<br>2023书看得比较杂，也不怎么多（相比之前）。影响比较大的有博尔赫斯，三岛由纪夫的小说，保罗·策兰的诗。2024读书估计会更少<br>音乐主要新接触了电子，虚拟歌姬，即兴，先锋实验爵士这些类别的音乐。日本上个世纪的地下音乐真是宝库。愿2024能“听”更多好音乐，做一个digger。<br>重新看Vtuber（指Gura）</p>
-<br>
-
-<p><img data-src="/images/post/bye2023/Gura.jpg" alt="Gura"></p>
-<p>以上，祝你<strong>新年快乐</strong></p>
-<h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><p>你还可能会对我友人的年度总结感兴趣：<br><a href="https://sekaimoe.dpkg123.site/end-of-2023/">SekaiMoe的2023</a><br><a href="https://blog.chihuo2104.dev/posts/goodbye-2023">2023年度总结(chihuo2104)</a><br><a href="https://blog.atri.tk/2023/my-2023/">我的 2023(Misaka13514)</a><br><a href="https://mzwing.eu.org/index.html?type=article&amp;filename=small-article-20231208.md">mzwing的2023小碎记</a></p>
-<h2 id="欢迎评论交流加友链"><a href="#欢迎评论交流加友链" class="headerlink" title="欢迎评论交流加友链"></a>欢迎评论交流加友链</h2><p>看完了文章，来评论一下吧</p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>展望</tag>
-        <tag>年终总结</tag>
-        <tag>2023</tag>
-        <tag>2024</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>「持续更新/专辑全译」Dio - Magica</title>
     <url>/posts/c78afe72/</url>
     <content><![CDATA[<center>
@@ -1947,6 +1906,66 @@ $ *Kiwix* 应用界面
       </tags>
   </entry>
   <entry>
+    <title>Byebye 2023(或 17岁再见)</title>
+    <url>/posts/ed8b190a/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">
+昔我往矣
+杨柳依依
+今我来思
+雨雪霏霏</blockquote>  
+<span id="more"></span>
+
+<h2 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h2><p>或许是年终总结。</p>
+<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><p>似水流年。<br>人一生只有一次17岁,而这是句让人感动的废话。这废话，就好像空无一物的天空中传来烟花的爆鸣，即将随着“2023+1=2024”这一数学符号的象征，永运地消逝在深邃的不为人知的蓝色之中。</p>
+<p>雨季不再来。<br>三毛的这本书让我感触最深的，现如今，竟是ta的标题，我一直相信着的，雨联结着天地，联结看时间与生死，雨幕使是漫漫岁月的记忆之桥。海子说的不错的，”雨是一生过错，雨是悲欢离合”。但在我摘录这句话时，外头却是久违的万里艳阳天。这是否又象征着什么，是否为这个陌生世界的不可言说的隐喻？名叫乌鸦的少年，又会给我指明方向吗？如此说来，成长似手是个不断失忆的过程。一点点地被蚕食，从未停歇。直至水滴石穿，我失去了我的一切，成为了崭新的人。像是海浪冲洗沙滩，准时而无情。</p>
+<div class="note info"><p>Mais la vie sépare ceux qui s’aiment,</p>
+<p>Tout doucement, sans faire de bruit</p>
+<p>Et la mer efface sur le sable</p>
+<p>Les pas des amants désunis.</p>
+<p><em>from the song</em> <mark class="label info"><strong>Les Feuilles Mortes</strong></mark></p>
+</div>
+
+<p>淹没在时间的海洋，记忆犹如气泡般涌现，上升，破灭。希腊神话中有着名为忘川的遗忘之河lethe。喝下河水便可以忘却世间的所有，乃至自我的真名。『天人五衰』的结尾，老尼聪子面对本多的讲述，却早已忘记俗世的恋人, 松枝清显的姓名。日光下渗，宁静的中庭，清冷在树木的脊梁间回荡…</p>
+<p>17岁所包含的，不只是 <strong>‘(0,17]’</strong>的前开后闭的范国集合。17所拥有的，只有17岁。仅此而已。而我已挥手自兹去，便也意味着摒弃了我的一切。如果这是场折磨人的旅程，那么我即将靠站，抵达终点。属于我的17岁话剧已然谢幕，你们请接着演</p>
+<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p><a href="https://mjt.asia/posts/b7a38911/#%E6%8A%80%E6%9C%AF">2023的计划</a>基本泡汤，跟浆糊一样。那么就展望未来，说说打算吧…<br>2024的blog更新频率应该可能会更低，但还是立个flag，尽量每个月一篇吧。主要还是会以随笔杂谈为主（我技术力太低了…）。<br>总之2024会，<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>。<br>但愿我能扛得住。<br>2023书看得比较杂，也不怎么多（相比之前）。影响比较大的有博尔赫斯，三岛由纪夫的小说，保罗·策兰的诗。2024读书估计会更少<br>音乐主要新接触了电子，虚拟歌姬，即兴，先锋实验爵士这些类别的音乐。日本上个世纪的地下音乐真是宝库。愿2024能“听”更多好音乐，做一个digger。<br>重新看Vtuber（指Gura）</p>
+<br>
+
+<p><img data-src="/images/post/bye2023/Gura.jpg" alt="Gura"></p>
+<p>以上，祝你<strong>新年快乐</strong></p>
+<h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><p>你还可能会对我友人的年度总结感兴趣：<br><a href="https://sekaimoe.dpkg123.site/end-of-2023/">SekaiMoe的2023</a><br><a href="https://blog.chihuo2104.dev/posts/goodbye-2023">2023年度总结(chihuo2104)</a><br><a href="https://blog.atri.tk/2023/my-2023/">我的 2023(Misaka13514)</a><br><a href="https://mzwing.eu.org/index.html?type=article&amp;filename=small-article-20231208.md">mzwing的2023小碎记</a><br><a href="https://nekomoe.xyz/index.html?type=article&amp;filename=my-2023.md">我的 2023(Baiyuanneko)</a><br><a href="https://blog.mk1.io/posts/bye-2023">迟来了一个月的 2023 年度总结 + 2024 新年快乐！(so1ve A.K.A.Ray)</a><br><a href="https://koishi514.moe/blog/bbg/index.html?type=article&amp;filename=s5e6TSCZKQXW.md">我的2023年终总结(SCI)</a></p>
+<h2 id="欢迎评论交流加友链"><a href="#欢迎评论交流加友链" class="headerlink" title="欢迎评论交流加友链"></a>欢迎评论交流加友链</h2><p>看完了文章，来评论一下吧</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>展望</tag>
+        <tag>年终总结</tag>
+        <tag>2023</tag>
+        <tag>2024</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>埃尔德·曼</title>
+    <url>/posts/63d7faae/</url>
+    <content><![CDATA[<center><b>Hans</b>的那篇文章（上一篇博文）让我产生了微妙的灵感，遂有了这篇短篇小说</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我曾见过你，三十多年前，就在这里<br>他趴在地上，衣物如布条般破烂不堪。我在梦中与他相会。<br>我从口袋里掏出一枚硬币，两面都是头像。<br>我在做梦<br>这你再清楚不过了<br>他的嘴唇依然紧闭，言语直达我的脑海。我这才意识到和他一样，我也设说过一句话。名为语言的声音在这里失去了意义，只有被压缩的静寂守候着，悄然蚕食一切。<br>我在做梦，而我梦见了你——或者说是你梦见了我。你说这是与我第二次会面，但我记忆中并没有你的印象。事实上三十年前，我还没有出生<br>他似笑非笑，用干瘦的手臂支起了身子，我这才得以端详他的面容，与想象中完全不同，眼眶凹陷，颧骨高耸，苍老干枯。眼角边有一颗症，和我一样。灰蓝的瞳孔正直勾勾地盯着我的双眼。<br>这自然是存在的事实，但这事实只属于你，记忆会欺骗人。我身处在我的时代，三十年前在此与你相遇。你将近衰朽，身无分文，唯一的财产是自己的姓名。你说你周游务地，通晓世界的一半。那时你还年轻，抵达了最为遥远的彼岸。那里到处都是火焰，到处都吹着奇风。唯一的一条大河直通天际，无可计数的鱼群从头游过。那里的万物在雨天都会做梦。在梦中，雨水中，灵魂悄然改变了模样，雨停时万物复苏，届时便完成了与他者的身份互换，开启了新的生命<br>一派胡言!就其根本——“我说”开始，便一句也不可相信。我不可能编造如此儿戏般的话语，这简直是在浪费时间<br>我看了一眼腕表，但秒针已经停走了。他脸上没有划过一丝表情，眯着眼睛，继续讲述。<br>你觉得这若同儿戏，但你却没有就此离去。事实上你的时间并不宝贵，很奇怪不是吗，这样停留在你我的梦境中。而你连我的名字都不曾知晓，正如我不知道你的一样。但当时听了你的话后，我着魔似的推却了一切琐事，与所有的亲友断绝了联络往来，卧床不起，望着空无一物的天花板，发呆度日。直到我又突然受到指引般，毫无准备地踏上了寻找你口中的那片应许之地的征途<br>所以呢，你见到了什么，又寻得了什么<br>他咽了口唾沫，沉默良久。<br>爱情。战争。死亡。这即为我所见所得。我走遍了一百多座名为亚历山大的城镇，曾在克里斯托弗•哥伦布手下做过事，我曾是奴隶主，也有七次论为奴隶或俘虏。福门特拉岛的一名当地姑娘教会了我爱，一年后她死于霍乱，入土时四肢僵直，躯干浮肿。而唯一一次听闻关于那应许之地的传闻是在锡兰众多寺庙中的一座，一个坐在门槛前的神志不清的乞丐口中。他说只在古老的羊皮卷上见过那片土地，那是存在于世界的夹缝之中的，我们世界的投影，他还说他本是锡兰的国王，但抛弃一切，流落街头。我本打算同他一样，选择放弃这一切，但紧接着我却与你在此处重逢。在那一刻我明白了所有，包括你我共享的姓名<br><strong>“埃尔德•曼。”</strong><br>我与他同时轻轻吟唱出对方的姓名，久违的声音在空间回荡。<br>我们不辞而别。<br>醒来后我仿佛中了的己的邪。埃尔德•曼，我，年轻又苍老的声音仍在脑中盘旋回荡。良久沉默后我将手伸入口袋掏出硬币。硬币两面都是头像。</p>
+<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2><p>看完了文章，来评论一下吧</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>埃尔德·曼</tag>
+        <tag>小说</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>从冒犯与被冒犯谈起</title>
     <url>/posts/a4135b5b/</url>
     <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
@@ -2007,8 +2026,8 @@ $ *Kiwix* 应用界面
 
 <h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我平生一直在不忍人，因为我是人，所以人皆有不忍人之心。</p>
 <p>但是“我”只是一个人，何来“人皆有”之说呢？那么我就要对诸君说：我确乎是个唯心主义的人。</p>
-<p>埃尔德·曼同志曾说过，“人是唯心的，不是唯心主义的都不是人”。虽然我不认同，但是这句话还是精妙的，可以时不时拿出来提一两句或议论一二。比如说分析埃·尔德曼同志的处世为人啊，或者比如这里拿来荒谬地佐证一个荒谬的道理。有的人文章读得快，一眼瞟过去不加思索，看到一句埃尔德·曼同志的议论，大概也会十分认同然后装进脑子吧。这样的人真是可怜，脑于里装了乱七八糟的东西，遂形成了一个乱七八糟的世界观。再按照这个世界观去办事，也就办得乱七八糟。作为一个“不忍者”，我免不了对于这种人，同情得“五体投地”。</p>
-<p>但是更进一步讲，既然埃尔德·曼同志的道理是荒谬的，那引用论证的对象毫无疑问——肯定是荒谬的。而这对象的载体是我写的文章，那么就是说，本文的观点与内容亦是荒谬无疑的。可是有一点要明确，我平生一直在不忍人。比方说我现在就忍受不了还在于阅读此文的人。抱歉占用了诸君并不宝贵的时间，这篇文章固然荒谬，但是世上荒谬文章太多了。我见过的许多文章，都在用着荒谬的事例论证一个个虚无的思想。比方说有人写道“大鹏能够飞多远，他就能飞多远”，“两点是有重点的两点，重点是两点中的重点”又或者“金羊毛是奥林匹斯山上众神落在人间的宝物，那么这就是梦想…”诸如此类有很多，太多了。有的人读了这样的文章，还认真地做了笔记，是这样的，我对此万分不忍。因为即将发生一件事，那就是读了这样祸害人的荒谬文章的人，还要学习如何去写这样的荒谬文章，以便让更多的人知道八大山人是哪八大。这样多可怕，我作为一个不忍者，自然会不忍于他们的遭遇。但是说到头来，无论如何，我除了“不忍”一无所有。</p>
+<p>埃尔德·曼同志曾说过，“人是唯心的，不是唯心主义的都不是人”。虽然我不认同，但是这句话还是精妙的，可以时不时拿出来提一两句或议论一二。比如说分析埃尔德·曼同志的处世为人啊，或者比如这里拿来荒谬地佐证一个荒谬的道理。有的人文章读得快，一眼瞟过去不加思索，看到一句埃尔德·曼同志的议论，大概也会十分认同然后装进脑子吧。这样的人真是可怜，脑于里装了乱七八糟的东西，遂形成了一个乱七八糟的世界观。再按照这个世界观去办事，也就办得乱七八糟。作为一个“不忍者”，我免不了对于这种人，同情得“五体投地”。</p>
+<p>更进一步讲，既然埃尔德·曼同志的道理是荒谬的，那引用论证的对象毫无疑问——肯定是荒谬的。而这对象的载体是我写的文章，那么就是说，本文的观点与内容亦是荒谬无疑的。可是有一点要明确，我平生一直在不忍人。比方说我现在就忍受不了还在于阅读此文的人。抱歉占用了诸君并不宝贵的时间，这篇文章固然荒谬，但是世上荒谬文章太多了。我见过的许多文章，都在用着荒谬的事例论证一个个虚无的思想。比方说有人写道“大鹏能够飞多远，他就能飞多远”，“两点是有重点的两点，重点是两点中的重点”又或者“金羊毛是奥林匹斯山上众神落在人间的宝物，那么这就是梦想…”诸如此类有很多，太多了。有的人读了这样的文章，还认真地做了笔记，是这样的，我对此万分不忍。因为即将发生一件事，那就是读了这样祸害人的荒谬文章的人，还要学习如何去写这样的荒谬文章，以便让更多的人知道八大山人是哪八大。这样多可怕，我作为一个不忍者，自然会不忍于他们的遭遇。但是说到头来，无论如何，我除了“不忍”一无所有。</p>
 <p>至此，如诸君所见，这已经是一篇完完全全荒谬的文章了，再写一个烂透了的结尾也无所谓了。</p>
 <p><strong>那么这就是结尾。</strong></p>
 <h2 id="附：作文题"><a href="#附：作文题" class="headerlink" title="附：作文题"></a>附：作文题</h2><blockquote class="blockquote-center">本单元课文中有不少经典语句，虽然产生在两千多年前，但至今仍然闪烁着智慧的光辉，给我们人生的启迪；有些语句在新的时代下又可以辩证思考，从新的角度作出辨析或阐释。从下列语句中任选其一，也可以从本单元课文中另选一句，准确理解思想内容，自选角度，自定立意，写一篇不少于800字的文章，阐述你的认识或思考，题目自拟</blockquote>
