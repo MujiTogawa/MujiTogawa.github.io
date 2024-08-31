@@ -372,138 +372,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
-
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
-<span id="more"></span>
-
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
-
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
-
-<hr>
-<br>
-
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Changelog</tag>
-        <tag>Hexo-NexT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
     <url>/posts/1f99454c/</url>
     <content><![CDATA[<blockquote class="blockquote-center">“日本で PORTISHEAD みたいなバンドを作ろう！”</blockquote>  
@@ -1109,6 +977,138 @@
         <tag>Music</tag>
         <tag>Trip-Hop</tag>
         <tag>J-Rock</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+<span id="more"></span>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
+<hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
+
+<br>
+
+<hr>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Bloglog 23 01 14</title>
+    <url>/posts/db043193/</url>
+    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
+<span id="more"></span>
+
+<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
+
+<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
+<ul>
+<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
+<li>之前的单独为篇的Bloglog悉已删除</li>
+<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
+</ul>
+</details>
+
+<hr>
+<br>
+
+<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
+<hr>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Changelog</tag>
+        <tag>Hexo-NexT</tag>
       </tags>
   </entry>
   <entry>
@@ -2130,6 +2130,87 @@ $ *Kiwix* 应用界面
         <tag>随笔</tag>
         <tag>阳光体育</tag>
         <tag>神秘力量</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Violet Hill(Coldplay) 翻译详解+赏析</title>
+    <url>/posts/f7d60f05/</url>
+    <content><![CDATA[<blockquote class="blockquote-center"><b>冈易云音乐</b>上的翻译太烂了。重操旧业（x）。</blockquote>
+<span id="more"></span>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=27376239&amp;auto=1&amp;height=66"></iframe>
+
+<h2 id="关于专辑-About-the-Album"><a href="#关于专辑-About-the-Album" class="headerlink" title="关于专辑 | About the Album"></a>关于专辑 | About the Album</h2><img data-src="/images/post/vivala.jpg" alt="Album Folder" title="Album Folder">
+
+<p><strong>Title:</strong> Viva La Vida or Death and All His Friends<br><strong>Artist:</strong> Coldplay<br><strong>Genre:</strong> 英伦/Britpop 流行摇滚/Rock<br><strong>Recording:</strong> 2008</p>
+<h2 id="翻译-Tanslation"><a href="#翻译-Tanslation" class="headerlink" title="翻译 | Tanslation"></a>翻译 | Tanslation</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><div class="note info"><p>It was a long and dark December<br>From the rooftops I remember<br>There was snow<br>White snow</p>
+</div>
+
+<div class="note default"><p>寒冬灰暗漫长<br>从记忆中的屋顶向下望去<br>一片苍茫<br>白雪皑皑</p>
+</div>
+
+<p>这一段的内容是站在现在回首往昔。<strong>It was</strong>和<strong>I remember</strong>以及<strong>There was</strong>无一不表达了回想之意。因此如若三处都翻译出来，便会显得累赘。所以我只保留了第二句的<strong>记忆中</strong>，能比较好地烘托氛围。<br>然后<strong>December</strong>毫无疑问是十二月。但在中文的语境中，“十二月”这一数字和月份的复合词（？）不能比较好得勾起人们的联想。那这样不如将<strong>December</strong>背后的含义翻出来，即为<strong>寒冬</strong>。（如果本土化翻译的话，“<em>腊月</em>”是‘信’且‘达’的。但“腊月”的意象在我看来，容易和农历新年除夕混合，与曲意不符。）<br><strong>There was snow White snow</strong>的场景描写，我使用了两个四字词语。自认为保留了原文中单调，别无他物的雪景的特点。（其实这句有点像鲁迅笔下的“<em>我家门前两棵树，一棵是枣树，另一棵也是枣树</em>”。所以此时歌曲中的人物心理大概是空洞，百无聊赖的）</p>
+<hr>
+<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><div class="note info"><p>Clearly I remember<br>From the windows they were watching<br>While we froze down below</p>
+</div>
+
+<div class="note default"><p>我仍清楚地记着<br>他们透过窗户静静观望<br>而我们在冰冷的深处冻得僵硬</p>
+</div>
+
+<p>这段歌词中，主人公移步到了屋内，正透过窗户向外看去，又被勾起了回忆。<br>中文翻译受到本人的水平限制，比较难以表达那种“<strong>移步换景</strong>”的感觉。如果在看的大佬们有更好的建议，欢迎提出。<br>要讲的只有最后一句<strong>While we froze down below</strong>。这句很明显写的是主人公的回忆，同时引出了第二者。从后面的歌词中可以推测出这就是主人公的爱人（单恋？/失恋？）。<br>难翻译的点就在于<strong>down below</strong>是在什么的“below”？没有研究过国外房屋构造的我也不清楚。“below”通常指的是在某个水平线或某个参考点以下，在这里联系上下文，推测可能是指“他们”在楼上的房间，从窗户向楼下看。于是采用意译，表达出一种“在寒冷或困境的深处”的感觉。</p>
+<hr>
+<h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><div class="note info"><p>When the future’s architecture<br>By a carnival of idiots on show<br>You’d better lie low<br>If you love me<br>Won’t you let me know?</p>
+</div>
+
+<div class="note default"><p>未来世界的构建<br>掌握在一群狂热的愚人手中<br>你最好保持低调沉默<br>如果你爱我，你会让我知晓吗</p>
+</div>
+
+<p><strong>architecture</strong>众所周知是“architect”的名词形式。“architect”在做动词的时候表达的是建造、构建的含义。所以变成名词后是“构建”（厉不厉害你中文（x））。<br><strong>When the future’s architecture By a carnival of idiots on show</strong>两句不禁让人联想到<strong>King Crimson</strong>乐队的歌曲<strong>Epitaph</strong>中的“<em>The fate of all mankind I see Is in the hands of fools</em>”。<br><strong>lie low</strong>表示“保持低调”而非“躺下”。不多说了。</p>
+<hr>
+<h2 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h2><div class="note info"><p>Was a long and dark December<br>When the banks became cathedrals<br>And a fox became God<br>Priests clutched onto bibles<br>Hollowed out to fit their rifles<br>And the cross was held aloft</p>
+</div>
+
+<div class="note default"><p>寒冬灰暗漫长<br>当银行变成了大教堂<br>野兽成为了神明<br>牧师们仍矢志不渝<br>挖空圣经放入步枪<br>十字架被高高举起</p>
+</div>
+
+<p>这是问题比较多，难以翻译的一段。<br>开头两句传达出了一种 世风日下 的感觉，比较讽刺、批判。而问题在于<strong>And a fox became God</strong>一句。因为<strong>Fox</strong>有着“狡诈的人”的意思。在讽刺、批判的段落背景下，让人犹豫如何翻译。最后通过逻辑自己想通了：God/上帝/神明 一般是特指的“那一位”，原文中也是强调了<strong>A fox</strong>。“狡诈的人”指的是一类人，在逻辑上不符。再联想到亚里士多德的那句“<strong>离群索居者，不是野兽，便是神灵</strong>”（出自《政治学》），就将<strong>Fox</strong>理解为野兽的代表（而狐狸有着狡诈的意味，与慷慨的神明相比，更加讽刺了，嗯你细细品..），夺取了神明的形象，而人们也变得金钱至上，物欲横流（<strong>banks became cathedrals</strong>这句）。<br><strong>Priests clutched onto bibles</strong>，此刻唯一保有纯洁性的似乎只有《圣经》。这里<strong>clutched onto</strong>的用法比较微妙。一般的介词搭配应该是“at”或“to”。这里使用<strong>onto</strong>给人一种抓紧救命稻草的感觉。于是乎就意译“抓紧圣经”——》“抓紧信仰”——》“矢志不渝”。<br><strong>Hollowed out to fit their rifles</strong>，这里<strong>Hollowed out</strong>的对象很明显指的是上文的《圣经》。《圣经》的实质性力量是不明显的（无冒犯意思），所以牧师只能掏空它，放入枪（让我想到了《肖申克的救赎》里掏空《圣经》放锤子）。那为什么不直接丢弃“累赘”的《圣经》（again，无冒犯意思）呢，因为正如上一段提到的《圣经》是唯一保有纯洁性的物品，而牧师是矢志不渝的。<br><strong>And the cross was held aloft</strong>，这个意象说实话我不太明白，是要发起圣战吗？</p>
+<hr>
+<h2 id="0x05"><a href="#0x05" class="headerlink" title="0x05"></a>0x05</h2><div class="note info"><p>Bury me in armor<br>When I’m dead end hit the ground<br>My nerves are poles that unfroze<br>And if you love me<br>Won’t you let me know?</p>
+</div>
+
+<div class="note default"><p>当我死于绝境倒下时<br>请将我戎装埋葬<br>我紧绷的神经终于解脱<br>如果你爱我，你会让我知晓吗</p>
+</div>
+
+<p>前两句遵从中文语序，进行了调换。<strong>When I’m dead end hit the ground</strong> 一句个人的断句是这样的：When I’m dead end | hit the ground。<strong>dead end</strong>指的是绝境、困境，而<strong>hit the ground</strong>则是指最终的结局（死亡）。<br><strong>My nerves are poles that unfroze</strong>。啊，这句太难翻译了。结合<strong>unfroze</strong>一词，<strong>poles</strong>指的是地球的两极。那为什么要做这个比喻呢：“我的神经是解冻的两极”。在我看来，这里的“极地”可以象征一种压抑、困境状态，而“解冻”则意味着从这种状态中恢复或解脱出来。冻融的意象大概来自于前面歌词中的冰雪环境意象描写（）。</p>
+<hr>
+<h2 id="0x06"><a href="#0x06" class="headerlink" title="0x06"></a>0x06</h2><div class="note info"><p>I don’t want to be a soldier<br>Who the captain of some sinking ship<br>Would stow, far below<br>So if you love me<br>Why’d you let me go?</p>
+</div>
+
+<div class="note default"><p>我不想成为一名水手<br>随同沉没船只的船长<br>沉没海底，默默无闻<br>如果你爱我，为何不做挽留</p>
+</div>
+
+<p><strong>soldier</strong>原意是士兵，并没有水手的意思。但是下一句中的<strong>captain</strong>又让人疑惑。跟随着船长的士兵，那就是水手吧（），<br>水手/海员长时间漂泊在海上，无法回到陆地。所以主人公对爱人“let go”的行为十分失落。<br><strong>stow, far below</strong>直译是藏在深处，结合“captain of some <strong>sinking ship</strong>”那就是沉到海底了。这句可能是在隐喻主人公不愿意被困在困境中，身处底层而被忽视。所以有了<strong>默默无闻</strong>的翻译。<br><strong>Why’d you let me go?<strong>直译太不像样子“为何放我走”。于是反译为</strong>为何不做挽留</strong>。</p>
+<hr>
+<h2 id="0x07"><a href="#0x07" class="headerlink" title="0x07"></a>0x07</h2><div class="note info"><p>I took my love down to Violet Hill<br>There we sat in snow<br>All that time she was silent still<br>So if you love me<br>Won’t you let me know?<br>If you love me<br>Won’t you let me know?</p>
+</div>
+
+<div class="note default"><p>我带着爱人来到紫罗兰山丘<br>我们无言地在雪地里对坐<br>她只是默默地守候着沉寂<br>如果你爱我，就不要将情感掩藏</p>
+</div>
+
+<p>最后一段了。<br>好悲伤的一段啊。从结果来看，两人似乎是没有在一起。<br>而这记忆中的场景，两人在雪地中无言地坐着，此时无声胜有声。情感能否将雪融化呢？还是说两人的关系此时早已冰冷如雪呢？一切只是主人公的一厢情愿吗？<br>这些我们都无法得知了，只是紫罗兰山丘，至今也应该被皑皑白雪所覆盖着吧……</p>
+<hr>
+<h2 id="The-End-欢迎评论交流加友链"><a href="#The-End-欢迎评论交流加友链" class="headerlink" title="The End | 欢迎评论交流加友链"></a>The End | 欢迎评论交流加友链</h2><p>看完了翻译详解，来评论交流一下吧</p>
+]]></content>
+      <categories>
+        <category>三十三又三分之一转</category>
+        <category>翻译</category>
+      </categories>
+      <tags>
+        <tag>Music</tag>
+        <tag>Rock</tag>
+        <tag>Coldplay</tag>
+        <tag>Britpop</tag>
+        <tag>歌词翻译</tag>
       </tags>
   </entry>
 </search>
