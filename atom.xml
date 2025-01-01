@@ -6,7 +6,7 @@
   <link href="https://blog.mjt.asia/atom.xml" rel="self"/>
   
   <link href="https://blog.mjt.asia/"/>
-  <updated>2025-01-01T10:36:29.898Z</updated>
+  <updated>2025-01-01T10:50:59.446Z</updated>
   <id>https://blog.mjt.asia/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.mjt.asia/posts/bc0e860c/"/>
     <id>https://blog.mjt.asia/posts/bc0e860c/</id>
     <published>2025-01-01T06:55:01.000Z</published>
-    <updated>2025-01-01T10:36:29.898Z</updated>
+    <updated>2025-01-01T10:50:59.446Z</updated>
     
     
     <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;Time passes...&lt;/blockquote&gt;</summary>
@@ -472,9 +472,9 @@
     <category term="碎碎念" scheme="https://blog.mjt.asia/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
-    <category term="Changelog" scheme="https://blog.mjt.asia/tags/Changelog/"/>
-    
     <category term="Hexo" scheme="https://blog.mjt.asia/tags/Hexo/"/>
+    
+    <category term="Changelog" scheme="https://blog.mjt.asia/tags/Changelog/"/>
     
     <category term="Hexo-NexT" scheme="https://blog.mjt.asia/tags/Hexo-NexT/"/>
     
