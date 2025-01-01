@@ -1,6 +1,736 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2022总结&amp;My Resolutions</title>
+    <url>/posts/b7a38911/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote>
+<span id="more"></span>
+
+<p><del>在2023的第一天写年度总结和展望没毛病吧（x</del><br>似水流年，一年又过去喽，又是新的一年，<del>一年又一年</del><br>2022年又没做成什么事情，2023<del>继续保持！</del>要更加努力嗷</p>
+<hr>
+<h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="线下"><a href="#线下" class="headerlink" title="线下"></a>线下</h3><br>
+
+<p>今年最大的事嘛，无非是完成了浙江省宁波市的中考，遂如愿以663/720的分数顺利从<strong>NBFLS</strong>初中部升级到了<strong>NBFLS</strong>的普高部。（顺带说一句由于我报考了小羟稽，所以我目前身处<strong>NBFLS</strong>的文科创新班<del>（拉倒吧侬</del><br>吐槽归吐槽，也感谢中考，让我认识了<a href="https://blog.chihuo2104.dev/#/">chihuo</a>。没有他就没有我目前的小blog，#<a href="https://mujitogawa.github.io/posts/8cdc15a3/#more">衍生阅读：建站小记</a># 小blog是22.10.01趁着国庆假期搭建的，使用的显而易见，是Github Pages+Hexo。主题起初使用的是bmw，现已更换为拓展更为丰富，页面也更为简洁的<a href="https://github.com/next-theme/hexo-theme-next">NexT</a>。  </p>
+<p>高中生活不是很如意呢，在新的学校负责人的<del>高压</del>领导之下，人人都不得不感叹：<strong>NBFLS</strong>变了，变成<strong>答辩</strong>了(x，而同班的人们也是让人一言难尽…每天讲话跟说谜语一样的班主任，那严重失调的班级男女比例（文创班，你懂的。Female:40, Male:8），还有我真的无法理解为什么体育课都会有那么多人在写作业!）曾经热闹的操场和体育馆现如今在<em>阳光体育</em> 结束后冷冷清清。先别说操场上跑步的人了，就连打篮球的也一直只有三三两两的初中部的人儿。除去体育课外，球场就没有被占满的日子…别人心中所想的，似乎只有写作业写作业写作业。无语了😶…  </p>
+<p>所以，我十分感谢一直在联系我的初中和小学同学们，以及我在高中为数不多的挚友，还有<em>亲爱</em> 的网友们是你们在这个<strong>答辩</strong>环境中给予我以慰藉，让我有整装待发的动力。<br>高中生活似乎也不过就是这些日子，逝者如斯夫，三年寒窗<del>苦读</del>后，又是一场大<del>尻</del>考。在新的一年，与君共勉！  </p>
+<h3 id="线上"><a href="#线上" class="headerlink" title="线上"></a>线上</h3><br>
+
+<p>认识<a href="https://blog.chihuo2104.dev/#/">chihuo</a>后，他把我拉进了<strong>香子兰</strong>群，然后就认识了<a href="https://nekomoe.xyz/">柏园猫</a>，<a href="https://littlesunnybear.com/">bear</a>，<a href="https://mzwing.eu.org/">mzwing</a>，<a href="https://atri.tk/">猫猫</a>，<a href="https://杨冬.top/">杨冬冬</a>，<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>，<a href="https://mk1.io/">Ray</a>，666999HC，<a href="https://github.com/JJ-Shep">Elusive丹泰</a>，<a href="https://github.com/yingyouyu">sfs</a>等群友 ( 好像还有已经不在了的Mike Hey,乐(x) ） 。谢谢你们一年以来<del>（其实大概好像差不多是半年）</del>的陪伴，新年快乐！！✨  </p>
+<hr>
+<h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>此处再次向<a href="https://blog.chihuo2104.dev/#/">chihuo</a>致谢~</p>
+<ul>
+<li><a href="https://skyline.github.com/MujiTogawa/2022">2022 Github Skyline</a></li>
+</ul>
+<p>今年刚刚正式接触coding，但也没做什么咩  </p>
+<ul>
+<li>为<a href="https://github.com/bbg-contributors/bbg">静态博客生成器bbg</a>做了Changelog和Third-party theme edit的文档翻译  </li>
+<li>学校的STEM小项目<a href="https://github.com/MujiTogawa/Genius-Plant-Master">智能植物小管家</a>（其实coding部分基本上都是<a href="https://blog.chihuo2104.dev/#/">chihuo</a>做的…）</li>
+<li>用Github Pages+Hexo搭建了现在的小blog<ul>
+<li>包括Blog-Log在内，<del>氵</del>写了5篇小文章</li>
+</ul>
+</li>
+<li>学习了用Markdown编写文档</li>
+<li>学习了Git的小小基础</li>
+<li>参考<code>Python编程：从入门到实践（第2版）</code>一书，自学了一点点Python基础</li>
+<li>参考<a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs</a>学了一点点点HTML和CSS基础（中的基础（x</li>
+</ul>
+<p>至于立给2023年的Flag，，，</p>
+<ul>
+<li>继续学Python（毕竟要高考的嘛</li>
+<li>继续学HTML+CSS</li>
+<li>学一点JS</li>
+<li>勤更小blog</li>
+<li>去Github上找一些小项目contribute~</li>
+<li>以上</li>
+</ul>
+<hr>
+<h2 id="书影音"><a href="#书影音" class="headerlink" title="书影音"></a>书影音</h2><br>
+
+<p>今年我书影音的主要记录工具还是<strong>豆瓣</strong>，毕竟三合一比较方便。尝试着去使用过IMDB+BANGUMI+Last FM的奇葩记录组合，但个人感觉还是豆瓣方便（虽然现如今豆瓣也快成<strong>答辩</strong>了…)，而且主要是豆瓣能提供<em>书</em> 的记录，目前暂时还找不到替代品。Bangumi姑且还是会去注册并使用的，但是补充观看数据太惹人烦惹~</p>
+<hr>
+<h3 id="书"><a href="#书" class="headerlink" title="书"></a>书</h3><br>
+
+<p>先上数据罢~  </p>
+<img data-src="/images/post/bye2022/books.jpg" width="750" height="1288" alt="books">
+
+<ul>
+<li><code>红拂夜奔  王小波  十月文艺出版社</code> 纸质书</li>
+<li><code>长日将尽  石黑一雄  上海译文出版社</code> 纸质书</li>
+<li><code>发条橙  安东尼·伯吉斯  译林出版社</code> 纸质书</li>
+<li><code>上升的一切必将汇合  弗兰纳里·奥康纳 新星出版社</code> 纸质书</li>
+<li><code>寂寞的游戏  袁哲生  北京联合出版公司</code> 纸质书</li>
+<li><code>白银时代  王小波  北京十月文艺出版社</code> 纸质书</li>
+<li><code>通往夏天的隧道,再見的出口  八目迷  東立</code> 电子书</li>
+<li><code>红楼梦  曹雪芹  人民文学出版社</code> 纸质书</li>
+<li><code>这些人，那些事  吴念真  译林出版社</code> 电子书</li>
+<li><code>强风吹拂  三浦紫苑  广西师范大学出版社</code> 电子书</li>
+<li><code>目送  龙应台  生活·读书·新知三联书店</code> 电子书</li>
+<li><code>当我们谈论爱情时我们在谈论什么  雷蒙德·卡佛  译林出版社</code> 纸质书</li>
+<li><code>沉默的大多数  王小波  北京十月文艺出版社</code> 纸质书</li>
+<li><code>分成两半的子爵  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li>
+<li><code>不存在的骑士  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li>
+<li><code>看见与被看见 : 《书城》精选（一）  上海三联书店</code> 纸质书</li>
+<li><code>有象 : 《书城》精选（二）  上海三联书店</code> 纸质书</li>
+<li><code>白棉花 : 莫言中篇小说精品系列4  莫言  浙江文艺出版社</code> 纸质书</li>
+<li><code>绿毛水怪  王小波  北京十月文艺出版社</code> 纸质书</li>
+<li><code>文学的事件  何成洲、但汉松、主编  南京大学出版社</code> 纸质书</li>
+<li><code>悉达多 : 一首印度的诗  赫尔曼·黑塞  天津人民出版社</code> 纸质书</li>
+<li><code>革命时期的爱情  王小波  北京十月文艺出版社</code> 纸质书</li>
+<li><code>さよなら絵梨  藤本 タツキ  集英社</code> 电子书</li>
+</ul>
+<p>2022读的书真不算多阿，，，</p>
+<hr>
+<h3 id="影"><a href="#影" class="headerlink" title="影"></a>影</h3><br>
+
+<p>上图！  </p>
+<img data-src="/images/post/bye2022/film.jpg" width="750" height="1281" alt="films">
+
+<br>
+
+<p>破案！<br>看书少的原因是看番看太多辣，，，上图中的“剧集：68”中基本上都是动漫啦，还不包括剧场版，，，  </p>
+<p>值得推荐的：</p>
+<p>动漫：</p>
+<ul>
+<li><code>氷菓</code></li>
+<li><code>かぐや様は告らせたい～天才たちの恋愛頭脳戦～</code></li>
+<li><code>さくら荘のペットな彼女</code></li>
+<li><code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></li>
+<li><code>STEINS;GATE</code></li>
+<li><code>ノラガミ</code></li>
+<li><code>劇場版 空の境界 第五章 矛盾螺旋</code></li>
+<li><code>ゴールデンカムイ</code></li>
+<li><code>ヱヴァンゲリヲン新劇場版：破</code></li>
+<li><code>四畳半神話大系</code></li>
+<li><code>るろうに剣心 -明治剣客浪漫譚- 追憶編</code></li>
+<li><code>モブサイコ100</code></li>
+<li><code>キルラキル</code></li>
+<li><code>PSYCHO-PASS サイコパス</code></li>
+<li><code>東のエデン /</code></li>
+<li><code>輪るピングドラム</code></li>
+<li><code>傷物語</code></li>
+<li><code>リコリス・リコイル</code></li>
+</ul>
+<p>电影就不写推荐了哈哈~</p>
+<hr>
+<h3 id="音"><a href="#音" class="headerlink" title="音"></a>音</h3><br>
+
+<img data-src="/images/post/bye2022/music.jpg" width="750" height="1288" alt="music">
+<img data-src="/images/post/bye2022/wyy.jpg" width="750" height="1296" alt="neteasereport">
+
+<br>
+
+<p>年度专辑推荐在之前的新年祝福里写过啦~ <a href="https://mujitogawa.github.io/posts/4ac7f78/#%F0%9F%8E%8A-%E5%B2%81%E6%9C%AB%E6%94%BE%E9%80%81%EF%BC%88-Xavier%EF%BC%89">点我直达！！</a></p>
+<hr>
+<h2 id="VAN♂游戏"><a href="#VAN♂游戏" class="headerlink" title="VAN♂游戏"></a>VAN♂游戏</h2><ul>
+<li><strong>Fallout:New Vegas</strong>(辐射：新维加斯)<br>Platform: PC<br>经典美式RPG，正在玩。游戏时长：15.5h。（玩之后发现自己有些晕3D，悲（<br></li>
+<li><strong>魔法使いの夜</strong>(魔法使之夜)<br>Platform: PC<br>今年刚出语音重置版，强推！！！但我玩的是老版（悲<br>可以算是玩的第一款Galgame吧，，不过没有H-scene。大体上算是Visual Novel。文字冒险类。与其它Galgame不同的是玩家没有选项，就真·视觉小说呗（x<br></li>
+<li><strong>Kingdom Rush</strong>(王国保卫战)<br>Platform: PC&amp;Android<br>被初中同学安利的游戏。塔防类。目前出了4代，第四代正在玩。<br></li>
+<li><strong>Bleach VS Naruto</strong>(死神VS火影)<br>Platform: PC<br>即时格斗类同人游戏。之前初中在信息课上一直和同学们玩，挺乐（x。目前正式版是出到了版本<code>3.6sp9Xmas</code>（对，是之前圣诞节发布的圣诞节ver.）基于flash制作，而基于Unity制作的<code>4.0beta</code>版也已经发布了。（听说bug比较多…)<br></li>
+<li><strong>東方非想天則 〜 超弩級ギニョルの謎を追え</strong>(东方非想天则)<br>Platform: PC<br>东方Project即时格斗类同人游戏，是香子兰的群友<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>拉我入坑的，目前还很菜，连段不会打，人机也打不过（x</li>
+</ul>
+<hr>
+<h2 id="目前使用的设备"><a href="#目前使用的设备" class="headerlink" title="目前使用的设备"></a>目前使用的设备</h2><br>
+
+<ul>
+<li>Apple iPhone 7</li>
+<li>Apple iPad Air</li>
+<li>Dell Insperation 5570<br>配置如下：<br><code>CPU: i5-8250U@1.60GHz 1.80 GHz(4C+8T)</code><br><code>RAM: 12GB DDR4 2400MHz(4GB+8GB)</code><br><code>Disk: 1TB SATA HDD</code><br><code>GPU: UHD620 + R7 M460</code><br><code>Screen: 1920x1080 60Hz</code><br><code>System: Windows 10 22H2</code></li>
+<li>Sony Walkman A55 (DAP)</li>
+<li>Philips SA1508 (DAP)</li>
+<li>DUNU Titan S (Earphone)</li>
+<li>Apple Earpod (Earphone)</li>
+<li>Skyworth-unknown (TV&amp;Screen)  </li>
+<li>Huawei Watch GT2 (Smart Watch)</li>
+</ul>
+<hr>
+<h2 id="运动"><a href="#运动" class="headerlink" title="运动"></a>运动</h2><br>
+
+<h3 id="田径"><a href="#田径" class="headerlink" title="田径"></a>田径</h3><br>
+
+<p>今年的总跑量大概在300km左右，使用Huawei Watch GT2以及（华为）运动与健康APP记录</p>
+<ul>
+<li>中考体测1000m：3:08:47(电记)</li>
+<li><strong>400m</strong> PB：0:59:11(电记)于校运动会创下</li>
+<li><strong>1000m</strong> PB：3:05:xx(手记)在初三创下</li>
+<li><strong>1500m</strong> PB：4:50:36(电记)于市运动会创下</li>
+<li><strong>3000m</strong> PB：11:03:39(电记)于市运动会创下</li>
+</ul>
+<br>
+
+<h4 id="校运动会"><a href="#校运动会" class="headerlink" title="校运动会"></a>校运动会</h4><p><strong>NBFLS</strong>普高部的体育就是<strong>答辩</strong>啊！连我都可以拿牌子（x<br>鉴于文科创新班悬殊的男女比例，校领导决定该班的男同志每人可以报名3个个人项目（其它班限定是每人2个）然后，我就有了7个项目（x，最后只参加了5个）</p>
+<ul>
+<li>400m</li>
+<li>三级跳远</li>
+<li>4x400m</li>
+</ul>
+<p>其中三级跳远再此之前我连规则都不知道。。。</p>
+<blockquote>
+<p>班主任：别人也不知道规则的，我们重在参与<br>我：*****</p>
+</blockquote>
+<p>然后我就自己瞎琢磨，也没去请教别人，也没看视频教学。瞎练了2个星期，结果连女生的沙坑都进不了…小腿胫骨还死疼死疼的  </p>
+<p>但在运动会前最后一个星期，我终于进坑了。女坑。。而与我一起参加的那位同班怨种同学就没那么幸运了，他不仅没进坑，还把jio崴了…  </p>
+<p>然后，我就拿了银牌，第一是体育生。<strong>NBFLS</strong>你真的就这吗？！</p>
+<img data-src="/images/post/bye2022/3longjump.jpg" width="1000" height="1300" alt="silver">
+
+<p>另外，出乎意料地，400m也冲进了决赛，最终夺铜。<br><strong>NBFLS</strong>的体育就是<strong>答辩</strong>(x</p>
+<img data-src="/images/post/bye2022/400m.jpg" width="1000" height="1400" alt="bronze">
+
+<hr>
+<h4 id="市运动会"><a href="#市运动会" class="headerlink" title="市运动会"></a>市运动会</h4><p>参加市运动会也存粹是个意外。<br>刚开学时候，一天在寝室，隔壁寝室，也是隔壁班的一个同学（就是那位三级跳第一的体育生）突然向我发问：</p>
+<blockquote>
+<p>体育生：你有兴趣来参加田径社吗？训练量不大的，就可能会有个小比赛。<br>我：好呀好呀~</p>
+</blockquote>
+<p>然后就都知道了吧…确实<strong>NBFLS</strong>的田径社不单单训练量不大，而且是根本没有训练。然后在市运动会前两个星期：</p>
+<blockquote>
+<p>体育老师：你们要参加市运动会的，知道的嗷。下礼拜身份证带一下，我给你们报名。<br>我：。。？？？！！！！┗|｀O′|┛ 嗷~</p>
+</blockquote>
+<p>最后结果还过得去吧，至少没有最后一名（x，明年继续（x</p>
+<p>*注：2022年的市运动会在<strong>NBFLS</strong>举行</p>
+<br>
+
+<p><strong>1500m</strong> 小组：9/15; 总名次：16/29; 用时：4:50:36(电记)<br><img data-src="/images/post/bye2022/1500m.jpg" width="1000" height="270" alt="1500m"></p>
+<br>
+
+<p><strong>3000m</strong> 小组：6/13; 总名次：15/27; 用时：11:03:39(电记)<br><img data-src="/images/post/bye2022/3000m.jpg" width="1000" height="270" alt="3000m"></p>
+<br>
+
+<p>留念啦~</p>
+<img data-src="/images/post/bye2022/metaspeedsky.jpg" width="1000" height="1400" alt="留念">
+*注：图中这双橙色的**Asics MetaSpeed Sky**是我的市运动会战靴，在此感谢将它借予我的**K**同学~
+
+<hr>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><br>
+
+<h4 id="鞋子"><a href="#鞋子" class="headerlink" title="鞋子"></a>鞋子</h4><p>今年新买了三双鞋子</p>
+<ul>
+<li><strong>361 Spire S</strong> (慢跑综合训练)</li>
+<li><strong>乔丹体育 飞影</strong> (速度训练)</li>
+<li><strong>乔丹体育 Titan 3</strong> (篮球)</li>
+</ul>
+<p>来上图~</p>
+<ol>
+<li><strong>361 Spire S</strong><img data-src="/images/post/bye2022/spires.jpg" width="602" height="381" alt="361spires">
+这双鞋买来主要是为了替代我那两双日益战损的**Asics Gel Flux4**的。
+定位是支撑+顶缓。
+使用下来上限比**Asics Gel Flux4**要高。综合训练加速时不拖沓，前掌也不泄力
+但是感觉并不是十分适合我这样的小体重跑者，另外前掌偏薄，偏窄，也不怎么耐磨，更适合中后掌跑法的朋友们。</li>
+</ol>
+<p>*题外话：这双鞋我买来一个多月后就发布了二代，听说提升挺大。发布后这双也立马降价，血亏！</p>
+<hr>
+<ol start="2">
+<li><strong>乔丹体育 飞影</strong>  <img data-src="/images/post/bye2022/feiying.jpg" width="596" height="877" alt="飞影">
+这是我的第一双厚底跑鞋，（注意是**飞影训练版一代**，不是**飞影PB**）。初上jio这体验真的绝了。这透气！这轻质！这缓震！这回弹！这价格！我直接吹爆！！然后跑了两个多月，天哪，这泡棉，中底衰竭，亲妈都不认了，什么叫判若两鞋阿（x
+所以说选购建议：小体重跑者，有一定跑步基础的有多双训练鞋的朋友的夏季训练鞋之一。其实能别买就别买啦，不管是一代还是二代。真的看重性价比的就去买**飞影PB 2.0**。</li>
+</ol>
+<hr>
+<ol start="3">
+<li><strong>乔丹体育 Titan 3</strong><img data-src="/images/post/bye2022/titan3.jpg" width="660" height="499" alt="titan3">
+我的第一双篮球鞋，体育课报了篮球，遂去买了一双。高性价比的产物。中规中矩。买的篮球鞋仅此一双，也不好评价。</li>
+</ol>
+<hr>
+<h4 id="羽毛球"><a href="#羽毛球" class="headerlink" title="羽毛球"></a>羽毛球</h4><br>
+
+<p>羽毛球偶尔打打。今年买了（其实是我爸买来（给自己玩（x））两幅拍子</p>
+<ul>
+<li><strong>Yonex NF700</strong> (4U)</li>
+<li><strong>Yonex Arc-11</strong>(弓11) (3U)</li>
+</ul>
+<p>之前家里都是<strong>凯胜</strong>和<strong>李宁</strong>的拍子。<strong>Yonex</strong>的买来尝尝鲜。<br>羽毛球的话用的是<strong>Yonex AS-05</strong>和红<strong>威肯</strong>  </p>
+<hr>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链~🎉"></a>欢迎交流评论加友链~🎉</h2><p>谢谢你有耐心读到这里⭐再次祝各位新年快乐呀~</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>展望</tag>
+        <tag>年终总结</tag>
+        <tag>2023</tag>
+        <tag>2022</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+<span id="more"></span>
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+<hr>
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<hr>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Bloglog 23 01 14</title>
+    <url>/posts/db043193/</url>
+    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
+<span id="more"></span>
+
+<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
+
+<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
+<ul>
+<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
+<li>之前的单独为篇的Bloglog悉已删除</li>
+<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
+</ul>
+</details>
+
+<hr>
+<br>
+
+<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
+<hr>
+<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>Changelog</tag>
+        <tag>Hexo</tag>
+        <tag>Hexo-NexT</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地理必修一、二教材重点案例</title>
+    <url>/posts/8e3fb02e/</url>
+    <content><![CDATA[<p>地理学考临近，现将（人教版）地理必修一，必修二书中的重点案例提炼概括。以便复习使用。若有错误，还望指正！</p>
+<span id="more"></span>
+
+<h2 id="必修一案例"><a href="#必修一案例" class="headerlink" title="必修一案例"></a>必修一案例</h2><h3 id="火星概况"><a href="#火星概况" class="headerlink" title="火星概况"></a>火星概况</h3><ul>
+<li>表层土壤富含Fe（红色星球）；大气稀薄，CO2含量＞95%；表面温差大；常年大风沙尘暴</li>
+</ul>
+<h3 id="宁夏沙田"><a href="#宁夏沙田" class="headerlink" title="宁夏沙田"></a>宁夏沙田</h3><h4 id="蓄水保墒"><a href="#蓄水保墒" class="headerlink" title="蓄水保墒"></a>蓄水保墒</h4><ul>
+<li>避免阳光直射-&gt;抑制蒸发，减少蒸发量</li>
+<li>增加地表粗糙程度，削弱地表径流，增加下渗量</li>
+</ul>
+<h3 id="盐场"><a href="#盐场" class="headerlink" title="盐场"></a>盐场</h3><h4 id="我国四大盐场"><a href="#我国四大盐场" class="headerlink" title="我国四大盐场"></a>我国四大盐场</h4><ul>
+<li>长芦汉沽盐场；淮北盐场；布袋盐场；莺歌湖盐场</li>
+</ul>
+<h4 id="选址"><a href="#选址" class="headerlink" title="选址"></a>选址</h4><ul>
+<li>地势：开阔平坦；背风坡（雨天少）</li>
+<li>海滩：泥质海滩（提高产量）</li>
+<li>气候：晴多雨少，平均风速大</li>
+<li>海水：盐度高，附近无大河注入</li>
+</ul>
+<h3 id="钱塘江大潮"><a href="#钱塘江大潮" class="headerlink" title="钱塘江大潮"></a>钱塘江大潮</h3><h4 id="成因"><a href="#成因" class="headerlink" title="成因"></a>成因</h4><ul>
+<li>八月十八，日月地一线，引力最大</li>
+<li>喇叭口，肚大口小</li>
+<li>东南风（夏季风）盛行，风助潮涌</li>
+<li>钱塘江水量丰富，江水海水相顶托</li>
+</ul>
+<h3 id="渔场（舟山，纽芬兰）"><a href="#渔场（舟山，纽芬兰）" class="headerlink" title="渔场（舟山，纽芬兰）"></a>渔场（舟山，纽芬兰）</h3><h4 id="选址-gt-饵料-gt-浮游生物"><a href="#选址-gt-饵料-gt-浮游生物" class="headerlink" title="选址->饵料->浮游生物"></a>选址-&gt;饵料-&gt;浮游生物</h4><ul>
+<li>洋流：寒暖流、上升流</li>
+<li>入海口：无机盐</li>
+<li>大陆架：浅海</li>
+<li>中纬度：季节变化大-&gt;水温-&gt;风-&gt;（翻搅海水）无机物</li>
+</ul>
+<h4 id="舟山渔场"><a href="#舟山渔场" class="headerlink" title="舟山渔场"></a>舟山渔场</h4><ul>
+<li>寒暖流交汇</li>
+<li>淡水河流注入，营养物质丰富</li>
+<li>大陆架宽广，浅海光照充足，有利于藻类和浮游生物生长，饵料丰富</li>
+<li>温带海区季节变化大，海底受到扰动</li>
+</ul>
+<h3 id="渤海海冰"><a href="#渤海海冰" class="headerlink" title="渤海海冰"></a>渤海海冰</h3><h4 id="形成"><a href="#形成" class="headerlink" title="形成"></a>形成</h4><ul>
+<li>温度低（陆地比热容小降温快）</li>
+<li>盐度低</li>
+<li>深度浅</li>
+<li>海域地形封闭，海水扰动性差</li>
+</ul>
+<h3 id="fast天眼"><a href="#fast天眼" class="headerlink" title="fast天眼"></a>fast天眼</h3><h4 id="选址优势"><a href="#选址优势" class="headerlink" title="选址优势"></a>选址优势</h4><ul>
+<li>地形-&gt;土石工程量小</li>
+<li>底部裂隙-&gt;排水投资少</li>
+<li>居民少-&gt;搬迁工程量小</li>
+</ul>
+<h3 id="丹娘沙丘"><a href="#丹娘沙丘" class="headerlink" title="丹娘沙丘"></a>丹娘沙丘</h3><h4 id="成因（特例-湿润地区）"><a href="#成因（特例-湿润地区）" class="headerlink" title="成因（特例-湿润地区）"></a>成因（特例-湿润地区）</h4><ul>
+<li>气候较湿润</li>
+<li>干湿季分明</li>
+<li>干季河漫滩裸露在外（原料）</li>
+<li>冬春季多大风（动力）</li>
+</ul>
+<h3 id="喀斯特峰丛山地"><a href="#喀斯特峰丛山地" class="headerlink" title="喀斯特峰丛山地"></a>喀斯特峰丛山地</h3><h4 id="利弊"><a href="#利弊" class="headerlink" title="利弊"></a>利弊</h4><ul>
+<li><p>利</p>
+<ul>
+<li>地貌：旅游资源</li>
+<li>（地貌）洞穴：便利</li>
+</ul>
+</li>
+<li><p>不利（经济落后）</p>
+<ul>
+<li>生态-脆弱</li>
+<li>农业-落后</li>
+<li>交通-不便</li>
+</ul>
+</li>
+</ul>
+<h4 id="方案（经济-生态）"><a href="#方案（经济-生态）" class="headerlink" title="方案（经济+生态）"></a>方案（经济+生态）</h4><ul>
+<li>水土保持，涵养水源：工程、林草、农艺…</li>
+<li>立体生态农业：考虑地貌结构、生态与农业经济的发展</li>
+<li>异地生态移民</li>
+</ul>
+<h3 id="红树林"><a href="#红树林" class="headerlink" title="红树林"></a>红树林</h3><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><ul>
+<li>支柱根&amp;板状根：防止风浪冲击，适应淤泥环境</li>
+<li>呼吸根：退潮（甚至潮水淹没）时用以通气</li>
+<li>“胎生”：适应滩涂&amp;海流，增强生存能力</li>
+<li>可排盐分的腺体：适应海水浸泡（净化海水，减少赤潮现象）</li>
+</ul>
+<h4 id="意义（湿地生态）"><a href="#意义（湿地生态）" class="headerlink" title="意义（湿地生态）"></a>意义（湿地生态）</h4><ul>
+<li>防风防浪，促淤保滩，固岸护堤</li>
+<li>净化海水空气</li>
+<li>保护生物多样性</li>
+</ul>
+<h3 id="精品公园"><a href="#精品公园" class="headerlink" title="精品公园"></a>精品公园</h3><h4 id="皇城根"><a href="#皇城根" class="headerlink" title="皇城根"></a>皇城根</h4><ul>
+<li>种植当地树种：存活率高</li>
+<li>多树种混栽：生态复杂，多样性</li>
+<li>乔灌草结合：高覆盖率，垂直结构</li>
+<li>绿化率高：缓解城市热岛</li>
+</ul>
+<h3 id="盐碱地"><a href="#盐碱地" class="headerlink" title="盐碱地"></a>盐碱地</h3><h4 id="盐碱地成因"><a href="#盐碱地成因" class="headerlink" title="盐碱地成因"></a>盐碱地成因</h4><ul>
+<li>地形低洼，地下水位高</li>
+<li>雨季降水量大且集中，地下水位上涨</li>
+<li>旱季气温高蒸发旺，盐分集中在地表（毛细作用）</li>
+<li>不合理灌溉，大小浸灌，只灌不排</li>
+</ul>
+<h4 id="缓解方案"><a href="#缓解方案" class="headerlink" title="缓解方案"></a>缓解方案</h4><ul>
+<li>引淡淋盐</li>
+<li>井灌井排</li>
+<li>覆盖</li>
+<li>农业生物措施</li>
+</ul>
+<h3 id="雨水花园-amp-海绵城市"><a href="#雨水花园-amp-海绵城市" class="headerlink" title="雨水花园&amp;海绵城市"></a>雨水花园&amp;海绵城市</h3><h4 id="雨水花园"><a href="#雨水花园" class="headerlink" title="雨水花园"></a>雨水花园</h4><ul>
+<li>缓解城市内涝（增加下渗，净化、积蓄、利用雨水）</li>
+<li>缓解热岛效应（增加空气湿度，调节气温）</li>
+<li>休闲观赏景观</li>
+<li>生物栖息地</li>
+</ul>
+<hr>
+<h2 id="必修二案例"><a href="#必修二案例" class="headerlink" title="必修二案例"></a>必修二案例</h2><h3 id="长安城空间结构"><a href="#长安城空间结构" class="headerlink" title="长安城空间结构"></a>长安城空间结构</h3><ul>
+<li>棋盘式布局，皇权思想</li>
+<li>西市靠近居民区，为国际贸易中心，外国商人从西来</li>
+</ul>
+<h3 id="哈尼梯田"><a href="#哈尼梯田" class="headerlink" title="哈尼梯田"></a>哈尼梯田</h3><h4 id="自然条件"><a href="#自然条件" class="headerlink" title="自然条件"></a>自然条件</h4><ul>
+<li>气候：北回归线以南，热带、亚热带季风区，全年高温，降水丰沛（降水量不稳定，季分配不均）</li>
+<li>地形：陡峭、崎岖、多山区</li>
+</ul>
+<h4 id="半山腰建造聚落"><a href="#半山腰建造聚落" class="headerlink" title="半山腰建造聚落"></a>半山腰建造聚落</h4><ul>
+<li>半山腰发展农业可能会污染水源。把村庄建在梯田上方，森林下方，以获取清洁水源</li>
+<li>河谷地带，气候湿热，易受洪水威胁，不宜居住</li>
+<li>森林涵养水源，延缓水的汇集、地表径流速度。增加下渗，地下径流</li>
+</ul>
+<h3 id="亚洲水稻"><a href="#亚洲水稻" class="headerlink" title="亚洲水稻"></a>亚洲水稻</h3><h4 id="分布"><a href="#分布" class="headerlink" title="分布"></a>分布</h4><ul>
+<li>东亚、南亚、东南亚</li>
+<li>温带、热带、亚热带季风区</li>
+</ul>
+<h4 id="有利条件"><a href="#有利条件" class="headerlink" title="有利条件"></a>有利条件</h4><ul>
+<li><strong>自然</strong><ul>
+<li>季风气候，高温多雨，雨热同期</li>
+<li>地形平坦，土壤肥沃</li>
+<li>水源充足</li>
+</ul>
+</li>
+<li><strong>人文</strong><ul>
+<li>劳动力丰富</li>
+<li>消费市场广阔</li>
+<li>历史悠久，经验丰富</li>
+</ul>
+</li>
+</ul>
+<h4 id="不利条件"><a href="#不利条件" class="headerlink" title="不利条件"></a>不利条件</h4><ul>
+<li>季风不稳定，旱涝频繁 -（解决方案）加强水利工程建设</li>
+<li>技术低</li>
+</ul>
+<h3 id="反季节供应"><a href="#反季节供应" class="headerlink" title="反季节供应"></a>反季节供应</h3><h4 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h4><ul>
+<li>避开当地品种竞争（提升市场竞争力）</li>
+<li>提高利润</li>
+<li>丰富市场供应</li>
+</ul>
+<h4 id="要求"><a href="#要求" class="headerlink" title="要求"></a>要求</h4><ul>
+<li>地区间相隔较远，自然环境差异较大</li>
+<li>快捷的交通运输</li>
+<li>冷藏、保鲜技术</li>
+</ul>
+<h3 id="顺德家具"><a href="#顺德家具" class="headerlink" title="顺德家具"></a>顺德家具</h3><h4 id="产业聚集"><a href="#产业聚集" class="headerlink" title="产业聚集"></a>产业聚集</h4><ul>
+<li><strong>优势</strong><ul>
+<li>共享基础设施、公共服务</li>
+<li>减少能源消耗，降低运输费用</li>
+<li>加强信息交流，提高技术协作</li>
+</ul>
+</li>
+<li><strong>目的</strong><ul>
+<li>降低生产成本</li>
+<li>提高生产效率利润</li>
+<li>取得规模效益</li>
+</ul>
+</li>
+</ul>
+<h3 id="首钢搬迁"><a href="#首钢搬迁" class="headerlink" title="首钢搬迁"></a>首钢搬迁</h3><h4 id="搬迁原因"><a href="#搬迁原因" class="headerlink" title="搬迁原因"></a>搬迁原因</h4><ul>
+<li>与北京作为首都的战略不符</li>
+<li>城市化发展，能耗高，污染大，对环境影响大</li>
+<li>北京产业结构的需要</li>
+<li>绿色奥运对环境提出要求</li>
+</ul>
+<h4 id="曹妃甸优势条件"><a href="#曹妃甸优势条件" class="headerlink" title="曹妃甸优势条件"></a>曹妃甸优势条件</h4><ul>
+<li>地广，地租低；天然良港，水陆交通便利，运输成本低</li>
+<li>近京津，市场广阔</li>
+<li>国家政策资金支持</li>
+<li>靠近油气聚集地，资源丰富</li>
+<li>环境承载力大</li>
+</ul>
+<h3 id="中关村电子城"><a href="#中关村电子城" class="headerlink" title="中关村电子城"></a>中关村电子城</h3><h4 id="形成发展因素（专业化工业聚集）"><a href="#形成发展因素（专业化工业聚集）" class="headerlink" title="形成发展因素（专业化工业聚集）"></a>形成发展因素（专业化工业聚集）</h4><ul>
+<li>气候条件较好（高科技产业）</li>
+<li>科技；交通；政策；市场</li>
+</ul>
+<h3 id="非洲铁路分布"><a href="#非洲铁路分布" class="headerlink" title="非洲铁路分布"></a>非洲铁路分布</h3><ul>
+<li>沿海多，内陆少；线状；密度稀疏</li>
+</ul>
+<h3 id="交通拥堵"><a href="#交通拥堵" class="headerlink" title="交通拥堵"></a>交通拥堵</h3><h4 id="方案（只能缓解）"><a href="#方案（只能缓解）" class="headerlink" title="方案（只能缓解）"></a>方案（只能缓解）</h4><ul>
+<li>合理规划城市道路</li>
+<li>加强完善交通管理</li>
+<li>优先发展公共交通</li>
+<li>加强基础设施建设</li>
+<li>限制私家车数量，出行等</li>
+</ul>
+<h3 id="过度垦荒（恶性循环）"><a href="#过度垦荒（恶性循环）" class="headerlink" title="过度垦荒（恶性循环）"></a>过度垦荒（恶性循环）</h3><h4 id="影响：生态破坏，环境恶化，生物多样性下降"><a href="#影响：生态破坏，环境恶化，生物多样性下降" class="headerlink" title="影响：生态破坏，环境恶化，生物多样性下降"></a>影响：生态破坏，环境恶化，生物多样性下降</h4><ul>
+<li>围湖造田（长江中下游）-&gt;调蓄能力下降-&gt;湿地减少，水利破坏</li>
+<li>开垦草场-&gt;风沙侵蚀-&gt;草场破坏，荒漠化</li>
+<li>毁林开荒-&gt;森林减少，水土流失-&gt;旱涝、泥石流、滑坡</li>
+</ul>
+<h3 id="长江经济带"><a href="#长江经济带" class="headerlink" title="长江经济带"></a>长江经济带</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><ul>
+<li><strong>一轴：</strong> 长江黄金水道；</li>
+<li><strong>两翼：</strong> 沪蓉、沪瑞；</li>
+<li><strong>三级：</strong> 长江三角洲、长江中游、成渝城市群</li>
+</ul>
+<h4 id="河流航运价值"><a href="#河流航运价值" class="headerlink" title="河流航运价值"></a>河流航运价值</h4><ul>
+<li><strong>自然</strong>（航运能力）：<ul>
+<li>（水文）.流量大且稳定（变化小）；流速慢；冰期短或无（通航时间长）</li>
+<li>（水系）.河道宽阔；干流长，支流多（通航里程长）</li>
+</ul>
+</li>
+<li><strong>人文</strong>（社会经济）：人口多，经济发达</li>
+</ul>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>高中地理</tag>
+        <tag>学考</tag>
+        <tag>笔记整理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>已经过去的一月的小结</title>
+    <url>/posts/75ee39bd/</url>
+    <content><![CDATA[<center>抓住冬天的小尾巴~</center>
+<span id="more"></span>
+
+<h2 id="是正文嗷"><a href="#是正文嗷" class="headerlink" title="是正文嗷"></a>是正文嗷</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>由于疫情，一月份的大多数时间是在家中，也就意味着是在网络上度过的。原本定于一月初的市统考也由此推迟到了开学后（ 也就是在一个星期之后（2.15） ）。然而网课以及寒假期间，我并没有选择去完全的认认真真听课、做笔记、写作业<del>难得的摸鱼🦑机会谁会愿意错过呢？</del>，所以课内的学业进展或多或少的是落下了。至于那不可能做完的寒假作业，也自然是没有完成，还好班主任没有过多追究。在我写下这段文字的时候，<strong>NBFLS</strong>普高部 都已经开课（线下）一个星期了。可能因为都是复习课的缘故，在三大主科（语数英）和我的选考科目（政地技）方面，我并没有感觉有多少疑难，只是写作业的手感大大不如从前了。但是所幸刚刚开学，各位老师们也都比较 <em>仁慈</em> <del>即便像我这样，语文物理生物作业不写不上交也不会来催促</del>。算是谢天谢地了吧。</p>
+<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p><strong>NBFLS</strong>普高部 的寒假只有13天，所以在网课期间“兴风作浪”也便成为了像我这样<del>不爱学习</del>的懒人们的选择。<br>以下便是我的一月份的“战况”(按时间排序)：</p>
+<h4 id="影"><a href="#影" class="headerlink" title="影"></a>影</h4><p>果不其然，动漫还是占据了大部分。<del>看动漫什么的网课摸鱼最爽了</del></p>
+<ul>
+<li><p><strong>电影</strong></p>
+<ul>
+<li><code>独行月球</code> <em><strong>22/100</strong></em></li>
+<li><code>マルドロールの歌 / 马尔多罗之歌</code> <em><strong>81/100</strong></em></li>
+<li><code>乱 (黑泽明)</code> <em><strong>97/100</strong></em></li>
+<li><code>The Dark Knight /蝙蝠侠：黑暗骑士</code> <em><strong>92/100</strong></em></li>
+<li><code>2001: A Space Odyssey / 2001太空漫游</code> <em><strong>93/100</strong></em></li>
+<li><code>Loving Vincent / 至爱梵高·星空之谜</code> <em><strong>90/100</strong></em></li>
+<li><code>Scent of a Woman / 闻香识女人</code> <em><strong>89/100</strong></em></li>
+</ul>
+</li>
+<li><p><strong>动漫</strong></p>
+<ul>
+<li><code>境界の彼方 / 境界的彼方</code> <em><strong>87/100</strong></em></li>
+<li><code>月刊少女野崎くん / 月刊少女野崎君</code> <em><strong>83/100</strong></em></li>
+<li><code>暗殺教室 / 暗杀教室</code> <em><strong>88/100</strong></em></li>
+<li><code>ダンジョンに出会いを求めるのは間違っているだろうか / 在地下城寻求邂逅是否搞错了什么</code> <em><strong>64/100</strong></em></li>
+<li><code>Cyberpunk: Edgerunners / 赛博朋克：边缘行者</code> <em><strong>92/100</strong></em></li>
+<li><code>劇場版 輪るピングドラム［前編］君の列車は生存戦略 / 回转企鹅罐 剧场版 前篇 你的列车是生存战略</code> <em><strong>87/100</strong></em></li>
+<li><code>サクラダリセット / 重启咲良田</code> <em><strong>96/100</strong></em></li>
+<li><code>ノラガミ ARAGOTO / 野良神 第2季</code> <em><strong>91/100</strong></em></li>
+<li><code>メイドインアビス / 来自深渊</code> <em><strong>90/100</strong></em></li>
+<li><code>メイドインアビス 烈日の黄金郷 / 来自深渊：烈日的黄金乡</code> <em><strong>67/100</strong></em></li>
+<li><code>ゴールデンカムイ 3期 / 黄金神威 第三季</code> <em><strong>93/100</strong></em></li>
+<li><code>ハロー・ワールド / HELLO WORLD</code> <em><strong>78/100</strong></em></li>
+<li><code>カイト / A KITE</code> <em><strong>85/100</strong></em></li>
+<li><code>荒川アンダー ザ ブリッジ×ブリッジ / 荒川爆笑团 第二季</code> <em><strong>94/100</strong></em></li>
+<li><code>Serial Experiments: Lain / 玲音</code> <em><strong>98/100</strong></em></li>
+</ul>
+</li>
+</ul>
+<h4 id="音"><a href="#音" class="headerlink" title="音"></a>音</h4><p>专辑基本上都是在网课期间听的，基本每天一张的速度。当然也有几天听的特别多。<br>Blog的文章中也有一篇<a href="https://mjt.asia/posts/1f99454c/">关于<strong>REDЯUM</strong>乐队的科普安利文（点我直达）</a>。</p>
+<ul>
+<li><p><strong>1月听的专辑</strong></p>
+<ul>
+<li><code>Funeral - Arcade Fire</code> <em><strong>93/100</strong></em></li>
+<li><code>剃刀乙女 - 青葉市子</code> <em><strong>92/100</strong></em></li>
+<li><code>Plastic Love - Mariya Takeuchi</code> <em><strong>86/100</strong></em></li>
+<li><code>华北浪革 - 刘森</code> <em><strong>60/100</strong></em></li>
+<li><code>浪潮上岸 / Tears In Ocean - 橘子海 Orange Ocean</code> <em><strong>68/100</strong></em></li>
+<li><code>Three of a Perfect Pair - King Crimson</code> <em><strong>85/100</strong></em></li>
+<li><code>Getz/Gilberto - Stan Getz,Joao Gilberto,Antônio Carlos Jobim,Astrud Gilberto,Luiz Bonfá</code> <em><strong>91/100</strong></em></li>
+<li><code>如意里 - 白象</code> <em><strong>78/100</strong></em></li>
+<li><code>Mirage - Came</code> <em><strong>89/100</strong></em></li>
+<li><code>PACIFIC / Paraiso - 細野晴臣</code> <em><strong>90/100</strong></em></li>
+<li><code>Projections - The Blues Project</code> <em><strong>84/100</strong></em></li>
+<li><code>Raising Hell - Run-D.M.C.</code> <em><strong>80/100</strong></em></li>
+<li><code>鳴罹自成音盤 黄金バット / The Golden Bat - 東京キッド・ブラザーズ</code> <em><strong>93/100</strong></em></li>
+<li><code>Answer songs - REDRUM</code> <em><strong>96/100</strong></em></li>
+<li><code>NON BAND - NON BAND</code> <em><strong>79/100</strong></em></li>
+<li><code>Richard D. James Album - Aphex Twin</code> <em><strong>94/100</strong></em></li>
+<li><code>Mushi 虫 - THE STALIN / ザ・スターリン</code> <em><strong>82/100</strong></em></li>
+<li><code>MELTING MOMENT / メルティング・モーメント - POiSON GiRL FRiEND</code> <em><strong>81/100</strong></em></li>
+<li><code>The Dreaming - Kate Bush</code> <em><strong>92/100</strong></em></li>
+<li><code>Midnight Theme - Manzel</code> <em><strong>94/100</strong></em></li>
+<li><code>Meet the Residents - The Residents</code> <em><strong>90/100</strong></em></li>
+</ul>
+</li>
+</ul>
+<h4 id="书"><a href="#书" class="headerlink" title="书"></a>书</h4><p>1月没读完任何书，实是有些遗憾。<br>正在看的有一本：<code>信号 - [美] 蒂姆·高特罗（Tim Gautreaux） 程应铸 译</code></p>
+<h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><p>玩的不多<del>本来也就没有多少可以玩</del></p>
+<ul>
+<li><code>绯想天则</code> 和 群友 <a href="https://koishi514.ml/"><strong>sci</strong></a> 联机了一次，被完虐（乐。下次继续。<br>附：<a href="https://koishi514.ml/"><strong>sci</strong></a> 一直说要举办群 <code>绯想天则</code> 大赛（</li>
+<li><code>辐射新维加斯</code> 废土邮差继续游荡中~ goes on and on and on. ~</li>
+<li><code>アマツツミ / 天津罪</code> <a href="https://koishi514.ml/"><strong>sci</strong></a> 推荐的 Galgame。玩了个开头，1个cg都还没碰到（乐（x</li>
+</ul>
+<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>如果你一直在关注我的Blog的话，应该会发现Blog的背景图片现在已经被我删去（想当初我是耗费了多少心思在上面啊），因为它实在是严重拖慢了网站的访问速度。<br>我在一月份里对Blog的大大小小的改动还是挺多的。<code>hexo clean &amp;&amp; hexo s -g</code> 已经快要按吐了(x)。一些主要的改动可以去Blog的 <a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong>页面（点我直达）</a>查看。虽说这些折腾多数是蛮无聊且无意义或未达成的，但从中我确实学到了许多。而这是那些乖乖上网课，跟着学校和老师走的同学所不可能得到的。<br>一月份共更新了<strong>六篇</strong>小博文，算是达成了当初给自己定下的“勤更小Blog”的flag。但2月份最多也估计只能周更了。时间实在是不够。就努力提高一下博文的质量吧<del>实现从量变到质变的转化(bushi)</del>。<br>此外，我还依照 <code>Python编程：从入门到实践（第2版）</code> 一书，自学了其中的大部分内容<del>（还不是为了技术选考吗）</del>。但可惜的是，（由于缺少实操(?)）有许多细节内容现在有些已经记忆不清楚了…等暑假再回顾一下，顺便搭一个基于<code>nonebot</code>架构的机器人来玩玩~</p>
+<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p>我在一月二十九日回到了 <strong>NBFLS</strong>普高部 开始进行所谓的 <em>研究性学习</em> 无非就是上课和开会听讲座。<br>讲座的话有两场。我就听了一场不到，因为这实在是浪费时间，也不过多解释了。</p>
+<details> <summary>以下文字充满戾气，谨慎展开！</summary>
+
+<p>但让人比较不满的就是 普高部负责人之一 <strong>张Lily</strong>(化名) 在第一次讲座结束之时“血口喷人”。只因有同学不满学校过早开课，在政府网站上投诉反馈意见，就被<strong>张Lily</strong> “贬为”<strong>罪人之流</strong>。<br>为什么要TM这样搞呢？原因很简单，就是因为<strong>张Lily</strong>低能，没能力，解决问题的方式只能付诸于咒骂与恐吓。所以我才中途（其实也差不多结束了）退场。我替<strong>张Lily</strong>的无能感到悲哀。</p>
+<p><strong>大致原话意思</strong>：</p>
+<p><em>现在，因为某些同学在开学前的某些行为，我们宁外普高部这艘船将要被按停。我只想对这些同学说，如果你们是无意的，那我只能说你们很幼稚；如果你们是有意的，那么我只能说你们又蠢又笨。你拥有请假的权利，拥有不读书的权利，但是你并没有按停我们宁外普高部这艘船的权利，你们的行为影响到了上级对我们的绩效考核，甚至影响到了我们的社会声誉。我是教历史的，大家都记得黄埔军校吧，为新民主主义革命时期贡献了许多人才，在它大门上面就有一个对联，升官发财请走他处，贪生怕死勿入私门，横批革命者来。以后我们也在普高部楼上也挂个对联，什么什么请走他处，什么什么勿入私门，横批想优秀的来，要学习的来。这件事情我希望下不为例，这些同学的所在班级的考核也会受到影响。</em></p>
+</details>
+
+<hr>
+<p>最近的气温有些回升，我也终于脱下了穿着已久的笨重秋裤，双腿得以迈开。<br>我相信这就是幸福</p>
+<h3 id="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"><a href="#最后预祝各位元宵节快乐。春天的脚步在慢慢临近了" class="headerlink" title="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"></a>最后预祝各位元宵节快乐。春天的脚步在慢慢临近了</h3><br>
+
+<h2 id="欢迎评论交流加友链！"><a href="#欢迎评论交流加友链！" class="headerlink" title="欢迎评论交流加友链！"></a>欢迎评论交流加友链！</h2><p>都看到这儿了，不来聊几句吗？👇</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+<span id="more"></span>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
+<hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
+
+<br>
+
+<hr>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
     <url>/posts/1f99454c/</url>
     <content><![CDATA[<blockquote class="blockquote-center">“日本で PORTISHEAD みたいなバンドを作ろう！”</blockquote>  
@@ -609,383 +1339,29 @@
       </tags>
   </entry>
   <entry>
-    <title>已经过去的一月的小结</title>
-    <url>/posts/75ee39bd/</url>
-    <content><![CDATA[<center>抓住冬天的小尾巴~</center>
+    <title>In Rememberance Of</title>
+    <url>/posts/47dfc91e/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
 <span id="more"></span>
 
-<h2 id="是正文嗷"><a href="#是正文嗷" class="headerlink" title="是正文嗷"></a>是正文嗷</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>由于疫情，一月份的大多数时间是在家中，也就意味着是在网络上度过的。原本定于一月初的市统考也由此推迟到了开学后（ 也就是在一个星期之后（2.15） ）。然而网课以及寒假期间，我并没有选择去完全的认认真真听课、做笔记、写作业<del>难得的摸鱼🦑机会谁会愿意错过呢？</del>，所以课内的学业进展或多或少的是落下了。至于那不可能做完的寒假作业，也自然是没有完成，还好班主任没有过多追究。在我写下这段文字的时候，<strong>NBFLS</strong>普高部 都已经开课（线下）一个星期了。可能因为都是复习课的缘故，在三大主科（语数英）和我的选考科目（政地技）方面，我并没有感觉有多少疑难，只是写作业的手感大大不如从前了。但是所幸刚刚开学，各位老师们也都比较 <em>仁慈</em> <del>即便像我这样，语文物理生物作业不写不上交也不会来催促</del>。算是谢天谢地了吧。</p>
-<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p><strong>NBFLS</strong>普高部 的寒假只有13天，所以在网课期间“兴风作浪”也便成为了像我这样<del>不爱学习</del>的懒人们的选择。<br>以下便是我的一月份的“战况”(按时间排序)：</p>
-<h4 id="影"><a href="#影" class="headerlink" title="影"></a>影</h4><p>果不其然，动漫还是占据了大部分。<del>看动漫什么的网课摸鱼最爽了</del></p>
-<ul>
-<li><p><strong>电影</strong></p>
-<ul>
-<li><code>独行月球</code> <em><strong>22/100</strong></em></li>
-<li><code>マルドロールの歌 / 马尔多罗之歌</code> <em><strong>81/100</strong></em></li>
-<li><code>乱 (黑泽明)</code> <em><strong>97/100</strong></em></li>
-<li><code>The Dark Knight /蝙蝠侠：黑暗骑士</code> <em><strong>92/100</strong></em></li>
-<li><code>2001: A Space Odyssey / 2001太空漫游</code> <em><strong>93/100</strong></em></li>
-<li><code>Loving Vincent / 至爱梵高·星空之谜</code> <em><strong>90/100</strong></em></li>
-<li><code>Scent of a Woman / 闻香识女人</code> <em><strong>89/100</strong></em></li>
-</ul>
-</li>
-<li><p><strong>动漫</strong></p>
-<ul>
-<li><code>境界の彼方 / 境界的彼方</code> <em><strong>87/100</strong></em></li>
-<li><code>月刊少女野崎くん / 月刊少女野崎君</code> <em><strong>83/100</strong></em></li>
-<li><code>暗殺教室 / 暗杀教室</code> <em><strong>88/100</strong></em></li>
-<li><code>ダンジョンに出会いを求めるのは間違っているだろうか / 在地下城寻求邂逅是否搞错了什么</code> <em><strong>64/100</strong></em></li>
-<li><code>Cyberpunk: Edgerunners / 赛博朋克：边缘行者</code> <em><strong>92/100</strong></em></li>
-<li><code>劇場版 輪るピングドラム［前編］君の列車は生存戦略 / 回转企鹅罐 剧场版 前篇 你的列车是生存战略</code> <em><strong>87/100</strong></em></li>
-<li><code>サクラダリセット / 重启咲良田</code> <em><strong>96/100</strong></em></li>
-<li><code>ノラガミ ARAGOTO / 野良神 第2季</code> <em><strong>91/100</strong></em></li>
-<li><code>メイドインアビス / 来自深渊</code> <em><strong>90/100</strong></em></li>
-<li><code>メイドインアビス 烈日の黄金郷 / 来自深渊：烈日的黄金乡</code> <em><strong>67/100</strong></em></li>
-<li><code>ゴールデンカムイ 3期 / 黄金神威 第三季</code> <em><strong>93/100</strong></em></li>
-<li><code>ハロー・ワールド / HELLO WORLD</code> <em><strong>78/100</strong></em></li>
-<li><code>カイト / A KITE</code> <em><strong>85/100</strong></em></li>
-<li><code>荒川アンダー ザ ブリッジ×ブリッジ / 荒川爆笑团 第二季</code> <em><strong>94/100</strong></em></li>
-<li><code>Serial Experiments: Lain / 玲音</code> <em><strong>98/100</strong></em></li>
-</ul>
-</li>
-</ul>
-<h4 id="音"><a href="#音" class="headerlink" title="音"></a>音</h4><p>专辑基本上都是在网课期间听的，基本每天一张的速度。当然也有几天听的特别多。<br>Blog的文章中也有一篇<a href="https://mjt.asia/posts/1f99454c/">关于<strong>REDЯUM</strong>乐队的科普安利文（点我直达）</a>。</p>
-<ul>
-<li><p><strong>1月听的专辑</strong></p>
-<ul>
-<li><code>Funeral - Arcade Fire</code> <em><strong>93/100</strong></em></li>
-<li><code>剃刀乙女 - 青葉市子</code> <em><strong>92/100</strong></em></li>
-<li><code>Plastic Love - Mariya Takeuchi</code> <em><strong>86/100</strong></em></li>
-<li><code>华北浪革 - 刘森</code> <em><strong>60/100</strong></em></li>
-<li><code>浪潮上岸 / Tears In Ocean - 橘子海 Orange Ocean</code> <em><strong>68/100</strong></em></li>
-<li><code>Three of a Perfect Pair - King Crimson</code> <em><strong>85/100</strong></em></li>
-<li><code>Getz/Gilberto - Stan Getz,Joao Gilberto,Antônio Carlos Jobim,Astrud Gilberto,Luiz Bonfá</code> <em><strong>91/100</strong></em></li>
-<li><code>如意里 - 白象</code> <em><strong>78/100</strong></em></li>
-<li><code>Mirage - Came</code> <em><strong>89/100</strong></em></li>
-<li><code>PACIFIC / Paraiso - 細野晴臣</code> <em><strong>90/100</strong></em></li>
-<li><code>Projections - The Blues Project</code> <em><strong>84/100</strong></em></li>
-<li><code>Raising Hell - Run-D.M.C.</code> <em><strong>80/100</strong></em></li>
-<li><code>鳴罹自成音盤 黄金バット / The Golden Bat - 東京キッド・ブラザーズ</code> <em><strong>93/100</strong></em></li>
-<li><code>Answer songs - REDRUM</code> <em><strong>96/100</strong></em></li>
-<li><code>NON BAND - NON BAND</code> <em><strong>79/100</strong></em></li>
-<li><code>Richard D. James Album - Aphex Twin</code> <em><strong>94/100</strong></em></li>
-<li><code>Mushi 虫 - THE STALIN / ザ・スターリン</code> <em><strong>82/100</strong></em></li>
-<li><code>MELTING MOMENT / メルティング・モーメント - POiSON GiRL FRiEND</code> <em><strong>81/100</strong></em></li>
-<li><code>The Dreaming - Kate Bush</code> <em><strong>92/100</strong></em></li>
-<li><code>Midnight Theme - Manzel</code> <em><strong>94/100</strong></em></li>
-<li><code>Meet the Residents - The Residents</code> <em><strong>90/100</strong></em></li>
-</ul>
-</li>
-</ul>
-<h4 id="书"><a href="#书" class="headerlink" title="书"></a>书</h4><p>1月没读完任何书，实是有些遗憾。<br>正在看的有一本：<code>信号 - [美] 蒂姆·高特罗（Tim Gautreaux） 程应铸 译</code></p>
-<h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><p>玩的不多<del>本来也就没有多少可以玩</del></p>
-<ul>
-<li><code>绯想天则</code> 和 群友 <a href="https://koishi514.ml/"><strong>sci</strong></a> 联机了一次，被完虐（乐。下次继续。<br>附：<a href="https://koishi514.ml/"><strong>sci</strong></a> 一直说要举办群 <code>绯想天则</code> 大赛（</li>
-<li><code>辐射新维加斯</code> 废土邮差继续游荡中~ goes on and on and on. ~</li>
-<li><code>アマツツミ / 天津罪</code> <a href="https://koishi514.ml/"><strong>sci</strong></a> 推荐的 Galgame。玩了个开头，1个cg都还没碰到（乐（x</li>
-</ul>
-<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>如果你一直在关注我的Blog的话，应该会发现Blog的背景图片现在已经被我删去（想当初我是耗费了多少心思在上面啊），因为它实在是严重拖慢了网站的访问速度。<br>我在一月份里对Blog的大大小小的改动还是挺多的。<code>hexo clean &amp;&amp; hexo s -g</code> 已经快要按吐了(x)。一些主要的改动可以去Blog的 <a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong>页面（点我直达）</a>查看。虽说这些折腾多数是蛮无聊且无意义或未达成的，但从中我确实学到了许多。而这是那些乖乖上网课，跟着学校和老师走的同学所不可能得到的。<br>一月份共更新了<strong>六篇</strong>小博文，算是达成了当初给自己定下的“勤更小Blog”的flag。但2月份最多也估计只能周更了。时间实在是不够。就努力提高一下博文的质量吧<del>实现从量变到质变的转化(bushi)</del>。<br>此外，我还依照 <code>Python编程：从入门到实践（第2版）</code> 一书，自学了其中的大部分内容<del>（还不是为了技术选考吗）</del>。但可惜的是，（由于缺少实操(?)）有许多细节内容现在有些已经记忆不清楚了…等暑假再回顾一下，顺便搭一个基于<code>nonebot</code>架构的机器人来玩玩~</p>
-<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p>我在一月二十九日回到了 <strong>NBFLS</strong>普高部 开始进行所谓的 <em>研究性学习</em> 无非就是上课和开会听讲座。<br>讲座的话有两场。我就听了一场不到，因为这实在是浪费时间，也不过多解释了。</p>
-<details> <summary>以下文字充满戾气，谨慎展开！</summary>
+<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
 
-<p>但让人比较不满的就是 普高部负责人之一 <strong>张Lily</strong>(化名) 在第一次讲座结束之时“血口喷人”。只因有同学不满学校过早开课，在政府网站上投诉反馈意见，就被<strong>张Lily</strong> “贬为”<strong>罪人之流</strong>。<br>为什么要TM这样搞呢？原因很简单，就是因为<strong>张Lily</strong>低能，没能力，解决问题的方式只能付诸于咒骂与恐吓。所以我才中途（其实也差不多结束了）退场。我替<strong>张Lily</strong>的无能感到悲哀。</p>
-<p><strong>大致原话意思</strong>：</p>
-<p><em>现在，因为某些同学在开学前的某些行为，我们宁外普高部这艘船将要被按停。我只想对这些同学说，如果你们是无意的，那我只能说你们很幼稚；如果你们是有意的，那么我只能说你们又蠢又笨。你拥有请假的权利，拥有不读书的权利，但是你并没有按停我们宁外普高部这艘船的权利，你们的行为影响到了上级对我们的绩效考核，甚至影响到了我们的社会声誉。我是教历史的，大家都记得黄埔军校吧，为新民主主义革命时期贡献了许多人才，在它大门上面就有一个对联，升官发财请走他处，贪生怕死勿入私门，横批革命者来。以后我们也在普高部楼上也挂个对联，什么什么请走他处，什么什么勿入私门，横批想优秀的来，要学习的来。这件事情我希望下不为例，这些同学的所在班级的考核也会受到影响。</em></p>
-</details>
+<center><font size="11"><b>1991 ~ 2023</b></font></center>
+
+<br>
+
+<center><b>R.I.P.</b></center>
 
 <hr>
-<p>最近的气温有些回升，我也终于脱下了穿着已久的笨重秋裤，双腿得以迈开。<br>我相信这就是幸福</p>
-<h3 id="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"><a href="#最后预祝各位元宵节快乐。春天的脚步在慢慢临近了" class="headerlink" title="最后预祝各位元宵节快乐。春天的脚步在慢慢临近了"></a>最后预祝各位元宵节快乐。春天的脚步在慢慢临近了</h3><br>
+<br>
 
-<h2 id="欢迎评论交流加友链！"><a href="#欢迎评论交流加友链！" class="headerlink" title="欢迎评论交流加友链！"></a>欢迎评论交流加友链！</h2><p>都看到这儿了，不来聊几句吗？👇</p>
-]]></content>
+<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
       <categories>
         <category>碎碎念</category>
       </categories>
       <tags>
         <tag>碎碎念</tag>
-        <tag>总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Bloglog 23 01 14</title>
-    <url>/posts/db043193/</url>
-    <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
-<span id="more"></span>
-
-<h2 id="如题，这是小Blog的最后一篇日志"><a href="#如题，这是小Blog的最后一篇日志" class="headerlink" title="如题，这是小Blog的最后一篇日志"></a>如题，这是小Blog的最后一篇日志</h2><details> <summary>想知道更多咩？点我吖~</summary>
-
-<h3 id="但是，也是第一篇（乐"><a href="#但是，也是第一篇（乐" class="headerlink" title="但是，也是第一篇（乐"></a>但是，也是第一篇（乐</h3><p>导航栏添加<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面</p>
-<ul>
-<li>模仿某位<del>（忘记名字了的）</del>大佬，将小Blog的日志-Bloglog全部迁移到了<a href="https://mujitogawa.github.io/bloglog/"><strong>结绳</strong></a>页面。今后的Bloglog都将在这里展示，而非单独<del>氵</del>一篇博文。</li>
-<li>之前的单独为篇的Bloglog悉已删除</li>
-<li>这是从此往后唯一一篇会单独列出来的Bloglog</li>
-</ul>
-</details>
-
-<hr>
-<br>
-
-<p>要想提高小Blog的文章的质量，必须少写氵文<del>（废话</del><br>由此，单独列出来的Bloglog遂已无存在的必要。<br>这种东西就像 &lt; br/ &gt; 一样，只是存粹的占位符（x，好似使得Blog内容丰富，实则令其变得臃肿了。</p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链 🎉"></a>欢迎交流评论加友链 🎉</h2>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>Changelog</tag>
-        <tag>Hexo</tag>
-        <tag>Hexo-NexT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2022总结&amp;My Resolutions</title>
-    <url>/posts/b7a38911/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">🐇🐇🐇 Farewell 2022，Hello 2023 🐇🐇🐇</blockquote>
-<span id="more"></span>
-
-<p><del>在2023的第一天写年度总结和展望没毛病吧（x</del><br>似水流年，一年又过去喽，又是新的一年，<del>一年又一年</del><br>2022年又没做成什么事情，2023<del>继续保持！</del>要更加努力嗷</p>
-<hr>
-<h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="线下"><a href="#线下" class="headerlink" title="线下"></a>线下</h3><br>
-
-<p>今年最大的事嘛，无非是完成了浙江省宁波市的中考，遂如愿以663/720的分数顺利从<strong>NBFLS</strong>初中部升级到了<strong>NBFLS</strong>的普高部。（顺带说一句由于我报考了小羟稽，所以我目前身处<strong>NBFLS</strong>的文科创新班<del>（拉倒吧侬</del><br>吐槽归吐槽，也感谢中考，让我认识了<a href="https://blog.chihuo2104.dev/#/">chihuo</a>。没有他就没有我目前的小blog，#<a href="https://mujitogawa.github.io/posts/8cdc15a3/#more">衍生阅读：建站小记</a># 小blog是22.10.01趁着国庆假期搭建的，使用的显而易见，是Github Pages+Hexo。主题起初使用的是bmw，现已更换为拓展更为丰富，页面也更为简洁的<a href="https://github.com/next-theme/hexo-theme-next">NexT</a>。  </p>
-<p>高中生活不是很如意呢，在新的学校负责人的<del>高压</del>领导之下，人人都不得不感叹：<strong>NBFLS</strong>变了，变成<strong>答辩</strong>了(x，而同班的人们也是让人一言难尽…每天讲话跟说谜语一样的班主任，那严重失调的班级男女比例（文创班，你懂的。Female:40, Male:8），还有我真的无法理解为什么体育课都会有那么多人在写作业!）曾经热闹的操场和体育馆现如今在<em>阳光体育</em> 结束后冷冷清清。先别说操场上跑步的人了，就连打篮球的也一直只有三三两两的初中部的人儿。除去体育课外，球场就没有被占满的日子…别人心中所想的，似乎只有写作业写作业写作业。无语了😶…  </p>
-<p>所以，我十分感谢一直在联系我的初中和小学同学们，以及我在高中为数不多的挚友，还有<em>亲爱</em> 的网友们是你们在这个<strong>答辩</strong>环境中给予我以慰藉，让我有整装待发的动力。<br>高中生活似乎也不过就是这些日子，逝者如斯夫，三年寒窗<del>苦读</del>后，又是一场大<del>尻</del>考。在新的一年，与君共勉！  </p>
-<h3 id="线上"><a href="#线上" class="headerlink" title="线上"></a>线上</h3><br>
-
-<p>认识<a href="https://blog.chihuo2104.dev/#/">chihuo</a>后，他把我拉进了<strong>香子兰</strong>群，然后就认识了<a href="https://nekomoe.xyz/">柏园猫</a>，<a href="https://littlesunnybear.com/">bear</a>，<a href="https://mzwing.eu.org/">mzwing</a>，<a href="https://atri.tk/">猫猫</a>，<a href="https://杨冬.top/">杨冬冬</a>，<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>，<a href="https://mk1.io/">Ray</a>，666999HC，<a href="https://github.com/JJ-Shep">Elusive丹泰</a>，<a href="https://github.com/yingyouyu">sfs</a>等群友 ( 好像还有已经不在了的Mike Hey,乐(x) ） 。谢谢你们一年以来<del>（其实大概好像差不多是半年）</del>的陪伴，新年快乐！！✨  </p>
-<hr>
-<h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>此处再次向<a href="https://blog.chihuo2104.dev/#/">chihuo</a>致谢~</p>
-<ul>
-<li><a href="https://skyline.github.com/MujiTogawa/2022">2022 Github Skyline</a></li>
-</ul>
-<p>今年刚刚正式接触coding，但也没做什么咩  </p>
-<ul>
-<li>为<a href="https://github.com/bbg-contributors/bbg">静态博客生成器bbg</a>做了Changelog和Third-party theme edit的文档翻译  </li>
-<li>学校的STEM小项目<a href="https://github.com/MujiTogawa/Genius-Plant-Master">智能植物小管家</a>（其实coding部分基本上都是<a href="https://blog.chihuo2104.dev/#/">chihuo</a>做的…）</li>
-<li>用Github Pages+Hexo搭建了现在的小blog<ul>
-<li>包括Blog-Log在内，<del>氵</del>写了5篇小文章</li>
-</ul>
-</li>
-<li>学习了用Markdown编写文档</li>
-<li>学习了Git的小小基础</li>
-<li>参考<code>Python编程：从入门到实践（第2版）</code>一书，自学了一点点Python基础</li>
-<li>参考<a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs</a>学了一点点点HTML和CSS基础（中的基础（x</li>
-</ul>
-<p>至于立给2023年的Flag，，，</p>
-<ul>
-<li>继续学Python（毕竟要高考的嘛</li>
-<li>继续学HTML+CSS</li>
-<li>学一点JS</li>
-<li>勤更小blog</li>
-<li>去Github上找一些小项目contribute~</li>
-<li>以上</li>
-</ul>
-<hr>
-<h2 id="书影音"><a href="#书影音" class="headerlink" title="书影音"></a>书影音</h2><br>
-
-<p>今年我书影音的主要记录工具还是<strong>豆瓣</strong>，毕竟三合一比较方便。尝试着去使用过IMDB+BANGUMI+Last FM的奇葩记录组合，但个人感觉还是豆瓣方便（虽然现如今豆瓣也快成<strong>答辩</strong>了…)，而且主要是豆瓣能提供<em>书</em> 的记录，目前暂时还找不到替代品。Bangumi姑且还是会去注册并使用的，但是补充观看数据太惹人烦惹~</p>
-<hr>
-<h3 id="书"><a href="#书" class="headerlink" title="书"></a>书</h3><br>
-
-<p>先上数据罢~  </p>
-<img data-src="/images/post/bye2022/books.jpg" width="750" height="1288" alt="books">
-
-<ul>
-<li><code>红拂夜奔  王小波  十月文艺出版社</code> 纸质书</li>
-<li><code>长日将尽  石黑一雄  上海译文出版社</code> 纸质书</li>
-<li><code>发条橙  安东尼·伯吉斯  译林出版社</code> 纸质书</li>
-<li><code>上升的一切必将汇合  弗兰纳里·奥康纳 新星出版社</code> 纸质书</li>
-<li><code>寂寞的游戏  袁哲生  北京联合出版公司</code> 纸质书</li>
-<li><code>白银时代  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>通往夏天的隧道,再見的出口  八目迷  東立</code> 电子书</li>
-<li><code>红楼梦  曹雪芹  人民文学出版社</code> 纸质书</li>
-<li><code>这些人，那些事  吴念真  译林出版社</code> 电子书</li>
-<li><code>强风吹拂  三浦紫苑  广西师范大学出版社</code> 电子书</li>
-<li><code>目送  龙应台  生活·读书·新知三联书店</code> 电子书</li>
-<li><code>当我们谈论爱情时我们在谈论什么  雷蒙德·卡佛  译林出版社</code> 纸质书</li>
-<li><code>沉默的大多数  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>分成两半的子爵  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li>
-<li><code>不存在的骑士  伊塔洛·卡尔维诺  译林出版社</code> 纸质书</li>
-<li><code>看见与被看见 : 《书城》精选（一）  上海三联书店</code> 纸质书</li>
-<li><code>有象 : 《书城》精选（二）  上海三联书店</code> 纸质书</li>
-<li><code>白棉花 : 莫言中篇小说精品系列4  莫言  浙江文艺出版社</code> 纸质书</li>
-<li><code>绿毛水怪  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>文学的事件  何成洲、但汉松、主编  南京大学出版社</code> 纸质书</li>
-<li><code>悉达多 : 一首印度的诗  赫尔曼·黑塞  天津人民出版社</code> 纸质书</li>
-<li><code>革命时期的爱情  王小波  北京十月文艺出版社</code> 纸质书</li>
-<li><code>さよなら絵梨  藤本 タツキ  集英社</code> 电子书</li>
-</ul>
-<p>2022读的书真不算多阿，，，</p>
-<hr>
-<h3 id="影"><a href="#影" class="headerlink" title="影"></a>影</h3><br>
-
-<p>上图！  </p>
-<img data-src="/images/post/bye2022/film.jpg" width="750" height="1281" alt="films">
-
-<br>
-
-<p>破案！<br>看书少的原因是看番看太多辣，，，上图中的“剧集：68”中基本上都是动漫啦，还不包括剧场版，，，  </p>
-<p>值得推荐的：</p>
-<p>动漫：</p>
-<ul>
-<li><code>氷菓</code></li>
-<li><code>かぐや様は告らせたい～天才たちの恋愛頭脳戦～</code></li>
-<li><code>さくら荘のペットな彼女</code></li>
-<li><code>青春ブタ野郎はバニーガール先輩の夢を見ない</code></li>
-<li><code>STEINS;GATE</code></li>
-<li><code>ノラガミ</code></li>
-<li><code>劇場版 空の境界 第五章 矛盾螺旋</code></li>
-<li><code>ゴールデンカムイ</code></li>
-<li><code>ヱヴァンゲリヲン新劇場版：破</code></li>
-<li><code>四畳半神話大系</code></li>
-<li><code>るろうに剣心 -明治剣客浪漫譚- 追憶編</code></li>
-<li><code>モブサイコ100</code></li>
-<li><code>キルラキル</code></li>
-<li><code>PSYCHO-PASS サイコパス</code></li>
-<li><code>東のエデン /</code></li>
-<li><code>輪るピングドラム</code></li>
-<li><code>傷物語</code></li>
-<li><code>リコリス・リコイル</code></li>
-</ul>
-<p>电影就不写推荐了哈哈~</p>
-<hr>
-<h3 id="音"><a href="#音" class="headerlink" title="音"></a>音</h3><br>
-
-<img data-src="/images/post/bye2022/music.jpg" width="750" height="1288" alt="music">
-<img data-src="/images/post/bye2022/wyy.jpg" width="750" height="1296" alt="neteasereport">
-
-<br>
-
-<p>年度专辑推荐在之前的新年祝福里写过啦~ <a href="https://mujitogawa.github.io/posts/4ac7f78/#%F0%9F%8E%8A-%E5%B2%81%E6%9C%AB%E6%94%BE%E9%80%81%EF%BC%88-Xavier%EF%BC%89">点我直达！！</a></p>
-<hr>
-<h2 id="VAN♂游戏"><a href="#VAN♂游戏" class="headerlink" title="VAN♂游戏"></a>VAN♂游戏</h2><ul>
-<li><strong>Fallout:New Vegas</strong>(辐射：新维加斯)<br>Platform: PC<br>经典美式RPG，正在玩。游戏时长：15.5h。（玩之后发现自己有些晕3D，悲（<br></li>
-<li><strong>魔法使いの夜</strong>(魔法使之夜)<br>Platform: PC<br>今年刚出语音重置版，强推！！！但我玩的是老版（悲<br>可以算是玩的第一款Galgame吧，，不过没有H-scene。大体上算是Visual Novel。文字冒险类。与其它Galgame不同的是玩家没有选项，就真·视觉小说呗（x<br></li>
-<li><strong>Kingdom Rush</strong>(王国保卫战)<br>Platform: PC&amp;Android<br>被初中同学安利的游戏。塔防类。目前出了4代，第四代正在玩。<br></li>
-<li><strong>Bleach VS Naruto</strong>(死神VS火影)<br>Platform: PC<br>即时格斗类同人游戏。之前初中在信息课上一直和同学们玩，挺乐（x。目前正式版是出到了版本<code>3.6sp9Xmas</code>（对，是之前圣诞节发布的圣诞节ver.）基于flash制作，而基于Unity制作的<code>4.0beta</code>版也已经发布了。（听说bug比较多…)<br></li>
-<li><strong>東方非想天則 〜 超弩級ギニョルの謎を追え</strong>(东方非想天则)<br>Platform: PC<br>东方Project即时格斗类同人游戏，是香子兰的群友<a href="https://koishi514.ml/blog/bbg/index.html">sci</a>拉我入坑的，目前还很菜，连段不会打，人机也打不过（x</li>
-</ul>
-<hr>
-<h2 id="目前使用的设备"><a href="#目前使用的设备" class="headerlink" title="目前使用的设备"></a>目前使用的设备</h2><br>
-
-<ul>
-<li>Apple iPhone 7</li>
-<li>Apple iPad Air</li>
-<li>Dell Insperation 5570<br>配置如下：<br><code>CPU: i5-8250U@1.60GHz 1.80 GHz(4C+8T)</code><br><code>RAM: 12GB DDR4 2400MHz(4GB+8GB)</code><br><code>Disk: 1TB SATA HDD</code><br><code>GPU: UHD620 + R7 M460</code><br><code>Screen: 1920x1080 60Hz</code><br><code>System: Windows 10 22H2</code></li>
-<li>Sony Walkman A55 (DAP)</li>
-<li>Philips SA1508 (DAP)</li>
-<li>DUNU Titan S (Earphone)</li>
-<li>Apple Earpod (Earphone)</li>
-<li>Skyworth-unknown (TV&amp;Screen)  </li>
-<li>Huawei Watch GT2 (Smart Watch)</li>
-</ul>
-<hr>
-<h2 id="运动"><a href="#运动" class="headerlink" title="运动"></a>运动</h2><br>
-
-<h3 id="田径"><a href="#田径" class="headerlink" title="田径"></a>田径</h3><br>
-
-<p>今年的总跑量大概在300km左右，使用Huawei Watch GT2以及（华为）运动与健康APP记录</p>
-<ul>
-<li>中考体测1000m：3:08:47(电记)</li>
-<li><strong>400m</strong> PB：0:59:11(电记)于校运动会创下</li>
-<li><strong>1000m</strong> PB：3:05:xx(手记)在初三创下</li>
-<li><strong>1500m</strong> PB：4:50:36(电记)于市运动会创下</li>
-<li><strong>3000m</strong> PB：11:03:39(电记)于市运动会创下</li>
-</ul>
-<br>
-
-<h4 id="校运动会"><a href="#校运动会" class="headerlink" title="校运动会"></a>校运动会</h4><p><strong>NBFLS</strong>普高部的体育就是<strong>答辩</strong>啊！连我都可以拿牌子（x<br>鉴于文科创新班悬殊的男女比例，校领导决定该班的男同志每人可以报名3个个人项目（其它班限定是每人2个）然后，我就有了7个项目（x，最后只参加了5个）</p>
-<ul>
-<li>400m</li>
-<li>三级跳远</li>
-<li>4x400m</li>
-</ul>
-<p>其中三级跳远再此之前我连规则都不知道。。。</p>
-<blockquote>
-<p>班主任：别人也不知道规则的，我们重在参与<br>我：*****</p>
-</blockquote>
-<p>然后我就自己瞎琢磨，也没去请教别人，也没看视频教学。瞎练了2个星期，结果连女生的沙坑都进不了…小腿胫骨还死疼死疼的  </p>
-<p>但在运动会前最后一个星期，我终于进坑了。女坑。。而与我一起参加的那位同班怨种同学就没那么幸运了，他不仅没进坑，还把jio崴了…  </p>
-<p>然后，我就拿了银牌，第一是体育生。<strong>NBFLS</strong>你真的就这吗？！</p>
-<img data-src="/images/post/bye2022/3longjump.jpg" width="1000" height="1300" alt="silver">
-
-<p>另外，出乎意料地，400m也冲进了决赛，最终夺铜。<br><strong>NBFLS</strong>的体育就是<strong>答辩</strong>(x</p>
-<img data-src="/images/post/bye2022/400m.jpg" width="1000" height="1400" alt="bronze">
-
-<hr>
-<h4 id="市运动会"><a href="#市运动会" class="headerlink" title="市运动会"></a>市运动会</h4><p>参加市运动会也存粹是个意外。<br>刚开学时候，一天在寝室，隔壁寝室，也是隔壁班的一个同学（就是那位三级跳第一的体育生）突然向我发问：</p>
-<blockquote>
-<p>体育生：你有兴趣来参加田径社吗？训练量不大的，就可能会有个小比赛。<br>我：好呀好呀~</p>
-</blockquote>
-<p>然后就都知道了吧…确实<strong>NBFLS</strong>的田径社不单单训练量不大，而且是根本没有训练。然后在市运动会前两个星期：</p>
-<blockquote>
-<p>体育老师：你们要参加市运动会的，知道的嗷。下礼拜身份证带一下，我给你们报名。<br>我：。。？？？！！！！┗|｀O′|┛ 嗷~</p>
-</blockquote>
-<p>最后结果还过得去吧，至少没有最后一名（x，明年继续（x</p>
-<p>*注：2022年的市运动会在<strong>NBFLS</strong>举行</p>
-<br>
-
-<p><strong>1500m</strong> 小组：9/15; 总名次：16/29; 用时：4:50:36(电记)<br><img data-src="/images/post/bye2022/1500m.jpg" width="1000" height="270" alt="1500m"></p>
-<br>
-
-<p><strong>3000m</strong> 小组：6/13; 总名次：15/27; 用时：11:03:39(电记)<br><img data-src="/images/post/bye2022/3000m.jpg" width="1000" height="270" alt="3000m"></p>
-<br>
-
-<p>留念啦~</p>
-<img data-src="/images/post/bye2022/metaspeedsky.jpg" width="1000" height="1400" alt="留念">
-*注：图中这双橙色的**Asics MetaSpeed Sky**是我的市运动会战靴，在此感谢将它借予我的**K**同学~
-
-<hr>
-<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><br>
-
-<h4 id="鞋子"><a href="#鞋子" class="headerlink" title="鞋子"></a>鞋子</h4><p>今年新买了三双鞋子</p>
-<ul>
-<li><strong>361 Spire S</strong> (慢跑综合训练)</li>
-<li><strong>乔丹体育 飞影</strong> (速度训练)</li>
-<li><strong>乔丹体育 Titan 3</strong> (篮球)</li>
-</ul>
-<p>来上图~</p>
-<ol>
-<li><strong>361 Spire S</strong><img data-src="/images/post/bye2022/spires.jpg" width="602" height="381" alt="361spires">
-这双鞋买来主要是为了替代我那两双日益战损的**Asics Gel Flux4**的。
-定位是支撑+顶缓。
-使用下来上限比**Asics Gel Flux4**要高。综合训练加速时不拖沓，前掌也不泄力
-但是感觉并不是十分适合我这样的小体重跑者，另外前掌偏薄，偏窄，也不怎么耐磨，更适合中后掌跑法的朋友们。</li>
-</ol>
-<p>*题外话：这双鞋我买来一个多月后就发布了二代，听说提升挺大。发布后这双也立马降价，血亏！</p>
-<hr>
-<ol start="2">
-<li><strong>乔丹体育 飞影</strong>  <img data-src="/images/post/bye2022/feiying.jpg" width="596" height="877" alt="飞影">
-这是我的第一双厚底跑鞋，（注意是**飞影训练版一代**，不是**飞影PB**）。初上jio这体验真的绝了。这透气！这轻质！这缓震！这回弹！这价格！我直接吹爆！！然后跑了两个多月，天哪，这泡棉，中底衰竭，亲妈都不认了，什么叫判若两鞋阿（x
-所以说选购建议：小体重跑者，有一定跑步基础的有多双训练鞋的朋友的夏季训练鞋之一。其实能别买就别买啦，不管是一代还是二代。真的看重性价比的就去买**飞影PB 2.0**。</li>
-</ol>
-<hr>
-<ol start="3">
-<li><strong>乔丹体育 Titan 3</strong><img data-src="/images/post/bye2022/titan3.jpg" width="660" height="499" alt="titan3">
-我的第一双篮球鞋，体育课报了篮球，遂去买了一双。高性价比的产物。中规中矩。买的篮球鞋仅此一双，也不好评价。</li>
-</ol>
-<hr>
-<h4 id="羽毛球"><a href="#羽毛球" class="headerlink" title="羽毛球"></a>羽毛球</h4><br>
-
-<p>羽毛球偶尔打打。今年买了（其实是我爸买来（给自己玩（x））两幅拍子</p>
-<ul>
-<li><strong>Yonex NF700</strong> (4U)</li>
-<li><strong>Yonex Arc-11</strong>(弓11) (3U)</li>
-</ul>
-<p>之前家里都是<strong>凯胜</strong>和<strong>李宁</strong>的拍子。<strong>Yonex</strong>的买来尝尝鲜。<br>羽毛球的话用的是<strong>Yonex AS-05</strong>和红<strong>威肯</strong>  </p>
-<hr>
-<h2 id="欢迎交流评论加友链-🎉"><a href="#欢迎交流评论加友链-🎉" class="headerlink" title="欢迎交流评论加友链~🎉"></a>欢迎交流评论加友链~🎉</h2><p>谢谢你有耐心读到这里⭐再次祝各位新年快乐呀~</p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>展望</tag>
-        <tag>年终总结</tag>
-        <tag>2023</tag>
-        <tag>2022</tag>
+        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -1033,379 +1409,188 @@
       </tags>
   </entry>
   <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+    <title>Otherwise My New Year Greetings</title>
+    <url>/posts/4ac7f78/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
 <span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+
+<h2 id="🧨-新年快乐"><a href="#🧨-新年快乐" class="headerlink" title="🧨 新年快乐"></a>🧨 新年快乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=20787183&amp;auto=1&amp;height=66"></iframe>
+
+<p>尽管显得有些小题大做，但在此，我仍要向我所有的朋友们，以及在浏览这篇博文的你献上我最真挚的祝福。<br><strong>HAPPY NEW YEAR！！！</strong></p>
+<p><img data-src="https://ttfou.com/images/2022/12/21/dd99ece0bab43569619bc9bab5f60da2.jpg" alt="谨贺新年" title="谨贺新年"></p>
 <hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
 <hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
+<h2 id="🎊-岁末放送（-Xavier）"><a href="#🎊-岁末放送（-Xavier）" class="headerlink" title="🎊 岁末放送（@Xavier）"></a>🎊 岁末放送（@Xavier）</h2><p>22年，我听的专辑虽说不多，但也不算少了吧…<br>现在借此良机便想着<del>强行安利</del>与大家分享一下——选了二十张自认为<del>容易成功安利</del>的“<em>精华</em>”，与大家分享~<br>🎊 <em><strong>Move on Forward</strong></em> 🎊</p>
+<p>&lt;&lt;&lt;&lt; 排序无先后 &gt;&gt;&gt;&gt; </p>
+<hr>
+<hr>
+<h3 id="华语"><a href="#华语" class="headerlink" title="华语"></a>华语</h3><h4 id="他在时间门外"><a href="#他在时间门外" class="headerlink" title="他在时间门外"></a>他在时间门外</h4><p><img data-src="https://ttfou.com/images/2022/12/21/cf49fc9697564daa4f1422d0e09d869c.jpg" alt="他在时间门外" title="他在时间门外"></p>
+<p><strong>Artist:</strong> 哪吒<br><strong>Genre:</strong> 摇滚/Rock<br><strong>Label:</strong> 哪吒<br><strong>Recording:</strong> 2012-12-20<br><strong>Barcode:</strong> 4988006798335<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1764282/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=36538">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003m1iNo4SbEh7">QQ音乐</a>  </p>
+<hr>
+<h4 id="菊花夜行军"><a href="#菊花夜行军" class="headerlink" title="菊花夜行军"></a>菊花夜行军</h4><p><img data-src="https://ttfou.com/images/2022/12/21/3295d67d7e3e8bb784aaa517c0dbe33a.jpg" alt="菊花夜行军" title="菊花夜行军"></p>
+<p><strong>Artist:</strong> 交工樂隊<br><strong>Genre:</strong> 民谣/Folk Rock、摇滚/Rock、Chinese Classical<br><strong>Label:</strong> 大大樹系列–TMCD-2002<br><strong>Recording:</strong> 2001<br><strong>Barcode:</strong> 4716483020027<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1920130/">豆瓣</a>、<a href="https://www.discogs.com/master/1097740-%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A-%E8%8F%8A%E8%8A%B1%E5%A4%9C%E8%A1%8C%E8%BB%8D-The-Night-March-of-the-Chrysanthemums">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
+<hr>
+<h4 id="醜奴兒"><a href="#醜奴兒" class="headerlink" title="醜奴兒"></a>醜奴兒</h4><p><img data-src="https://ttfou.com/images/2022/12/21/92ceb9fbcfc01b6d7e497fe809ae9dc7.jpg" alt="醜奴兒" title="醜奴兒"></p>
+<p><strong>Artist:</strong> 草東沒有派對<br><strong>Genre:</strong> 摇滚/Rock、流行/Pop、另类/Alternative<br><strong>Label:</strong> 草東沒有派對<br><strong>Recording:</strong> 2016-04-30<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26753594/">豆瓣</a>、<a href="https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
+<hr>
+<h4 id="七七连环X人调"><a href="#七七连环X人调" class="headerlink" title="七七连环X人调"></a>七七连环X人调</h4><p><img data-src="https://ttfou.com/images/2022/12/22/a69bcc751f2e2050b041087985a8d92b.jpg" alt="七七连环X人调" title="七七连环X人调">  </p>
+<p><strong>Artist:</strong> 周二下午谁没来？<br><strong>Genre:</strong> 摇滚/Rock、实验/Experimental<br><strong>Label:</strong> 周二下午谁没来？<br><strong>Recording:</strong> 2015-01-01<br><strong>Barcode:</strong> WEBM<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26829903/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3126178">网易云</a>  </p>
+<hr>
+<hr>
+<h3 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h3><h4 id="REDЯUM"><a href="#REDЯUM" class="headerlink" title="REDЯUM"></a>REDЯUM</h4><p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDЯUM" title="REDЯUM">  </p>
+<p><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> 摇滚/Rock、电子/Electronic<br><strong>Label:</strong> Embryo–none, Gianormous Records–ORO-1018<br><strong>Recording:</strong> 1999-05-26<br><strong>Barcode:</strong> 4997184100182<br><strong>Links:</strong> <a href="https://music.douban.com/subject/5266793/">豆瓣</a>、<a href="https://www.discogs.com/release/11257318-Redrum-Redrum">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2987758">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=M5oPahDZnRFP">QQ音乐</a>  </p>
+<hr>
+<h4 id="頭脳警察1"><a href="#頭脳警察1" class="headerlink" title="頭脳警察1"></a>頭脳警察1</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8f88af10ce8b2be1614cbff82606e230.jpg" alt="頭脳警察1" title="頭脳警察1">  </p>
+<p><strong>Artist:</strong> 頭脳警察<br><strong>Genre:</strong> 摇滚/Rock、现场/Live、原声/Acoustic<br><strong>Label:</strong> Be-Witch Record-none<br><strong>Recording:</strong> 1972-03-21<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2971946/">豆瓣</a>、<a href="https://www.discogs.com/master/169979-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F1">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2085917">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002BBvUd4T4mv4">QQ音乐</a>  </p>
+<hr>
+<h4 id="玉姫様"><a href="#玉姫様" class="headerlink" title="玉姫様"></a>玉姫様</h4><p><img data-src="https://ttfou.com/images/2022/12/22/276bc318a6a11b0dffc82f2c815589b8.jpg" alt="玉姫様" title="玉姫様">  </p>
+<p><strong>Artist:</strong> 戸川純<br><strong>Genre:</strong> 新浪潮/New Wave、摇滚/Rock、合成器/Synth-pop<br><strong>Label:</strong> Alfa-38XA-22, Yen Records-38XA-22<br><strong>Recording:</strong> 1984-01-24<br><strong>Barcode:</strong> 4988024015254<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1871948/">豆瓣</a>、<a href="https://www.discogs.com/master/458429-%E6%88%B8%E5%B7%9D%E7%B4%94-%E7%8E%89%E5%A7%AB%E6%A7%98">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2650070">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=DjVjKDMxdUbm">QQ音乐</a>  </p>
+<hr>
+<h4 id="III"><a href="#III" class="headerlink" title="III"></a>III</h4><p><img data-src="https://ttfou.com/images/2022/12/22/0135c73dfdedf712816103d0a25f36e7.jpg" alt="III" title="III">  </p>
+<p><strong>Artist:</strong> 頭士奈生樹<br><strong>Genre:</strong> 摇滚/Folk Rock、前卫/Prog Rock、原声/Acoustic<br><strong>Label:</strong> Org Records-ORG-020cd<br><strong>Recording:</strong> 2005-01-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/30174788/">豆瓣</a>、<a href="https://www.discogs.com/master/660095-%E9%A0%AD%E5%A3%AB%E5%A5%88%E7%94%9F%E6%A8%B9-III">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=82619910">网易云</a></p>
+<hr>
+<h4 id="ワインレッドの心"><a href="#ワインレッドの心" class="headerlink" title="ワインレッドの心"></a>ワインレッドの心</h4><p><img data-src="https://ttfou.com/images/2022/12/22/e853a45e15893489c72c95f38df1a2d4.jpg" alt="ワインレッドの心" title="ワインレッドの心">  </p>
+<p><strong>Artist:</strong> 玉置浩二<br><strong>Genre:</strong> 流行/Pop<br><strong>Label:</strong> Fun House-FHCF-2447<br><strong>Recording:</strong> 1999-02-24<br><strong>Barcode:</strong> 9787885704162<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1449775/">豆瓣</a>、<a href="https://www.discogs.com/master/1009542-%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C-%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E5%BF%83">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=49287">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=iGJ2w2U">QQ音乐</a>  </p>
+<hr>
+<h4 id="MIZUTANI"><a href="#MIZUTANI" class="headerlink" title="MIZUTANI"></a>MIZUTANI</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8653e9ae1215a1ad0f28a154b0dc90f3.jpg" alt="MIZUTANI" title="MIZUTANI">  </p>
+<p><strong>Artist:</strong> Les Rallizes DéNudés<br><strong>Genre:</strong> 迷幻摇滚/Psychedelic Rock、民谣/Folk Rock、噪音/Noise<br><strong>Label:</strong> Rivista Inc.<br><strong>Recording:</strong> 1991-08-15<br><strong>Barcode:</strong> 0823564603322<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2082257/">豆瓣</a>、<a href="https://www.discogs.com/release/24800570-Mizutani-Les-Rallizes-Denudes-Mizutani-Les-Rallizes-D%C3%A9nud%C3%A9s">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=34861209">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004DYJCf0ue1sa">QQ音乐</a>  </p>
+<hr>
+<h4 id="First-Love"><a href="#First-Love" class="headerlink" title="First Love"></a>First Love</h4><p><img data-src="https://ttfou.com/images/2022/12/22/05761627df5db3fdd20abfc3b715f3aa.jpg" alt="First Love" title="First Love">  </p>
+<p><strong>Artist:</strong> 宇多田ヒカル<br><strong>Genre:</strong> 流行/J-pop、节奏布鲁斯/R&amp;B<br><strong>Label:</strong> Eastworld-TOCT-24067<br><strong>Recording:</strong> 1999-03-10<br><strong>Barcode:</strong> 4988006158764<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1397751/">豆瓣</a>、<a href="https://www.discogs.com/master/184564-Utada-Hikaru-First-Love">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2093862">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002SwRbo2GrlLp">QQ音乐</a>  </p>
+<hr>
+<hr>
+<h3 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h3><h4 id="Blue-Lullaby"><a href="#Blue-Lullaby" class="headerlink" title="Blue Lullaby"></a>Blue Lullaby</h4><p><img data-src="https://ttfou.com/images/2022/12/29/a5c241279b035edadf7ce72a84683963.jpg" alt="Blue Lullaby" title="Blue Lullaby">  </p>
+<p><strong>Artist:</strong> Wolf Alice<br><strong>Genre:</strong> 另类/Alternative、流行/Pop、原声/Acoustic<br><strong>Label:</strong> Dirty Hit-none<br><strong>Recording:</strong> 2022-06-24<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/35906517/">豆瓣</a>、<a href="https://www.discogs.com/release/23702975-Wolf-Alice-Blue-Lullaby">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=146272503">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003bltQn2bdw5Z">QQ音乐</a>  </p>
+<hr>
+<h4 id="Islands"><a href="#Islands" class="headerlink" title="Islands"></a>Islands</h4><p><img data-src="https://ttfou.com/images/2022/12/29/e629e8f0353afad0d39c83b0eba80116.jpg" alt="Islands" title="Islands">  </p>
+<p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 前卫/Prog Rock、艺术/Art Rock<br><strong>Label:</strong> Island Records-ILPS 9175<br><strong>Recording:</strong> 1971-12-03<br><strong>Barcode:</strong> 0017046150521<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1458449/">豆瓣</a>、<a href="https://www.discogs.com/master/436-King-Crimson-Islands">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1855512">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002S9lOV3FaZon">QQ音乐</a>  </p>
+<hr>
+<h4 id="Ten-New-Songs"><a href="#Ten-New-Songs" class="headerlink" title="Ten New Songs"></a>Ten New Songs</h4><p><img data-src="https://ttfou.com/images/2022/12/29/4c087edf932ef07bcd60562f1c8ece1a.png" alt="Ten New Songs" title="Ten New Songs">  </p>
+<p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 民谣/Folk Rock、抒情/Ballad<br><strong>Label:</strong> Columbia-COL 501202 2<br><strong>Recording:</strong> 2001-10-09<br><strong>Barcode:</strong> 5099750120224<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1405187/">豆瓣</a>、<a href="https://www.discogs.com/master/4253-Leonard-Cohen-Ten-New-Songs">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1941065">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004SWvKW0bAgSI">QQ音乐</a>  </p>
+<hr>
+<h4 id="Closer"><a href="#Closer" class="headerlink" title="Closer"></a>Closer</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bed2fc3dd5f1be107e4fd0670266bdf3.png" alt="Closer" title="Closer">  </p>
+<p><strong>Artist:</strong> Joy Division<br><strong>Genre:</strong> 后朋克/Post Punk、摇滚/Rock、新浪潮/New Wave<br><strong>Label:</strong> Factory-FACT. 25<br><strong>Recording:</strong> 1980-07-18<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1401774/">豆瓣</a>、<a href="https://www.discogs.com/master/4734-Joy-Division-Closer">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1727473">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004ajy260DiSN1">QQ音乐</a>  </p>
+<hr>
+<h4 id="The-Queen-is-Dead"><a href="#The-Queen-is-Dead" class="headerlink" title="The Queen is Dead"></a>The Queen is Dead</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bca2e42e923dc453551ed1c7ea78c04e.png" alt="The Queen is Dead" title="The Queen is Dead">  </p>
+<p><strong>Artist:</strong> The Smiths<br><strong>Genre:</strong> 另类/Alternative、独立/Indie Rock<br><strong>Label:</strong> Megadisc-MD 7961<br><strong>Recording:</strong> 1986-06-16<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1394616/">豆瓣</a>、<a href="https://www.discogs.com/master/20137-The-Smiths-The-Queen-Is-Dead">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1802911">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002T3Q3D38LLDv">QQ音乐</a>  </p>
+<hr>
+<h3 id="世界音乐"><a href="#世界音乐" class="headerlink" title="世界音乐"></a>世界音乐</h3><h4 id="荒腔走板选段"><a href="#荒腔走板选段" class="headerlink" title="荒腔走板选段"></a>荒腔走板选段</h4><p><img data-src="https://ttfou.com/images/2022/12/29/8c873a82737ea6c231db8e6d27a54c90.png" alt="荒腔走板选段" title="荒腔走板选段">  </p>
+<p><strong>Artist:</strong> 大忘杠<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> 北京树音乐公司<br><strong>Recording:</strong> 2014-11-29<br><strong>Barcode:</strong> 9787798505740<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26277320/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3112226">网易云（灰色）</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002rqYzX2A3GmO">QQ音乐</a>  </p>
+<hr>
+<h4 id="Xinjiang"><a href="#Xinjiang" class="headerlink" title="Xinjiang"></a>Xinjiang</h4><p><img data-src="https://ttfou.com/images/2022/12/29/3a5af289841855079361fac5e28a0cda.jpg" alt="Xinjiang" title="Xinjiang">  </p>
+<p><strong>Artist:</strong> Kink Gong<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> Discrepant–CREP-02<br><strong>Recording:</strong> 2011-12-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/27013947/">豆瓣</a>、<a href="https://www.discogs.com/release/3162225-Kink-Gong-Xinjiang">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=73264263">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002FgNO23w4SrL">QQ音乐</a>  </p>
+<hr>
+<h4 id="Cycles"><a href="#Cycles" class="headerlink" title="Cycles"></a>Cycles</h4><p><img data-src="https://ttfou.com/images/2022/12/29/cc5db2d18d2264fa1dd0ca1b807ba4e5.jpg" alt="Cycles" title="Cycles">  </p>
+<p><strong>Artist:</strong> David Darling<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> ECM Records-ECM 1219<br><strong>Recording:</strong> 1982-06-01<br><strong>Barcode:</strong> 0042284317221<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1460024/">豆瓣</a>、<a href="https://www.discogs.com/master/168582-David-Darling-Cycles">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=126845">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/001tf67X3vJ8oc">QQ音乐</a>  </p>
+<hr>
+<hr>
+<h3 id="欢迎交流评论加友链🎉"><a href="#欢迎交流评论加友链🎉" class="headerlink" title="欢迎交流评论加友链🎉"></a>欢迎交流评论加友链🎉</h3>]]></content>
       <categories>
         <category>碎碎念</category>
-        <category>Blog-Log</category>
+        <category>祝福</category>
       </categories>
       <tags>
         <tag>碎碎念</tag>
         <tag>庆祝</tag>
-        <tag>建站</tag>
+        <tag>节日</tag>
       </tags>
   </entry>
   <entry>
-    <title>地理必修一、二教材重点案例</title>
-    <url>/posts/8e3fb02e/</url>
-    <content><![CDATA[<p>地理学考临近，现将（人教版）地理必修一，必修二书中的重点案例提炼概括。以便复习使用。若有错误，还望指正！</p>
+    <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
+    <url>/posts/936f4e60/</url>
+    <content><![CDATA[<p>无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；<strong>简单、优雅、快速</strong>！人人可用~</p>
 <span id="more"></span>
 
-<h2 id="必修一案例"><a href="#必修一案例" class="headerlink" title="必修一案例"></a>必修一案例</h2><h3 id="火星概况"><a href="#火星概况" class="headerlink" title="火星概况"></a>火星概况</h3><ul>
-<li>表层土壤富含Fe（红色星球）；大气稀薄，CO2含量＞95%；表面温差大；常年大风沙尘暴</li>
-</ul>
-<h3 id="宁夏沙田"><a href="#宁夏沙田" class="headerlink" title="宁夏沙田"></a>宁夏沙田</h3><h4 id="蓄水保墒"><a href="#蓄水保墒" class="headerlink" title="蓄水保墒"></a>蓄水保墒</h4><ul>
-<li>避免阳光直射-&gt;抑制蒸发，减少蒸发量</li>
-<li>增加地表粗糙程度，削弱地表径流，增加下渗量</li>
-</ul>
-<h3 id="盐场"><a href="#盐场" class="headerlink" title="盐场"></a>盐场</h3><h4 id="我国四大盐场"><a href="#我国四大盐场" class="headerlink" title="我国四大盐场"></a>我国四大盐场</h4><ul>
-<li>长芦汉沽盐场；淮北盐场；布袋盐场；莺歌湖盐场</li>
-</ul>
-<h4 id="选址"><a href="#选址" class="headerlink" title="选址"></a>选址</h4><ul>
-<li>地势：开阔平坦；背风坡（雨天少）</li>
-<li>海滩：泥质海滩（提高产量）</li>
-<li>气候：晴多雨少，平均风速大</li>
-<li>海水：盐度高，附近无大河注入</li>
-</ul>
-<h3 id="钱塘江大潮"><a href="#钱塘江大潮" class="headerlink" title="钱塘江大潮"></a>钱塘江大潮</h3><h4 id="成因"><a href="#成因" class="headerlink" title="成因"></a>成因</h4><ul>
-<li>八月十八，日月地一线，引力最大</li>
-<li>喇叭口，肚大口小</li>
-<li>东南风（夏季风）盛行，风助潮涌</li>
-<li>钱塘江水量丰富，江水海水相顶托</li>
-</ul>
-<h3 id="渔场（舟山，纽芬兰）"><a href="#渔场（舟山，纽芬兰）" class="headerlink" title="渔场（舟山，纽芬兰）"></a>渔场（舟山，纽芬兰）</h3><h4 id="选址-gt-饵料-gt-浮游生物"><a href="#选址-gt-饵料-gt-浮游生物" class="headerlink" title="选址->饵料->浮游生物"></a>选址-&gt;饵料-&gt;浮游生物</h4><ul>
-<li>洋流：寒暖流、上升流</li>
-<li>入海口：无机盐</li>
-<li>大陆架：浅海</li>
-<li>中纬度：季节变化大-&gt;水温-&gt;风-&gt;（翻搅海水）无机物</li>
-</ul>
-<h4 id="舟山渔场"><a href="#舟山渔场" class="headerlink" title="舟山渔场"></a>舟山渔场</h4><ul>
-<li>寒暖流交汇</li>
-<li>淡水河流注入，营养物质丰富</li>
-<li>大陆架宽广，浅海光照充足，有利于藻类和浮游生物生长，饵料丰富</li>
-<li>温带海区季节变化大，海底受到扰动</li>
-</ul>
-<h3 id="渤海海冰"><a href="#渤海海冰" class="headerlink" title="渤海海冰"></a>渤海海冰</h3><h4 id="形成"><a href="#形成" class="headerlink" title="形成"></a>形成</h4><ul>
-<li>温度低（陆地比热容小降温快）</li>
-<li>盐度低</li>
-<li>深度浅</li>
-<li>海域地形封闭，海水扰动性差</li>
-</ul>
-<h3 id="fast天眼"><a href="#fast天眼" class="headerlink" title="fast天眼"></a>fast天眼</h3><h4 id="选址优势"><a href="#选址优势" class="headerlink" title="选址优势"></a>选址优势</h4><ul>
-<li>地形-&gt;土石工程量小</li>
-<li>底部裂隙-&gt;排水投资少</li>
-<li>居民少-&gt;搬迁工程量小</li>
-</ul>
-<h3 id="丹娘沙丘"><a href="#丹娘沙丘" class="headerlink" title="丹娘沙丘"></a>丹娘沙丘</h3><h4 id="成因（特例-湿润地区）"><a href="#成因（特例-湿润地区）" class="headerlink" title="成因（特例-湿润地区）"></a>成因（特例-湿润地区）</h4><ul>
-<li>气候较湿润</li>
-<li>干湿季分明</li>
-<li>干季河漫滩裸露在外（原料）</li>
-<li>冬春季多大风（动力）</li>
-</ul>
-<h3 id="喀斯特峰丛山地"><a href="#喀斯特峰丛山地" class="headerlink" title="喀斯特峰丛山地"></a>喀斯特峰丛山地</h3><h4 id="利弊"><a href="#利弊" class="headerlink" title="利弊"></a>利弊</h4><ul>
-<li><p>利</p>
-<ul>
-<li>地貌：旅游资源</li>
-<li>（地貌）洞穴：便利</li>
-</ul>
-</li>
-<li><p>不利（经济落后）</p>
-<ul>
-<li>生态-脆弱</li>
-<li>农业-落后</li>
-<li>交通-不便</li>
-</ul>
-</li>
-</ul>
-<h4 id="方案（经济-生态）"><a href="#方案（经济-生态）" class="headerlink" title="方案（经济+生态）"></a>方案（经济+生态）</h4><ul>
-<li>水土保持，涵养水源：工程、林草、农艺…</li>
-<li>立体生态农业：考虑地貌结构、生态与农业经济的发展</li>
-<li>异地生态移民</li>
-</ul>
-<h3 id="红树林"><a href="#红树林" class="headerlink" title="红树林"></a>红树林</h3><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><ul>
-<li>支柱根&amp;板状根：防止风浪冲击，适应淤泥环境</li>
-<li>呼吸根：退潮（甚至潮水淹没）时用以通气</li>
-<li>“胎生”：适应滩涂&amp;海流，增强生存能力</li>
-<li>可排盐分的腺体：适应海水浸泡（净化海水，减少赤潮现象）</li>
-</ul>
-<h4 id="意义（湿地生态）"><a href="#意义（湿地生态）" class="headerlink" title="意义（湿地生态）"></a>意义（湿地生态）</h4><ul>
-<li>防风防浪，促淤保滩，固岸护堤</li>
-<li>净化海水空气</li>
-<li>保护生物多样性</li>
-</ul>
-<h3 id="精品公园"><a href="#精品公园" class="headerlink" title="精品公园"></a>精品公园</h3><h4 id="皇城根"><a href="#皇城根" class="headerlink" title="皇城根"></a>皇城根</h4><ul>
-<li>种植当地树种：存活率高</li>
-<li>多树种混栽：生态复杂，多样性</li>
-<li>乔灌草结合：高覆盖率，垂直结构</li>
-<li>绿化率高：缓解城市热岛</li>
-</ul>
-<h3 id="盐碱地"><a href="#盐碱地" class="headerlink" title="盐碱地"></a>盐碱地</h3><h4 id="盐碱地成因"><a href="#盐碱地成因" class="headerlink" title="盐碱地成因"></a>盐碱地成因</h4><ul>
-<li>地形低洼，地下水位高</li>
-<li>雨季降水量大且集中，地下水位上涨</li>
-<li>旱季气温高蒸发旺，盐分集中在地表（毛细作用）</li>
-<li>不合理灌溉，大小浸灌，只灌不排</li>
-</ul>
-<h4 id="缓解方案"><a href="#缓解方案" class="headerlink" title="缓解方案"></a>缓解方案</h4><ul>
-<li>引淡淋盐</li>
-<li>井灌井排</li>
-<li>覆盖</li>
-<li>农业生物措施</li>
-</ul>
-<h3 id="雨水花园-amp-海绵城市"><a href="#雨水花园-amp-海绵城市" class="headerlink" title="雨水花园&amp;海绵城市"></a>雨水花园&amp;海绵城市</h3><h4 id="雨水花园"><a href="#雨水花园" class="headerlink" title="雨水花园"></a>雨水花园</h4><ul>
-<li>缓解城市内涝（增加下渗，净化、积蓄、利用雨水）</li>
-<li>缓解热岛效应（增加空气湿度，调节气温）</li>
-<li>休闲观赏景观</li>
-<li>生物栖息地</li>
-</ul>
-<hr>
-<h2 id="必修二案例"><a href="#必修二案例" class="headerlink" title="必修二案例"></a>必修二案例</h2><h3 id="长安城空间结构"><a href="#长安城空间结构" class="headerlink" title="长安城空间结构"></a>长安城空间结构</h3><ul>
-<li>棋盘式布局，皇权思想</li>
-<li>西市靠近居民区，为国际贸易中心，外国商人从西来</li>
-</ul>
-<h3 id="哈尼梯田"><a href="#哈尼梯田" class="headerlink" title="哈尼梯田"></a>哈尼梯田</h3><h4 id="自然条件"><a href="#自然条件" class="headerlink" title="自然条件"></a>自然条件</h4><ul>
-<li>气候：北回归线以南，热带、亚热带季风区，全年高温，降水丰沛（降水量不稳定，季分配不均）</li>
-<li>地形：陡峭、崎岖、多山区</li>
-</ul>
-<h4 id="半山腰建造聚落"><a href="#半山腰建造聚落" class="headerlink" title="半山腰建造聚落"></a>半山腰建造聚落</h4><ul>
-<li>半山腰发展农业可能会污染水源。把村庄建在梯田上方，森林下方，以获取清洁水源</li>
-<li>河谷地带，气候湿热，易受洪水威胁，不宜居住</li>
-<li>森林涵养水源，延缓水的汇集、地表径流速度。增加下渗，地下径流</li>
-</ul>
-<h3 id="亚洲水稻"><a href="#亚洲水稻" class="headerlink" title="亚洲水稻"></a>亚洲水稻</h3><h4 id="分布"><a href="#分布" class="headerlink" title="分布"></a>分布</h4><ul>
-<li>东亚、南亚、东南亚</li>
-<li>温带、热带、亚热带季风区</li>
-</ul>
-<h4 id="有利条件"><a href="#有利条件" class="headerlink" title="有利条件"></a>有利条件</h4><ul>
-<li><strong>自然</strong><ul>
-<li>季风气候，高温多雨，雨热同期</li>
-<li>地形平坦，土壤肥沃</li>
-<li>水源充足</li>
-</ul>
-</li>
-<li><strong>人文</strong><ul>
-<li>劳动力丰富</li>
-<li>消费市场广阔</li>
-<li>历史悠久，经验丰富</li>
-</ul>
-</li>
-</ul>
-<h4 id="不利条件"><a href="#不利条件" class="headerlink" title="不利条件"></a>不利条件</h4><ul>
-<li>季风不稳定，旱涝频繁 -（解决方案）加强水利工程建设</li>
-<li>技术低</li>
-</ul>
-<h3 id="反季节供应"><a href="#反季节供应" class="headerlink" title="反季节供应"></a>反季节供应</h3><h4 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h4><ul>
-<li>避开当地品种竞争（提升市场竞争力）</li>
-<li>提高利润</li>
-<li>丰富市场供应</li>
-</ul>
-<h4 id="要求"><a href="#要求" class="headerlink" title="要求"></a>要求</h4><ul>
-<li>地区间相隔较远，自然环境差异较大</li>
-<li>快捷的交通运输</li>
-<li>冷藏、保鲜技术</li>
-</ul>
-<h3 id="顺德家具"><a href="#顺德家具" class="headerlink" title="顺德家具"></a>顺德家具</h3><h4 id="产业聚集"><a href="#产业聚集" class="headerlink" title="产业聚集"></a>产业聚集</h4><ul>
-<li><strong>优势</strong><ul>
-<li>共享基础设施、公共服务</li>
-<li>减少能源消耗，降低运输费用</li>
-<li>加强信息交流，提高技术协作</li>
-</ul>
-</li>
-<li><strong>目的</strong><ul>
-<li>降低生产成本</li>
-<li>提高生产效率利润</li>
-<li>取得规模效益</li>
-</ul>
-</li>
-</ul>
-<h3 id="首钢搬迁"><a href="#首钢搬迁" class="headerlink" title="首钢搬迁"></a>首钢搬迁</h3><h4 id="搬迁原因"><a href="#搬迁原因" class="headerlink" title="搬迁原因"></a>搬迁原因</h4><ul>
-<li>与北京作为首都的战略不符</li>
-<li>城市化发展，能耗高，污染大，对环境影响大</li>
-<li>北京产业结构的需要</li>
-<li>绿色奥运对环境提出要求</li>
-</ul>
-<h4 id="曹妃甸优势条件"><a href="#曹妃甸优势条件" class="headerlink" title="曹妃甸优势条件"></a>曹妃甸优势条件</h4><ul>
-<li>地广，地租低；天然良港，水陆交通便利，运输成本低</li>
-<li>近京津，市场广阔</li>
-<li>国家政策资金支持</li>
-<li>靠近油气聚集地，资源丰富</li>
-<li>环境承载力大</li>
-</ul>
-<h3 id="中关村电子城"><a href="#中关村电子城" class="headerlink" title="中关村电子城"></a>中关村电子城</h3><h4 id="形成发展因素（专业化工业聚集）"><a href="#形成发展因素（专业化工业聚集）" class="headerlink" title="形成发展因素（专业化工业聚集）"></a>形成发展因素（专业化工业聚集）</h4><ul>
-<li>气候条件较好（高科技产业）</li>
-<li>科技；交通；政策；市场</li>
-</ul>
-<h3 id="非洲铁路分布"><a href="#非洲铁路分布" class="headerlink" title="非洲铁路分布"></a>非洲铁路分布</h3><ul>
-<li>沿海多，内陆少；线状；密度稀疏</li>
-</ul>
-<h3 id="交通拥堵"><a href="#交通拥堵" class="headerlink" title="交通拥堵"></a>交通拥堵</h3><h4 id="方案（只能缓解）"><a href="#方案（只能缓解）" class="headerlink" title="方案（只能缓解）"></a>方案（只能缓解）</h4><ul>
-<li>合理规划城市道路</li>
-<li>加强完善交通管理</li>
-<li>优先发展公共交通</li>
-<li>加强基础设施建设</li>
-<li>限制私家车数量，出行等</li>
-</ul>
-<h3 id="过度垦荒（恶性循环）"><a href="#过度垦荒（恶性循环）" class="headerlink" title="过度垦荒（恶性循环）"></a>过度垦荒（恶性循环）</h3><h4 id="影响：生态破坏，环境恶化，生物多样性下降"><a href="#影响：生态破坏，环境恶化，生物多样性下降" class="headerlink" title="影响：生态破坏，环境恶化，生物多样性下降"></a>影响：生态破坏，环境恶化，生物多样性下降</h4><ul>
-<li>围湖造田（长江中下游）-&gt;调蓄能力下降-&gt;湿地减少，水利破坏</li>
-<li>开垦草场-&gt;风沙侵蚀-&gt;草场破坏，荒漠化</li>
-<li>毁林开荒-&gt;森林减少，水土流失-&gt;旱涝、泥石流、滑坡</li>
-</ul>
-<h3 id="长江经济带"><a href="#长江经济带" class="headerlink" title="长江经济带"></a>长江经济带</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><ul>
-<li><strong>一轴：</strong> 长江黄金水道；</li>
-<li><strong>两翼：</strong> 沪蓉、沪瑞；</li>
-<li><strong>三级：</strong> 长江三角洲、长江中游、成渝城市群</li>
-</ul>
-<h4 id="河流航运价值"><a href="#河流航运价值" class="headerlink" title="河流航运价值"></a>河流航运价值</h4><ul>
-<li><strong>自然</strong>（航运能力）：<ul>
-<li>（水文）.流量大且稳定（变化小）；流速慢；冰期短或无（通航时间长）</li>
-<li>（水系）.河道宽阔；干流长，支流多（通航里程长）</li>
-</ul>
-</li>
-<li><strong>人文</strong>（社会经济）：人口多，经济发达</li>
-</ul>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>高中地理</tag>
-        <tag>学考</tag>
-        <tag>笔记整理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="430" height="86" src="//music.163.com/outchain/player?type=2&amp;id=28546412&amp;auto=1&amp;height=66"></iframe>
 
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
+<h2 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h2><p>众所周知，在<strong>Chinese Government</strong>的政策下，<strong>Wikipedia</strong>维基百科因为包含一些“ <em><strong>敏感</strong></em> ”内容，被隔离在了长城之外。<br>由此一来，每当需要在<strong>Wikipedia</strong>查阅资料时（因为一些信息，在闭塞的国内网络环境下难以查找；我的<a href="https://mujitogawa.github.io/posts/1f99454c/">上一篇博文</a>中的许多信息都是在 <em>维基</em> 英文站上才找到的），就必须需要 <em>科学上网</em> 或者使用 <em>维基</em> 镜像站。无奈这两种方案都不是十分稳定，且有些麻烦。而造成麻烦的根源所在，即为：它们都需要使用网络作为“媒介”。<br>那么解决方式就十分明了：我不通过网络访问不就可以了（乐</p>
+<hr>
+<h2 id="离线的Wikipedia"><a href="#离线的Wikipedia" class="headerlink" title="离线的Wikipedia"></a>离线的Wikipedia</h2><blockquote>
+<p><strong>Kiwix</strong>成立于10多年前，它是许多网站（包括<a href="https://www.wikipedia.org/">维基百科</a>，<a href="https://www.gutenberg.org/">古腾堡项目</a>或<a href="https://stackexchange.com/">Stack Exchange</a>等大型网站）在线内容的离线阅读器。<br><strong>Kiwix</strong>可以将任意网站高度压缩成独特的内容包（.zim文件），以便它们易于共享。<br><strong>Kiwix</strong>阅读器几乎可以在任何设备（手机，计算机等）上运行。<strong>Kiwix</strong>就好像是一个普通的浏览器。因为除了没有接入互联网，它的体验几乎与浏览源网站相同。<br>该软件以及内容可供任何人免费使用。</p>
+</blockquote>
+<p>以上内容截取自<a href="https://www.kiwix.org/en/"><strong>Kiwix</strong>的官网(点我直达)</a>。实现离线阅读，只需在相关网站下载一个.zim格式的文件。<br><strong>Wikipedia</strong>的内容都被压缩存储在这个.zim格式的文件中。<br>然后，我们就可以使用<strong>Kiwix</strong>，打开.zim文件，实现离线阅读。</p>
+<h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><img data-src="/images/post/kiwix/program.png" width="1000" height="600" alt="Kiwix应用界面">
+$ *Kiwix* 应用界面
 
 <hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
+<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>$ 以下步骤都无需 <em>科学上网</em>，请放心食用</p>
+<h3 id="安装Kiwix应用-点我直达"><a href="#安装Kiwix应用-点我直达" class="headerlink" title="安装Kiwix应用(点我直达)"></a>安装<a href="https://www.kiwix.org/en/download/">Kiwix应用(点我直达)</a></h3><p><strong>Kiwix</strong>应用是跨平台的，这意味这你几乎可以在任意设备上使用它。</p>
+<h4 id="Kiwix-支持的平台"><a href="#Kiwix-支持的平台" class="headerlink" title="Kiwix 支持的平台"></a>Kiwix 支持的平台</h4><ul>
+<li><strong>Android</strong><ul>
+<li>Android v5.0 or higher</li>
+</ul>
+</li>
+<li><strong>Windows</strong><ul>
+<li>Windows XP/Vista or higher</li>
+</ul>
+</li>
+<li><strong>iOS/macOS</strong><ul>
+<li>Compatible with all Apple devices</li>
+</ul>
+</li>
+<li><strong>GNU/Linux</strong><ul>
+<li>Compatible with all(?)</li>
+</ul>
+</li>
+<li><strong>Browser Extensions</strong> ( <em>浏览器插件</em> )<ul>
+<li>Chrome, Firefox &amp; Edge</li>
+</ul>
+</li>
+<li><strong>Raspberry Pi</strong><ul>
+<li>You can install Kiwix on a Raspberry Pi and use it as a hotspot</li>
+</ul>
+</li>
+</ul>
+<h3 id="下载-zim文件"><a href="#下载-zim文件" class="headerlink" title="下载.zim文件"></a>下载.zim文件</h3><h4 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h4><ol>
+<li><a href="https://download.kiwix.org/zim/wikipedia/">Kiwix(推荐，点我直达)</a></li>
+<li><a href="https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/">Wikimedia Downloads（点我直达）</a></li>
+</ol>
+<img data-src="/images/post/kiwix/dl.png" width="812" height="507" alt="download">
 
+<p>如图，<strong>Kiwix</strong>提供了多种下载文件。那么如何选择适合自己的呢？<br>文件的命名格式是：<br><code>Project_Language_Number of Articles_Flavour</code><br>（ <code>项目_语言_词条数目_种类</code> ）</p>
+<p><code>Project</code>，不必多说，就该链接而言，肯定是<strong>Wikipedia</strong>维基啦~</p>
+<p><code>Language</code>，一般就直接会选择英文<strong>en</strong>或中文<strong>zh</strong>喽。就我而言，我还是会更加推荐英文<strong>en</strong>。原因显而易见，因为英文百科的收入更加全面。可供下载的选择也更加多。即便是遇到看不懂的页面也是翻译可以解决的。</p>
+<p><code>Number of Articles</code>，这在上图中看到的都是“all”，表示.zim中包括了该语言下<strong>Wikipedia</strong>维基的所有词条内容。除此之外也还会出现像 <em>medicine</em> 或 <em>football</em> 之类的，表示该.zim文件只收录了与医药或足球相关的词条内容。按个人需求下载吧。理所应当的，这些只收录了单一板块的，.zim文件的大小会相对的小。</p>
+<p><code>Flavour</code>，.zim文件的版本主要分为3种：</p>
+<ul>
+<li><p><strong>mini</strong></p>
+<ul>
+<li>表示有的词条只包含一小部分，详细内容可能会看到不到。</li>
+<li>（$ 但我查个维基的资料就是为了看到详细的信息阿，所以不推荐这种。</li>
+</ul>
+</li>
+<li><p><strong>maxi</strong></p>
+<ul>
+<li>maxi版本包含所有内容，除了视频和音频内容。这种.zim文件内容最完整，文件也最大。</li>
+<li>（ $ 只要你的设备的储存空间够大，就请下这个版本吧~</li>
+</ul>
+</li>
+<li><p><strong>nopic</strong></p>
+<ul>
+<li>和maxi版本相比，被删去了词条中几乎所有的图片和视频。但是词条内容还是完整的。</li>
+<li>（ $ 一般查阅资料也不需要看什么图片视频吧，而且还能省下将近一半的储存空间。<strong>个人推荐</strong></li>
+</ul>
+</li>
+</ul>
+<h4 id="！！！注意"><a href="#！！！注意" class="headerlink" title="！！！注意"></a>！！！注意</h4><p><strong>Wikimedia</strong>将每个 IP 的连接数限制为了 2<del>(镜像站点好像没有这个限制)</del>，所以请尽量不要使用诸如<strong>IDM</strong>的多线程下载器进行文件的下载。<br>文件的普通下载速度还是相对给力的。像我300M的宽带，使用Edge浏览器内置下载，速度可以稳定在10MB/s~13MB/s。</p>
+<h3 id="导入-zim文件"><a href="#导入-zim文件" class="headerlink" title="导入.zim文件"></a>导入.zim文件</h3><p>$ 我使用的是 <em>Windows</em> 操作系统，所以以下内容针对 <em>Windows</em> 而言。但理论上各平台的操作方式都是类似的。</p>
+<ol>
+<li><strong>Kiwix</strong>软件和.zim文件下载完成后，建议将.zim文件放在<strong>Kiwix</strong>软件的根目录。</li>
+<li>随后打开<strong>Kiwix</strong>软件，点击右上方“文件夹”图标或者<code>Ctrl+o</code>，选中刚刚放在根目录的.zim文件并打开。然后就可以正常使用了。</li>
+</ol>
 <br>
 
 <hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+<h2 id="欢迎评论交流加友链✨"><a href="#欢迎评论交流加友链✨" class="headerlink" title="欢迎评论交流加友链✨"></a>欢迎评论交流加友链✨</h2><p>都看到这儿了，不留条评论再走吗 <em><strong>QAQ</strong></em></p>
 ]]></content>
       <categories>
         <category>教程向</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>In Rememberance Of</title>
-    <url>/posts/47dfc91e/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
-<span id="more"></span>
-
-<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
-
-<center><font size="11"><b>1991 ~ 2023</b></font></center>
-
-<br>
-
-<center><b>R.I.P.</b></center>
-
-<hr>
-<br>
-
-<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>纪念</tag>
+        <tag>Wikipedia</tag>
+        <tag>Kiwix</tag>
+        <tag>全平台</tag>
+        <tag>Firewall</tag>
       </tags>
   </entry>
   <entry>
@@ -1501,33 +1686,136 @@
       </tags>
   </entry>
   <entry>
-    <title>Byebye 2023(或 17岁再见)</title>
-    <url>/posts/ed8b190a/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">
-昔我往矣
-杨柳依依
-今我来思
-雨雪霏霏</blockquote>  
+    <title>Y2025班次冬日列车</title>
+    <url>/posts/bc0e860c/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">Time passes...</blockquote>  
 <span id="more"></span>
 
-<h2 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h2><p>或许是年终总结。</p>
-<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><p>似水流年。<br>人一生只有一次17岁,而这是句让人感动的废话。这废话，就好像空无一物的天空中传来烟花的爆鸣，即将随着“2023+1=2024”这一数学符号的象征，永运地消逝在深邃的不为人知的蓝色之中。</p>
-<p>雨季不再来。<br>三毛的这本书让我感触最深的，现如今，竟是ta的标题，我一直相信着的，雨联结着天地，联结看时间与生死，雨幕使是漫漫岁月的记忆之桥。海子说的不错的，”雨是一生过错，雨是悲欢离合”。但在我摘录这句话时，外头却是久违的万里艳阳天。这是否又象征着什么，是否为这个陌生世界的不可言说的隐喻？名叫乌鸦的少年，又会给我指明方向吗？如此说来，成长似手是个不断失忆的过程。一点点地被蚕食，从未停歇。直至水滴石穿，我失去了我的一切，成为了崭新的人。像是海浪冲洗沙滩，准时而无情。</p>
-<div class="note info"><p>Mais la vie sépare ceux qui s’aiment,</p>
-<p>Tout doucement, sans faire de bruit</p>
-<p>Et la mer efface sur le sable</p>
-<p>Les pas des amants désunis.</p>
-<p><em>from the song</em> <mark class="label info"><strong>Les Feuilles Mortes</strong></mark></p>
+<h2 id="0x01-逢魔时"><a href="#0x01-逢魔时" class="headerlink" title="0x01 逢魔时"></a>0x01 逢魔时</h2><h3 id="Pt-I"><a href="#Pt-I" class="headerlink" title="Pt. I"></a>Pt. I</h3><p>陈春成在他的小说集《夜晚的潜水艇》（《竹峰寺》）中有这么一段文字，描绘得很生动</p>
+<div class="note info"><p>黄昏时我总爱在寺门外的石阶上坐着，看天一点一点黑下来。想到“苍然暮色，自远而至，至无所见而犹不欲归。心凝形释，与万化冥合”，这些字句像多年前埋下的伏笔，从初中课本上，或唐代的永州，一直等到此时此地，突然涌现。山下的村庄，在天黑前后，异常安静。直到天黑透，路灯亮了，才又听见小孩的嘶喊声。本培说，这村里有个说法，说是人不能在外面看着天慢慢变黑，否则小孩不会念书，大人没心思干活。我记起小时候似乎也听奶奶说过类似的话。山区里，古时山路阻隔，往往两村之间，口音风俗都有所差异，但毕竟同在一县，相似处还是较多。为什么会有这种说法呢？天黑透了却不忌讳，小孩一样玩耍，大人出来乘凉。忌讳的是由黄昏转入黑夜的那一小会。也许那时辰阴阳未定，野外有什么鬼魅出没？我想象在黄昏和黑夜的边界，有一条极窄的缝隙，另一个世界的阴风从那里刮过来。坐了几个黄昏，我似乎有点明白了。有一种消沉的力量，一种广大的消沉，在黄昏时来。在那个时刻，事物的意义在飘散。在一点一点黑下来的天空中，什么都显得无关紧要。你先是有点慌，然后释然，然后你就不存在了。那种感受，没有亲身体验，实在难于形容。如果你在山野中，在暮色四合时凝望过一棵树，足够长久地凝望一棵树，直到你和它一并消融在黑暗中，成为夜的一部分——这种体验，经过多次，你就会无可挽回地成为一个古怪的人。对什么都心不在焉，游离于现实之外。本地有个说法，叫心野掉了。心野掉了就念不进书，就没心思干活，就只适合日复一日地坐在野地里发呆，在黄昏和夜晚的缝隙中一次又一次地消融。你就很难再回到真实的人世间，捡起上进心，努力去做一个世俗的成功者了。因为你已经知道了，在山野中，在天一点一点黑下来的时刻，一切都无关紧要。知道了就没法再不知道。</p>
 </div>
 
-<p>淹没在时间的海洋，记忆犹如气泡般涌现，上升，破灭。希腊神话中有着名为忘川的遗忘之河lethe。喝下河水便可以忘却世间的所有，乃至自我的真名。『天人五衰』的结尾，老尼聪子面对本多的讲述，却早已忘记俗世的恋人, 松枝清显的姓名。日光下渗，宁静的中庭，清冷在树木的脊梁间回荡…</p>
-<p>17岁所包含的，不只是 <strong>‘(0,17]’</strong>的前开后闭的范国集合。17所拥有的，只有17岁。仅此而已。而我已挥手自兹去，便也意味着摒弃了我的一切。如果这是场折磨人的旅程，那么我即将靠站，抵达终点。属于我的17岁话剧已然谢幕，你们请接着演</p>
-<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p><a href="https://mjt.asia/posts/b7a38911/#%E6%8A%80%E6%9C%AF">2023的计划</a>基本泡汤，跟浆糊一样。那么就展望未来，说说打算吧…<br>2024的blog更新频率应该可能会更低，但还是立个flag，尽量每个月一篇吧。主要还是会以随笔杂谈为主（我技术力太低了…）。<br>总之2024会，<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>。<br>但愿我能扛得住。<br>2023书看得比较杂，也不怎么多（相比之前）。影响比较大的有博尔赫斯，三岛由纪夫的小说，保罗·策兰的诗。2024读书估计会更少<br>音乐主要新接触了电子，虚拟歌姬，即兴，先锋实验爵士这些类别的音乐。日本上个世纪的地下音乐真是宝库。愿2024能“听”更多好音乐，做一个digger。<br>重新看Vtuber（指Gura）</p>
-<br>
+<p>黄昏与黑夜的交界之时，被日本阴阳道称为鬼神最容易出没的时候，也是人与鬼怪可以同时出现的时刻。所以就有了“逢魔时”的名字（逢魔ヶ時）。<br>今年我开始走读，开始了每天放学（16:40）便冲进食堂，草率完事后再冲刺到校门口的生活。只为赶上17:05左右到达的那一半班 <em>壹捌玖</em> 路公交车。只要不下雨，傍晚的残阳总会照在路边绿化树光秃秃的枝丫上。秋分过后，天色暗下的速度越来越快。随着太阳直射点的缓慢南移，黑夜，从白天开始变冷。绿化树 枝丫的黑影，逐渐地被拉长，拉长。如同从克苏鲁神话中走出的不明生物一样，向道路上往来的行人车辆探出细长的触手。早年听长辈说起过，迷信说法中，将病人喝剩的药渣倒在闹市路上让行人踩踏，病人便可以延续生命。这我自是不相信的，只是觉得乱丢垃圾很没素质。但在此时此刻的天空下，紫红、橙黄的余晖被渐渐蚕食，交织着冰灰的深蓝色从远山的阴影里爬出，匍匐在天空的一隅，伺机而动。街灯亮了，黑夜从我的体内上升。在这样的环境下，哪怕是风吹草动都足以令人战栗，更别谈这些蜿蜒的灰暗阴影了。我小心翼翼地避开阴影，一步步试探着，不愿被它们吸去灵魂。 <em>壹捌玖</em> 在此时匆匆到站，我却还在马路的对岸。急忙穿过斑马线，刚想停下来伸出手臂拦车，便飞驰而过，对我不加理睬。一阵呛人的黑烟消散后，公交车消失在了不知名的黄昏深处。<br>落寞地走向站台，宣传橱窗的玻璃不知何时碎了，劣质印刷的图片出露在外。对面站台的LED灯坏了，一直闪烁不停。等车的人们，神色冷漠，像是在等死。<br>今日又是与公交车擦肩而过的一日。现在，可以很清晰地感知到，那根丝线，在步步紧绷。</p>
+<h3 id="Pt-II"><a href="#Pt-II" class="headerlink" title="Pt. II"></a>Pt. II</h3><p>今年在时间点上有两件大事，一是我进入了高三，并即将结束第一学期；二是我迎来了我的十八岁。<br>十八岁似乎是晦明的界线，感觉就像在摆渡过河流。“人无法再度迈进同一条河流”，这句话说得不错的。茫茫河水无边，身前、身后都是苍白无垠的世界，此岸的形状逐渐化为一片无法企及的幻影，而彼岸的轮廓却愈渐清晰起来，将我与过去隔绝。每一次选择都伴随着失去，而如今永远地失去了此岸，我再也无法回到从前了。明日不可知，我仍然身陷渡河的困境。在这进退两难之中，我感觉我正在被缓慢地撕裂。与部分陷入恶性竞争的同学不同，我是闲人，“心” 早就 “野掉了” ，完全无法接受被迫的高压生活。年长者总是会说：“那你又能怎么办呢？”这类完全不像样的安慰。<br><br><br><br><br>他妈的，要是我知道方法还会来找你们诉苦啊😧，真是浪费时间。</p>
+<hr>
+<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p>各平台（e.g. 豆瓣，网易云，Bangumi，Steam…）的年终数据总结不在此处列出了。<br>反正看这篇总结的只有我和你们，想知道数据的直接去对应平台看吧。<br>作为替代的，是从今年新听的约莫115张专辑中选出了喜爱的15张，就当是推荐了吧~</p>
+<h3 id="年度专辑-TOP15（无先后）"><a href="#年度专辑-TOP15（无先后）" class="headerlink" title="年度专辑 TOP15（无先后）"></a>年度专辑 TOP15（无先后）</h3><p><img data-src="https://moeneko.us.kg/upload/2025.1/In%20the%20Aeroplane%20Over%20the%20Sea%20.webp" alt="In the Aeroplane Over the Sea"></p>
+<p><strong>Title:</strong> In the Aeroplane Over the Sea<br><strong>Artist:</strong> Neutral Milk Hotel<br><strong>Genre:</strong> Folkrock; Indie;<br><strong>Release:</strong> 1998</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/Symphony%20No.%209.webp" alt="Beethoven: Symphony No. 9"></p>
+<p><strong>Title:</strong> Beethoven: Symphony No. 9<br><strong>Artist:</strong> Wilhelm Furtwängler<br><strong>Genre:</strong> Classical;<br><strong>Release:</strong> 2008 / 1951</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/LONG%20SEASON.webp" alt="LONG SEASON"></p>
+<p><strong>Title:</strong> LONG SEASON<br><strong>Artist:</strong> FISHMANS<br><strong>Genre:</strong> Rock; Reggae; Electronic;<br><strong>Release:</strong> 1996-10-25</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/CINEMATIC%20SOUND%20FOUNDATION%20.webp" alt="CINEMATIC SOUND FOUNDATION"></p>
+<p><strong>Title:</strong> CINEMATIC SOUND FOUNDATION<br><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> JRock; Trip-hop;<br><strong>Release:</strong> 2008-11-19</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/Eureka.webp" alt="Eureka"></p>
+<p><strong>Title:</strong>  Eureka<br><strong>Artist:</strong> きのこ帝国<br><strong>Genre:</strong> Shoegaze; Indie;<br><strong>Release:</strong> 2013-02-06</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/Ys.webp" alt="Ys"></p>
+<p><strong>Title:</strong> Ys<br><strong>Artist:</strong> Joanna Newsom<br><strong>Genre:</strong> Folk; Acoustic; Avantgarde;<br><strong>Release:</strong> 2006</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/Unhappy%20Refrain.webp" alt="Unhappy Refrain"></p>
+<p><strong>Title:</strong> アンハッピーリフレイン / Unhappy Refrain<br><strong>Artist:</strong> wowaka<br><strong>Genre:</strong> JRock; Vocaloid;<br><strong>Release:</strong> 2011-05-18</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/Heavenly-Persona.webp" alt="Heavenly Persona"></p>
+<p><strong>Title:</strong> Heavenly Persona / 天界のペルソナ<br><strong>Artist:</strong> Neutral Milk Hotel<br><strong>Genre:</strong> Rock; Psychedelic;<br><strong>Release:</strong> 2023-4-7 / 1994-9-25</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/AK%20TOLKEN.webp" alt="AK TOLKEN"></p>
+<p><strong>Title:</strong> 白色的波浪 / AK TOLKEN<br><strong>Artist:</strong> 沙依拉西.加尔木哈买提(Sayrax Jarmukamet)<br><strong>Genre:</strong> World-Music; Folk;<br><strong>Release:</strong> 2018-09-08</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/My%20Heritage.webp" alt="わたしのヘリテージ"></p>
+<p><strong>Title:</strong> わたしのヘリテージ / My Heritage<br><strong>Artist:</strong> いよわ<br><strong>Genre:</strong> Vocaloid;<br><strong>Release:</strong> 2021-12-22</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/%E5%89%83%E5%88%80%E4%B9%99%E5%A5%B3.webp" alt="剃刀乙女"></p>
+<p><strong>Title:</strong> 剃刀乙女<br><strong>Artist:</strong> 青葉市子<br><strong>Genre:</strong> Folk; Ambient;<br><strong>Release:</strong> 2010-01-20</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/The%20Planets.webp" alt="Gustav Holst: The Planets"></p>
+<p><strong>Title:</strong> Gustav Holst: The Planets<br><strong>Artist:</strong> Herbert von Karajan; Berliner Philharmoniker;<br><strong>Genre:</strong> Classical; Modern;<br><strong>Release:</strong> 1991</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/The%20Glow.webp" alt="The Glow"></p>
+<p><strong>Title:</strong> The Glow, Pt. II<br><strong>Artist:</strong> The Microphones<br><strong>Genre:</strong> 	Lo-Fi; Experimental; Indie;<br><strong>Release:</strong> 2001-09-25</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/IZ%202007.webp" alt="IZ 2007"></p>
+<p><strong>Title:</strong> IZ 2007<br><strong>Artist:</strong> IZ樂隊<br><strong>Genre:</strong> World-Muisc; Folk;<br><strong>Release:</strong> 2007</p>
+<hr>
+<p><img data-src="https://moeneko.us.kg/upload/2025.1/HARDCORE%20SYNDROME%202%20.webp" alt="HARDCORE SYNDROME 2 "></p>
+<p><strong>Title:</strong> HARDCORE SYNDROME 2<br><strong>Artist:</strong> HARDCORE TANO*C<br><strong>Genre:</strong> Electronic; </p>
+<ul>
+<li>Trance, Hardcore, Gabber, Happy Hardcore, Speedcore</li>
+</ul>
+<p><strong>Release:</strong> 2008-08-15(C74) </p>
+<hr>
+<h2 id="0x03-展望未来"><a href="#0x03-展望未来" class="headerlink" title="0x03 展望未来"></a>0x03 展望未来</h2><p>百无聊赖的高中生活无非也只有这些日子，2025我就要迎来不可知的大学生活。<br>但可以确定的是，我将会拥有大量的可供个人自由安排的时间。<br>由于我高考选课（政、地、技），无法选择理科类专业，再加上我对考公考编，法学专业不感兴趣。所以，除去届时课内所学，我打算自己拓展一下技能树，毕竟我现在处于几乎啥都不会的阶段。</p>
+<p><del>一体机计划</del></p>
+<h3 id="技术相关"><a href="#技术相关" class="headerlink" title="技术相关"></a>技术相关</h3><h4 id="阶段性目标："><a href="#阶段性目标：" class="headerlink" title="阶段性目标："></a>阶段性目标：</h4><p> 造轮子，自己编写一个静态博客生成器。不想再继续折腾魔改Hexo-Next了，就把这个当作未来的一个目标吧。</p>
+<h4 id="需要做什么："><a href="#需要做什么：" class="headerlink" title="需要做什么："></a>需要做什么：</h4><ol>
+<li>前端开发</li>
+</ol>
+<ul>
+<li>学习 <strong>HTML/CSS</strong>，掌握页面结构和样式，学习 CSS 框架如 <a href="https://getbootstrap.com/">Bootstrap</a> 或 <a href="https://tailwindcss.com/">Tailwind CSS</a> 来加速开发。</li>
+<li>学习 <strong>JavaScript</strong> 和前端框架（如 React 或 Vue）来处理动态交互。</li>
+</ul>
+<ol start="2">
+<li>后端开发</li>
+</ol>
+<ul>
+<li>学习后端语言（Node.js、Go等）来编写后台部分，实现博客生成逻辑。</li>
+<li>学习如何解析 <strong>Markdown</strong>，将文章从 Markdown 或其他格式转换成静态的 HTML 文件。</li>
+</ul>
+<ol start="3">
+<li>其他</li>
+</ol>
+<ul>
+<li>学习 <strong>SEO</strong> 和 <strong>性能优化</strong> 技术来提升网站质量。</li>
+<li>学习运维基础</li>
+</ul>
+<hr>
+<h3 id="Art类"><a href="#Art类" class="headerlink" title="Art类"></a>Art类</h3><h4 id="分化"><a href="#分化" class="headerlink" title="分化"></a>分化</h4><ol>
+<li>文学：</li>
+</ol>
+<ul>
+<li>虽然我并不具备创作才能，这注定是一条没有前途的道路。但仍要练笔，保持基本的手感。</li>
+</ul>
+<ol start="2">
+<li>美术：</li>
+</ol>
+<ul>
+<li>实用主义。基础理论+实操+设计思路学习，要会画简单的画。</li>
+<li>新媒体。摄影&amp;后期，视频图片编辑制作（软件学习+实操训练）</li>
+</ul>
+<ol start="3">
+<li>音乐</li>
+</ol>
+<ul>
+<li>基本乐理学习，更好地欣赏分析</li>
+<li>宿主机架软件（FL/CUBASE…）学习，</li>
+<li>混音调音学习，创作思路学习</li>
+</ul>
+<h4 id="不知是否能实现的目标"><a href="#不知是否能实现的目标" class="headerlink" title="不知是否能实现的目标"></a>不知是否能实现的目标</h4><p><strong>制作出令人动容/引起共鸣的作品：</strong><br>e.g. </p>
+<ul>
+<li>游戏：软件开发，美术，思路，盈利模式</li>
+<li>音乐：</li>
+<li>…</li>
+</ul>
+<hr>
+<h2 id="0x04-See-Also"><a href="#0x04-See-Also" class="headerlink" title="0x04 See Also"></a>0x04 See Also</h2><br>
 
-<p><img data-src="/images/post/bye2023/Gura.jpg" alt="Gura"></p>
-<p>以上，祝你<strong>新年快乐</strong></p>
-<h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><p>你还可能会对我友人的年度总结感兴趣：<br><a href="https://sekaimoe.dpkg123.site/end-of-2023/">SekaiMoe的2023</a><br><a href="https://blog.chihuo2104.dev/posts/goodbye-2023">2023年度总结(chihuo2104)</a><br><a href="https://blog.atri.tk/2023/my-2023/">我的 2023(Misaka13514)</a><br><a href="https://mzwing.eu.org/index.html?type=article&amp;filename=small-article-20231208.md">mzwing的2023小碎记</a><br><a href="https://nekomoe.xyz/index.html?type=article&amp;filename=my-2023.md">我的 2023(Baiyuanneko)</a><br><a href="https://blog.mk1.io/posts/bye-2023">迟来了一个月的 2023 年度总结 + 2024 新年快乐！(so1ve A.K.A.Ray)</a><br><a href="https://koishi514.moe/blog/bbg/index.html?type=article&amp;filename=s5e6TSCZKQXW.md">我的2023年终总结(SCI)</a></p>
+<p><a href="https://blog.mjt.asia/posts/ed8b190a/">Byebye 2023或 17岁再见）</a>：我的2023总结</p>
+<hr>
+<p>你还可能会对我友人的年度总结感兴趣：</p>
+<ul>
+<li><a href="https://blog.chihuo2104.dev/posts/goodbye-2024">2024年度总结</a> From chihuo2104</li>
+<li><a href="https://blog.awaae001.top/posts/57024.html">再见2024 · 共赴一场烟火绚烂</a> From awaae001</li>
+<li><a href="https://blog.akuamar1n.com/2024/12/31/2024-summary/">2024年度总结</a> From zzjzxq33</li>
+<li><a href="https://mzwing.eu.org/index.html?type=article&amp;filename=wave-to-my-future-self.md">碎记•向明年的自己招个手</a> From mzwing</li>
+<li><a href="https://3p.gl/blog/bbg/index.html?type=article&amp;filename=8YkDYKfG5wDN.md">我的 2024 年终总结</a> From scientificworld</li>
+<li><a href="https://sekaimoe.dpkg123.site/posts/end-of-2024/">二葉琉璃的 2024</a> From 二葉琉璃</li>
+<li><a href="https://www.mole9630.top/year-end-2024/">年终总结2024:换乘</a> From 摩尔Masega</li>
+</ul>
+<p>以上</p>
 <h2 id="欢迎评论交流加友链"><a href="#欢迎评论交流加友链" class="headerlink" title="欢迎评论交流加友链"></a>欢迎评论交流加友链</h2><p>看完了文章，来评论一下吧</p>
 ]]></content>
       <categories>
@@ -1537,27 +1825,8 @@
         <tag>碎碎念</tag>
         <tag>展望</tag>
         <tag>年终总结</tag>
-        <tag>2023</tag>
         <tag>2024</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>埃尔德·曼</title>
-    <url>/posts/63d7faae/</url>
-    <content><![CDATA[<center><b>Hans</b>的那篇文章（上一篇博文）让我产生了微妙的灵感，遂有了这篇短篇小说</center>
-<span id="more"></span>
-
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我曾见过你，三十多年前，就在这里<br>他趴在地上，衣物如布条般破烂不堪。我在梦中与他相会。<br>我从口袋里掏出一枚硬币，两面都是头像。<br>我在做梦<br>这你再清楚不过了<br>他的嘴唇依然紧闭，言语直达我的脑海。我这才意识到和他一样，我也设说过一句话。名为语言的声音在这里失去了意义，只有被压缩的静寂守候着，悄然蚕食一切。<br>我在做梦，而我梦见了你——或者说是你梦见了我。你说这是与我第二次会面，但我记忆中并没有你的印象。事实上三十年前，我还没有出生<br>他似笑非笑，用干瘦的手臂支起了身子，我这才得以端详他的面容，与想象中完全不同，眼眶凹陷，颧骨高耸，苍老干枯。眼角边有一颗症，和我一样。灰蓝的瞳孔正直勾勾地盯着我的双眼。<br>这自然是存在的事实，但这事实只属于你，记忆会欺骗人。我身处在我的时代，三十年前在此与你相遇。你将近衰朽，身无分文，唯一的财产是自己的姓名。你说你周游务地，通晓世界的一半。那时你还年轻，抵达了最为遥远的彼岸。那里到处都是火焰，到处都吹着奇风。唯一的一条大河直通天际，无可计数的鱼群从头游过。那里的万物在雨天都会做梦。在梦中，雨水中，灵魂悄然改变了模样，雨停时万物复苏，届时便完成了与他者的身份互换，开启了新的生命<br>一派胡言!就其根本——“我说”开始，便一句也不可相信。我不可能编造如此儿戏般的话语，这简直是在浪费时间<br>我看了一眼腕表，但秒针已经停走了。他脸上没有划过一丝表情，眯着眼睛，继续讲述。<br>你觉得这若同儿戏，但你却没有就此离去。事实上你的时间并不宝贵，很奇怪不是吗，这样停留在你我的梦境中。而你连我的名字都不曾知晓，正如我不知道你的一样。但当时听了你的话后，我着魔似的推却了一切琐事，与所有的亲友断绝了联络往来，卧床不起，望着空无一物的天花板，发呆度日。直到我又突然受到指引般，毫无准备地踏上了寻找你口中的那片应许之地的征途<br>所以呢，你见到了什么，又寻得了什么<br>他咽了口唾沫，沉默良久。<br>爱情。战争。死亡。这即为我所见所得。我走遍了一百多座名为亚历山大的城镇，曾在克里斯托弗•哥伦布手下做过事，我曾是奴隶主，也有七次论为奴隶或俘虏。福门特拉岛的一名当地姑娘教会了我爱，一年后她死于霍乱，入土时四肢僵直，躯干浮肿。而唯一一次听闻关于那应许之地的传闻是在锡兰众多寺庙中的一座，一个坐在门槛前的神志不清的乞丐口中。他说只在古老的羊皮卷上见过那片土地，那是存在于世界的夹缝之中的，我们世界的投影，他还说他本是锡兰的国王，但抛弃一切，流落街头。我本打算同他一样，选择放弃这一切，但紧接着我却与你在此处重逢。在那一刻我明白了所有，包括你我共享的姓名<br><strong>“埃尔德•曼。”</strong><br>我与他同时轻轻吟唱出对方的姓名，久违的声音在空间回荡。<br>我们不辞而别。<br>醒来后我仿佛中了的己的邪。埃尔德•曼，我，年轻又苍老的声音仍在脑中盘旋回荡。良久沉默后我将手伸入口袋掏出硬币。硬币两面都是头像。</p>
-<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2><p>看完了文章，来评论一下吧</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>埃尔德·曼</tag>
-        <tag>小说</tag>
+        <tag>2025</tag>
       </tags>
   </entry>
   <entry>
@@ -1781,6 +2050,96 @@
       </tags>
   </entry>
   <entry>
+    <title>Byebye 2023(或 17岁再见)</title>
+    <url>/posts/ed8b190a/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">
+昔我往矣
+杨柳依依
+今我来思
+雨雪霏霏</blockquote>  
+<span id="more"></span>
+
+<h2 id="0x00"><a href="#0x00" class="headerlink" title="0x00"></a>0x00</h2><p>或许是年终总结。</p>
+<h2 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h2><p>似水流年。<br>人一生只有一次17岁,而这是句让人感动的废话。这废话，就好像空无一物的天空中传来烟花的爆鸣，即将随着“2023+1=2024”这一数学符号的象征，永运地消逝在深邃的不为人知的蓝色之中。</p>
+<p>雨季不再来。<br>三毛的这本书让我感触最深的，现如今，竟是ta的标题，我一直相信着的，雨联结着天地，联结看时间与生死，雨幕使是漫漫岁月的记忆之桥。海子说的不错的，”雨是一生过错，雨是悲欢离合”。但在我摘录这句话时，外头却是久违的万里艳阳天。这是否又象征着什么，是否为这个陌生世界的不可言说的隐喻？名叫乌鸦的少年，又会给我指明方向吗？如此说来，成长似手是个不断失忆的过程。一点点地被蚕食，从未停歇。直至水滴石穿，我失去了我的一切，成为了崭新的人。像是海浪冲洗沙滩，准时而无情。</p>
+<div class="note info"><p>Mais la vie sépare ceux qui s’aiment,</p>
+<p>Tout doucement, sans faire de bruit</p>
+<p>Et la mer efface sur le sable</p>
+<p>Les pas des amants désunis.</p>
+<p><em>from the song</em> <mark class="label info"><strong>Les Feuilles Mortes</strong></mark></p>
+</div>
+
+<p>淹没在时间的海洋，记忆犹如气泡般涌现，上升，破灭。希腊神话中有着名为忘川的遗忘之河lethe。喝下河水便可以忘却世间的所有，乃至自我的真名。『天人五衰』的结尾，老尼聪子面对本多的讲述，却早已忘记俗世的恋人, 松枝清显的姓名。日光下渗，宁静的中庭，清冷在树木的脊梁间回荡…</p>
+<p>17岁所包含的，不只是 <strong>‘(0,17]’</strong>的前开后闭的范国集合。17所拥有的，只有17岁。仅此而已。而我已挥手自兹去，便也意味着摒弃了我的一切。如果这是场折磨人的旅程，那么我即将靠站，抵达终点。属于我的17岁话剧已然谢幕，你们请接着演</p>
+<h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p><a href="https://mjt.asia/posts/b7a38911/#%E6%8A%80%E6%9C%AF">2023的计划</a>基本泡汤，跟浆糊一样。那么就展望未来，说说打算吧…<br>2024的blog更新频率应该可能会更低，但还是立个flag，尽量每个月一篇吧。主要还是会以随笔杂谈为主（我技术力太低了…）。<br>总之2024会，<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>很忙<br>。<br>但愿我能扛得住。<br>2023书看得比较杂，也不怎么多（相比之前）。影响比较大的有博尔赫斯，三岛由纪夫的小说，保罗·策兰的诗。2024读书估计会更少<br>音乐主要新接触了电子，虚拟歌姬，即兴，先锋实验爵士这些类别的音乐。日本上个世纪的地下音乐真是宝库。愿2024能“听”更多好音乐，做一个digger。<br>重新看Vtuber（指Gura）</p>
+<br>
+
+<p><img data-src="/images/post/bye2023/Gura.jpg" alt="Gura"></p>
+<p>以上，祝你<strong>新年快乐</strong></p>
+<h2 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h2><p>你还可能会对我友人的年度总结感兴趣：<br><a href="https://sekaimoe.dpkg123.site/end-of-2023/">SekaiMoe的2023</a><br><a href="https://blog.chihuo2104.dev/posts/goodbye-2023">2023年度总结(chihuo2104)</a><br><a href="https://blog.atri.tk/2023/my-2023/">我的 2023(Misaka13514)</a><br><a href="https://mzwing.eu.org/index.html?type=article&amp;filename=small-article-20231208.md">mzwing的2023小碎记</a><br><a href="https://nekomoe.xyz/index.html?type=article&amp;filename=my-2023.md">我的 2023(Baiyuanneko)</a><br><a href="https://blog.mk1.io/posts/bye-2023">迟来了一个月的 2023 年度总结 + 2024 新年快乐！(so1ve A.K.A.Ray)</a><br><a href="https://koishi514.moe/blog/bbg/index.html?type=article&amp;filename=s5e6TSCZKQXW.md">我的2023年终总结(SCI)</a></p>
+<h2 id="欢迎评论交流加友链"><a href="#欢迎评论交流加友链" class="headerlink" title="欢迎评论交流加友链"></a>欢迎评论交流加友链</h2><p>看完了文章，来评论一下吧</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>展望</tag>
+        <tag>年终总结</tag>
+        <tag>2023</tag>
+        <tag>2024</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>埃尔德·曼</title>
+    <url>/posts/63d7faae/</url>
+    <content><![CDATA[<center><b>Hans</b>的那篇文章（上一篇博文）让我产生了微妙的灵感，遂有了这篇短篇小说</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我曾见过你，三十多年前，就在这里<br>他趴在地上，衣物如布条般破烂不堪。我在梦中与他相会。<br>我从口袋里掏出一枚硬币，两面都是头像。<br>我在做梦<br>这你再清楚不过了<br>他的嘴唇依然紧闭，言语直达我的脑海。我这才意识到和他一样，我也设说过一句话。名为语言的声音在这里失去了意义，只有被压缩的静寂守候着，悄然蚕食一切。<br>我在做梦，而我梦见了你——或者说是你梦见了我。你说这是与我第二次会面，但我记忆中并没有你的印象。事实上三十年前，我还没有出生<br>他似笑非笑，用干瘦的手臂支起了身子，我这才得以端详他的面容，与想象中完全不同，眼眶凹陷，颧骨高耸，苍老干枯。眼角边有一颗症，和我一样。灰蓝的瞳孔正直勾勾地盯着我的双眼。<br>这自然是存在的事实，但这事实只属于你，记忆会欺骗人。我身处在我的时代，三十年前在此与你相遇。你将近衰朽，身无分文，唯一的财产是自己的姓名。你说你周游务地，通晓世界的一半。那时你还年轻，抵达了最为遥远的彼岸。那里到处都是火焰，到处都吹着奇风。唯一的一条大河直通天际，无可计数的鱼群从头游过。那里的万物在雨天都会做梦。在梦中，雨水中，灵魂悄然改变了模样，雨停时万物复苏，届时便完成了与他者的身份互换，开启了新的生命<br>一派胡言!就其根本——“我说”开始，便一句也不可相信。我不可能编造如此儿戏般的话语，这简直是在浪费时间<br>我看了一眼腕表，但秒针已经停走了。他脸上没有划过一丝表情，眯着眼睛，继续讲述。<br>你觉得这若同儿戏，但你却没有就此离去。事实上你的时间并不宝贵，很奇怪不是吗，这样停留在你我的梦境中。而你连我的名字都不曾知晓，正如我不知道你的一样。但当时听了你的话后，我着魔似的推却了一切琐事，与所有的亲友断绝了联络往来，卧床不起，望着空无一物的天花板，发呆度日。直到我又突然受到指引般，毫无准备地踏上了寻找你口中的那片应许之地的征途<br>所以呢，你见到了什么，又寻得了什么<br>他咽了口唾沫，沉默良久。<br>爱情。战争。死亡。这即为我所见所得。我走遍了一百多座名为亚历山大的城镇，曾在克里斯托弗•哥伦布手下做过事，我曾是奴隶主，也有七次论为奴隶或俘虏。福门特拉岛的一名当地姑娘教会了我爱，一年后她死于霍乱，入土时四肢僵直，躯干浮肿。而唯一一次听闻关于那应许之地的传闻是在锡兰众多寺庙中的一座，一个坐在门槛前的神志不清的乞丐口中。他说只在古老的羊皮卷上见过那片土地，那是存在于世界的夹缝之中的，我们世界的投影，他还说他本是锡兰的国王，但抛弃一切，流落街头。我本打算同他一样，选择放弃这一切，但紧接着我却与你在此处重逢。在那一刻我明白了所有，包括你我共享的姓名<br><strong>“埃尔德•曼。”</strong><br>我与他同时轻轻吟唱出对方的姓名，久违的声音在空间回荡。<br>我们不辞而别。<br>醒来后我仿佛中了的己的邪。埃尔德•曼，我，年轻又苍老的声音仍在脑中盘旋回荡。良久沉默后我将手伸入口袋掏出硬币。硬币两面都是头像。</p>
+<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2><p>看完了文章，来评论一下吧</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>埃尔德·曼</tag>
+        <tag>小说</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从冒犯与被冒犯谈起</title>
+    <url>/posts/a4135b5b/</url>
+    <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p>
+<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p>
+<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p>
+<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p>
+<br>
+
+<h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br>
+
+<center><font size="8">烧吧！</font></center>  
+
+<br>
+
+<h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>EVA</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post.</p>
@@ -1863,221 +2222,6 @@
         <tag>随笔</tag>
         <tag>Hans</tag>
         <tag>忍者</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年如何在中国优雅地使用Wikipedia维基百科</title>
-    <url>/posts/936f4e60/</url>
-    <content><![CDATA[<p>无需科学上网，翻越长城；无需使用镜像站；无需代码搭建；<strong>简单、优雅、快速</strong>！人人可用~</p>
-<span id="more"></span>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="430" height="86" src="//music.163.com/outchain/player?type=2&amp;id=28546412&amp;auto=1&amp;height=66"></iframe>
-
-<h2 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h2><p>众所周知，在<strong>Chinese Government</strong>的政策下，<strong>Wikipedia</strong>维基百科因为包含一些“ <em><strong>敏感</strong></em> ”内容，被隔离在了长城之外。<br>由此一来，每当需要在<strong>Wikipedia</strong>查阅资料时（因为一些信息，在闭塞的国内网络环境下难以查找；我的<a href="https://mujitogawa.github.io/posts/1f99454c/">上一篇博文</a>中的许多信息都是在 <em>维基</em> 英文站上才找到的），就必须需要 <em>科学上网</em> 或者使用 <em>维基</em> 镜像站。无奈这两种方案都不是十分稳定，且有些麻烦。而造成麻烦的根源所在，即为：它们都需要使用网络作为“媒介”。<br>那么解决方式就十分明了：我不通过网络访问不就可以了（乐</p>
-<hr>
-<h2 id="离线的Wikipedia"><a href="#离线的Wikipedia" class="headerlink" title="离线的Wikipedia"></a>离线的Wikipedia</h2><blockquote>
-<p><strong>Kiwix</strong>成立于10多年前，它是许多网站（包括<a href="https://www.wikipedia.org/">维基百科</a>，<a href="https://www.gutenberg.org/">古腾堡项目</a>或<a href="https://stackexchange.com/">Stack Exchange</a>等大型网站）在线内容的离线阅读器。<br><strong>Kiwix</strong>可以将任意网站高度压缩成独特的内容包（.zim文件），以便它们易于共享。<br><strong>Kiwix</strong>阅读器几乎可以在任何设备（手机，计算机等）上运行。<strong>Kiwix</strong>就好像是一个普通的浏览器。因为除了没有接入互联网，它的体验几乎与浏览源网站相同。<br>该软件以及内容可供任何人免费使用。</p>
-</blockquote>
-<p>以上内容截取自<a href="https://www.kiwix.org/en/"><strong>Kiwix</strong>的官网(点我直达)</a>。实现离线阅读，只需在相关网站下载一个.zim格式的文件。<br><strong>Wikipedia</strong>的内容都被压缩存储在这个.zim格式的文件中。<br>然后，我们就可以使用<strong>Kiwix</strong>，打开.zim文件，实现离线阅读。</p>
-<h3 id="Follow-Kiwix-on-Github"><a href="#Follow-Kiwix-on-Github" class="headerlink" title="Follow Kiwix on Github"></a>Follow Kiwix on <a href="https://github.com/kiwix">Github</a></h3><img data-src="/images/post/kiwix/program.png" width="1000" height="600" alt="Kiwix应用界面">
-$ *Kiwix* 应用界面
-
-<hr>
-<h2 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h2><p>$ 以下步骤都无需 <em>科学上网</em>，请放心食用</p>
-<h3 id="安装Kiwix应用-点我直达"><a href="#安装Kiwix应用-点我直达" class="headerlink" title="安装Kiwix应用(点我直达)"></a>安装<a href="https://www.kiwix.org/en/download/">Kiwix应用(点我直达)</a></h3><p><strong>Kiwix</strong>应用是跨平台的，这意味这你几乎可以在任意设备上使用它。</p>
-<h4 id="Kiwix-支持的平台"><a href="#Kiwix-支持的平台" class="headerlink" title="Kiwix 支持的平台"></a>Kiwix 支持的平台</h4><ul>
-<li><strong>Android</strong><ul>
-<li>Android v5.0 or higher</li>
-</ul>
-</li>
-<li><strong>Windows</strong><ul>
-<li>Windows XP/Vista or higher</li>
-</ul>
-</li>
-<li><strong>iOS/macOS</strong><ul>
-<li>Compatible with all Apple devices</li>
-</ul>
-</li>
-<li><strong>GNU/Linux</strong><ul>
-<li>Compatible with all(?)</li>
-</ul>
-</li>
-<li><strong>Browser Extensions</strong> ( <em>浏览器插件</em> )<ul>
-<li>Chrome, Firefox &amp; Edge</li>
-</ul>
-</li>
-<li><strong>Raspberry Pi</strong><ul>
-<li>You can install Kiwix on a Raspberry Pi and use it as a hotspot</li>
-</ul>
-</li>
-</ul>
-<h3 id="下载-zim文件"><a href="#下载-zim文件" class="headerlink" title="下载.zim文件"></a>下载.zim文件</h3><h4 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h4><ol>
-<li><a href="https://download.kiwix.org/zim/wikipedia/">Kiwix(推荐，点我直达)</a></li>
-<li><a href="https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/">Wikimedia Downloads（点我直达）</a></li>
-</ol>
-<img data-src="/images/post/kiwix/dl.png" width="812" height="507" alt="download">
-
-<p>如图，<strong>Kiwix</strong>提供了多种下载文件。那么如何选择适合自己的呢？<br>文件的命名格式是：<br><code>Project_Language_Number of Articles_Flavour</code><br>（ <code>项目_语言_词条数目_种类</code> ）</p>
-<p><code>Project</code>，不必多说，就该链接而言，肯定是<strong>Wikipedia</strong>维基啦~</p>
-<p><code>Language</code>，一般就直接会选择英文<strong>en</strong>或中文<strong>zh</strong>喽。就我而言，我还是会更加推荐英文<strong>en</strong>。原因显而易见，因为英文百科的收入更加全面。可供下载的选择也更加多。即便是遇到看不懂的页面也是翻译可以解决的。</p>
-<p><code>Number of Articles</code>，这在上图中看到的都是“all”，表示.zim中包括了该语言下<strong>Wikipedia</strong>维基的所有词条内容。除此之外也还会出现像 <em>medicine</em> 或 <em>football</em> 之类的，表示该.zim文件只收录了与医药或足球相关的词条内容。按个人需求下载吧。理所应当的，这些只收录了单一板块的，.zim文件的大小会相对的小。</p>
-<p><code>Flavour</code>，.zim文件的版本主要分为3种：</p>
-<ul>
-<li><p><strong>mini</strong></p>
-<ul>
-<li>表示有的词条只包含一小部分，详细内容可能会看到不到。</li>
-<li>（$ 但我查个维基的资料就是为了看到详细的信息阿，所以不推荐这种。</li>
-</ul>
-</li>
-<li><p><strong>maxi</strong></p>
-<ul>
-<li>maxi版本包含所有内容，除了视频和音频内容。这种.zim文件内容最完整，文件也最大。</li>
-<li>（ $ 只要你的设备的储存空间够大，就请下这个版本吧~</li>
-</ul>
-</li>
-<li><p><strong>nopic</strong></p>
-<ul>
-<li>和maxi版本相比，被删去了词条中几乎所有的图片和视频。但是词条内容还是完整的。</li>
-<li>（ $ 一般查阅资料也不需要看什么图片视频吧，而且还能省下将近一半的储存空间。<strong>个人推荐</strong></li>
-</ul>
-</li>
-</ul>
-<h4 id="！！！注意"><a href="#！！！注意" class="headerlink" title="！！！注意"></a>！！！注意</h4><p><strong>Wikimedia</strong>将每个 IP 的连接数限制为了 2<del>(镜像站点好像没有这个限制)</del>，所以请尽量不要使用诸如<strong>IDM</strong>的多线程下载器进行文件的下载。<br>文件的普通下载速度还是相对给力的。像我300M的宽带，使用Edge浏览器内置下载，速度可以稳定在10MB/s~13MB/s。</p>
-<h3 id="导入-zim文件"><a href="#导入-zim文件" class="headerlink" title="导入.zim文件"></a>导入.zim文件</h3><p>$ 我使用的是 <em>Windows</em> 操作系统，所以以下内容针对 <em>Windows</em> 而言。但理论上各平台的操作方式都是类似的。</p>
-<ol>
-<li><strong>Kiwix</strong>软件和.zim文件下载完成后，建议将.zim文件放在<strong>Kiwix</strong>软件的根目录。</li>
-<li>随后打开<strong>Kiwix</strong>软件，点击右上方“文件夹”图标或者<code>Ctrl+o</code>，选中刚刚放在根目录的.zim文件并打开。然后就可以正常使用了。</li>
-</ol>
-<br>
-
-<hr>
-<h2 id="欢迎评论交流加友链✨"><a href="#欢迎评论交流加友链✨" class="headerlink" title="欢迎评论交流加友链✨"></a>欢迎评论交流加友链✨</h2><p>都看到这儿了，不留条评论再走吗 <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Wikipedia</tag>
-        <tag>Kiwix</tag>
-        <tag>全平台</tag>
-        <tag>Firewall</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Otherwise My New Year Greetings</title>
-    <url>/posts/4ac7f78/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">🐇🐇在新的一年来临之际，对朋友们的寄语与祝福🐇🐇</blockquote>  
-<span id="more"></span>
-
-<h2 id="🧨-新年快乐"><a href="#🧨-新年快乐" class="headerlink" title="🧨 新年快乐"></a>🧨 新年快乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="(430)" height="(86)" src="//music.163.com/outchain/player?type=2&amp;id=20787183&amp;auto=1&amp;height=66"></iframe>
-
-<p>尽管显得有些小题大做，但在此，我仍要向我所有的朋友们，以及在浏览这篇博文的你献上我最真挚的祝福。<br><strong>HAPPY NEW YEAR！！！</strong></p>
-<p><img data-src="https://ttfou.com/images/2022/12/21/dd99ece0bab43569619bc9bab5f60da2.jpg" alt="谨贺新年" title="谨贺新年"></p>
-<hr>
-<hr>
-<h2 id="🎊-岁末放送（-Xavier）"><a href="#🎊-岁末放送（-Xavier）" class="headerlink" title="🎊 岁末放送（@Xavier）"></a>🎊 岁末放送（@Xavier）</h2><p>22年，我听的专辑虽说不多，但也不算少了吧…<br>现在借此良机便想着<del>强行安利</del>与大家分享一下——选了二十张自认为<del>容易成功安利</del>的“<em>精华</em>”，与大家分享~<br>🎊 <em><strong>Move on Forward</strong></em> 🎊</p>
-<p>&lt;&lt;&lt;&lt; 排序无先后 &gt;&gt;&gt;&gt; </p>
-<hr>
-<hr>
-<h3 id="华语"><a href="#华语" class="headerlink" title="华语"></a>华语</h3><h4 id="他在时间门外"><a href="#他在时间门外" class="headerlink" title="他在时间门外"></a>他在时间门外</h4><p><img data-src="https://ttfou.com/images/2022/12/21/cf49fc9697564daa4f1422d0e09d869c.jpg" alt="他在时间门外" title="他在时间门外"></p>
-<p><strong>Artist:</strong> 哪吒<br><strong>Genre:</strong> 摇滚/Rock<br><strong>Label:</strong> 哪吒<br><strong>Recording:</strong> 2012-12-20<br><strong>Barcode:</strong> 4988006798335<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1764282/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=36538">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003m1iNo4SbEh7">QQ音乐</a>  </p>
-<hr>
-<h4 id="菊花夜行军"><a href="#菊花夜行军" class="headerlink" title="菊花夜行军"></a>菊花夜行军</h4><p><img data-src="https://ttfou.com/images/2022/12/21/3295d67d7e3e8bb784aaa517c0dbe33a.jpg" alt="菊花夜行军" title="菊花夜行军"></p>
-<p><strong>Artist:</strong> 交工樂隊<br><strong>Genre:</strong> 民谣/Folk Rock、摇滚/Rock、Chinese Classical<br><strong>Label:</strong> 大大樹系列–TMCD-2002<br><strong>Recording:</strong> 2001<br><strong>Barcode:</strong> 4716483020027<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1920130/">豆瓣</a>、<a href="https://www.discogs.com/master/1097740-%E4%BA%A4%E5%B7%A5%E6%A8%82%E9%9A%8A-%E8%8F%8A%E8%8A%B1%E5%A4%9C%E8%A1%8C%E8%BB%8D-The-Night-March-of-the-Chrysanthemums">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
-<hr>
-<h4 id="醜奴兒"><a href="#醜奴兒" class="headerlink" title="醜奴兒"></a>醜奴兒</h4><p><img data-src="https://ttfou.com/images/2022/12/21/92ceb9fbcfc01b6d7e497fe809ae9dc7.jpg" alt="醜奴兒" title="醜奴兒"></p>
-<p><strong>Artist:</strong> 草東沒有派對<br><strong>Genre:</strong> 摇滚/Rock、流行/Pop、另类/Alternative<br><strong>Label:</strong> 草東沒有派對<br><strong>Recording:</strong> 2016-04-30<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26753594/">豆瓣</a>、<a href="https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=35635">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/0010MI6P1z4wd6">QQ音乐</a>  </p>
-<hr>
-<h4 id="七七连环X人调"><a href="#七七连环X人调" class="headerlink" title="七七连环X人调"></a>七七连环X人调</h4><p><img data-src="https://ttfou.com/images/2022/12/22/a69bcc751f2e2050b041087985a8d92b.jpg" alt="七七连环X人调" title="七七连环X人调">  </p>
-<p><strong>Artist:</strong> 周二下午谁没来？<br><strong>Genre:</strong> 摇滚/Rock、实验/Experimental<br><strong>Label:</strong> 周二下午谁没来？<br><strong>Recording:</strong> 2015-01-01<br><strong>Barcode:</strong> WEBM<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26829903/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3126178">网易云</a>  </p>
-<hr>
-<hr>
-<h3 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h3><h4 id="REDЯUM"><a href="#REDЯUM" class="headerlink" title="REDЯUM"></a>REDЯUM</h4><p><img data-src="https://ttfou.com/images/2022/12/22/2ac096f509e8cf564568191ac11967f5.jpg" alt="REDЯUM" title="REDЯUM">  </p>
-<p><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> 摇滚/Rock、电子/Electronic<br><strong>Label:</strong> Embryo–none, Gianormous Records–ORO-1018<br><strong>Recording:</strong> 1999-05-26<br><strong>Barcode:</strong> 4997184100182<br><strong>Links:</strong> <a href="https://music.douban.com/subject/5266793/">豆瓣</a>、<a href="https://www.discogs.com/release/11257318-Redrum-Redrum">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2987758">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=M5oPahDZnRFP">QQ音乐</a>  </p>
-<hr>
-<h4 id="頭脳警察1"><a href="#頭脳警察1" class="headerlink" title="頭脳警察1"></a>頭脳警察1</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8f88af10ce8b2be1614cbff82606e230.jpg" alt="頭脳警察1" title="頭脳警察1">  </p>
-<p><strong>Artist:</strong> 頭脳警察<br><strong>Genre:</strong> 摇滚/Rock、现场/Live、原声/Acoustic<br><strong>Label:</strong> Be-Witch Record-none<br><strong>Recording:</strong> 1972-03-21<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2971946/">豆瓣</a>、<a href="https://www.discogs.com/master/169979-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F-%E9%A0%AD%E8%84%B3%E8%AD%A6%E5%AF%9F1">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2085917">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002BBvUd4T4mv4">QQ音乐</a>  </p>
-<hr>
-<h4 id="玉姫様"><a href="#玉姫様" class="headerlink" title="玉姫様"></a>玉姫様</h4><p><img data-src="https://ttfou.com/images/2022/12/22/276bc318a6a11b0dffc82f2c815589b8.jpg" alt="玉姫様" title="玉姫様">  </p>
-<p><strong>Artist:</strong> 戸川純<br><strong>Genre:</strong> 新浪潮/New Wave、摇滚/Rock、合成器/Synth-pop<br><strong>Label:</strong> Alfa-38XA-22, Yen Records-38XA-22<br><strong>Recording:</strong> 1984-01-24<br><strong>Barcode:</strong> 4988024015254<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1871948/">豆瓣</a>、<a href="https://www.discogs.com/master/458429-%E6%88%B8%E5%B7%9D%E7%B4%94-%E7%8E%89%E5%A7%AB%E6%A7%98">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2650070">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=DjVjKDMxdUbm">QQ音乐</a>  </p>
-<hr>
-<h4 id="III"><a href="#III" class="headerlink" title="III"></a>III</h4><p><img data-src="https://ttfou.com/images/2022/12/22/0135c73dfdedf712816103d0a25f36e7.jpg" alt="III" title="III">  </p>
-<p><strong>Artist:</strong> 頭士奈生樹<br><strong>Genre:</strong> 摇滚/Folk Rock、前卫/Prog Rock、原声/Acoustic<br><strong>Label:</strong> Org Records-ORG-020cd<br><strong>Recording:</strong> 2005-01-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/30174788/">豆瓣</a>、<a href="https://www.discogs.com/master/660095-%E9%A0%AD%E5%A3%AB%E5%A5%88%E7%94%9F%E6%A8%B9-III">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=82619910">网易云</a></p>
-<hr>
-<h4 id="ワインレッドの心"><a href="#ワインレッドの心" class="headerlink" title="ワインレッドの心"></a>ワインレッドの心</h4><p><img data-src="https://ttfou.com/images/2022/12/22/e853a45e15893489c72c95f38df1a2d4.jpg" alt="ワインレッドの心" title="ワインレッドの心">  </p>
-<p><strong>Artist:</strong> 玉置浩二<br><strong>Genre:</strong> 流行/Pop<br><strong>Label:</strong> Fun House-FHCF-2447<br><strong>Recording:</strong> 1999-02-24<br><strong>Barcode:</strong> 9787885704162<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1449775/">豆瓣</a>、<a href="https://www.discogs.com/master/1009542-%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C-%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E5%BF%83">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=49287">网易云</a>、<a href="https://c.y.qq.com/base/fcgi-bin/u?__=iGJ2w2U">QQ音乐</a>  </p>
-<hr>
-<h4 id="MIZUTANI"><a href="#MIZUTANI" class="headerlink" title="MIZUTANI"></a>MIZUTANI</h4><p><img data-src="https://ttfou.com/images/2022/12/22/8653e9ae1215a1ad0f28a154b0dc90f3.jpg" alt="MIZUTANI" title="MIZUTANI">  </p>
-<p><strong>Artist:</strong> Les Rallizes DéNudés<br><strong>Genre:</strong> 迷幻摇滚/Psychedelic Rock、民谣/Folk Rock、噪音/Noise<br><strong>Label:</strong> Rivista Inc.<br><strong>Recording:</strong> 1991-08-15<br><strong>Barcode:</strong> 0823564603322<br><strong>Links:</strong> <a href="https://music.douban.com/subject/2082257/">豆瓣</a>、<a href="https://www.discogs.com/release/24800570-Mizutani-Les-Rallizes-Denudes-Mizutani-Les-Rallizes-D%C3%A9nud%C3%A9s">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=34861209">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004DYJCf0ue1sa">QQ音乐</a>  </p>
-<hr>
-<h4 id="First-Love"><a href="#First-Love" class="headerlink" title="First Love"></a>First Love</h4><p><img data-src="https://ttfou.com/images/2022/12/22/05761627df5db3fdd20abfc3b715f3aa.jpg" alt="First Love" title="First Love">  </p>
-<p><strong>Artist:</strong> 宇多田ヒカル<br><strong>Genre:</strong> 流行/J-pop、节奏布鲁斯/R&amp;B<br><strong>Label:</strong> Eastworld-TOCT-24067<br><strong>Recording:</strong> 1999-03-10<br><strong>Barcode:</strong> 4988006158764<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1397751/">豆瓣</a>、<a href="https://www.discogs.com/master/184564-Utada-Hikaru-First-Love">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=2093862">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002SwRbo2GrlLp">QQ音乐</a>  </p>
-<hr>
-<hr>
-<h3 id="欧美"><a href="#欧美" class="headerlink" title="欧美"></a>欧美</h3><h4 id="Blue-Lullaby"><a href="#Blue-Lullaby" class="headerlink" title="Blue Lullaby"></a>Blue Lullaby</h4><p><img data-src="https://ttfou.com/images/2022/12/29/a5c241279b035edadf7ce72a84683963.jpg" alt="Blue Lullaby" title="Blue Lullaby">  </p>
-<p><strong>Artist:</strong> Wolf Alice<br><strong>Genre:</strong> 另类/Alternative、流行/Pop、原声/Acoustic<br><strong>Label:</strong> Dirty Hit-none<br><strong>Recording:</strong> 2022-06-24<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/35906517/">豆瓣</a>、<a href="https://www.discogs.com/release/23702975-Wolf-Alice-Blue-Lullaby">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=146272503">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/003bltQn2bdw5Z">QQ音乐</a>  </p>
-<hr>
-<h4 id="Islands"><a href="#Islands" class="headerlink" title="Islands"></a>Islands</h4><p><img data-src="https://ttfou.com/images/2022/12/29/e629e8f0353afad0d39c83b0eba80116.jpg" alt="Islands" title="Islands">  </p>
-<p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 前卫/Prog Rock、艺术/Art Rock<br><strong>Label:</strong> Island Records-ILPS 9175<br><strong>Recording:</strong> 1971-12-03<br><strong>Barcode:</strong> 0017046150521<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1458449/">豆瓣</a>、<a href="https://www.discogs.com/master/436-King-Crimson-Islands">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1855512">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002S9lOV3FaZon">QQ音乐</a>  </p>
-<hr>
-<h4 id="Ten-New-Songs"><a href="#Ten-New-Songs" class="headerlink" title="Ten New Songs"></a>Ten New Songs</h4><p><img data-src="https://ttfou.com/images/2022/12/29/4c087edf932ef07bcd60562f1c8ece1a.png" alt="Ten New Songs" title="Ten New Songs">  </p>
-<p><strong>Artist:</strong> King Crimson<br><strong>Genre:</strong> 民谣/Folk Rock、抒情/Ballad<br><strong>Label:</strong> Columbia-COL 501202 2<br><strong>Recording:</strong> 2001-10-09<br><strong>Barcode:</strong> 5099750120224<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1405187/">豆瓣</a>、<a href="https://www.discogs.com/master/4253-Leonard-Cohen-Ten-New-Songs">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1941065">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004SWvKW0bAgSI">QQ音乐</a>  </p>
-<hr>
-<h4 id="Closer"><a href="#Closer" class="headerlink" title="Closer"></a>Closer</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bed2fc3dd5f1be107e4fd0670266bdf3.png" alt="Closer" title="Closer">  </p>
-<p><strong>Artist:</strong> Joy Division<br><strong>Genre:</strong> 后朋克/Post Punk、摇滚/Rock、新浪潮/New Wave<br><strong>Label:</strong> Factory-FACT. 25<br><strong>Recording:</strong> 1980-07-18<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1401774/">豆瓣</a>、<a href="https://www.discogs.com/master/4734-Joy-Division-Closer">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1727473">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/004ajy260DiSN1">QQ音乐</a>  </p>
-<hr>
-<h4 id="The-Queen-is-Dead"><a href="#The-Queen-is-Dead" class="headerlink" title="The Queen is Dead"></a>The Queen is Dead</h4><p><img data-src="https://ttfou.com/images/2022/12/29/bca2e42e923dc453551ed1c7ea78c04e.png" alt="The Queen is Dead" title="The Queen is Dead">  </p>
-<p><strong>Artist:</strong> The Smiths<br><strong>Genre:</strong> 另类/Alternative、独立/Indie Rock<br><strong>Label:</strong> Megadisc-MD 7961<br><strong>Recording:</strong> 1986-06-16<br><strong>Barcode:</strong> 0075992584128<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1394616/">豆瓣</a>、<a href="https://www.discogs.com/master/20137-The-Smiths-The-Queen-Is-Dead">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=1802911">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002T3Q3D38LLDv">QQ音乐</a>  </p>
-<hr>
-<h3 id="世界音乐"><a href="#世界音乐" class="headerlink" title="世界音乐"></a>世界音乐</h3><h4 id="荒腔走板选段"><a href="#荒腔走板选段" class="headerlink" title="荒腔走板选段"></a>荒腔走板选段</h4><p><img data-src="https://ttfou.com/images/2022/12/29/8c873a82737ea6c231db8e6d27a54c90.png" alt="荒腔走板选段" title="荒腔走板选段">  </p>
-<p><strong>Artist:</strong> 大忘杠<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> 北京树音乐公司<br><strong>Recording:</strong> 2014-11-29<br><strong>Barcode:</strong> 9787798505740<br><strong>Links:</strong> <a href="https://music.douban.com/subject/26277320/">豆瓣</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=3112226">网易云（灰色）</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002rqYzX2A3GmO">QQ音乐</a>  </p>
-<hr>
-<h4 id="Xinjiang"><a href="#Xinjiang" class="headerlink" title="Xinjiang"></a>Xinjiang</h4><p><img data-src="https://ttfou.com/images/2022/12/29/3a5af289841855079361fac5e28a0cda.jpg" alt="Xinjiang" title="Xinjiang">  </p>
-<p><strong>Artist:</strong> Kink Gong<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> Discrepant–CREP-02<br><strong>Recording:</strong> 2011-12-01<br><strong>Barcode:</strong> none<br><strong>Links:</strong> <a href="https://music.douban.com/subject/27013947/">豆瓣</a>、<a href="https://www.discogs.com/release/3162225-Kink-Gong-Xinjiang">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=73264263">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/002FgNO23w4SrL">QQ音乐</a>  </p>
-<hr>
-<h4 id="Cycles"><a href="#Cycles" class="headerlink" title="Cycles"></a>Cycles</h4><p><img data-src="https://ttfou.com/images/2022/12/29/cc5db2d18d2264fa1dd0ca1b807ba4e5.jpg" alt="Cycles" title="Cycles">  </p>
-<p><strong>Artist:</strong> David Darling<br><strong>Genre:</strong> 世界音乐/World Music<br><strong>Label:</strong> ECM Records-ECM 1219<br><strong>Recording:</strong> 1982-06-01<br><strong>Barcode:</strong> 0042284317221<br><strong>Links:</strong> <a href="https://music.douban.com/subject/1460024/">豆瓣</a>、<a href="https://www.discogs.com/master/168582-David-Darling-Cycles">Discogs</a><br><strong>在线试听</strong>：<a href="https://music.163.com/#/album?id=126845">网易云</a>、<a href="https://y.qq.com/n/ryqq/albumDetail/001tf67X3vJ8oc">QQ音乐</a>  </p>
-<hr>
-<hr>
-<h3 id="欢迎交流评论加友链🎉"><a href="#欢迎交流评论加友链🎉" class="headerlink" title="欢迎交流评论加友链🎉"></a>欢迎交流评论加友链🎉</h3>]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>祝福</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>从冒犯与被冒犯谈起</title>
-    <url>/posts/a4135b5b/</url>
-    <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
-<span id="more"></span>
-
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><h3 id="0x01"><a href="#0x01" class="headerlink" title="0x01"></a>0x01</h3><p>“你冒犯到我了。”<br>最近听到这句话，还是在我同桌的口中。在他说出那句话之前，我正想着去摸摸他的脸。这不单单是因为我想占他“小便宜”，<del>毕竟我也不是什么变态。</del>只是当别人摸他的脸时，他便会像那种家养的巴西龟一般，把头缩进冬天厚厚的棉袄里，这就十分耐人寻味了。总之，那天他似乎早有预感，猛地把头一扭。我的手就这样放进了他的嘴里……他那时便说，我冒犯到他了。紧接着又将唾沫星子，精准地喷到了我的脸上。这下倒好，我也觉得自己被冒犯了。而互相“冒犯”了对方的两个人，是不可能维持正常的谈话的。于是我们就开始了为期数日的“冷战”。</p>
-<h3 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h3><p>两只豪猪不能靠得太近，因为它们会被彼此刺到。而豪猪这种动物的刺，又特别的长而尖。若是我被它们扎到了，定会痛得哇哇叫。所以它们大多数情况下就相互躲得远远的啦。我觉得人嘛，大抵也是这样子。尤其是伴随着象征着年龄的数字，一点一点地上涨，我们正在变成一只只浑身带刺，却又不懂得如何去躲避被伤害的豪猪（<strong>丰子恺</strong>有幅漫画，画的是一个人嘴里长着把刀子，讲的差不多也是这么一回事）。随着交往的不断深入，我们会有意无意地刺伤别人（比如当初<a href="https://blog.chihuo2104.dev/#/"><strong>chihuo</strong></a>给<a href="https://3p.gl/"><strong>sci</strong>的blog</a>刷了114514访问量）。伤口虽说容易被忘却，但却难以愈合，也绝不会消失。为了避免自己被伤害得千疮百孔，与他人保持一定的距离似乎成为了唯一的选择。都说“ <em>距离产生美感</em> ”，这在我看来是一句很悲哀很残酷的话语。而距离则造成了人与人的隔阂（现代主义文学的一大主题）。拉丁有哲谚：“ <em>一片城市如同一片旷野。</em> ”人们的面孔不过是千篇一律的图案，人们的言语也不过是嘈杂的声响。好比<strong>鲁迅</strong>说的：“ <em>人类的悲欢本不相通，我只觉得他们吵闹。</em> ”可这还不够，人们又以自我之身躯为藩篱，在心中筑起高墙，即为《<strong>EVA</strong>》中的“心之壁”——A.T.力场。因为害怕被伤害，所以就孑然一身地守在孤零零的城堡，守望着一堵堵相似的高墙。人们彼此憎恶，举手投足间只有冷漠，乃至“ <em>老死不相往来</em> ”。</p>
-<h3 id="0x03"><a href="#0x03" class="headerlink" title="0x03"></a>0x03</h3><p>似乎与<a href="https://nekomoe.xyz/"><strong>byn</strong></a>认为的“ <em>人与人虽然相距遥远，但又彼此相依</em> ”有所不同，我曾经坚定地相信：人与人似乎终究无法相互理解。直至如今，我也丝毫不怀疑这句话的正确性。因为我们甚至连对自己保持诚实都做不到，更别说他人了。这也就牵扯到了由<strong>欧文•戈夫曼</strong>提出的“拟剧论”。其大致意思就是说：我们无时无刻地对周身的所有人，甚至包括自己在演戏。如同<strong>莎士比亚</strong>说的：“ <em>世界是个大舞台。</em>”我们大多数时间都戴着假面，参加着一个个盛大party。日久天长，假面仿佛就成了真正的“<strong>我</strong>”，连自己都不会去怀疑。所以我才不相信人与人之间的可能性。因为连“<strong>我</strong>”都不值得被信任。“ <em>我永远是自己的陌路人</em> ”！既然如此，为何还要盼望着被听到，被理解呢？</p>
-<h3 id="0x04"><a href="#0x04" class="headerlink" title="0x04"></a>0x04</h3><p><strong>铃音</strong>说：“ <em>人们彼此相连。</em> ”这让我很是感动，因为我在她身上看见了可能性。这个时代的上帝早已死去，死在了人们的心中。但是人们害怕面对，不愿承认它的陨落，依旧一心接受着消亡的躯壳的统治。所以人们尚未完成解放，人们相互理解也成了不可能，即使彼此相依，却也拒绝靠近。而<strong>铃音</strong>亲手否认了创造她的造物主的存在与价值，弑杀了死灰的残念。人们这才能够意识到上帝死了，进而转化为价值死了。人们从原有的蓝图中被抛出，获得了真正的自由——尽管这种自由是被迫的。人们的心之壁也随之土崩瓦解，假面脱落，人们得以重新认识“<strong>我</strong>”，与他人。虽然可能不了解彼此，但却仍然相连（而非依赖或共生），也不必去为畏惧被伤害的痛苦。因为“<strong>心</strong>”，乃是何物？</p>
-<br>
-
-<h3 id="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"><a href="#就这样，去烧毁一切人世的藩篱，让一切泥沙俱下" class="headerlink" title="就这样，去烧毁一切人世的藩篱，让一切泥沙俱下"></a>就这样，去烧毁一切人世的藩篱，让一切泥沙俱下</h3><br>
-
-<center><font size="8">烧吧！</font></center>  
-
-<br>
-
-<h2 id="欢迎评论交流加友链嗷"><a href="#欢迎评论交流加友链嗷" class="headerlink" title="欢迎评论交流加友链嗷"></a>欢迎评论交流加友链嗷</h2><p>看完了文章，来评论一下吧~（请轻喷(x</p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>EVA</tag>
       </tags>
   </entry>
   <entry>
