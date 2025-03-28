@@ -350,6 +350,356 @@
       </tags>
   </entry>
   <entry>
+    <title>3...2...1...FIRE!!!</title>
+    <url>/posts/8cdc15a3/</url>
+    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
+<span id="more"></span>
+<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
+<hr>
+<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
+<hr>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
+<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
+]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>Blog-Log</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>庆祝</tag>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在NexT主题下设置友链的一种高效方法</title>
+    <url>/posts/a676ca7a/</url>
+    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
+<span id="more"></span>
+
+<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
+</div>
+
+<hr>
+<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
+<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
+
+<br>
+
+<hr>
+<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
+</div>
+
+<br>
+
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
+</li>
+<li><p><input checked="" disabled="" type="checkbox"> 
+在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
+</ul>
+<hr>
+<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
+<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
+<br>
+
+<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
+</ul>
+<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<br>
+
+<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<p>! <strong>注意</strong></p>
+<ul>
+<li>基本同上</li>
+<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
+<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
+</ul>
+<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
+
+<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div><div class="link-grid-container">
+<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
+<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
+<a href="https://mjt.asia/"></a>
+</div></div>
+
+<hr>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
+<li>简洁、高效、快速、人人可用</li>
+<li>无需插件，无需编辑主题代码</li>
+</ul>
+<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
+<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
+<li>友链一多，图片加载就会慢</li>
+<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
+</ul>
+<hr>
+<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
+]]></content>
+      <categories>
+        <category>教程向</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>地理必修一、二教材重点案例</title>
+    <url>/posts/8e3fb02e/</url>
+    <content><![CDATA[<p>地理学考临近，现将（人教版）地理必修一，必修二书中的重点案例提炼概括。以便复习使用。若有错误，还望指正！</p>
+<span id="more"></span>
+
+<h2 id="必修一案例"><a href="#必修一案例" class="headerlink" title="必修一案例"></a>必修一案例</h2><h3 id="火星概况"><a href="#火星概况" class="headerlink" title="火星概况"></a>火星概况</h3><ul>
+<li>表层土壤富含Fe（红色星球）；大气稀薄，CO2含量＞95%；表面温差大；常年大风沙尘暴</li>
+</ul>
+<h3 id="宁夏沙田"><a href="#宁夏沙田" class="headerlink" title="宁夏沙田"></a>宁夏沙田</h3><h4 id="蓄水保墒"><a href="#蓄水保墒" class="headerlink" title="蓄水保墒"></a>蓄水保墒</h4><ul>
+<li>避免阳光直射-&gt;抑制蒸发，减少蒸发量</li>
+<li>增加地表粗糙程度，削弱地表径流，增加下渗量</li>
+</ul>
+<h3 id="盐场"><a href="#盐场" class="headerlink" title="盐场"></a>盐场</h3><h4 id="我国四大盐场"><a href="#我国四大盐场" class="headerlink" title="我国四大盐场"></a>我国四大盐场</h4><ul>
+<li>长芦汉沽盐场；淮北盐场；布袋盐场；莺歌湖盐场</li>
+</ul>
+<h4 id="选址"><a href="#选址" class="headerlink" title="选址"></a>选址</h4><ul>
+<li>地势：开阔平坦；背风坡（雨天少）</li>
+<li>海滩：泥质海滩（提高产量）</li>
+<li>气候：晴多雨少，平均风速大</li>
+<li>海水：盐度高，附近无大河注入</li>
+</ul>
+<h3 id="钱塘江大潮"><a href="#钱塘江大潮" class="headerlink" title="钱塘江大潮"></a>钱塘江大潮</h3><h4 id="成因"><a href="#成因" class="headerlink" title="成因"></a>成因</h4><ul>
+<li>八月十八，日月地一线，引力最大</li>
+<li>喇叭口，肚大口小</li>
+<li>东南风（夏季风）盛行，风助潮涌</li>
+<li>钱塘江水量丰富，江水海水相顶托</li>
+</ul>
+<h3 id="渔场（舟山，纽芬兰）"><a href="#渔场（舟山，纽芬兰）" class="headerlink" title="渔场（舟山，纽芬兰）"></a>渔场（舟山，纽芬兰）</h3><h4 id="选址-gt-饵料-gt-浮游生物"><a href="#选址-gt-饵料-gt-浮游生物" class="headerlink" title="选址->饵料->浮游生物"></a>选址-&gt;饵料-&gt;浮游生物</h4><ul>
+<li>洋流：寒暖流、上升流</li>
+<li>入海口：无机盐</li>
+<li>大陆架：浅海</li>
+<li>中纬度：季节变化大-&gt;水温-&gt;风-&gt;（翻搅海水）无机物</li>
+</ul>
+<h4 id="舟山渔场"><a href="#舟山渔场" class="headerlink" title="舟山渔场"></a>舟山渔场</h4><ul>
+<li>寒暖流交汇</li>
+<li>淡水河流注入，营养物质丰富</li>
+<li>大陆架宽广，浅海光照充足，有利于藻类和浮游生物生长，饵料丰富</li>
+<li>温带海区季节变化大，海底受到扰动</li>
+</ul>
+<h3 id="渤海海冰"><a href="#渤海海冰" class="headerlink" title="渤海海冰"></a>渤海海冰</h3><h4 id="形成"><a href="#形成" class="headerlink" title="形成"></a>形成</h4><ul>
+<li>温度低（陆地比热容小降温快）</li>
+<li>盐度低</li>
+<li>深度浅</li>
+<li>海域地形封闭，海水扰动性差</li>
+</ul>
+<h3 id="fast天眼"><a href="#fast天眼" class="headerlink" title="fast天眼"></a>fast天眼</h3><h4 id="选址优势"><a href="#选址优势" class="headerlink" title="选址优势"></a>选址优势</h4><ul>
+<li>地形-&gt;土石工程量小</li>
+<li>底部裂隙-&gt;排水投资少</li>
+<li>居民少-&gt;搬迁工程量小</li>
+</ul>
+<h3 id="丹娘沙丘"><a href="#丹娘沙丘" class="headerlink" title="丹娘沙丘"></a>丹娘沙丘</h3><h4 id="成因（特例-湿润地区）"><a href="#成因（特例-湿润地区）" class="headerlink" title="成因（特例-湿润地区）"></a>成因（特例-湿润地区）</h4><ul>
+<li>气候较湿润</li>
+<li>干湿季分明</li>
+<li>干季河漫滩裸露在外（原料）</li>
+<li>冬春季多大风（动力）</li>
+</ul>
+<h3 id="喀斯特峰丛山地"><a href="#喀斯特峰丛山地" class="headerlink" title="喀斯特峰丛山地"></a>喀斯特峰丛山地</h3><h4 id="利弊"><a href="#利弊" class="headerlink" title="利弊"></a>利弊</h4><ul>
+<li><p>利</p>
+<ul>
+<li>地貌：旅游资源</li>
+<li>（地貌）洞穴：便利</li>
+</ul>
+</li>
+<li><p>不利（经济落后）</p>
+<ul>
+<li>生态-脆弱</li>
+<li>农业-落后</li>
+<li>交通-不便</li>
+</ul>
+</li>
+</ul>
+<h4 id="方案（经济-生态）"><a href="#方案（经济-生态）" class="headerlink" title="方案（经济+生态）"></a>方案（经济+生态）</h4><ul>
+<li>水土保持，涵养水源：工程、林草、农艺…</li>
+<li>立体生态农业：考虑地貌结构、生态与农业经济的发展</li>
+<li>异地生态移民</li>
+</ul>
+<h3 id="红树林"><a href="#红树林" class="headerlink" title="红树林"></a>红树林</h3><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><ul>
+<li>支柱根&amp;板状根：防止风浪冲击，适应淤泥环境</li>
+<li>呼吸根：退潮（甚至潮水淹没）时用以通气</li>
+<li>“胎生”：适应滩涂&amp;海流，增强生存能力</li>
+<li>可排盐分的腺体：适应海水浸泡（净化海水，减少赤潮现象）</li>
+</ul>
+<h4 id="意义（湿地生态）"><a href="#意义（湿地生态）" class="headerlink" title="意义（湿地生态）"></a>意义（湿地生态）</h4><ul>
+<li>防风防浪，促淤保滩，固岸护堤</li>
+<li>净化海水空气</li>
+<li>保护生物多样性</li>
+</ul>
+<h3 id="精品公园"><a href="#精品公园" class="headerlink" title="精品公园"></a>精品公园</h3><h4 id="皇城根"><a href="#皇城根" class="headerlink" title="皇城根"></a>皇城根</h4><ul>
+<li>种植当地树种：存活率高</li>
+<li>多树种混栽：生态复杂，多样性</li>
+<li>乔灌草结合：高覆盖率，垂直结构</li>
+<li>绿化率高：缓解城市热岛</li>
+</ul>
+<h3 id="盐碱地"><a href="#盐碱地" class="headerlink" title="盐碱地"></a>盐碱地</h3><h4 id="盐碱地成因"><a href="#盐碱地成因" class="headerlink" title="盐碱地成因"></a>盐碱地成因</h4><ul>
+<li>地形低洼，地下水位高</li>
+<li>雨季降水量大且集中，地下水位上涨</li>
+<li>旱季气温高蒸发旺，盐分集中在地表（毛细作用）</li>
+<li>不合理灌溉，大小浸灌，只灌不排</li>
+</ul>
+<h4 id="缓解方案"><a href="#缓解方案" class="headerlink" title="缓解方案"></a>缓解方案</h4><ul>
+<li>引淡淋盐</li>
+<li>井灌井排</li>
+<li>覆盖</li>
+<li>农业生物措施</li>
+</ul>
+<h3 id="雨水花园-amp-海绵城市"><a href="#雨水花园-amp-海绵城市" class="headerlink" title="雨水花园&amp;海绵城市"></a>雨水花园&amp;海绵城市</h3><h4 id="雨水花园"><a href="#雨水花园" class="headerlink" title="雨水花园"></a>雨水花园</h4><ul>
+<li>缓解城市内涝（增加下渗，净化、积蓄、利用雨水）</li>
+<li>缓解热岛效应（增加空气湿度，调节气温）</li>
+<li>休闲观赏景观</li>
+<li>生物栖息地</li>
+</ul>
+<hr>
+<h2 id="必修二案例"><a href="#必修二案例" class="headerlink" title="必修二案例"></a>必修二案例</h2><h3 id="长安城空间结构"><a href="#长安城空间结构" class="headerlink" title="长安城空间结构"></a>长安城空间结构</h3><ul>
+<li>棋盘式布局，皇权思想</li>
+<li>西市靠近居民区，为国际贸易中心，外国商人从西来</li>
+</ul>
+<h3 id="哈尼梯田"><a href="#哈尼梯田" class="headerlink" title="哈尼梯田"></a>哈尼梯田</h3><h4 id="自然条件"><a href="#自然条件" class="headerlink" title="自然条件"></a>自然条件</h4><ul>
+<li>气候：北回归线以南，热带、亚热带季风区，全年高温，降水丰沛（降水量不稳定，季分配不均）</li>
+<li>地形：陡峭、崎岖、多山区</li>
+</ul>
+<h4 id="半山腰建造聚落"><a href="#半山腰建造聚落" class="headerlink" title="半山腰建造聚落"></a>半山腰建造聚落</h4><ul>
+<li>半山腰发展农业可能会污染水源。把村庄建在梯田上方，森林下方，以获取清洁水源</li>
+<li>河谷地带，气候湿热，易受洪水威胁，不宜居住</li>
+<li>森林涵养水源，延缓水的汇集、地表径流速度。增加下渗，地下径流</li>
+</ul>
+<h3 id="亚洲水稻"><a href="#亚洲水稻" class="headerlink" title="亚洲水稻"></a>亚洲水稻</h3><h4 id="分布"><a href="#分布" class="headerlink" title="分布"></a>分布</h4><ul>
+<li>东亚、南亚、东南亚</li>
+<li>温带、热带、亚热带季风区</li>
+</ul>
+<h4 id="有利条件"><a href="#有利条件" class="headerlink" title="有利条件"></a>有利条件</h4><ul>
+<li><strong>自然</strong><ul>
+<li>季风气候，高温多雨，雨热同期</li>
+<li>地形平坦，土壤肥沃</li>
+<li>水源充足</li>
+</ul>
+</li>
+<li><strong>人文</strong><ul>
+<li>劳动力丰富</li>
+<li>消费市场广阔</li>
+<li>历史悠久，经验丰富</li>
+</ul>
+</li>
+</ul>
+<h4 id="不利条件"><a href="#不利条件" class="headerlink" title="不利条件"></a>不利条件</h4><ul>
+<li>季风不稳定，旱涝频繁 -（解决方案）加强水利工程建设</li>
+<li>技术低</li>
+</ul>
+<h3 id="反季节供应"><a href="#反季节供应" class="headerlink" title="反季节供应"></a>反季节供应</h3><h4 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h4><ul>
+<li>避开当地品种竞争（提升市场竞争力）</li>
+<li>提高利润</li>
+<li>丰富市场供应</li>
+</ul>
+<h4 id="要求"><a href="#要求" class="headerlink" title="要求"></a>要求</h4><ul>
+<li>地区间相隔较远，自然环境差异较大</li>
+<li>快捷的交通运输</li>
+<li>冷藏、保鲜技术</li>
+</ul>
+<h3 id="顺德家具"><a href="#顺德家具" class="headerlink" title="顺德家具"></a>顺德家具</h3><h4 id="产业聚集"><a href="#产业聚集" class="headerlink" title="产业聚集"></a>产业聚集</h4><ul>
+<li><strong>优势</strong><ul>
+<li>共享基础设施、公共服务</li>
+<li>减少能源消耗，降低运输费用</li>
+<li>加强信息交流，提高技术协作</li>
+</ul>
+</li>
+<li><strong>目的</strong><ul>
+<li>降低生产成本</li>
+<li>提高生产效率利润</li>
+<li>取得规模效益</li>
+</ul>
+</li>
+</ul>
+<h3 id="首钢搬迁"><a href="#首钢搬迁" class="headerlink" title="首钢搬迁"></a>首钢搬迁</h3><h4 id="搬迁原因"><a href="#搬迁原因" class="headerlink" title="搬迁原因"></a>搬迁原因</h4><ul>
+<li>与北京作为首都的战略不符</li>
+<li>城市化发展，能耗高，污染大，对环境影响大</li>
+<li>北京产业结构的需要</li>
+<li>绿色奥运对环境提出要求</li>
+</ul>
+<h4 id="曹妃甸优势条件"><a href="#曹妃甸优势条件" class="headerlink" title="曹妃甸优势条件"></a>曹妃甸优势条件</h4><ul>
+<li>地广，地租低；天然良港，水陆交通便利，运输成本低</li>
+<li>近京津，市场广阔</li>
+<li>国家政策资金支持</li>
+<li>靠近油气聚集地，资源丰富</li>
+<li>环境承载力大</li>
+</ul>
+<h3 id="中关村电子城"><a href="#中关村电子城" class="headerlink" title="中关村电子城"></a>中关村电子城</h3><h4 id="形成发展因素（专业化工业聚集）"><a href="#形成发展因素（专业化工业聚集）" class="headerlink" title="形成发展因素（专业化工业聚集）"></a>形成发展因素（专业化工业聚集）</h4><ul>
+<li>气候条件较好（高科技产业）</li>
+<li>科技；交通；政策；市场</li>
+</ul>
+<h3 id="非洲铁路分布"><a href="#非洲铁路分布" class="headerlink" title="非洲铁路分布"></a>非洲铁路分布</h3><ul>
+<li>沿海多，内陆少；线状；密度稀疏</li>
+</ul>
+<h3 id="交通拥堵"><a href="#交通拥堵" class="headerlink" title="交通拥堵"></a>交通拥堵</h3><h4 id="方案（只能缓解）"><a href="#方案（只能缓解）" class="headerlink" title="方案（只能缓解）"></a>方案（只能缓解）</h4><ul>
+<li>合理规划城市道路</li>
+<li>加强完善交通管理</li>
+<li>优先发展公共交通</li>
+<li>加强基础设施建设</li>
+<li>限制私家车数量，出行等</li>
+</ul>
+<h3 id="过度垦荒（恶性循环）"><a href="#过度垦荒（恶性循环）" class="headerlink" title="过度垦荒（恶性循环）"></a>过度垦荒（恶性循环）</h3><h4 id="影响：生态破坏，环境恶化，生物多样性下降"><a href="#影响：生态破坏，环境恶化，生物多样性下降" class="headerlink" title="影响：生态破坏，环境恶化，生物多样性下降"></a>影响：生态破坏，环境恶化，生物多样性下降</h4><ul>
+<li>围湖造田（长江中下游）-&gt;调蓄能力下降-&gt;湿地减少，水利破坏</li>
+<li>开垦草场-&gt;风沙侵蚀-&gt;草场破坏，荒漠化</li>
+<li>毁林开荒-&gt;森林减少，水土流失-&gt;旱涝、泥石流、滑坡</li>
+</ul>
+<h3 id="长江经济带"><a href="#长江经济带" class="headerlink" title="长江经济带"></a>长江经济带</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><ul>
+<li><strong>一轴：</strong> 长江黄金水道；</li>
+<li><strong>两翼：</strong> 沪蓉、沪瑞；</li>
+<li><strong>三级：</strong> 长江三角洲、长江中游、成渝城市群</li>
+</ul>
+<h4 id="河流航运价值"><a href="#河流航运价值" class="headerlink" title="河流航运价值"></a>河流航运价值</h4><ul>
+<li><strong>自然</strong>（航运能力）：<ul>
+<li>（水文）.流量大且稳定（变化小）；流速慢；冰期短或无（通航时间长）</li>
+<li>（水系）.河道宽阔；干流长，支流多（通航里程长）</li>
+</ul>
+</li>
+<li><strong>人文</strong>（社会经济）：人口多，经济发达</li>
+</ul>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>高中地理</tag>
+        <tag>学考</tag>
+        <tag>笔记整理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>安利科普 REDЯUM - 绚丽燃烧的昨日之花</title>
     <url>/posts/1f99454c/</url>
     <content><![CDATA[<blockquote class="blockquote-center">“日本で PORTISHEAD みたいなバンドを作ろう！”</blockquote>  
@@ -958,28 +1308,6 @@
       </tags>
   </entry>
   <entry>
-    <title>3...2...1...FIRE!!!</title>
-    <url>/posts/8cdc15a3/</url>
-    <content><![CDATA[<p>🎉About Why I Chose Github Pages&amp;Hexo to Build My Blog and My Future Plans.🎉</p>
-<span id="more"></span>
-<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我很早就有过自己写博客的想法。<br>那时候觉得把自己写的东西发到网路上是一件很“酷”很有成就感的一件事情<del>（<em>现在也是这么认为的</em>）</del>。但局限于肚子里头没有多少墨水，在那时候做过类似的事情也就只是在国内的流媒体音乐平台上传自己的歌曲翻译罢了 <a href="https://music.163.com/#/playlist?id=4947704904">点我查看我的部分翻译成果</a>。但随着“学业压力”的不断增大<del>（<em>借口</em>）</del>，给我用于翻译的时间在被不断压缩，我自己也随之对此渐渐地失去了兴趣<del>（<em>所以直到现在网易云上还有几首/几张鸽着没翻🕊</em>）</del>。一切似乎就要就此了结——直到我遇见了<a href="https://github.com/chihuo2104">chihuo</a></p>
-<hr>
-<h2 id="契机"><a href="#契机" class="headerlink" title="契机"></a>契机</h2><p>时间拨回到上个暑假（2022），就在这个暑假里，“得益于”某些事件，我深刻地认识到了国内各大平台的变态，我们几乎无法在任何国内平台上自由发声。在此之后，我的“博客梦”近乎破灭了。正当我打算“踏踏实实做人”时，我在高中始业教育的STEM课上遇见了<a href="https://github.com/chihuo2104">chihuo</a>。在为数不多的<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>制作时光里，<a href="https://github.com/chihuo2104">chihuo</a>可以说是为我打开了“新世界的大门”。在<a href="https://github.com/chihuo2104/plant-genius-master">STEM PROJECT</a>结束之后，他把我拉进了一个“<strong>大佬</strong>云集”的<del>灌水闲聊</del>QQ群。<br><img data-src="/images/post/fire/贴贴.png" width="700" height="380/"><br>群里有个名为<a href="https://bbg.nekomoe.xyz/#/zh-cn/">bbg</a>的博客生成器。由此，我大受启发……(此处省略10000字)<br>最终，我用Github Pages和Hexo搭建了现在的Blog…（</p>
-<hr>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>那为什么我要用Github Pages和Hexo搭建Blog呢？！<br>说来话短，我没钱也没闲。<br>没钱买一个可被正常收录的域名+一个稳定可靠的vps+维护博客…<br>所以，等我<strong>有钱</strong>了，未来大约或许有可能会把Blog迁到bbg<del><em>或其它平台上，或根本不会</em></del><br>最后，再由我自己祝贺自己<del>并不</del>顺利建站！！！🎉🎉🎉</p>
-<h2 id="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"><a href="#欢迎交流评论加友链🎉🎉🎉（评论区还没建好）" class="headerlink" title="欢迎交流评论加友链🎉🎉🎉（评论区还没建好）"></a>欢迎交流评论加友链🎉🎉🎉<del>（评论区还没建好）</del></h2><p><em><strong>22.12.16：有评论区啦</strong></em></p>
-]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>Blog-Log</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>庆祝</tag>
-        <tag>建站</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Bloglog 23 01 14</title>
     <url>/posts/db043193/</url>
     <content><![CDATA[<p>大概是最后一篇Bloglog了(x，进来看看吧~</p>
@@ -1005,236 +1333,9 @@
         <category>碎碎念</category>
       </categories>
       <tags>
-        <tag>Changelog</tag>
         <tag>Hexo</tag>
+        <tag>Changelog</tag>
         <tag>Hexo-NexT</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>地理必修一、二教材重点案例</title>
-    <url>/posts/8e3fb02e/</url>
-    <content><![CDATA[<p>地理学考临近，现将（人教版）地理必修一，必修二书中的重点案例提炼概括。以便复习使用。若有错误，还望指正！</p>
-<span id="more"></span>
-
-<h2 id="必修一案例"><a href="#必修一案例" class="headerlink" title="必修一案例"></a>必修一案例</h2><h3 id="火星概况"><a href="#火星概况" class="headerlink" title="火星概况"></a>火星概况</h3><ul>
-<li>表层土壤富含Fe（红色星球）；大气稀薄，CO2含量＞95%；表面温差大；常年大风沙尘暴</li>
-</ul>
-<h3 id="宁夏沙田"><a href="#宁夏沙田" class="headerlink" title="宁夏沙田"></a>宁夏沙田</h3><h4 id="蓄水保墒"><a href="#蓄水保墒" class="headerlink" title="蓄水保墒"></a>蓄水保墒</h4><ul>
-<li>避免阳光直射-&gt;抑制蒸发，减少蒸发量</li>
-<li>增加地表粗糙程度，削弱地表径流，增加下渗量</li>
-</ul>
-<h3 id="盐场"><a href="#盐场" class="headerlink" title="盐场"></a>盐场</h3><h4 id="我国四大盐场"><a href="#我国四大盐场" class="headerlink" title="我国四大盐场"></a>我国四大盐场</h4><ul>
-<li>长芦汉沽盐场；淮北盐场；布袋盐场；莺歌湖盐场</li>
-</ul>
-<h4 id="选址"><a href="#选址" class="headerlink" title="选址"></a>选址</h4><ul>
-<li>地势：开阔平坦；背风坡（雨天少）</li>
-<li>海滩：泥质海滩（提高产量）</li>
-<li>气候：晴多雨少，平均风速大</li>
-<li>海水：盐度高，附近无大河注入</li>
-</ul>
-<h3 id="钱塘江大潮"><a href="#钱塘江大潮" class="headerlink" title="钱塘江大潮"></a>钱塘江大潮</h3><h4 id="成因"><a href="#成因" class="headerlink" title="成因"></a>成因</h4><ul>
-<li>八月十八，日月地一线，引力最大</li>
-<li>喇叭口，肚大口小</li>
-<li>东南风（夏季风）盛行，风助潮涌</li>
-<li>钱塘江水量丰富，江水海水相顶托</li>
-</ul>
-<h3 id="渔场（舟山，纽芬兰）"><a href="#渔场（舟山，纽芬兰）" class="headerlink" title="渔场（舟山，纽芬兰）"></a>渔场（舟山，纽芬兰）</h3><h4 id="选址-gt-饵料-gt-浮游生物"><a href="#选址-gt-饵料-gt-浮游生物" class="headerlink" title="选址->饵料->浮游生物"></a>选址-&gt;饵料-&gt;浮游生物</h4><ul>
-<li>洋流：寒暖流、上升流</li>
-<li>入海口：无机盐</li>
-<li>大陆架：浅海</li>
-<li>中纬度：季节变化大-&gt;水温-&gt;风-&gt;（翻搅海水）无机物</li>
-</ul>
-<h4 id="舟山渔场"><a href="#舟山渔场" class="headerlink" title="舟山渔场"></a>舟山渔场</h4><ul>
-<li>寒暖流交汇</li>
-<li>淡水河流注入，营养物质丰富</li>
-<li>大陆架宽广，浅海光照充足，有利于藻类和浮游生物生长，饵料丰富</li>
-<li>温带海区季节变化大，海底受到扰动</li>
-</ul>
-<h3 id="渤海海冰"><a href="#渤海海冰" class="headerlink" title="渤海海冰"></a>渤海海冰</h3><h4 id="形成"><a href="#形成" class="headerlink" title="形成"></a>形成</h4><ul>
-<li>温度低（陆地比热容小降温快）</li>
-<li>盐度低</li>
-<li>深度浅</li>
-<li>海域地形封闭，海水扰动性差</li>
-</ul>
-<h3 id="fast天眼"><a href="#fast天眼" class="headerlink" title="fast天眼"></a>fast天眼</h3><h4 id="选址优势"><a href="#选址优势" class="headerlink" title="选址优势"></a>选址优势</h4><ul>
-<li>地形-&gt;土石工程量小</li>
-<li>底部裂隙-&gt;排水投资少</li>
-<li>居民少-&gt;搬迁工程量小</li>
-</ul>
-<h3 id="丹娘沙丘"><a href="#丹娘沙丘" class="headerlink" title="丹娘沙丘"></a>丹娘沙丘</h3><h4 id="成因（特例-湿润地区）"><a href="#成因（特例-湿润地区）" class="headerlink" title="成因（特例-湿润地区）"></a>成因（特例-湿润地区）</h4><ul>
-<li>气候较湿润</li>
-<li>干湿季分明</li>
-<li>干季河漫滩裸露在外（原料）</li>
-<li>冬春季多大风（动力）</li>
-</ul>
-<h3 id="喀斯特峰丛山地"><a href="#喀斯特峰丛山地" class="headerlink" title="喀斯特峰丛山地"></a>喀斯特峰丛山地</h3><h4 id="利弊"><a href="#利弊" class="headerlink" title="利弊"></a>利弊</h4><ul>
-<li><p>利</p>
-<ul>
-<li>地貌：旅游资源</li>
-<li>（地貌）洞穴：便利</li>
-</ul>
-</li>
-<li><p>不利（经济落后）</p>
-<ul>
-<li>生态-脆弱</li>
-<li>农业-落后</li>
-<li>交通-不便</li>
-</ul>
-</li>
-</ul>
-<h4 id="方案（经济-生态）"><a href="#方案（经济-生态）" class="headerlink" title="方案（经济+生态）"></a>方案（经济+生态）</h4><ul>
-<li>水土保持，涵养水源：工程、林草、农艺…</li>
-<li>立体生态农业：考虑地貌结构、生态与农业经济的发展</li>
-<li>异地生态移民</li>
-</ul>
-<h3 id="红树林"><a href="#红树林" class="headerlink" title="红树林"></a>红树林</h3><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><ul>
-<li>支柱根&amp;板状根：防止风浪冲击，适应淤泥环境</li>
-<li>呼吸根：退潮（甚至潮水淹没）时用以通气</li>
-<li>“胎生”：适应滩涂&amp;海流，增强生存能力</li>
-<li>可排盐分的腺体：适应海水浸泡（净化海水，减少赤潮现象）</li>
-</ul>
-<h4 id="意义（湿地生态）"><a href="#意义（湿地生态）" class="headerlink" title="意义（湿地生态）"></a>意义（湿地生态）</h4><ul>
-<li>防风防浪，促淤保滩，固岸护堤</li>
-<li>净化海水空气</li>
-<li>保护生物多样性</li>
-</ul>
-<h3 id="精品公园"><a href="#精品公园" class="headerlink" title="精品公园"></a>精品公园</h3><h4 id="皇城根"><a href="#皇城根" class="headerlink" title="皇城根"></a>皇城根</h4><ul>
-<li>种植当地树种：存活率高</li>
-<li>多树种混栽：生态复杂，多样性</li>
-<li>乔灌草结合：高覆盖率，垂直结构</li>
-<li>绿化率高：缓解城市热岛</li>
-</ul>
-<h3 id="盐碱地"><a href="#盐碱地" class="headerlink" title="盐碱地"></a>盐碱地</h3><h4 id="盐碱地成因"><a href="#盐碱地成因" class="headerlink" title="盐碱地成因"></a>盐碱地成因</h4><ul>
-<li>地形低洼，地下水位高</li>
-<li>雨季降水量大且集中，地下水位上涨</li>
-<li>旱季气温高蒸发旺，盐分集中在地表（毛细作用）</li>
-<li>不合理灌溉，大小浸灌，只灌不排</li>
-</ul>
-<h4 id="缓解方案"><a href="#缓解方案" class="headerlink" title="缓解方案"></a>缓解方案</h4><ul>
-<li>引淡淋盐</li>
-<li>井灌井排</li>
-<li>覆盖</li>
-<li>农业生物措施</li>
-</ul>
-<h3 id="雨水花园-amp-海绵城市"><a href="#雨水花园-amp-海绵城市" class="headerlink" title="雨水花园&amp;海绵城市"></a>雨水花园&amp;海绵城市</h3><h4 id="雨水花园"><a href="#雨水花园" class="headerlink" title="雨水花园"></a>雨水花园</h4><ul>
-<li>缓解城市内涝（增加下渗，净化、积蓄、利用雨水）</li>
-<li>缓解热岛效应（增加空气湿度，调节气温）</li>
-<li>休闲观赏景观</li>
-<li>生物栖息地</li>
-</ul>
-<hr>
-<h2 id="必修二案例"><a href="#必修二案例" class="headerlink" title="必修二案例"></a>必修二案例</h2><h3 id="长安城空间结构"><a href="#长安城空间结构" class="headerlink" title="长安城空间结构"></a>长安城空间结构</h3><ul>
-<li>棋盘式布局，皇权思想</li>
-<li>西市靠近居民区，为国际贸易中心，外国商人从西来</li>
-</ul>
-<h3 id="哈尼梯田"><a href="#哈尼梯田" class="headerlink" title="哈尼梯田"></a>哈尼梯田</h3><h4 id="自然条件"><a href="#自然条件" class="headerlink" title="自然条件"></a>自然条件</h4><ul>
-<li>气候：北回归线以南，热带、亚热带季风区，全年高温，降水丰沛（降水量不稳定，季分配不均）</li>
-<li>地形：陡峭、崎岖、多山区</li>
-</ul>
-<h4 id="半山腰建造聚落"><a href="#半山腰建造聚落" class="headerlink" title="半山腰建造聚落"></a>半山腰建造聚落</h4><ul>
-<li>半山腰发展农业可能会污染水源。把村庄建在梯田上方，森林下方，以获取清洁水源</li>
-<li>河谷地带，气候湿热，易受洪水威胁，不宜居住</li>
-<li>森林涵养水源，延缓水的汇集、地表径流速度。增加下渗，地下径流</li>
-</ul>
-<h3 id="亚洲水稻"><a href="#亚洲水稻" class="headerlink" title="亚洲水稻"></a>亚洲水稻</h3><h4 id="分布"><a href="#分布" class="headerlink" title="分布"></a>分布</h4><ul>
-<li>东亚、南亚、东南亚</li>
-<li>温带、热带、亚热带季风区</li>
-</ul>
-<h4 id="有利条件"><a href="#有利条件" class="headerlink" title="有利条件"></a>有利条件</h4><ul>
-<li><strong>自然</strong><ul>
-<li>季风气候，高温多雨，雨热同期</li>
-<li>地形平坦，土壤肥沃</li>
-<li>水源充足</li>
-</ul>
-</li>
-<li><strong>人文</strong><ul>
-<li>劳动力丰富</li>
-<li>消费市场广阔</li>
-<li>历史悠久，经验丰富</li>
-</ul>
-</li>
-</ul>
-<h4 id="不利条件"><a href="#不利条件" class="headerlink" title="不利条件"></a>不利条件</h4><ul>
-<li>季风不稳定，旱涝频繁 -（解决方案）加强水利工程建设</li>
-<li>技术低</li>
-</ul>
-<h3 id="反季节供应"><a href="#反季节供应" class="headerlink" title="反季节供应"></a>反季节供应</h3><h4 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h4><ul>
-<li>避开当地品种竞争（提升市场竞争力）</li>
-<li>提高利润</li>
-<li>丰富市场供应</li>
-</ul>
-<h4 id="要求"><a href="#要求" class="headerlink" title="要求"></a>要求</h4><ul>
-<li>地区间相隔较远，自然环境差异较大</li>
-<li>快捷的交通运输</li>
-<li>冷藏、保鲜技术</li>
-</ul>
-<h3 id="顺德家具"><a href="#顺德家具" class="headerlink" title="顺德家具"></a>顺德家具</h3><h4 id="产业聚集"><a href="#产业聚集" class="headerlink" title="产业聚集"></a>产业聚集</h4><ul>
-<li><strong>优势</strong><ul>
-<li>共享基础设施、公共服务</li>
-<li>减少能源消耗，降低运输费用</li>
-<li>加强信息交流，提高技术协作</li>
-</ul>
-</li>
-<li><strong>目的</strong><ul>
-<li>降低生产成本</li>
-<li>提高生产效率利润</li>
-<li>取得规模效益</li>
-</ul>
-</li>
-</ul>
-<h3 id="首钢搬迁"><a href="#首钢搬迁" class="headerlink" title="首钢搬迁"></a>首钢搬迁</h3><h4 id="搬迁原因"><a href="#搬迁原因" class="headerlink" title="搬迁原因"></a>搬迁原因</h4><ul>
-<li>与北京作为首都的战略不符</li>
-<li>城市化发展，能耗高，污染大，对环境影响大</li>
-<li>北京产业结构的需要</li>
-<li>绿色奥运对环境提出要求</li>
-</ul>
-<h4 id="曹妃甸优势条件"><a href="#曹妃甸优势条件" class="headerlink" title="曹妃甸优势条件"></a>曹妃甸优势条件</h4><ul>
-<li>地广，地租低；天然良港，水陆交通便利，运输成本低</li>
-<li>近京津，市场广阔</li>
-<li>国家政策资金支持</li>
-<li>靠近油气聚集地，资源丰富</li>
-<li>环境承载力大</li>
-</ul>
-<h3 id="中关村电子城"><a href="#中关村电子城" class="headerlink" title="中关村电子城"></a>中关村电子城</h3><h4 id="形成发展因素（专业化工业聚集）"><a href="#形成发展因素（专业化工业聚集）" class="headerlink" title="形成发展因素（专业化工业聚集）"></a>形成发展因素（专业化工业聚集）</h4><ul>
-<li>气候条件较好（高科技产业）</li>
-<li>科技；交通；政策；市场</li>
-</ul>
-<h3 id="非洲铁路分布"><a href="#非洲铁路分布" class="headerlink" title="非洲铁路分布"></a>非洲铁路分布</h3><ul>
-<li>沿海多，内陆少；线状；密度稀疏</li>
-</ul>
-<h3 id="交通拥堵"><a href="#交通拥堵" class="headerlink" title="交通拥堵"></a>交通拥堵</h3><h4 id="方案（只能缓解）"><a href="#方案（只能缓解）" class="headerlink" title="方案（只能缓解）"></a>方案（只能缓解）</h4><ul>
-<li>合理规划城市道路</li>
-<li>加强完善交通管理</li>
-<li>优先发展公共交通</li>
-<li>加强基础设施建设</li>
-<li>限制私家车数量，出行等</li>
-</ul>
-<h3 id="过度垦荒（恶性循环）"><a href="#过度垦荒（恶性循环）" class="headerlink" title="过度垦荒（恶性循环）"></a>过度垦荒（恶性循环）</h3><h4 id="影响：生态破坏，环境恶化，生物多样性下降"><a href="#影响：生态破坏，环境恶化，生物多样性下降" class="headerlink" title="影响：生态破坏，环境恶化，生物多样性下降"></a>影响：生态破坏，环境恶化，生物多样性下降</h4><ul>
-<li>围湖造田（长江中下游）-&gt;调蓄能力下降-&gt;湿地减少，水利破坏</li>
-<li>开垦草场-&gt;风沙侵蚀-&gt;草场破坏，荒漠化</li>
-<li>毁林开荒-&gt;森林减少，水土流失-&gt;旱涝、泥石流、滑坡</li>
-</ul>
-<h3 id="长江经济带"><a href="#长江经济带" class="headerlink" title="长江经济带"></a>长江经济带</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><ul>
-<li><strong>一轴：</strong> 长江黄金水道；</li>
-<li><strong>两翼：</strong> 沪蓉、沪瑞；</li>
-<li><strong>三级：</strong> 长江三角洲、长江中游、成渝城市群</li>
-</ul>
-<h4 id="河流航运价值"><a href="#河流航运价值" class="headerlink" title="河流航运价值"></a>河流航运价值</h4><ul>
-<li><strong>自然</strong>（航运能力）：<ul>
-<li>（水文）.流量大且稳定（变化小）；流速慢；冰期短或无（通航时间长）</li>
-<li>（水系）.河道宽阔；干流长，支流多（通航里程长）</li>
-</ul>
-</li>
-<li><strong>人文</strong>（社会经济）：人口多，经济发达</li>
-</ul>
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>高中地理</tag>
-        <tag>学考</tag>
-        <tag>笔记整理</tag>
       </tags>
   </entry>
   <entry>
@@ -1279,107 +1380,6 @@
         <tag>碎碎念</tag>
         <tag>庆祝</tag>
         <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在NexT主题下设置友链的一种高效方法</title>
-    <url>/posts/a676ca7a/</url>
-    <content><![CDATA[<p><strong>简洁、高效、快速</strong>！<strong>无需插件，无需编辑主题代码</strong>！</p>
-<span id="more"></span>
-
-<div class="note warning"><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>本人使用的<strong>NexT</strong>版本是 <em><strong>8.14.0</strong></em> 。请留意您的NexT版本是否支持文章中的方法。</p>
-</div>
-
-<hr>
-<h2 id="网页效果预览"><a href="#网页效果预览" class="headerlink" title="网页效果预览"></a>网页效果预览</h2><p><a href="https://mjt.asia/friends/">本Blog的<strong>友链</strong>页面(点我直达)</a></p>
-<h3 id="图片预览效果"><a href="#图片预览效果" class="headerlink" title="图片预览效果"></a>图片预览效果</h3><img data-src="/images/post/friendlink/Preview.png" width="1000" height="600" alt="Preview">
-
-<br>
-
-<hr>
-<h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><div class="note info no-icon"><p>效果的实现参考了<a href="https://theme-next.js.org/docs/tag-plugins/link-grid.html"><strong>NexT</strong>的 <mark class="label info">官方文档</mark> (点我直达)</a></p>
-</div>
-
-<br>
-
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在Blog根目录的<code>source</code>文件夹，已经生成了包含<code>index.md</code>的文件夹。并且在<code>index.md</code>文件开头输入</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 是友链哒❤~ # 可替换</span><br><span class="line">date: # 格式：YYYY-MM-DD hh:mm:ss </span><br><span class="line">type: "friends" # 可替换</span><br><span class="line">categories: </span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure>
-</li>
-<li><p><input checked="" disabled="" type="checkbox"> 
-在<strong>NexT</strong>主题根目录的<code>_config.yml</code>配置文件中已经配置好了在导航栏(menu)的友链。（我的是这样的：</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">friends: /friends/ || fa fa-users  # 命名需与包含index.md的文件夹名称对应</span><br></pre></td></tr></tbody></table></figure></li>
-</ul>
-<hr>
-<h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><p><strong>! 请直接在<code>index.md</code>文件中编写</strong></p>
-<p>有2种格式可以应用，都是在你想要插入友链的位置直接编写。</p>
-<br>
-
-<h3 id="Format-A"><a href="#Format-A" class="headerlink" title="Format A"></a>Format A</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">[网站标题Name] | [网站链接Link] | [网站简介Bio] | [网站图片icon]</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-<li>尽管格式类似于Markdown表格，但是单行开头和结尾并没有 “ <strong>|</strong> ” 符号</li>
-</ul>
-<h4 id="实操A"><a href="#实操A" class="headerlink" title="实操A"></a>实操A</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% linkgrid %}</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 | https://mjt.asia/ | その人の声を 聞くだけで 失神しそうな | /images/icon-blog-Me.png</span><br><span class="line">{% endlinkgrid %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果A"><a href="#呈现效果A" class="headerlink" title="呈现效果A"></a>呈现效果A</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<br>
-
-<h3 id="Format-B"><a href="#Format-B" class="headerlink" title="Format B"></a>Format B</h3><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">[网站标题Name] , [网站链接Link] , [网站简介Bio] , [网站图片icon]</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<p>! <strong>注意</strong></p>
-<ul>
-<li>基本同上</li>
-<li><code>[网站图片icon]</code> 需存放在本地，位置为 <mark class="label ">\Your-Blog\themes\next\source\images</mark></li>
-<li>网站图片建议压缩为<code>(180*180)</code>大小，否则图片加载会较慢</li>
-</ul>
-<h4 id="实操B"><a href="#实操B" class="headerlink" title="实操B"></a>实操B</h4><p>以我的<strong>Blog</strong>为例</p>
-<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">{% lg %}</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">木屐落在水洼了 , https://mjt.asia/ , その人の声を 聞くだけで 失神しそうな , /images/icon-blog-Me.png</span><br><span class="line">{% endlg %}</span><br></pre></td></tr></tbody></table></figure>
-
-<h4 id="呈现效果B"><a href="#呈现效果B" class="headerlink" title="呈现效果B"></a>呈现效果B</h4><div class="link-grid"><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div><div class="link-grid-container">
-<object class="link-grid-image" data="/images/icon-blog-Me.png"></object>
-<p>木屐落在水洼了</p><p>その人の声を 聞くだけで 失神しそうな</p>
-<a href="https://mjt.asia/"></a>
-</div></div>
-
-<hr>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h3 id="这种方法的优势"><a href="#这种方法的优势" class="headerlink" title="这种方法的优势"></a>这种方法的优势</h3><ul>
-<li>简洁、高效、快速、人人可用</li>
-<li>无需插件，无需编辑主题代码</li>
-</ul>
-<h3 id="有待改进的"><a href="#有待改进的" class="headerlink" title="有待改进的"></a>有待改进的</h3><ul>
-<li>对<strong>NexT</strong>版本可能有一定的依赖性（？</li>
-<li>友链一多，图片加载就会慢</li>
-<li><del>介于网站图片保存在本地，就不能以在<strong>Github</strong>上发起<code>Pull Request</code>的方式添加友链</del>(23.05.26 其实是可以的…)</li>
-</ul>
-<hr>
-<h2 id="欢迎评论交流加友链嗷-👀"><a href="#欢迎评论交流加友链嗷-👀" class="headerlink" title="欢迎评论交流加友链嗷~👀"></a>欢迎评论交流加友链嗷~👀</h2><p>都读到这儿了，不留个<strong>评论</strong>再走吗？ <em><strong>QAQ</strong></em></p>
-]]></content>
-      <categories>
-        <category>教程向</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>友链</tag>
       </tags>
   </entry>
   <entry>
@@ -1467,6 +1467,32 @@
         <tag>碎碎念</tag>
         <tag>庆祝</tag>
         <tag>节日</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>In Rememberance Of</title>
+    <url>/posts/47dfc91e/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
+<span id="more"></span>
+
+<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
+
+<center><font size="11"><b>1991 ~ 2023</b></font></center>
+
+<br>
+
+<center><b>R.I.P.</b></center>
+
+<hr>
+<br>
+
+<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -1657,51 +1683,6 @@ $ *Kiwix* 应用界面
         <tag>Kiwix</tag>
         <tag>全平台</tag>
         <tag>Firewall</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>In Rememberance Of</title>
-    <url>/posts/47dfc91e/</url>
-    <content><![CDATA[<blockquote class="blockquote-center">Of what is past, or passing, or to come.</blockquote>
-<span id="more"></span>
-
-<h2 id="Sth-that-shouldn’t-be-Compromised"><a href="#Sth-that-shouldn’t-be-Compromised" class="headerlink" title="Sth. that shouldn’t be Compromised"></a>Sth. that shouldn’t be Compromised</h2><br>
-
-<center><font size="11"><b>1991 ~ 2023</b></font></center>
-
-<br>
-
-<center><b>R.I.P.</b></center>
-
-<hr>
-<br>
-
-<h2 id="本文单篇评论区永久关闭，不给予理由"><a href="#本文单篇评论区永久关闭，不给予理由" class="headerlink" title="本文单篇评论区永久关闭，不给予理由"></a>本文单篇评论区永久关闭，不给予理由</h2><h3 id="2023-02-24-凭吊"><a href="#2023-02-24-凭吊" class="headerlink" title="2023.02.24 凭吊"></a>2023.02.24 凭吊</h3>]]></content>
-      <categories>
-        <category>碎碎念</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>纪念</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>埃尔德·曼</title>
-    <url>/posts/63d7faae/</url>
-    <content><![CDATA[<center><b>Hans</b>的那篇文章（上一篇博文）让我产生了微妙的灵感，遂有了这篇短篇小说</center>
-<span id="more"></span>
-
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我曾见过你，三十多年前，就在这里<br>他趴在地上，衣物如布条般破烂不堪。我在梦中与他相会。<br>我从口袋里掏出一枚硬币，两面都是头像。<br>我在做梦<br>这你再清楚不过了<br>他的嘴唇依然紧闭，言语直达我的脑海。我这才意识到和他一样，我也设说过一句话。名为语言的声音在这里失去了意义，只有被压缩的静寂守候着，悄然蚕食一切。<br>我在做梦，而我梦见了你——或者说是你梦见了我。你说这是与我第二次会面，但我记忆中并没有你的印象。事实上三十年前，我还没有出生<br>他似笑非笑，用干瘦的手臂支起了身子，我这才得以端详他的面容，与想象中完全不同，眼眶凹陷，颧骨高耸，苍老干枯。眼角边有一颗症，和我一样。灰蓝的瞳孔正直勾勾地盯着我的双眼。<br>这自然是存在的事实，但这事实只属于你，记忆会欺骗人。我身处在我的时代，三十年前在此与你相遇。你将近衰朽，身无分文，唯一的财产是自己的姓名。你说你周游务地，通晓世界的一半。那时你还年轻，抵达了最为遥远的彼岸。那里到处都是火焰，到处都吹着奇风。唯一的一条大河直通天际，无可计数的鱼群从头游过。那里的万物在雨天都会做梦。在梦中，雨水中，灵魂悄然改变了模样，雨停时万物复苏，届时便完成了与他者的身份互换，开启了新的生命<br>一派胡言!就其根本——“我说”开始，便一句也不可相信。我不可能编造如此儿戏般的话语，这简直是在浪费时间<br>我看了一眼腕表，但秒针已经停走了。他脸上没有划过一丝表情，眯着眼睛，继续讲述。<br>你觉得这若同儿戏，但你却没有就此离去。事实上你的时间并不宝贵，很奇怪不是吗，这样停留在你我的梦境中。而你连我的名字都不曾知晓，正如我不知道你的一样。但当时听了你的话后，我着魔似的推却了一切琐事，与所有的亲友断绝了联络往来，卧床不起，望着空无一物的天花板，发呆度日。直到我又突然受到指引般，毫无准备地踏上了寻找你口中的那片应许之地的征途<br>所以呢，你见到了什么，又寻得了什么<br>他咽了口唾沫，沉默良久。<br>爱情。战争。死亡。这即为我所见所得。我走遍了一百多座名为亚历山大的城镇，曾在克里斯托弗•哥伦布手下做过事，我曾是奴隶主，也有七次论为奴隶或俘虏。福门特拉岛的一名当地姑娘教会了我爱，一年后她死于霍乱，入土时四肢僵直，躯干浮肿。而唯一一次听闻关于那应许之地的传闻是在锡兰众多寺庙中的一座，一个坐在门槛前的神志不清的乞丐口中。他说只在古老的羊皮卷上见过那片土地，那是存在于世界的夹缝之中的，我们世界的投影，他还说他本是锡兰的国王，但抛弃一切，流落街头。我本打算同他一样，选择放弃这一切，但紧接着我却与你在此处重逢。在那一刻我明白了所有，包括你我共享的姓名<br><strong>“埃尔德•曼。”</strong><br>我与他同时轻轻吟唱出对方的姓名，久违的声音在空间回荡。<br>我们不辞而别。<br>醒来后我仿佛中了的己的邪。埃尔德•曼，我，年轻又苍老的声音仍在脑中盘旋回荡。良久沉默后我将手伸入口袋掏出硬币。硬币两面都是头像。</p>
-<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2><p>看完了文章，来评论一下吧</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>埃尔德·曼</tag>
-        <tag>小说</tag>
       </tags>
   </entry>
   <entry>
@@ -1938,49 +1919,49 @@ $ *Kiwix* 应用界面
 <h3 id="Pt-II"><a href="#Pt-II" class="headerlink" title="Pt. II"></a>Pt. II</h3><p>今年在时间点上有两件大事，一是我进入了高三，并即将结束第一学期；二是我迎来了我的十八岁。<br>十八岁似乎是晦明的界线，感觉就像在摆渡过河流。“人无法再度迈进同一条河流”，这句话说得不错的。茫茫河水无边，身前、身后都是苍白无垠的世界，此岸的形状逐渐化为一片无法企及的幻影，而彼岸的轮廓却愈渐清晰起来，将我与过去隔绝。每一次选择都伴随着失去，而如今永远地失去了此岸，我再也无法回到从前了。明日不可知，我仍然身陷渡河的困境。在这进退两难之中，我感觉我正在被缓慢地撕裂。与部分陷入恶性竞争的同学不同，我是闲人，“心” 早就 “野掉了” ，完全无法接受被迫的高压生活。年长者总是会说：“那你又能怎么办呢？”这类完全不像样的安慰。<br><br><br><br><br>他妈的，要是我知道方法还会来找你们诉苦啊😧，真是浪费时间。</p>
 <hr>
 <h2 id="0x02"><a href="#0x02" class="headerlink" title="0x02"></a>0x02</h2><p>各平台（e.g. 豆瓣，网易云，Bangumi，Steam…）的年终数据总结不在此处列出了。<br>反正看这篇总结的只有我和你们，想知道数据的直接去对应平台看吧。<br>作为替代的，是从今年新听的约莫115张专辑中选出了喜爱的15张，就当是推荐了吧~</p>
-<h3 id="年度专辑-TOP15（无先后）"><a href="#年度专辑-TOP15（无先后）" class="headerlink" title="年度专辑 TOP15（无先后）"></a>年度专辑 TOP15（无先后）</h3><p><img data-src="https://moeneko.us.kg/upload/2025.1/In%20the%20Aeroplane%20Over%20the%20Sea%20.webp" alt="In the Aeroplane Over the Sea"></p>
+<h3 id="年度专辑-TOP15（无先后）"><a href="#年度专辑-TOP15（无先后）" class="headerlink" title="年度专辑 TOP15（无先后）"></a>年度专辑 TOP15（无先后）</h3><p><img data-src="https://img.131094.xyz/upload/2025.1/In%20the%20Aeroplane%20Over%20the%20Sea%20.webp" alt="In the Aeroplane Over the Sea"></p>
 <p><strong>Title:</strong> In the Aeroplane Over the Sea<br><strong>Artist:</strong> Neutral Milk Hotel<br><strong>Genre:</strong> Folkrock; Indie;<br><strong>Release:</strong> 1998</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/Symphony%20No.%209.webp" alt="Beethoven: Symphony No. 9"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/Symphony%20No.%209.webp" alt="Beethoven: Symphony No. 9"></p>
 <p><strong>Title:</strong> Beethoven: Symphony No. 9<br><strong>Artist:</strong> Wilhelm Furtwängler<br><strong>Genre:</strong> Classical;<br><strong>Release:</strong> 2008 / 1951</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/LONG%20SEASON.webp" alt="LONG SEASON"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/LONG%20SEASON.webp" alt="LONG SEASON"></p>
 <p><strong>Title:</strong> LONG SEASON<br><strong>Artist:</strong> FISHMANS<br><strong>Genre:</strong> Rock; Reggae; Electronic;<br><strong>Release:</strong> 1996-10-25</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/CINEMATIC%20SOUND%20FOUNDATION%20.webp" alt="CINEMATIC SOUND FOUNDATION"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/CINEMATIC%20SOUND%20FOUNDATION%20.webp" alt="CINEMATIC SOUND FOUNDATION"></p>
 <p><strong>Title:</strong> CINEMATIC SOUND FOUNDATION<br><strong>Artist:</strong> REDЯUM<br><strong>Genre:</strong> JRock; Trip-hop;<br><strong>Release:</strong> 2008-11-19</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/Eureka.webp" alt="Eureka"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/Eureka.webp" alt="Eureka"></p>
 <p><strong>Title:</strong>  Eureka<br><strong>Artist:</strong> きのこ帝国<br><strong>Genre:</strong> Shoegaze; Indie;<br><strong>Release:</strong> 2013-02-06</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/Ys.webp" alt="Ys"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/Ys.webp" alt="Ys"></p>
 <p><strong>Title:</strong> Ys<br><strong>Artist:</strong> Joanna Newsom<br><strong>Genre:</strong> Folk; Acoustic; Avantgarde;<br><strong>Release:</strong> 2006</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/Unhappy%20Refrain.webp" alt="Unhappy Refrain"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/Unhappy%20Refrain.webp" alt="Unhappy Refrain"></p>
 <p><strong>Title:</strong> アンハッピーリフレイン / Unhappy Refrain<br><strong>Artist:</strong> wowaka<br><strong>Genre:</strong> JRock; Vocaloid;<br><strong>Release:</strong> 2011-05-18</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/Heavenly-Persona.webp" alt="Heavenly Persona"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/Heavenly-Persona.webp" alt="Heavenly Persona"></p>
 <p><strong>Title:</strong> Heavenly Persona / 天界のペルソナ<br><strong>Artist:</strong> 静香 / shizuka<br><strong>Genre:</strong> Rock; Psychedelic;<br><strong>Release:</strong> 2023-4-7 / 1994-9-25</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/AK%20TOLKEN.webp" alt="AK TOLKEN"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/AK%20TOLKEN.webp" alt="AK TOLKEN"></p>
 <p><strong>Title:</strong> 白色的波浪 / AK TOLKEN<br><strong>Artist:</strong> 沙依拉西.加尔木哈买提(Sayrax Jarmukamet)<br><strong>Genre:</strong> World-Music; Folk;<br><strong>Release:</strong> 2018-09-08</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/My%20Heritage.webp" alt="わたしのヘリテージ"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/My%20Heritage.webp" alt="わたしのヘリテージ"></p>
 <p><strong>Title:</strong> わたしのヘリテージ / My Heritage<br><strong>Artist:</strong> いよわ<br><strong>Genre:</strong> Vocaloid;<br><strong>Release:</strong> 2021-12-22</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/%E5%89%83%E5%88%80%E4%B9%99%E5%A5%B3.webp" alt="剃刀乙女"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/%E5%89%83%E5%88%80%E4%B9%99%E5%A5%B3.webp" alt="剃刀乙女"></p>
 <p><strong>Title:</strong> 剃刀乙女<br><strong>Artist:</strong> 青葉市子<br><strong>Genre:</strong> Folk; Ambient;<br><strong>Release:</strong> 2010-01-20</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/The%20Planets.webp" alt="Gustav Holst: The Planets"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/The%20Planets.webp" alt="Gustav Holst: The Planets"></p>
 <p><strong>Title:</strong> Gustav Holst: The Planets<br><strong>Artist:</strong> Herbert von Karajan; Berliner Philharmoniker;<br><strong>Genre:</strong> Classical; Modern;<br><strong>Release:</strong> 1991</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/The%20Glow.webp" alt="The Glow"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/The%20Glow.webp" alt="The Glow"></p>
 <p><strong>Title:</strong> The Glow, Pt. II<br><strong>Artist:</strong> The Microphones<br><strong>Genre:</strong> 	Lo-Fi; Experimental; Indie;<br><strong>Release:</strong> 2001-09-25</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/IZ%202007.webp" alt="IZ 2007"></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/IZ%202007.webp" alt="IZ 2007"></p>
 <p><strong>Title:</strong> IZ 2007<br><strong>Artist:</strong> IZ樂隊<br><strong>Genre:</strong> World-Muisc; Folk;<br><strong>Release:</strong> 2007</p>
 <hr>
-<p><img data-src="https://moeneko.us.kg/upload/2025.1/HARDCORE%20SYNDROME%202%20.webp" alt="HARDCORE SYNDROME 2 "></p>
+<p><img data-src="https://img.131094.xyz/upload/2025.1/HARDCORE%20SYNDROME%202%20.webp" alt="HARDCORE SYNDROME 2 "></p>
 <p><strong>Title:</strong> HARDCORE SYNDROME 2<br><strong>Artist:</strong> HARDCORE TANO*C<br><strong>Genre:</strong> Electronic; </p>
 <ul>
 <li>Trance, Hardcore, Gabber, Happy Hardcore, Speedcore</li>
@@ -2110,6 +2091,25 @@ $ *Kiwix* 应用界面
       </tags>
   </entry>
   <entry>
+    <title>埃尔德·曼</title>
+    <url>/posts/63d7faae/</url>
+    <content><![CDATA[<center><b>Hans</b>的那篇文章（上一篇博文）让我产生了微妙的灵感，遂有了这篇短篇小说</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我曾见过你，三十多年前，就在这里<br>他趴在地上，衣物如布条般破烂不堪。我在梦中与他相会。<br>我从口袋里掏出一枚硬币，两面都是头像。<br>我在做梦<br>这你再清楚不过了<br>他的嘴唇依然紧闭，言语直达我的脑海。我这才意识到和他一样，我也设说过一句话。名为语言的声音在这里失去了意义，只有被压缩的静寂守候着，悄然蚕食一切。<br>我在做梦，而我梦见了你——或者说是你梦见了我。你说这是与我第二次会面，但我记忆中并没有你的印象。事实上三十年前，我还没有出生<br>他似笑非笑，用干瘦的手臂支起了身子，我这才得以端详他的面容，与想象中完全不同，眼眶凹陷，颧骨高耸，苍老干枯。眼角边有一颗症，和我一样。灰蓝的瞳孔正直勾勾地盯着我的双眼。<br>这自然是存在的事实，但这事实只属于你，记忆会欺骗人。我身处在我的时代，三十年前在此与你相遇。你将近衰朽，身无分文，唯一的财产是自己的姓名。你说你周游务地，通晓世界的一半。那时你还年轻，抵达了最为遥远的彼岸。那里到处都是火焰，到处都吹着奇风。唯一的一条大河直通天际，无可计数的鱼群从头游过。那里的万物在雨天都会做梦。在梦中，雨水中，灵魂悄然改变了模样，雨停时万物复苏，届时便完成了与他者的身份互换，开启了新的生命<br>一派胡言!就其根本——“我说”开始，便一句也不可相信。我不可能编造如此儿戏般的话语，这简直是在浪费时间<br>我看了一眼腕表，但秒针已经停走了。他脸上没有划过一丝表情，眯着眼睛，继续讲述。<br>你觉得这若同儿戏，但你却没有就此离去。事实上你的时间并不宝贵，很奇怪不是吗，这样停留在你我的梦境中。而你连我的名字都不曾知晓，正如我不知道你的一样。但当时听了你的话后，我着魔似的推却了一切琐事，与所有的亲友断绝了联络往来，卧床不起，望着空无一物的天花板，发呆度日。直到我又突然受到指引般，毫无准备地踏上了寻找你口中的那片应许之地的征途<br>所以呢，你见到了什么，又寻得了什么<br>他咽了口唾沫，沉默良久。<br>爱情。战争。死亡。这即为我所见所得。我走遍了一百多座名为亚历山大的城镇，曾在克里斯托弗•哥伦布手下做过事，我曾是奴隶主，也有七次论为奴隶或俘虏。福门特拉岛的一名当地姑娘教会了我爱，一年后她死于霍乱，入土时四肢僵直，躯干浮肿。而唯一一次听闻关于那应许之地的传闻是在锡兰众多寺庙中的一座，一个坐在门槛前的神志不清的乞丐口中。他说只在古老的羊皮卷上见过那片土地，那是存在于世界的夹缝之中的，我们世界的投影，他还说他本是锡兰的国王，但抛弃一切，流落街头。我本打算同他一样，选择放弃这一切，但紧接着我却与你在此处重逢。在那一刻我明白了所有，包括你我共享的姓名<br><strong>“埃尔德•曼。”</strong><br>我与他同时轻轻吟唱出对方的姓名，久违的声音在空间回荡。<br>我们不辞而别。<br>醒来后我仿佛中了的己的邪。埃尔德•曼，我，年轻又苍老的声音仍在脑中盘旋回荡。良久沉默后我将手伸入口袋掏出硬币。硬币两面都是头像。</p>
+<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2><p>看完了文章，来评论一下吧</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>埃尔德·曼</tag>
+        <tag>小说</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>从冒犯与被冒犯谈起</title>
     <url>/posts/a4135b5b/</url>
     <content><![CDATA[<center>前段时间看了《书城》杂志的30年精选特辑，其名为《看见与被看见》。我对这本书，尤其是这个标题饶有兴趣，小有感悟。一时兴起，动笔开写，撒撒癔症。</center>
@@ -2199,32 +2199,6 @@ $ *Kiwix* 应用界面
       </tags>
   </entry>
   <entry>
-    <title>人皆有不忍人之心</title>
-    <url>/posts/9d747d45/</url>
-    <content><![CDATA[<center>这是一篇许久之前的（考场）作文，由我的好友<b>Hans</b>写就。经我润色后呈现在诸君面前。</center>
-<span id="more"></span>
-
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我平生一直在不忍人，因为我是人，所以人皆有不忍人之心。</p>
-<p>但是“我”只是一个人，何来“人皆有”之说呢？那么我就要对诸君说：我确乎是个唯心主义的人。</p>
-<p>埃尔德·曼同志曾说过，“人是唯心的，不是唯心主义的都不是人”。虽然我不认同，但是这句话还是精妙的，可以时不时拿出来提一两句或议论一二。比如说分析埃尔德·曼同志的处世为人啊，或者比如这里拿来荒谬地佐证一个荒谬的道理。有的人文章读得快，一眼瞟过去不加思索，看到一句埃尔德·曼同志的议论，大概也会十分认同然后装进脑子吧。这样的人真是可怜，脑于里装了乱七八糟的东西，遂形成了一个乱七八糟的世界观。再按照这个世界观去办事，也就办得乱七八糟。作为一个“不忍者”，我免不了对于这种人，同情得“五体投地”。</p>
-<p>更进一步讲，既然埃尔德·曼同志的道理是荒谬的，那引用论证的对象毫无疑问——肯定是荒谬的。而这对象的载体是我写的文章，那么就是说，本文的观点与内容亦是荒谬无疑的。可是有一点要明确，我平生一直在不忍人。比方说我现在就忍受不了还在于阅读此文的人。抱歉占用了诸君并不宝贵的时间，这篇文章固然荒谬，但是世上荒谬文章太多了。我见过的许多文章，都在用着荒谬的事例论证一个个虚无的思想。比方说有人写道“大鹏能够飞多远，他就能飞多远”，“两点是有重点的两点，重点是两点中的重点”又或者“金羊毛是奥林匹斯山上众神落在人间的宝物，那么这就是梦想…”诸如此类有很多，太多了。有的人读了这样的文章，还认真地做了笔记，是这样的，我对此万分不忍。因为即将发生一件事，那就是读了这样祸害人的荒谬文章的人，还要学习如何去写这样的荒谬文章，以便让更多的人知道八大山人是哪八大。这样多可怕，我作为一个不忍者，自然会不忍于他们的遭遇。但是说到头来，无论如何，我除了“不忍”一无所有。</p>
-<p>至此，如诸君所见，这已经是一篇完完全全荒谬的文章了，再写一个烂透了的结尾也无所谓了。</p>
-<p><strong>那么这就是结尾。</strong></p>
-<h2 id="附：作文题"><a href="#附：作文题" class="headerlink" title="附：作文题"></a>附：作文题</h2><blockquote class="blockquote-center">本单元课文中有不少经典语句，虽然产生在两千多年前，但至今仍然闪烁着智慧的光辉，给我们人生的启迪；有些语句在新的时代下又可以辩证思考，从新的角度作出辨析或阐释。从下列语句中任选其一，也可以从本单元课文中另选一句，准确理解思想内容，自选角度，自定立意，写一篇不少于800字的文章，阐述你的认识或思考，题目自拟</blockquote>
-
-<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2>]]></content>
-      <categories>
-        <category>碎碎念</category>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>碎碎念</tag>
-        <tag>随笔</tag>
-        <tag>Hans</tag>
-        <tag>忍者</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于宁外八一阳光体育改革的碎碎念</title>
     <url>/posts/676db262/</url>
     <content><![CDATA[<center>我们应当拥有选择跑快的自由，正如我们拥有跑步的自由那样</center>
@@ -2274,6 +2248,32 @@ $ *Kiwix* 应用界面
         <tag>随笔</tag>
         <tag>阳光体育</tag>
         <tag>神秘力量</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人皆有不忍人之心</title>
+    <url>/posts/9d747d45/</url>
+    <content><![CDATA[<center>这是一篇许久之前的（考场）作文，由我的好友<b>Hans</b>写就。经我润色后呈现在诸君面前。</center>
+<span id="more"></span>
+
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>我平生一直在不忍人，因为我是人，所以人皆有不忍人之心。</p>
+<p>但是“我”只是一个人，何来“人皆有”之说呢？那么我就要对诸君说：我确乎是个唯心主义的人。</p>
+<p>埃尔德·曼同志曾说过，“人是唯心的，不是唯心主义的都不是人”。虽然我不认同，但是这句话还是精妙的，可以时不时拿出来提一两句或议论一二。比如说分析埃尔德·曼同志的处世为人啊，或者比如这里拿来荒谬地佐证一个荒谬的道理。有的人文章读得快，一眼瞟过去不加思索，看到一句埃尔德·曼同志的议论，大概也会十分认同然后装进脑子吧。这样的人真是可怜，脑于里装了乱七八糟的东西，遂形成了一个乱七八糟的世界观。再按照这个世界观去办事，也就办得乱七八糟。作为一个“不忍者”，我免不了对于这种人，同情得“五体投地”。</p>
+<p>更进一步讲，既然埃尔德·曼同志的道理是荒谬的，那引用论证的对象毫无疑问——肯定是荒谬的。而这对象的载体是我写的文章，那么就是说，本文的观点与内容亦是荒谬无疑的。可是有一点要明确，我平生一直在不忍人。比方说我现在就忍受不了还在于阅读此文的人。抱歉占用了诸君并不宝贵的时间，这篇文章固然荒谬，但是世上荒谬文章太多了。我见过的许多文章，都在用着荒谬的事例论证一个个虚无的思想。比方说有人写道“大鹏能够飞多远，他就能飞多远”，“两点是有重点的两点，重点是两点中的重点”又或者“金羊毛是奥林匹斯山上众神落在人间的宝物，那么这就是梦想…”诸如此类有很多，太多了。有的人读了这样的文章，还认真地做了笔记，是这样的，我对此万分不忍。因为即将发生一件事，那就是读了这样祸害人的荒谬文章的人，还要学习如何去写这样的荒谬文章，以便让更多的人知道八大山人是哪八大。这样多可怕，我作为一个不忍者，自然会不忍于他们的遭遇。但是说到头来，无论如何，我除了“不忍”一无所有。</p>
+<p>至此，如诸君所见，这已经是一篇完完全全荒谬的文章了，再写一个烂透了的结尾也无所谓了。</p>
+<p><strong>那么这就是结尾。</strong></p>
+<h2 id="附：作文题"><a href="#附：作文题" class="headerlink" title="附：作文题"></a>附：作文题</h2><blockquote class="blockquote-center">本单元课文中有不少经典语句，虽然产生在两千多年前，但至今仍然闪烁着智慧的光辉，给我们人生的启迪；有些语句在新的时代下又可以辩证思考，从新的角度作出辨析或阐释。从下列语句中任选其一，也可以从本单元课文中另选一句，准确理解思想内容，自选角度，自定立意，写一篇不少于800字的文章，阐述你的认识或思考，题目自拟</blockquote>
+
+<h2 id="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"><a href="#都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨" class="headerlink" title="都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨"></a>都看到这儿了，咋还不留个评论？（欢迎交流评论加友链✨</h2>]]></content>
+      <categories>
+        <category>碎碎念</category>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+        <tag>随笔</tag>
+        <tag>Hans</tag>
+        <tag>忍者</tag>
       </tags>
   </entry>
   <entry>
